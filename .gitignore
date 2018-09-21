@@ -57,3 +57,12 @@ typings/
 # dotenv environment variables file
 .env
 
+#HEXO specific items
+.DS_Store
+Thumbs.db
+db.json
+public/
+.deploy*/
+
+#HEXO theme directory
+themes/

@@ -1,0 +1,26 @@
+---
+title: 'Chapter 2, page '
+date: 2015-02-24 14:07:50
+updated: 2015-12-17 06:04:16
+displayAd: true
+---
+
+I’ll never again let Matt say I am not cautious enough, I thought, as I sat in a parking garage about three blocks from the warehouse. I had hoped the surveillance from this morning would have caught something, anything. But so far I was coming up empty, yet again. When I eventually woke up I scanned the footage and also made sure to check on anything I might have missed while I was talking with Matt. But what I had thought might be something had proven to be just a trick of the light.
+
+So after three days of useless surveillance, I saw the first sign of activity when half a dozen men exited the warehouse. The six individuals just walked out as if they were on their way to work. And none of them were the men who had been guarding the perimeter three days ago. What is going on here? Is the warehouse a modified barrack for Dempsey’s men? Shaking my head, I answered my own questions. But then, my answers may have had held a certain lack of conviction. No, Dempsey would never place his piggy banks inside a barrack where his foot soldiers could have easy access. On the other hand, if this was a barrack that would partially explain why I hadn’t been allowed to get too close to it.
+
+Besides, all this proved was that Dempsey had stocked the warehouse well before I arrived in New Orleans. When did he stock it? And what did he stock it with? I shook my head as I silently berated myself, all these questions did me little good. Right now all that mattered was that the warehouse was already stocked with whatever it needed. I was sure that Dempsey probably hadn’t missed a single detail. This was not his first go around.
+
+Of course I was never good at stopping myself from asking questions, but I kept beating them down every time one started form. Unfortunately there was only one way that I would be able to answer any of them. I looked down at my entrance fee, wrapped in its ungodly expensive briefcase. Hopefully I would never again have to pay more for a piece of luggage than I did for a suit. How did these people manage to hold on to any of their money? There was no reason for this kind of expense. At the same time I knew that I needed to get all of the little details right. Anybody can own a nice suit that’s not what makes the elite the elite. No what makes them distinct are all of their accessories. Those extra little pieces are what truly differentiate the social classes, which is why I had a ridiculously expensive briefcase. I hadn’t dared to make my case with a transformation as I just didn’t have the familiarity to pull it off, at least not with that piece.
+
+Just thinking about all the money I had sunk into the thing was starting to depress me so I turned my attention back to the glass circle in my hand. Aside from the activity I had seen while eating breakfast, I had since witnessed about forty people enter the warehouse. And since none of them looked like they were employed by a kingpin, I knew the guests had started to arrive. True I had no way of identifying them or learning much of anything but I was still interested in
+
+watching the proceedings. Not that there was much to it. Each one handed their fee to a man just to the right of the door while they dealt with the man on the left. While they spoke with him they were searched, and from what I could tell, it was a very thorough search. After that, they were ushered into the warehouse with all due haste.
+
+I knew I was stalling, there was no longer a reason to wait. None of what I could see was going to help me. I could sit here watching as all of the ninety-nine other guests entered or I could get out of the car and walk over there now. I was going to have to go into that warehouse at some point, so why put it off any longer? With that thought I reached over to the glove compartment and stashed the piece of glass inside it. With my surveillance equipment stowed I grabbed my entrance fee and got out of the car. As I walked the short distance to the game I reviewed the persona I had crafted, not that there was much to it, but I needed to get into character.
+
+The best lies are always rooted in a seed of truth. That way they are anchored and much easier to keep straight. When your life depended on manipulating the truth to suit your needs, one little slip could prove fatal, especially when you were doing it to someone in Dempsey’s weight class, not that I would ever admit that to Matt. With that in mind I planned on keeping things ridiculously simple. I was going to be myself, with a few additional character traits. Granted I would normally call them character flaws but with the crowd I was joining, they would not be seen that way. After a few minutes the warehouse came into view and I clearly saw thugs at the door who were acting as doormen. They had clearly been chosen for their muscles and the intimidation factor.
+
+Page 1 | [Page 2](/writing/forgers/dead-mans-hand/dmh-chapter-2/2) | [Page 3](/writing/forgers/dead-mans-hand/dmh-chapter-2/3)
+
+[Description](/writing/forgers/dead-mans-hand) | [Prologue](/writing/forgers/dead-mans-hand/dmh-prologue) | [Chapter 1](/writing/forgers/dead-mans-hand/dmh-chapter-1) | Chapter 2 | [Chapter 3](/writing/forgers/dead-mans-hand/dmh-chapter-3)

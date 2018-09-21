@@ -1,0 +1,18 @@
+---
+title: Books to the Silver Screen
+date: 2013-01-30 11:17:58
+tags:
+categories: 
+- [Thought]
+---
+About a month ago I went to see “The Hobbit: an Unexpected Journey” in the theater.  I went into the movie thinking Peter Jackson would treat this book the same way he did the Lord of the Rings series, as a single movie per book.  Since I have yet to read the Lord of the Rings I can not comment on its transition to the silver screen.  <!-- more -->But I have been told by some that they were disappointed.  Much to my surprise when the credits for”The Hobbit” began to make their journey across the screen, I realized that there was going to be another movie, and I yearned for it.  But a part of me was curious how accurate was this first movie.  
+
+Again I have to thank audible. The day before I went to see the movie Audible.com put the unabridged copy of The Hobbit on sale for about five dollars.  Towards the end of this past December I started listening to the book and was amazed at how close this first movie ran to Tolkien’s words.  There were a few liberties taken by Hollywood to add some action to the movie, but otherwise it was fairly true to the book, eventhough the movie covered only part of the book.  
+
+Since I get very attached to good stories, I dislike seeing them discarded.  Which is what usually happens when stories are transitioned from their original media.  The worst offenders are movies based on books.  Typically, too much of the story is sacrificed during the production, be it due to omission or to fabrication.  There are numerous examples of this, but here are two examples, one with poor results, the other, good results.
+
+“Percy Jackson & the Olympians: The Lightning Thief”, was in theaters and I was told by a friend that it was based upon Rick Riordan’s book.  I was due a credit so I decided to listen to the audio book before I watched the movie.  After listening to the book I was eager, but wary, to watch the movie. I couldn’t have been more disappointed.  Here the producers completely altered the movie to fit what they wanted rather than screen what was a fantastic story.  I could barely finish watching the movie I was so disgusted by what they had done, as is often the case when I watch a movie after I read the book.
+
+On the other hand, “The Dresden Files” was airing on SciFy one day and I happened to catch an episode. I was immediately hooked.  The visuals were amazing and the story was fun and engrossing. I was disappointed to find out that it ended after a single season but I have watched the show numerous times and I have always enjoyed it.  After I watched the series I found Storm Front, one of the books from the Dresden File series, available for the Kindle and I decided to give it a read since I enjoyed the television series.  I have since read each of the fourteen books that have been published and I eagerly await those to follow.  The reason I can like both the show and the series is because I saw the show first so my transition was from TV to book.  There were significant differences between the two but those are reconciled in my mind.  But I definitely enjoy the books more than the show.
+
+I know that I will loose all interest in a movie or TV show if I read the original first.  I knew it before I listened to the Percy Jackson series, yet I still chose to listen before I watched.  I absolutely refused to read any of the Harry Potter books until I watched all of the movies because I had enjoyed the movies and I wanted to be able to enjoy the last two as well.  I am more than likely in the minority but I don’t mind, after all it’s all about the story for me.

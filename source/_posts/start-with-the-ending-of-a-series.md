@@ -1,0 +1,18 @@
+---
+title: Start with the ending of a series
+date: 2013-02-16 14:32:48
+tags:
+categories: 
+- [Question]
+---
+A good book is a wonderful thing; it can comfort your soul as it carries your mind into a new world.  As a fantastic story speeds to its inexorable conclusion you begin to dread and, at the same time, yearn for the climax.  On the one hand, the engrossing plot and the compelling characters make you wish the story would continue and would never end.  <!-- more -->But as the saying goes, all good things come to an end; and books, even good ones, are not exempted from this rule.
+
+Now there are times when an author has such a grand tale in his head to tell, that one physical book cannot contain it all.  In these circumstances we, the readers, are rewarded with a series.  We get to learn and grow with our beloved characters.  We get to see the tale, the lore, go beyond a single volume; it is fantastic. 
+
+With that said sometimes an author can seem to… enjoy being cruel to his readers.  One example that springs to mind is Patrick Rothfuss.  In his debut novel, The Name of the Wind, he introduced us to a wonderful world and realistic characters.  But it took him four years to edit and publish his second novel, {% link 'when it was already written' 'http://www.patrickrothfuss.com/content/interviews.asp' %}.  And the final installment of this completed trilogy has yet to be released, and just to clarify the second book was published on {% link 'March 1st 2011' 'http://en.wikipedia.org/wiki/The_Wise_Man's_Fear' %}.  If he had not made it clear that he would {% link 'be able to quickly publish the rest of the trilogy' 'http://blog.patrickrothfuss.com/2007/04/when-will-book-two-be-out/' %} perhaps the disappointment might not have been so acute.
+
+Now, to be fair, the first two books have been absolutely wonderful.  I have enjoyed them from their first words to their last.  It is just that I can hardly wait to read the final piece; there is just so much left up in the air.  I just want the last book already.  Fortunately for me I was lucky, well at least partially lucky, that I didn’t read the first book when it was published back in 2007.  I read it just as The Wise Man’s Fear was released, so I didn’t have to wait the first four years. I commiserate with those who did wait.
+
+Another author that I love, Brandon Sanderson, has started his own epic series, The Stormlight Archives.  The first book was published on August 31st 2010 and as of this writing his website says he is forty percent through his first draft.  The world he crafted in The Way of Kings is truly epic.  As you progress through the multiple story arcs, which he blends together so well, you become attached not just to the characters but also to their world.  You can see them grow with the turning of every page.  Unfortunately for me, he has been hard at work with other stories, which I have either read or will read once they came out.  While the other stories of his that I have read are up to his usual excellence I wish he would focus on The Stormlight Archives instead of the other stories. It’s selfish I know, but it’s what I would like.
+
+In the end the authors will take whatever time they think they need to perfect their tale.  If that is taking four years between books, or just one per year, they will not be rushed.  The only option the reader has is whether or not to wait for the series to finish before picking up the first book.  I think, if given the choice, I will typically choose to follow the series as it is written rather than wait for it to be finished; and, if I catch it in the middle, I’ll be lucky enough to read the previous books as fast as I can.

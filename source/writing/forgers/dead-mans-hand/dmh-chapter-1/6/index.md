@@ -1,0 +1,28 @@
+---
+title: 'Chapter 1, page 6'
+date: 2015-02-24 10:58:04
+updated: 2015-12-17 06:04:10
+displayAd: true
+---
+
+Matt was never one to remain irate for long so I let him get it off his chest. Fortunately, I was pretty certain he failed to notice the sound of my phone hitting the ground and he didn’t seem to expect an answer to his question, at least, not yet. Since I could still hear him with my phone on the floor, I figured I would wait until he finally took a break. Leaving the phone where it was, I went back to watching the surveillance, which I had lost track of since starting this wretched conversation. And, of course, it was in those distracted moments that something happened on screen, or at least I thought it did.
+
+I had been watching the feed for almost three days and had seen nothing. Granted, it was entirely possible that any and maybe all of the work had been done prior to my arrival, but I had figured that there would be something to see. Otherwise, I would have just skipped that little excursion. But as I was bringing my attention back to the camera I thought I saw some more motion. Before I could do anything with the camera I realized that Matt’s voice was no longer filling the room. When had he stopped talking? Shaking my head I quickly grabbed the phone off of the floor while straining to see something that might have moved, when my ears underwent another assault.
+
+“Marc, answer me.”
+
+I was so frustrated with Matt that a growl actually emanated from my throat before I could contain it. Not wanting to go deaf, I kept the phone a good six inches from my ear as I answered. “Yes Matt, I can hear you. In fact I think the folks in the rooms next to me were able to hear you.” Taking a short calming breath I pressed on before he could scream at me again. “There is no reason to shout like that. And on top of the auditory damage you’re causing me I think you just made me miss something on the video feed.”
+
+“No! You don’t get to change the topic that easily Marcus!” Matt exclaimed, still using the same volume. “I know you. You’re planning to run some kind of game on Dempsey and he isn’t just some local thug. He owns almost everything and everyone east of the Mississippi and south of the District.”
+
+Due to the nature of our conversation I was simply unwilling to place Matt on speaker. But, I had to do something; I turned down the volume. When he actually wanted to have a conversation with me, rather than just deliver a diatribe, I would turn it up. This was the reaction I had been expecting and had planned to deal with after the tournament. So I waited, hopefully it wouldn’t take him too long to calm him down a little. When Matt’s tirade paused, I assumed he was simply catching his breath or, who knew, maybe getting himself something to drink. Either way I decided to use the opportunity and started my well-rehearsed speech.
+
+“Matt, you know the story, and that’s all it is. I’m sure that all of Dempsey’s influence has just been exaggerated, most of the stories probably originated with him. Besides even if, and I cannot stress that word enough, he was controlling an empire of that size, you do remember who this tournament was engineered for, right? You do remember how we found out about it don’t you? The spoiled rich kid from one of our longer cons? He called me up and told me about it. But before you can object, I’m sure there will be a mix of pros and his goons, but the majority will be like our friend.
+
+After all who else can afford to throw that kind of money away on something like this? Now, also keep in mind that those very kids are by their nature not the most tight-lipped, they don’t really understand what they have been given, for most of them it is just money. Dempsey has to know that this would eventually spill over and become known. I would be shocked if the local police didn’t already know of the game’s existence, they probably don’t know where it is, but I’m sure they know about it.
+
+Another fact for you to chew on is that our friend said this game is a yearly occurrence. Now, armed with all of this knowledge, we can safely assume that Dempsey views these people as walking, talking piggy-banks. I’m also willing to bet he likes to add banks to that collection. Yes, yes, he could break the little, well in this case I should say rather large piggy-banks, but then he would not be able to revisit them over and over and over again. Besides nothing that I am carrying with me tomorrow has been directly procured with any of my transformations. This is just a simple tournament and you know that I’m more than a fair hand at hold’em. You know that.”
+
+[Page 1](/writing/forgers/dead-mans-hand/dmh-chapter-1) | [Page 2](/writing/forgers/dead-mans-hand/dmh-chapter-1/2) | [Page 3](/writing/forgers/dead-mans-hand/dmh-chapter-1/3) | [Page 4](/writing/forgers/dead-mans-hand/dmh-chapter-1/4) | [Page 5](/writing/forgers/dead-mans-hand/dmh-chapter-1/5) | Page 6 | [Page 7](/writing/forgers/dead-mans-hand/dmh-chapter-1/7) | [Page 8](/writing/forgers/dead-mans-hand/dmh-chapter-1/8) | [Page 9](/writing/forgers/dead-mans-hand/dmh-chapter-1/9) | [Page 10](/writing/forgers/dead-mans-hand/dmh-chapter-1/10) | [Page 11](/writing/forgers/dead-mans-hand/dmh-chapter-1/11)
+
+[Description](/writing/forgers/dead-mans-hand) | [Prologue](/writing/forgers/dead-mans-hand/dmh-prologue) | Chapter 1 | [Chapter 2](/writing/forgers/dead-mans-hand/dmh-chapter-2) | [Chapter 3](/writing/forgers/dead-mans-hand/dmh-chapter-3)

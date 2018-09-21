@@ -1,0 +1,27 @@
+---
+title: Greek Mythology part 3
+date: 2013-04-14 12:03:56
+tags: [Greek, Mythology]
+categories: 
+- [Thought]
+---
+Odysseus’ lack of bravery appears again in Sophocles’ Philoctetes.  He is unwilling to be in line of sight of Philoctetes, who is one of the best archers in all of Greece.  In addition to Philoctetes skill with the bow, he wields Heracles’ bow along with the arrows tipped in the Hydra’s blood (p. 364, Powell).  So, Odysseus instead sends Neoptolemus to meet Philoctetes and trick both the bow and the man into coming to Troy (p. 165, Philoctetes).  <!-- more -->Sending Neoptolemus instead of going himself shows that he is simply afraid for his life and will risk it for no one.  The cowardice is not only seen in Odysseus’ actions but also heard by Philoctetes, “It’s easy to see what cowards they are”, when speaking of Odysseus (p. 206, Philoctetes).  Philoctetes makes his remark just after his bow is returned to him as Odysseus flees from the stage (p. 206, Philoctetes).  As noted above, Odysseus is reduced to the level of normal man in Sophocles’ Ajax.  A possible reason for wanting to degrade Odysseus from being a Greek hero to the level of a normal man would be to attribute any of his character flaws to the Spartan army.  With the Peloponnesian War coming to a close around the time Sophocles wrote the Philoctetes, the comparison of Odysseus to normal men would be tied to the Spartans, through their allies. 
+
+Having lowered Odysseus’ stature to that of a normal man, Sophocles characterizes Odysseus as a coward, which prompts the Athenian audience to connect Odysseus’ cowardice to the Spartans.  The type of cowardice Odysseus displays is a base fear of death, and so Sophocles also brings the Spartans down from being an unbeatable force to normal men, who will balk in the face of death.  The degradation of the Spartans is important since the war had raged on for twenty-two years with no end in sight — around the time the play is produced.  And since the Spartans possess one of the greatest armies in the ancient world, the degradation becomes even more important.  It becomes a way to help bolster the morale of the Athenians. 
+
+The fact that Sophocles uses one of the heroes from the Trojan War, Odysseus, to compare to the Spartans only strengthens their desired symbolic degradation.  The reason the degradation is strengthened is simply because Odysseus was originally such an important and grand figure in their mythology, especially in the Odyssey.  Odysseus’ escape to his base fears in times of desperation would imply that the Spartans would in times of desperation do the same.  The reason Sophocles would desire Odysseus’ bravery to be stripped from him would be to show the Spartans lack of bravery.  The slandering of the Spartans would help the Athenians carry on with the war in the hopes for absolute victory, which all Greeks sought after, due to their competitive nature (Weaire).
+
+Despite having Odysseus maintain a firm grasp on his honor even with his cowardice in the Ajax, Sophocles decides to rip away Odysseus’ honor in the Philoctetes.  In the beginning of the Philoctetes, Odysseus is talking to Neoptolemus, in hopes to use him in order, “To trick Philoctetes” (p.165, Philoctetes).  Also in the same breath Odysseus spins a yarn for Neoptolemus to tell Philoctetes in hopes that Neoptolemus would gain Philoctetes’ trust (p.165, Philoctetes), thereby making it easy for Neoptolemus to bring Philoctetes and his bow to Troy.  Deception comes easily for Odysseus as shown by his remark to Neoptolemus, “To lie, or act deceitfully … We shall be justified in the end” (p. 166, Philoctetes).  In comparison to Neoptolemus, who retains his honor in the end, Odysseus never seeks for forgiveness in a hope of recovering his honor.  Since Neoptolemus is helping Odysseus He will be considered an ally of Sparta, until he does seek for forgiveness and the Athenians willingly accept his help.  Demonstrated by Philoctetes hope that Neoptolemus keeps his word to fetch him home (p. 210, Philoctetes).  Neoptolemus, at first refuses to lie to Philoctetes and tells Odysseus, “there are things that offend my conscience Even in hearing … Deceit is not my nature” (p.166, Philoctetes).  Neoptolemus’ initial desire not to deceive Philoctetes is strengthened when he says, “I’d rather beat this man By force than by deception” (p. 166, Philoctetes).  Neoptolemus’ initial reluctance and the his seeking for forgiveness shows that he believes he has lost honor and can only recover it through his forgiveness.  Odysseus assures Neoptolemus, and acquires his cooperation, by telling him, “You will never persuade him, still less take him by force” (p. 167, Philoctetes).  With that Neoptolemus is finally convinced to use deception on Philoctetes in order to capture both him and his bow (Philoctetes). 
+
+ 
+
+{% post_link greek-mythology-part-1 Part 1 %}  |  {% post_link greek-mythology-part-2 Part 2 %}  | {% post_link greek-mythology-part-4 Part 4 %}  | {% post_link greek-mythology-part-5 Part 5 %}
+
+
+<sup><sub>Bibliography</sub></sup>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><sub>Ajax translated by E.F. Wlting</sub></sup>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><sub>Philoctetes translated by E.F. Watling</sub></sup>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><sub>Ed. William H. Harris, and  Judith S Levey</sub></sup>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><sub>The New Columbian Encyclopedia 4th edition</sub></sup>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><sub>Columbia University Press, New York, 1975</sub></sup>
