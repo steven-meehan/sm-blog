@@ -1,8 +1,8 @@
 ---
-title: transformation-01-inaccessible
-tags: []
+title: Inaccessible
+tags: [Transfromation]
 categories:
-  - []
+  - [Flash Fiction]
 ---
 "Declan, the colony is just about finished how is the platform going?"
 
