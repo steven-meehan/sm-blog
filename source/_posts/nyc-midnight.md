@@ -1,9 +1,11 @@
 ---
-title: NYC Midnight, Flash Fiction Competition
+title: 'NYC Midnight, Flash Fiction Competition'
 tags: []
 categories:
-  - [News]
+  - - News
+date: 2018-09-25 16:14:53
 ---
+
 I was introduced to NYC Midnight by John Dutton one of the leaders of the Spilled Ink group on Facebook.  I was talking with him about some of the flash fiction stories I had written, and he suggested this particular competition if I was into that format.  As soon as he told me about these competitions, I was intrigued.  So I put it on my list of things to investigate, and when I finally got to delve into NYC Midnight and their competition, I began to soak up everything I could in earnest to learn as much as I could.
 
 After I finished looking into NYC Midnight, I found that they did a lot of different types of contest other than flash fiction.<!-- more -->  Though I was, and still am, entirely focused on the flash fiction competition they put on every year.  According to their website, this is a yearly competition, and including this year, this is the 10th competition they have held.  I read through a lot of the [feedback](http://www.nycmidnight.com/Competitions/FFC/Challenge.htm), and it seemed that everyone who participates enjoys the process.  I even looked at the [prizes]( http://www.nycmidnight.com/Competitions/FFC/Prizes.htm) that are awarded to the top twenty writers in the event, and they all captured my attention.
