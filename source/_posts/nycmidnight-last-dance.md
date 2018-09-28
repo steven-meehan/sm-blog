@@ -1,9 +1,13 @@
 ---
 title: His Last Dance
-tags: []
+tags: 
+  - NYC Midnight
+  - Ghost Story
 categories:
-  - [Flash Fiction]
+  - - Flash Fiction
+date: 2018-09-27 20:08:10
 ---
+
 Felicia was holding onto Gerard with skilled hands, as they gracefully moved around her dancing studio.  She was amazed that a man with his skill would put his name into a drawing for a free dancing lesson, he did not need it.  His motions were as graceful as a swan gliding across the top of a crystal clear lake.  With each step across the smooth floor, Felica was amazed at how gently he was able to hold here, without sacrificing his grip upon her.
 
 "You know I'm a little surprised at your skill level, Gerard."
@@ -62,4 +66,4 @@ Felicia glanced over to her left hand and saw that his fingers were slowly fadin
 
 "I was given an opportunity, and I seized it,"  Gerard answered as he pulled her into him and kissed her.  As they stood there sharing the passionate embrace, she could feel his lips beginning to fade.  Felicia pulled him into her, and he immediately responded tightening his grip upon her.  As the embrace continued, she began to feel her arms collapse through him.  Losing her balance Felicia fell forward she attempted to break her fall, but her head hit the floor.
 
-She looked up catching Gerarde's face as it fades, once he had vanished entirely as she sees herself in the mirror.  She watched the single drop of blood as it traveled from her left nostril to her upper lip.  As the drop of blood began to well up threatening to fall, her tears began to flee from her eyes and some began to follow that drop of blood's path.  When the tears started to collide with the blood on her lip, the blood was dislodged from her mouth.  And it began it’s journey from her lip to her studio's floor and when it impacted Felicia could hear it’s earth-shattering splash in the once silent and now empty room.
+She looked up catching Gerarde's face as it faded, once he had vanished entirely as she sees herself in the mirror.  She watched the single drop of blood as it traveled from her left nostril to her upper lip.  As the drop of blood began to well up threatening to fall, her tears began to flee from her eyes and some began to follow that drop of blood's path.  When the tears started to collide with the blood on her lip, the blood was dislodged from her mouth.  And it began it’s journey from her lip to her studio's floor and when it impacted Felicia could hear it’s earth-shattering splash in the once silent and now empty room.
