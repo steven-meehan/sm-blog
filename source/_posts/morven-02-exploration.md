@@ -1,9 +1,12 @@
 ---
 title: Exploration of Morven
-tags: [Morven]
+tags:
+  - Morven
 categories:
-  - [Flash Fiction]
+  - - Flash Fiction
+date: 2018-10-02 06:21:40
 ---
+
 Tarian is resting upon a tree thinking about how the colonization ship has overcome.  First there was the crash landing, fortunately no one had dies but there had been some minor injuries and even a couple of major ones.  Though the livestock they had brought with them on the trip did not fair as well, they should be able to breed replacements for the ones that had died, while the dead ones were taken for provisions while they settled around the crashed ship.
 
 Of course as a result of the crash some of the more delicate equipment had not survived the landing like the communications array as well as some of the medical equipment.  And to make matters worse the parts that had broken would take time to replace of course they would have to find the raw materials first, and to date they had not found any of the needed materials.<!-- more -->
