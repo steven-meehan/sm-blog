@@ -1,8 +1,8 @@
 ---
 title: The Missing
-tags: []
+tags: [Morven]
 categories:
-  - []
+  - [Flash Fiction]
 ---
 Keldon was walking down the hill his team had been dispatched to search, and there was still no signs of their missing colonists.  Thankfully over the first three months on this new world, the colonists had managed to survive despite the crash and the vicious creatures that have been found on the planet's surface.  From the roaming giant wolves to the swooping dragons, they had run into many animals that seemed to have been pulled out of legend yet somehow existed on this planet.  But despite the dangers from the local wildlife they had managed to form a foothold on the planet.<!-- more -->  Crops were beginning to take root in the alien soil, and the remnants of the herds were already replenishing their numbers.  And right when things were looking fantastic, three of the more reliable colonists just vanished, as if they had never existed.
 
