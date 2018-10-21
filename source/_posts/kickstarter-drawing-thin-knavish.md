@@ -1,6 +1,6 @@
 ---
 title: 'Kickstarter: Drawing Thin, Knavish and Harrison & Sylvia'
-tags: []
+tags: [Kickstarter]
 categories:
   - - News
 date: 2018-09-15 07:15:27
