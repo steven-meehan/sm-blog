@@ -5,7 +5,7 @@ updated:
 ---
 
 <div class="embedded-image-left">
-    ![](coming-soon.jpg)
+    ![](drawing-thin.jpg)
 </div>
 <div class="text-negative-margin-top">
 Francis managed to survive his brief employment with Bertrand Dempsey by the skin of his teeth.  The man whom Bertrand had commanded Francis to kill was like him, with one major exception, Alexis Rene LeBlanc knew all the ins and outs of their gift.  The pair, with some daring, had managed to engineer Francis’ freedom.
