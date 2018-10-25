@@ -90,3 +90,15 @@ excerpt_link: Read More
 # Sitemap
 sitemap:
   path: sitemap.xml
+
+# Robots.txt file
+robotstxt:
+  useragent: "*"
+  disallow:
+    - /assets/
+    - /bootstrap/
+    - /css/
+    - /favicon/
+    - /images/
+    - /js/
+  sitemap: https://www.stevenmeehan.com/sitemap.xml
