@@ -1,11 +1,13 @@
 ---
 title: The Last Resort
-tags: [NYC Midnight, Dystopian, Science Fiction]
+tags:
+  - NYC Midnight
+  - Dystopian
+  - Science Fiction
 categories:
-  - [Flash Fiction]
+  - - Flash Fiction
+date: 2018-10-25 07:33:03
 ---
-Come see what happens in a dystopian world in the not so distant future onboard a ship when the lead marine finds a whisk on the floor
-
 The team led by Ray was the last team still searching the seemingly abandoned battleship.  The relatively small force of humanity on the shore was eagerly awaiting an all-clear from each of the inspecting groups.  So far all but one team had sent in that precious all clear.  Ray's team alone was still searching the haggard battleship that would hopefully be their escape.  The ship was found on the cost by one of humanity’s remaining scouting squadrons that had been searching for anything that could help them flee their dying world.   Despite the ship being clear so far, the teams and the last remnants of humanity on shore were still uneasy.
 
 The team members who had been tasked with determining if their last hope would be able to forge out into the vastness of the ocean had reported that the vessel was, in fact, seaworthy.<!-- more -->  The last room in the grand search was the ship's galley, a task that had fallen to the last remnant of Ray's team.  The marine looked at his two remaining members who hadn't been stationed at another part of the ship to ensure that there was no sign of trouble and waited for their nods to his unasked question.  Once they gave it, he waited for the member on his right to position himself so he could open the door.  When ready Ray nodded to his fellow marine, Charles opened the door, and once it was just open, Ray kicked the door wide open as he shoved his rifle into the room.
