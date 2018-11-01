@@ -9,6 +9,7 @@ description:
 author: Steven Meehan
 language: en
 timezone: America/New_York
+email: steven@stevenmeehan.com
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
