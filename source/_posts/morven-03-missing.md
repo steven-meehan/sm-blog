@@ -1,12 +1,15 @@
 ---
 title: The Missing
-tags: [Morven]
+tags:
+  - Morven
 categories:
-  - [Flash Fiction]
+  - - Flash Fiction
+date: 2018-11-15 07:21:28
 ---
-Keldon was walking down the hill his team had been dispatched to search, and there was still no signs of their missing colonists.  Thankfully over the first three months on this new world, the colonists had managed to survive despite the crash and the vicious creatures that have been found on the planet's surface.  From the roaming giant wolves to the swooping dragons, they had run into many animals that seemed to have been pulled out of legend yet somehow existed on this planet.  But despite the dangers from the local wildlife they had managed to form a foothold on the planet.<!-- more -->  Crops were beginning to take root in the alien soil, and the remnants of the herds were already replenishing their numbers.  And right when things were looking fantastic, three of the more reliable colonists just vanished, as if they had never existed.
 
-Tarian had immediately ordered the search, but after a long week filled with searching that yielded no results, people were beginning to think that they had been caught by the local wildlife.  But Keldon knew the search would continue for a little while longer, no one liked the idea of giving up, but they all knew they could only go on for so much longer.  After all the search for raw materials to repair critical components of the ship, was still going on as well and proving just as fruitless.
+Keldon was walking down the hill his team had been dispatched to search, and there was still no signs of their missing colonists.  Thankfully over the first three months on this new world, the colonists had managed to survive despite the crash and the vicious creatures that have been found on the planet's surface.  From the roaming giant wolves to the swooping dragons, they had run into many animals that seemed to have been pulled out of legend yet somehow existed on this planet.  But despite the dangers from the local wildlife they had managed to form a foothold on the world.  Crops were beginning to take root in the alien soil, and the remnants of the herds were already replenishing their numbers.  And right when things were looking fantastic, three of the more reliable colonists just vanished, as if they had never existed.
+
+Tarian had immediately ordered the search, but after a long week filled with searching that yielded no results, people were beginning to think that they had been caught by the local wildlife.<!-- more -->  But Keldon knew the search would continue for a little while longer, no one liked the idea of giving up, but they all knew they could only go on for so much longer.  After all the search for raw materials to repair critical components of the ship, was still going on as well and proving just as fruitless.
 
 Keldon pulled out his radio switching it to Tarian’s channel and punched in his code, "Tarian any word from the other search parties."
 
@@ -46,7 +49,7 @@ At the least the creature was a few feet taller than he was, not to mention soli
 
 "I'd agree with that Keldon,"  Mika added as she signaled back to Zeke to get him to wait where he was.  "But what are we going to do?"
 
-"Follow the thing, its the first semblance of humanity we've seen so far,"  Keldon answered as the thing briefly turned its head around.  Keldon could see his own facial features upon the creature, misshapen as they were.  "Who knows maybe this thing is responsible for taking our missing colonists.  Spread out and follow everyone keep in eyesight."
+"Follow the thing, its the first semblance of humanity we've seen so far,"  Keldon answered as the thing briefly turned its head around.  Keldon could see his own facial features upon the creature, misshapen as they were.  "Who knows maybe this thing is responsible for taking our missing colonists.  Spread out and stay in eyesight."
 
 Each of his men nodded their acknowledgment and let Keldon leave before they spread out to follow the thing.  It did not take them all that long to reach a clearing where the would be visible to the monster.  Keldon had told them to hold their ground as he examined the surroundings.
 
