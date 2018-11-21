@@ -1,9 +1,12 @@
 ---
 title: My Upcoming Short Stories
-tags: [Short Stories]
+tags:
+  - Short Stories
 categories:
-  - [News]
+  - - News
+date: 2018-11-20 09:27:30
 ---
+
 I remember almost five years ago I bought a computer game called [Torchlight](https://www.amazon.com/gp/product/B0085P7YGU/ref=as_li_tl?ie=UTF8&tag=mysite009e-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0085P7YGU&linkId=235131b07ffde76feb3b808a08e7fd4e) from Amazon.  A friend had recommended the game, and I decided it was time to give it a try, so I started a game.  There are three classes for that game, the Vanquisher, the Destroyer and The Alchemist.  I remember hearing that the Alchemist was akin to a mad scientist, at least in the broadest of definitions.  So I leapt at the chance to play the Alchemist, and I gave him the name Harrison.
 
 One of the interesting aspects of the game is that your character gets an animal companion right from the start.  I chose the feline companion, and I came up with the name of Sylvia, I may have used the random name generator though at this point I honestly can’t remember how I chose the name of that companion. <!-- more -->  As I was playing that very first game, my mind began to seed the beginnings of a story.  Looking back at that memory, I want to say that those initial thoughts bore early fruit.  I had the idea of a partnership between a mad scientist and inventor and a woman who could assume any feline form she wanted.
