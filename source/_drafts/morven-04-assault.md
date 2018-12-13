@@ -52,7 +52,7 @@ Letting his rifle fall as far as the strap would allow Keldon rested upon the ra
 
 Both of them shared a look and gave a knowing nod to the frustration before they led a group of volunteers to carry out Tarian's directive.  As they searched the bodies collected the bodies from the field they were able to find two other monsters besides the Ogres.
 
-The first of the new creatures was shorter than the ogres but taller than all of the humans in the city.  They were also a very pale green, in fact, if Tarian were just judging them passed on their skin, he would have thought that they were just sick people.  But the two things that told him these were not people were the tusks jutting out of their mouths and the extremely long arms that were to a one corded with muscle.
+The first of the new creatures was shorter than the ogres but taller than all of the humans in the city.  They were also a very pale green, in fact, if Tarian were just judging them based on their skin, he would have thought that they were just sick people.  But two things marked these things as something other than people.  The first was the tusks jutting out of their mouths and the second was the extremely long arms that all seemed to be corded with muscle.
 
 The other creature that had been charging the walls was a short thing, about the size of a thirteen-year-old.  All of them had dark green skin that made Tarian think they were just children of the more prominent and paler green creatures.  He assumed that the tusks and arms would grow as they grew up.
 
