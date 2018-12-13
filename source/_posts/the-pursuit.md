@@ -5,6 +5,7 @@ tags:
   - Horror
 categories:
   - - Flash Fiction
+prompt: NYC Midnight List => horror, convention, tray
 date: 2018-11-01 16:12:24
 ---
 

@@ -5,6 +5,7 @@ tags:
   - Ghost Story
 categories:
   - - Flash Fiction
+prompt: NYC Midnight List => ghost story, dance studio, drop of blood
 date: 2018-09-27 20:08:10
 ---
 

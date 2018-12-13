@@ -5,6 +5,7 @@ tags:
   - Fairy Tale
 categories:
   - - Flash Fiction
+prompt: NYC Midnight List => fairy tale, noodle shop, mittens
 date: 2018-10-18 17:22:16
 ---
 

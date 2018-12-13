@@ -5,6 +5,7 @@ tags:
   - Science Fiction
 categories:
   - - Flash Fiction
+prompt: NYC Midnight List => Science Fiction, rodeo, bodybag
 date: 2018-11-22 19:25:57
 ---
 

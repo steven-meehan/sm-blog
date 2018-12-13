@@ -5,6 +5,7 @@ tags:
   - Ghost Story
 categories:
   - - Flash Fiction
+prompt: Amanda => ghost story, apartment building, note
 date: 2018-11-13 12:52:54
 ---
 

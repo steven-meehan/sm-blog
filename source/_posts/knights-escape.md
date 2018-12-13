@@ -5,6 +5,7 @@ tags:
   - Thriller
 categories:
   - - Flash Fiction
+prompt: Brian => thriller, Rotunda, crest
 date: 2018-12-05 17:51:34
 ---
 
