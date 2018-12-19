@@ -1,9 +1,12 @@
 ---
 title: Assault on the Walls
-tags: [Morven]
+tags:
+  - Morven
 categories:
-  - [Flash Fiction]
+  - - Flash Fiction
+date: 2018-12-13 20:00:58
 ---
+
 Tarian was standing upon the mostly constructed walls, staring out into the slowly building mass of creatures.  There were a few types of monsters swirling about each other in that swarm, but the bulk was what the population had taken to calling Ogres.  In fact, it was the constant harrying of the colonists by those Ogres that had prompted the building of the walls as rapidly as possible.
 
 "Tarian, is it me or is that mass still growing?"  Keldon asked once he was standing next to Tarian.<!-- more -->
