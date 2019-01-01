@@ -1,10 +1,16 @@
 ---
 title: Crucible of Gold
-tags: [Fantasy, Dragons, Alternate History, Napoleonic Wars]
+tags:
+  - Fantasy
+  - Dragons
+  - Alternate History
+  - Napoleonic Wars
 categories:
-  - [Review]
+  - - Review
+date: 2018-12-25 22:04:46
 ---
-[_Crucible of Gold_](https://www.amazon.com/gp/product/0345522877/ref=as_li_tl?ie=UTF8&tag=mysite009e-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0345522877&linkId=769db48428d60d09007f134e0785936f) begins it's tale with William Laurence and Temeraire having fully embraced their lives in Austrailia and are in the midst of constructing a pavilion when their lives are once more altered.  This time Arthur Hammond, last seen in [_Throne of Jade_](https://www.amazon.com/gp/product/0345481291/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0345481291&linkCode=as2&tag=mysite009e-20&linkId=92a6ec813733f91093598708482d42d1) arrives in Austrailia with an urgent message for the once loyal servant of His Majesty's Royal Arial Corp.  The crown is once again in need of Laurence's dragon, Temeraire, so the diplomat arrived offering the once captain his rank back.<!-- more --><div class="embedded-image-right">![](./)</div>
+
+[_Crucible of Gold_](https://www.amazon.com/gp/product/0345522877/ref=as_li_tl?ie=UTF8&tag=mysite009e-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0345522877&linkId=769db48428d60d09007f134e0785936f) begins its tale with William Laurence and Temeraire having fully embraced their lives in Austrailia and are in the midst of constructing a pavilion when their lives are once more altered.  This time Arthur Hammond, last seen in [_Throne of Jade_](https://www.amazon.com/gp/product/0345481291/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0345481291&linkCode=as2&tag=mysite009e-20&linkId=92a6ec813733f91093598708482d42d1) arrives in Austrailia with an urgent message for the once loyal servant of His Majesty's Royal Arial Corp.  The crown is once again in need of Laurence's dragon, Temeraire, so the diplomat arrived offering the once captain his rank back.<!-- more --></div><div class="embedded-image-right"><img src="https://images-na.ssl-images-amazon.com/images/I/51S8Jpsf1LL._SX342_.jpg" alt="Crucible of Gold" style="max-height: 300px; max-width: 300px"/></div>
 
 Laurence listens to the offer but is he is initially unsure of what decision he will ultimately make, partially because it is only offered to send him once more into unknown and harrowing action.  The dragons of the Tswana are partnering with Napoleon Bonaparte to assault the Portuguese colony of Brazil in an attempt to reclaim their descendants that were abducted from their homelands and forced into slavery.  Since the Portuguese are allies of Brittin, they must make great haste to reach them to provide assistance.
 
