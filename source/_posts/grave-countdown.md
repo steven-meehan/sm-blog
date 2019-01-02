@@ -1,10 +1,14 @@
 ---
 title: The Grave Countdown
-tags: []
+tags: 
+  - NYC Midnight
+  - Suspense
 categories:
-  - []
-prompt: 'NYC Midnight => Suspense,	A dressing room for actors,	A shot glass'
+  - - Flash Fiction
+prompt: "NYC Midnight => Suspense,\tA dressing room for actors,\tA shot glass"
+date: 2019-01-01 21:07:48
 ---
+
 Pausing backstage Ryan pulled the bagged letter out of his coat.  Forensics had examined the thing already, but he never wanted to contaminate evidence.  He quickly reread the mismatched letters, yearning for some new insight.  Unfortunately, it revealed nothing new.  Ryan thought about how it had been delivered to the station earlier that morning by a private courier.  Yet it was just another dead end, that another detective already found.
 
 Though even with the dead end it wasn’t the end of his investigation, not when there was a bomb threat.  These investigations were always a high priority, and with this one, it felt like the entire precinct had been pulled into the frantic search.  By the time he arrived, the initial search had already been done, finding nothing.  But the note detailed everything from the address to the time of detonation.  There was one other thing on the letter expressly forbidding the police to try and evacuate either the location and surrounding blocks, or the explosion would be earlier.<!-- more -->
