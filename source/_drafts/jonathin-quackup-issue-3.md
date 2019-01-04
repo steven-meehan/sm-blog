@@ -4,4 +4,4 @@ tags: []
 categories:
   - []
 ---
-<!-- more --><div class="embedded-image-left">![](./)</div><div class="embedded-image-right">![](./)</div>
+<!-- more --><div class="embedded-image-left">![](./jonathin-quackup-issue-3.jpg)</div>
