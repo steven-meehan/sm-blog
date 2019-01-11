@@ -1,9 +1,12 @@
 ---
 title: Departure
-tags: [Fortunes]
+tags:
+  - Fortunes
 categories:
-  - [Flash Fiction]
+  - - Flash Fiction
+date: 2019-01-08 18:18:22
 ---
+
 Rylan looked at everyone around him, they were preparing for the launch of the ship.  They had been training vigorously for the last three weeks since no one had any idea what to expect, so those who had been volunteered for the mission were being readied for anything.  Those in charge had even decided to alter the purpose of the mission, slightly.  Their primary goal was still to discover what had happened on Laria but it was decided that to help prepare those on the mission that they should investigate two planets that were on the way to the Larian system.
 
 So two worlds were chosen, Latria and Medicia.  Thanks to the comprehensive Larian library they were able to plot to each planet.  Also thanks to the library they knew where each platform was located just in case the lack of communication was more than just an inherent system failure.  Which was a thought that Rylan was being forced to abandon with each passing day.<!-- more -->
