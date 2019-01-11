@@ -1,9 +1,12 @@
 ---
-title: Novan's Plummet
-tags: [Arrival]
+title: Novus' Plummet
+tags:
+  - Arrival
 categories:
-  - [Flash Fiction]
+  - - Flash Fiction
+date: 2019-01-10 19:51:33
 ---
+
 Marcus let his eyes drop to the vast array of sensors for the colonization ship.  He had gone through these checks numerous times before, and they were always the same when the ship was coming to a new planet.  When the great ship entered the system, the long-range sensors had registered five planets in this system.  Of those five planets, one was too close to the sun to support life, while three were gas giants.  But the second sphere from the sun was the only suitable planet for colonization, so the ship automatically set a course for the world.  When they got close enough the ship's sensors indicated that the surface wouldn't need to be terraformed, which was a pleasant change from the last three planets.
 
 Now that the ship was entering planetary orbit, the loneliness of the bridge was being erased with a vengeance.  The ship's automation was only designed to operate during the long stretches of space between planets.<!-- more -->  If the sensors hadn't found its target, it would have plotted a course to a new system.  But once it detected the suitable world, an announcement was sent throughout the ship so they could prepare to colonize the new planet.  The most crucial part of this dance was the bridge crew assuming their posts to bring the colonization vessel into a stable orbit.
@@ -56,4 +59,4 @@ Marcus nodded his head, as he wiped his eyes with his left hand.  Nathaniel sque
 
 Marcus scanned the displays before he answered, "More systems are failing, but I don't think so.  And before you ask, we're already touching the bottom of the ocean here.  I would recommend that we abandon ship with as much as we can take."
 
-Nathaniel nodded and walked over to his chair and issued his final command to the crew of the Novan.  "Everyone, we've crash landed, and the ship's systems are failing.  We are going to escape the ship immediately."
+Nathaniel nodded and walked over to his chair and issued his final command to the crew of the Novus.  "Everyone, we've crash landed, and the ship's systems are failing.  We are going to escape the ship immediately."
