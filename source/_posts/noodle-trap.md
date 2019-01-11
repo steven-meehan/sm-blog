@@ -59,4 +59,4 @@ The child climbed down from the unicorn's back and without thinking she ran towa
 
 And as the Satyr was launching for her, the pot gave way, and she flew back falling onto the sandy tiles.  Then light washed over everything as a great boom filled the world, and the daughter fell into unconsciousness.
 
-When she woke up, she was found that she was sitting in the booth with her father and on her lap were a pair of pale blue mittens, like nothing had happened.  Those mittens had images of the unicorn and her friends that had helped her, picking them up she found that they were angelically soft.  As she looked up at her smiling father and knew that everything would be alright.
+When she woke up, she found that she was sitting in the booth with her father and on her lap were a pair of pale blue mittens, like nothing had happened.  Those mittens had images of the unicorn and her friends that had helped her, picking them up she found that they were angelically soft.  As she looked up at her smiling father and knew that everything would be alright.
