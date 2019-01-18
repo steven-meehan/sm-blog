@@ -1,9 +1,11 @@
 ---
-title: morven-05-allies
-tags: []
+title: Allies
+tags: [Morven]
 categories:
-  - []
+  - [Flash Fiction]
+date: 2019-01-17 17:50:09
 ---
+
 Tarian sauntered through the forest with his detachment with no signs of any of his people that went missing during the assault.  He reached for his radio and depressed the button calling out to Keldon.  "Hey Kel, have you had any luck over there?"
 
 "No love on our route."  Came the stoic response from Tarian's friend.  "I think we have to call the search."
@@ -40,7 +42,7 @@ One of his men looked over asking, "Keldon wanted to join us?"
 
 Tarian sat and waited, after a few minutes his team had assembled around him, but they were still waiting for Keldon's team.  Tarian was getting even more nervous as the seconds continued to tick away, so he flicked switched his radio to Keldon's channel and called out, "Kel where are you?"
 
-After a few moments of silence Keldon replied, "Tarian, you need to come to me, I'm not that far east of your location."
+After a few moments of silence, Keldon replied, "Tarian, you need to come to me, I'm not that far east of your location."
 
 "What's wrong?"
 
@@ -74,11 +76,11 @@ A collected hiss issued from these lanky creatures before the leader silenced th
 
 "Wait, can you help us?"
 
-"No, there is nothing here that interests us.  You have an hour to collect yourselves and your people and leave, or there will be bloodshed."  The creatures turned and vanished deeper into the woods.
+"No, there is nothing here that interests us.  You have an hour to collect yourselves and your people and leave, or there will be bloodshed."  The creatures turned and vanished into the woods.
 
 Tarian climbed to his feet and called out to everyone through the radio, "Everyone fall in on me double time."
 
-As both detachments left in silence Tarian and Keldon had serious looks on their faces, both men knew these creatures could have been fantastic allies.  When they walked far enough, Tarian reached for his radio and switched to Caleb's frequency.  "Caleb please tell me you're on your way to the compound."
+As both detachments left in silence both Tarian and Keldon had severe looks on their faces, both men knew these creatures could have been fantastic allies.  When they walked far enough, Tarian reached for his radio and switched to Caleb's frequency.  "Caleb please tell me you're on your way to the compound."
 
 "Nope, I met some people."
 
@@ -86,7 +88,7 @@ As both detachments left in silence Tarian and Keldon had serious looks on their
 
 "No these guys aren't lanky.  They'd like to talk to you."
 
-Tarian sighed and replied, "We'll be there as soon as we can."  Tarian got all his men moving, and they jogged to Caleb's location.  When they reached Caleb’s position Tarian saw the people talking with Caleb and in stark contrast to who he spoke with these were all stout and stocky.  Caleb noticed Tarian and waived him over to the group.
+Tarian sighed and replied, "We'll be there as soon as we can."  Tarian got all his men moving, and they jogged to Caleb's location.  When they reached Caleb’s position, Tarian saw the people talking with Caleb and in stark contrast to who he spoke with these were all stout and stocky.  Caleb noticed Tarian and waived him over to the group.
 
 When Tarian reached the group, Caleb provided the introductions.  "Fitik, this is our leader Tarian, and Tarian this is Fitik.  They are apparently fierce enemies of the trolls and goblins, and they are intrigued about becoming friends."
 
