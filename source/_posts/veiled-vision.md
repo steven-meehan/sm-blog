@@ -1,10 +1,14 @@
 ---
 title: Veiled Vision
-tags: [NYC Midnight, Ghost Story]
+tags:
+  - NYC Midnight
+  - Ghost Story
 categories:
-  - [Flash Fiction]
+  - - Flash Fiction
 prompt: 'Fiona = > Ghost Story, beach, glasses'
+date: 2019-01-25 15:17:00
 ---
+
 Bethany was having an outstanding day, she was enjoying her family's mini-vacation at the beach.  Today was the last day of their trip, and so she was walking along the shoreline for the last time.  Bethany took comfort as the waves lapped up against her legs and the salt-laden wind nipped at her unbound hair when her bare foot stepped upon something hard.  With her mind racing, she bent down and quickly dug out what her foot had fallen on.
 
 When the object broke through the wet sand, she was excited to find a pair of sunglasses.  She gently lifted the solid frames from the sand, letting the incoming waves clean the clinging sand from it.  She looked around, but there were only a few people, and they were far away, so she lifted her prize, peering through them to see if they were prescription ones.  When her vision didn't distort, she smiled enjoying the greyed expansive waters.
