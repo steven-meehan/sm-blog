@@ -1,9 +1,12 @@
 ---
 title: Harrison & Sylvia Part One
-tags: [Short Stories]
+tags:
+  - Short Stories
 categories:
-  - [News]
+  - - News
+date: 2019-01-29 19:02:15
 ---
+
 Harrison & Sylvia is finally ready for publication.  The particular journey has been a long yet wondrous one.  Ever since these characters sprang to life in my mind, their stories have been lurking in my mind just waiting for me to transcribe them.  And now that I have finished penning these tales I will be publishing these twelve short stories once a month throughout the year.  These stories will detail the lives of Harrison and Sylvia and how they meet.  Come read the beginning of their journey.<!-- more -->
 <hr class="clear-both center-fade"/>
 <div class="embedded-image-left">![](/writing/harrison-sylvia/series-01/harrison-sylvia-1.jpg)</div>
