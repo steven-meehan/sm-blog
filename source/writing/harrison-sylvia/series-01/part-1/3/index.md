@@ -37,4 +37,4 @@ The attendant stood there for a few heartbeats searching for whatever had caught
 “Very well,” Kameron said as dismissed his attendant’s outburst drawing his cloak tightly around him as he continued towards his private chamber in the back of the audience room.  
 
 The king stepped in but prevented Quentin form following him, “Assist the guards in dismissing the petitioners.”
-“Yes, sire.”<hr class="clear-both center-fade"/><p class="center">[Page 1](/writing/harrison-sylvia/series-01/part-1/) | [Page 2](/writing/harrison-sylvia/series-01/part-1/2) | Page 3 | [Page 4](/writing/harrison-sylvia/series-01/part-1/4) | [Page 5](/writing/harrison-sylvia/series-01/part-1/5) | [Page 6](/writing/harrison-sylvia/series-01/part-1/6) </p>
+“Yes, sire.”<hr class="clear-both center-fade"/><p class="center">[Page 1](/writing/harrison-sylvia/series-01/part-1/) | [Page 2](/writing/harrison-sylvia/series-01/part-1/2) | <span class="current-page">***Page 3***</span> | [Page 4](/writing/harrison-sylvia/series-01/part-1/4) | [Page 5](/writing/harrison-sylvia/series-01/part-1/5) | [Page 6](/writing/harrison-sylvia/series-01/part-1/6) </p>

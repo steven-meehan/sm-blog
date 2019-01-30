@@ -26,4 +26,4 @@ Quentin understood his lord’s tone, so Quentin answered the question before Ka
 
 With frustration beginning to break across the king’s face, he asked his attendant another question. “Do you think he’ll be able to repay his debt no matter how much time I give him?”
 
-“Probably not, sire,” Quentin answered with a subtle shake of his head.<hr class="clear-both center-fade"/><p class="center">Page 1 | [Page 2](/writing/harrison-sylvia/series-01/part-1/2) | [Page 3](/writing/harrison-sylvia/series-01/part-1/3) | [Page 4](/writing/harrison-sylvia/series-01/part-1/4) | [Page 5](/writing/harrison-sylvia/series-01/part-1/5) | [Page 6](/writing/harrison-sylvia/series-01/part-1/6) </p>
+“Probably not, sire,” Quentin answered with a subtle shake of his head.<hr class="clear-both center-fade"/><p class="center"><span class="current-page">***Page 1***</span> | [Page 2](/writing/harrison-sylvia/series-01/part-1/2) | [Page 3](/writing/harrison-sylvia/series-01/part-1/3) | [Page 4](/writing/harrison-sylvia/series-01/part-1/4) | [Page 5](/writing/harrison-sylvia/series-01/part-1/5) | [Page 6](/writing/harrison-sylvia/series-01/part-1/6) </p>
