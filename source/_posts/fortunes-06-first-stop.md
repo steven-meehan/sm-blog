@@ -1,9 +1,12 @@
 ---
 title: First Stop
-tags: [Fortunes]
+tags:
+  - Fortunes
 categories:
-  - [Flash Fiction]
+  - - Flash Fiction
+date: 2019-02-05 13:47:06
 ---
+
 As the craft sailed through the stars, Rylan kept to himself whenever he could despite having made a few friendships among the crew.  Since there were plenty in the group who thought he had sabotaged the platform the captain kept him from any real duties.  So he tended to keep himself busy using the gym equipment that had been unpacked once the ship exited the atmosphere.  He was getting dressed after an intense workout when he heard the captain's announcement.  "We will be dropping into the Latrian system in an hour.  Once there it should take another couple of hours to enter planetary orbit.  Landing crew report to shuttle bay one to prepare."
 
 Rylan smiled as he quickly finished getting dressed and then promptly reported to the shuttle bay.  It had taken two and a half weeks to get to the first stop on the journey.  When he arrived at the shuttle bay, he was greeted by Marcus, who still distrusted the technician.<!-- more -->  "Well if it isn't our favorite saboteur."
