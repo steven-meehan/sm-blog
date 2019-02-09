@@ -1,8 +1,8 @@
 ---
 title: morven-07-dwarven-aid
-tags: []
+tags: [Morven]
 categories:
-  - []
+  - [Flash Fiction]
 ---
 Caleb stopped walking and leaned against the closest tree so he could do a quick check of his weapons.  He thought about where he was, he had been trying to follow the path his team had taken during the last hunt.  Based on the terrain Caleb wasn't sure how much luck he was going to have, too much of the world looked the same.  With a sigh, he holstered all of his weapons and lifted his rifle up and resumed his search.
 

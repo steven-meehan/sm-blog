@@ -1,8 +1,8 @@
 ---
-title: morven-06-preparation
-tags: []
+title: Preparations
+tags: [Morven]
 categories:
-  - []
+  - [Flash Fiction]
 ---
 Tarian and his closet advisors were standing on the wall looking out at the massing horde of alien creatures.  With the use of a telescope, he was able to identify more of the trolls, goblins and even some new creatures that looked just as terrifying.  When he lowered the scope from his eye, he looked over his shoulder and spoke to Keldon, but loudly enough for the others to hear his concern.  "Kel, there are already more out there than the last time we had to defend the wall."
 
