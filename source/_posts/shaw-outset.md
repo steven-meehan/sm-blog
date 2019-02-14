@@ -1,10 +1,14 @@
 ---
-title: Scythe's Intrigue
-tags: [NYC Midnight, Science Fiction]
+title: Shaw's Outset
+tags:
+  - NYC Midnight
+  - Science Fiction
 categories:
-  - [Flash Fiction]
+  - - Flash Fiction
 prompt: 'Mine => Science Fiction, tavern, spork'
+date: 2019-02-12 18:11:07
 ---
+
 Daniel Shaw sauntered into the Lost Flask, holding his breath.  The man disliked coming to this establishment, it attracted too many truly disreputable people.  Unfortunately, the man who had hired him had insisted upon using this establishment.  From the moment they had acquired the goods Daniel had been reasonably confident that he was being set up, but walking into this place confirmed that in his eyes.  He quickly walked over to an empty booth with a decent view of the entrance and waited for the trap to spring.
 
 While he waited, Daniel lifted one of the utensils in front of him and was surprised to find a spork in his hand.  He shook his head as he traded the odd utensil for his phone, and so he could send a message to his crew instructing them to be ready.  He leaned back in his booth and examined the lanky yet well-groomed man who entered the tavern.  His entire demeanor screamed that he was used to getting his own way.<!-- more -->  Daniel sighed when the gangly greenhorn caught sight of him and smiled broadly.  As the man made his way towards him, Daniel realized thought that he had seen one too many cheesy movies and had certain expectations for this encounter.
