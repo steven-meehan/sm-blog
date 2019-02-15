@@ -1,9 +1,12 @@
 ---
 title: Harrison & Sylvia Part Two
-tags: [Short Stories]
+tags:
+  - Short Stories
 categories:
-  - [News]
+  - - News
+date: 2019-02-14 20:25:12
 ---
+
 Last month the mysterious Sylvia was introduced in her first story.  Her entrance was grand as she thwarted an angry citizen's attempt to kill her employer.  This month we will be stepping away from her story to introduce Harrison's story arc.<!-- more -->
 <hr class="clear-both center-fade"/><div class="embedded-image-right">![](/writing/harrison-sylvia/series-01/harrison-sylvia-1.jpg)</div>
 

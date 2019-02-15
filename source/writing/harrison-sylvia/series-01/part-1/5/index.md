@@ -4,7 +4,7 @@ date: 2019-01-29 10:58:04
 updated: 2019-01-29 06:04:10
 displayAd: true
 ---
-<p class="center">[Page 1](/writing/harrison-sylvia/series-01/part-1/) | [Page 2](/writing/harrison-sylvia/series-01/part-1/2) | [Page 3](/writing/harrison-sylvia/series-01/part-1/3) | [Page 4](/writing/harrison-sylvia/series-01/part-1/4) | <span class="current-page">***Page 5*** </span> | [Page 6](/writing/harrison-sylvia/series-01/part-1/6) </p><hr class="clear-both center-fade"/><div class="embedded-image-left"><img src="/writing/harrison-sylvia/series-01/part-1/hs101.jpg" alt="Part One" style="max-height: 275px;"/></div>“Yes, sire,” Quentin replied in a weak tone.
+<p class="center">[Page 1](/writing/harrison-sylvia/series-01/part-1/) | [Page 2](/writing/harrison-sylvia/series-01/part-1/2) | [Page 3](/writing/harrison-sylvia/series-01/part-1/3) | [Page 4](/writing/harrison-sylvia/series-01/part-1/4) | <span class="current-page">***Page 5*** </span> | [Page 6](/writing/harrison-sylvia/series-01/part-1/6) | [Next Part](/writing/harrison-sylvia/series-01/part-2) </p><hr class="clear-both center-fade"/><div class="embedded-image-left"><img src="/writing/harrison-sylvia/series-01/part-1/hs101.jpg" alt="Part One" style="max-height: 275px;"/></div>“Yes, sire,” Quentin replied in a weak tone.
 
 Once more the king clapped his attendant’s back saying, “Let's go, Quentin. We have important things to accomplish.”
 
@@ -35,4 +35,4 @@ While Quentin began his examination, he spoke to Sylvia.  He couldn’t keep all
 
 Sylvia sighed then spoke to the king with a mock injury filling her voice, “And not allow you to see that I am worth your investment.”
 
-“I know you are worth the investment, my dear, but only when you are discreet. Otherwise, there is no point in your services.”<hr class="clear-both center-fade"/><p class="center">[Page 1](/writing/harrison-sylvia/series-01/part-1/) | [Page 2](/writing/harrison-sylvia/series-01/part-1/2) | [Page 3](/writing/harrison-sylvia/series-01/part-1/3) | [Page 4](/writing/harrison-sylvia/series-01/part-1/4) | <span class="current-page">***Page 5*** </span> | [Page 6](/writing/harrison-sylvia/series-01/part-1/6) </p>
+“I know you are worth the investment, my dear, but only when you are discreet. Otherwise, there is no point in your services.”<hr class="clear-both center-fade"/><p class="center">[Page 1](/writing/harrison-sylvia/series-01/part-1/) | [Page 2](/writing/harrison-sylvia/series-01/part-1/2) | [Page 3](/writing/harrison-sylvia/series-01/part-1/3) | [Page 4](/writing/harrison-sylvia/series-01/part-1/4) | <span class="current-page">***Page 5*** </span> | [Page 6](/writing/harrison-sylvia/series-01/part-1/6) | [Next Part](/writing/harrison-sylvia/series-01/part-2) </p>

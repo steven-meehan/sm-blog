@@ -4,7 +4,7 @@ date: 2019-01-29 10:58:04
 updated: 2019-01-29 06:04:10
 displayAd: true
 ---
-<p class="center">[Page 1](/writing/harrison-sylvia/series-01/part-1/) | [Page 2](/writing/harrison-sylvia/series-01/part-1/2) | <span class="current-page">***Page 3***</span> | [Page 4](/writing/harrison-sylvia/series-01/part-1/4) | [Page 5](/writing/harrison-sylvia/series-01/part-1/5) | [Page 6](/writing/harrison-sylvia/series-01/part-1/6) </p><hr class="clear-both center-fade"/><div class="embedded-image-left"><img src="/writing/harrison-sylvia/series-01/part-1/hs101.jpg" alt="Part One" style="max-height: 275px;"/></div>The attendant on the king’s right bent over and tried to ask the only question that was running through his mind.  “Sire, why…”
+<p class="center">[Page 1](/writing/harrison-sylvia/series-01/part-1/) | [Page 2](/writing/harrison-sylvia/series-01/part-1/2) | <span class="current-page">***Page 3***</span> | [Page 4](/writing/harrison-sylvia/series-01/part-1/4) | [Page 5](/writing/harrison-sylvia/series-01/part-1/5) | [Page 6](/writing/harrison-sylvia/series-01/part-1/6) | [Next Part](/writing/harrison-sylvia/series-01/part-2) </p><hr class="clear-both center-fade"/><div class="embedded-image-left"><img src="/writing/harrison-sylvia/series-01/part-1/hs101.jpg" alt="Part One" style="max-height: 275px;"/></div>The attendant on the king’s right bent over and tried to ask the only question that was running through his mind.  “Sire, why…”
 
 “Did I release him from his debt?”  Kameron supplied.
 
@@ -38,4 +38,4 @@ The attendant stood there for a few heartbeats searching for whatever had caught
 
 The king stepped in but prevented Quentin form following him, “Assist the guards in dismissing the petitioners.”
 
-“Yes, sire.”<hr class="clear-both center-fade"/><p class="center">[Page 1](/writing/harrison-sylvia/series-01/part-1/) | [Page 2](/writing/harrison-sylvia/series-01/part-1/2) | <span class="current-page">***Page 3***</span> | [Page 4](/writing/harrison-sylvia/series-01/part-1/4) | [Page 5](/writing/harrison-sylvia/series-01/part-1/5) | [Page 6](/writing/harrison-sylvia/series-01/part-1/6) </p>
+“Yes, sire.”<hr class="clear-both center-fade"/><p class="center">[Page 1](/writing/harrison-sylvia/series-01/part-1/) | [Page 2](/writing/harrison-sylvia/series-01/part-1/2) | <span class="current-page">***Page 3***</span> | [Page 4](/writing/harrison-sylvia/series-01/part-1/4) | [Page 5](/writing/harrison-sylvia/series-01/part-1/5) | [Page 6](/writing/harrison-sylvia/series-01/part-1/6) | [Next Part](/writing/harrison-sylvia/series-01/part-2) </p>

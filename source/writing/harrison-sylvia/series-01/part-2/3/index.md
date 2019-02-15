@@ -1,0 +1,27 @@
+---
+title: 'Harrison & Sylvia, Part Two'
+date: 2019-01-29 10:58:04
+updated: 2019-01-29 06:04:10
+displayAd: true
+---
+<p class="center"> [Previous Part](/writing/harrison-sylvia/series-01/part-1) | [Page 1](/writing/harrison-sylvia/series-01/part-2/) | [Page 2](/writing/harrison-sylvia/series-01/part-2/2) | <span class="current-page">***Page 3***</span> | [Page 4](/writing/harrison-sylvia/series-01/part-2/4) | [Page 5](/writing/harrison-sylvia/series-01/part-2/5) | [Page 6](/writing/harrison-sylvia/series-01/part-2/6) </p><hr class="clear-both center-fade"/><div class="embedded-image-left"><img src="/writing/harrison-sylvia/series-01/part-2/hs102.jpg" alt="Part One" style="max-height: 275px;"/></div>“My father doesn’t normally hire new guards, let alone assign them to protect the family’s relics,” Harrison stated flatly.
+
+“This is true,” Gregory said with another shrug.  Then he leaned towards Harrison and spoke quietly, “To be honest Harrison, I’m helping out Nicholas.  I was passing by, and he needed to… um… he had stomach issues.  He assured me that he would be back shortly.”
+
+“Nicholas should know better than to blindly pick a random guard to cover for him.”
+
+“He just left, and as I said he was going to be right back.”  Once again Gregory offered Harrison the torch, “Are you sure you don’t want the torch, it will help illuminate whatever you’re looking for in the relic room.”
+
+With a series of shallow breaths, Harrison reached out and pushed the torch away. “No, I don’t need a torch, there is plenty of light in there.”
+
+With a slight nod, Gregory stepped away from the doorway, though he kept the torch in hand as he replied, “Yes, sir.”
+
+Harrison smiled as he reached for the door’s handle, as his fingers came to rest on the metal he let his fingers rest upon it.  Harrison allowed his fingers to feel the chill of the metal, he thought if this would be the last time, he would ever get the chance to study these magical devices.  When Gregory coughed, Harrison wrapped his hand around the handle opening the door and spoke at the guard as he walked into the room, “Thank you, Gregory.”
+
+Leaving the door open he stood just inside the room and basked in the presence of the relics resting upon their pedestals.  Despite the family’s power and wealth, they were still a minor noble home, yet his family had managed to collect a significant collection of relics.  Most were minor though they did have one or two that were considered major.  After a moment’s examination from afar, he began to wander between the pillars.
+
+The first pillar held a dagger with intricate glyphs along the center of the blade and a jade hilt, with a large diamond embedded in the bottom.  The dagger had been gifted to his family generations ago and was considered a major relic despite no one knowing what it was capable of.  Yet there were rumors that the blade was capable of killing anyone with a shallowest of scratches.  It was a beautiful weapon, but there were so many beautiful things resting upon the greyish marble pillars.  So with one last glimpse of the dagger, he walked to another pillar, and his eyes fell upon a round metal disc that looked like a fancy plate made of silver with a smooth pink marble edge.  There were two lines of glyphs along the entire circumference of the disc, one line etched into the silver the other into the marble.  
+
+As he walked past the disc, his eyes fell upon a clock with intricate glyphs sewn into its edges.  As he examined the objects, his mind wandered to all of his previous trips into this room, and his attempts to pluck secrets that were always out of reach.  Yet he kept visiting this place, searching for something that would spark an idea that was an inch away from an epiphany.  But every time he returned to his laboratory and tried his best to replicate what he had studied, he always fell short of his hopes.  With each failure instead of growing frustrated he grew more determined to grasp some of the understanding that was out of his reach.
+
+Taking a deep breath, the young lord stopped at the pedestal that held a glass sphere that fit comfortably in the palm of his hand.  Bending down he tapped the single glyph, and the orb began to glow, spilling more light into the room.  It wasn’t a lot, but it was a flameless and heatless source of light.  It was a simple thing compared to the rest, yet it was the most captivating relic in the room to him.  Unlike the other relics that seemed to be unique, his family had managed to collect almost a dozen of these spheres.  The rest of them were all located in his father’s ballroom.  Harrison closed his eyes, as a memory of one of the many banquets his father arranged came to mind.  The sight of the relics lighting the ballroom was a subtle yet powerful display of wealth and the main reason his father held so many banquets.<hr class="clear-both center-fade"/><p class="center"> [Previous Part](/writing/harrison-sylvia/series-01/part-1) | [Page 1](/writing/harrison-sylvia/series-01/part-2/) | [Page 2](/writing/harrison-sylvia/series-01/part-2/2) | <span class="current-page">***Page 3***</span> | [Page 4](/writing/harrison-sylvia/series-01/part-2/4) | [Page 5](/writing/harrison-sylvia/series-01/part-2/5) | [Page 6](/writing/harrison-sylvia/series-01/part-2/6) </p>
