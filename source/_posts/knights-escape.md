@@ -3,6 +3,7 @@ title: Knight's Escape
 tags:
   - NYC Midnight
   - Thriller
+  - Ezekiel Knight
 categories:
   - - Flash Fiction
 prompt: Brian => thriller, Rotunda, crest
