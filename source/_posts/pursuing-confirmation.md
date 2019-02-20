@@ -1,10 +1,15 @@
 ---
 title: Pursuing Confirmation
-tags: [NYC Midnight, Action/Adventure, Ezekiel Knight]
+tags:
+  - NYC Midnight
+  - Action/Adventure
+  - Ezekiel Knight
 categories:
-  - [Flash Fiction]
+  - - Flash Fiction
 prompt: 'NYC Midnight => Action/Adventure, An embassy, A sewing needle'
+date: 2019-02-19 18:19:46
 ---
+
 Slipping down from the roof, Ezekiel's feet silently landed upon the balcony. He quickly put his back against the wall and waited for an eternal moment. Then he promptly went to the balcony's door and withdrew his tools and unlocked the entrance to the embassy. Before opening it, he quickly checked to see if there were any alarms or other surveillance devices. Neither his eyes nor his sniffers detected any such device, so he opened the door and slipped inside. 
  
 Ezekiel quickly secured himself in a nearby corner and withdrew his night vision goggles. As he slipped them on, he examined the room, and his distaste flared to life.  He despised being asked to break into embassies because he didn't like operating without some kind of safety net. Unfortunately for him, he knew he was one of the few who could do what was needed of him and get back out unscathed.<!-- more --> He forced the distaste out of his mind and forced his razor-sharp focus to the task at hand.
