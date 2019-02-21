@@ -1,8 +1,8 @@
 ---
 title: Vengeful Shadow
-tags: []
+tags: [NYC Midnight, Horror]
 categories:
-  - []
+  - [Flash Fiction]
 prompt: 'NYC Midnight => Horror, Assembly Line, White noise Machine'
 ---
 While Jonathan Gates was finishing his day, one of the company’s disgruntled employees stormed over to him and glared at Jonathan with furious eyes.  When the man was close enough, he grabbed Jonathan and pulled him right into his face, and gruffly spoke, “Why did you rat me out?”
