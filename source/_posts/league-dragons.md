@@ -1,9 +1,15 @@
 ---
 title: League of Dragons
-tags: [Fantasy, Dragons, Alternate History, Napoleonic Wars]
+tags:
+  - Fantasy
+  - Dragons
+  - Alternate History
+  - Napoleonic Wars
 categories:
-  - [Review]
+  - - Review
+date: 2019-02-28 17:54:32
 ---
+
 Having just forced Napoleon to retreat from Russia, despite the damage inflicted upon their forces from the starving and mistreated dragons freed from the Russian breeding grounds, they were unable to secure his capture.  Unfortunately for the Russian troops and countryside, Laurence's pleas for their conditions were too little too late for them to have claimed the dragons for their side.  It also made his life a little uncomfortable, while he was at a party for the Czar, he sucker-punched a nobleman who had talked about poisoning the dragons to be rid of them.  By this time most of Laurence's memories had returned to him, and he was outraged by the man's behavior, yet knowing he shouldn't participate in a duel he did anyway bring Hammond along as his second.
 
 He was injured in the exchange due to a misfire, but he was able to recover.<!-- more -->  Towards the end of the recovery Eroica returned having escaped from the breeding grounds, upon hearing of his captain's freedom along with some other Prussian dragons' whose captains were discovered to be free.  Unfortunately, they returned with news about Temeraire's egg.  During [_Blood of Tyrants_](https://www.amazon.com/gp/product/0345522907/ref=as_li_tl?ie=UTF8&tag=mysite009e-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0345522907&linkId=1901833b7a0374e256008280b1ce35d4) they had left the egg with the Chinese so Prince Mianning could have his Celestial dragon, but the newly freed Prussian dragons tell Temeraire that Lien was going to steal the egg in order to destroy it to keep the Celestial line pure.<div class="embedded-image-right"><img src="https://images-na.ssl-images-amazon.com/images/I/61K5p3-sQJL._SX342_.jpg" alt="League of Dragons" style="max-height: 300px; max-width: 300px"/></div>
