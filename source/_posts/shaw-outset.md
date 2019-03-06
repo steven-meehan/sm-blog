@@ -3,6 +3,7 @@ title: Shaw's Outset
 tags:
   - NYC Midnight
   - Science Fiction
+  - Shaw
 categories:
   - - Flash Fiction
 prompt: 'Mine => Science Fiction, tavern, spork'
