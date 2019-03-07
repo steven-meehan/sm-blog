@@ -1,9 +1,12 @@
 ---
 title: Harrison & Sylvia Part Three
-tags: [Short Stories]
+tags:
+  - Short Stories
 categories:
-  - [News]
+  - - News
+date: 2019-03-07 16:40:17
 ---
+
 Last month Harrison was introduced, and he displayed his desire to find a way to do what he loved, rather than be a slave to his father's will.  At least that was what he thought, this month we return to Harrison's story to see how his life has changed as a result of his victory.<!-- more -->
 <hr class="clear-both center-fade"/><div class="embedded-image-left">![](/writing/harrison-sylvia/series-01/harrison-sylvia-1.jpg)</div>
 
