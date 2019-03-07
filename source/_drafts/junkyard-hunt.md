@@ -2,7 +2,7 @@
 title: Junkyard Hunt
 tags: []
 categories:
-  - []
+  - [Flash Fiction]
 prompt: 'Mine => Thriller, Parking Lot, Hubcap'
 ---
 Lucas was groggy when his kidnapper threw him to the ground in front of a
