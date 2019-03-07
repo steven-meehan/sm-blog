@@ -13,7 +13,7 @@ Leveraging the prestige his son's device brings, Harrison's father uses that inf
 
 After exhausting the relics on his family's isle, Harrison is forced to refine his Illuminator for other purposes, while his father arranges a trip to the King's Isle.  As the scribe organizes meetings with some of the more prominent nobleman living on the King's Isle, Harrison is hard at work crafting new designs for his Illuminator.
 
-When Harrison finally arrives on the King's Isle, though he is unsure if he can achieve a similar results.  Come and discover if Harrison is able to satisfy his father's desire for power and prestige.
+When Harrison finally arrives on the King's Isle, he is unsure if he can achieve similar results.  Come and discover if Harrison is able to satisfy his father's desire for power and prestige.
 
 <div class="clear-both center">
 [![Part Three](/writing/harrison-sylvia/series-01/part-3/hs103.jpg "Part Three")](/writing/harrison-sylvia/series-01/part-3)<p>Click above to read Part Three</p></div>
