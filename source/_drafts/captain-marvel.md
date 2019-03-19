@@ -1,41 +1,22 @@
 ---
-title: captain-marvel
-tags: []
+title: Captain Marvel
+tags: [Marvel, Movies, Comics]
 categories:
-  - []
+  - [Review]
 ---
-<!-- more --><div class="embedded-image-left">![](./)</div><div class="embedded-image-right">![](./)</div>
+I have been a big fan of the Marvel Cinematic Universe for a while now, startign all the way back with Iron Man.  Now I remember the emotions that flored me with Infinity War's ending, despite intelectually knowing that it would happen.  But in the film's final post credit scene when Nick Fury's pager fell from his disintegrating fingers and we were greeted with Captain Marvel's logo I have been eagerly waiting to get it's backstory.  Well the movie with those answers and more has finally been released and I can say it was worth the wait.
 
-ever since the last end credit scene of infinity war when we were teased with captain marvel's appearance we have been waiting to discover how that pager came into existence, and we recently got our wish
+Going in I knew the film was going to take place in the ninties and that we would be getting Carol Danvers origin, but those stories can be a lot of fun.<!-- more -->  Thankfully the Studio decided to alter the typical layout of the story.  Unlike with Iron Man where we follow Tony Stark from his beginings in the cave to his declaration, we start with Vers, aka Captain Marvel as a member of the Spaceforce preparing for a battle.  Despite suffering from amnesia, she was certain of her short past and her journey forward.  But as the movie unfolds she dicovers that her path is one of rediscovery.  It was a nice spin on a classic tale.<div class="embedded-image-right"><img src="https://m.media-amazon.com/images/M/MV5BMTE0YWFmOTMtYTU2ZS00ZTIxLWE3OTEtYTNiYzBkZjViZThiXkEyXkFqcGdeQXVyODMzMzQ4OTI@._V1_.jpg" alt="Captain Marvel" style="max-height: 300px; max-width: 300px"/></div>
+Despite Captain Marvel taking place about two decades beofre the aformentioned Iron Man, I have heard plenty of talk leading up to its release that it would be a lead in to Avengers Endgame.  And it performed that job just as well as Thor: Ragnarok did to introduce Avengers Infinty War.  In fact in addition to being Carol Danver's origin story, it also serves as an origin for Nick Fury, in some ways.  The interaction between Danvers and Fury is almost as central to the movie as her own past, and it starts when Fury tries to arrest her after falling through the roof of a Blockbuster.
 
-the story, while an origin story albeit an after the fact rediscovery of her origin, fresh take on the spin
+Over the course of the movie we are introduced to a side of Fury that we have never seen, an indivdual who is far more trusting.  During the film we are treated to a character arc that takes this trusting man and sets him on the path to the cynical and clandestine individual we know and love.  Now before anyone accuses me of thinking Fury stole the movie, I want to discus the complaints I have heard about Brie Larson's performance.  I can't remember where I heard that it was wooden one, but let's take a moment and examine the first moments of the film.  Vers was fighting with Jude Law's Yon-Rogg and during that fight he flat out tells her that emotion is the enemy and she needs to suppress it.  But over the course of the movie as Captain Marvel begins to regain her lost memories her personality begins to shine through the Kree brainwashing.
 
-begrudging buddy film with Danvers and fury, since it starts with him trying to arrest her
+The movie pace and flow was well done, giving us the information we needed at the right time without disrupting the experiance.  The only nitpik I have is the use of a little Deus Ex Machina with Captain Marvel's use of the Kree technology from her suit letting her hijack phones so she could communicate with her team.  A stark contrast to her team being able to communicate with Kree vessels without needing to hijack a phone.  Though we do get a nice joke about long distance calls with her first call.  
 
-was billed as a direct prelude into endgame much as Ragnarok was to infinity wars, (is done wonderfully) [no spoilers]
+The amount of nostalgia they managed to cram into the movie was amazing.  Be it the trip inside Blockbuster Video or the loading screen for reading an audio file from CD, it brought me back to my youth and a smile to my face.  One of my favorie lines was the interaction when Fury and Danvers were getting ready to fly a jet:
 
-billed as captain marvel's first solo movie but so much more it is also an origin for nick fury
+>Nick Fury: You know how to fly this thing?
+>Captain Marvel: We’ll see…
+>Fury: That’s a yes or no question.
 
-we see a new side of fury, a more trusting side and it was fun to see his character arc from an open individual to a more cynical and clandestine individual we know and love
-
-the movie flows well enough to keep me interested with all of the data dumps
-
-The dumps are done in critical points of the movie 
-
-the visual cues were fantastic
-
-the music paired with the movie perfectly enhancing the performance of the actors
-
-nostalgia factor through the roof, computer references were my favorite part of the film, blockbuster video, RadioShack, payphones
-
-heard complaints that Brie Larson's performance was wooden, but let's take a moment and examine the first moments of the film, she is fighting with Jude Law as Yon-Rogg and he flat out tells her that emotion is the enemy and she needs to suppress it, or it will get in the way, so the performance fits with the character
-
-there was a little Deus Ex Machina with her being able to hijack phones with her advanced technology to perform tasks that were ridiculous but helped the story unfold
-
-the comedy again is well placed (an example of fury asking is she can fly the ship and her response of maybe yes or no question, peeking under the cloth of the autopsied Skrull)
-
-the cast appeared to have good chemistry
-
-excited to see Coulson and the forging of the friendship between him and fury
-
-goose, the cat that has been in so much of the promos for the movie is used as comedic relief in tandem with fury for much of the film, though early on he was recognized as a Flerken
+Also since it seemed that Goose, the cat, got so much in the promotional side of things, it is worth mentioning that he was an awesome addition to the film.
