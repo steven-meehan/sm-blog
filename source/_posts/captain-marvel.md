@@ -1,9 +1,14 @@
 ---
 title: Captain Marvel
-tags: [Marvel, Movies, Comics]
+tags:
+  - Marvel
+  - Movies
+  - Comics
 categories:
-  - [Review]
+  - - Review
+date: 2019-03-19 18:38:54
 ---
+
 I have been a big fan of the Marvel Cinematic Universe dating back to its inception with Iron Man, so I get excited about every film that comes out.  Now I remember all of the emotions that were swirling in me at the conclusion of Avengers: Infinity War's, despite intellectually knowing that it would happen.  But when the film's final post-credit scene ended with Nick Fury's pager falling through his disintegrating fingers, I got excited with the teasing of Captain Marvel.  Many things went through my mind, but the biggest was why not before, and so I've been eagerly waiting to get the backstory.  And we finally got the answers we were waiting for, and then some.
 
 Going in I knew the film was going to take place in the mid-nineties and it would be Carol Danvers origin, and these stories can be a lot of fun, if not a little overdone.<!-- more -->  But thankfully Marvel Studios decided to alter the typical layout of an origin story.  Unlike with Iron Man where we follow Tony Stark from his beginnings in the cave to his declaration, with Vers, aka Captain Marvel aka Carol Danvers, we see her as a full member of the Spaceforce preparing for battle.  Despite only having six years of memory, she was certain of that short past and her journey forward.  But as the movie unfolds, she finds herself on a path of rediscovery.  It was a nice spin on a classic tale.<div class="embedded-image-right"><img src="https://m.media-amazon.com/images/M/MV5BMTE0YWFmOTMtYTU2ZS00ZTIxLWE3OTEtYTNiYzBkZjViZThiXkEyXkFqcGdeQXVyODMzMzQ4OTI@._V1_.jpg" alt="Captain Marvel" style="max-height: 300px; max-width: 300px"/></div>
