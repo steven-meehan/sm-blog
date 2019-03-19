@@ -3,6 +3,7 @@ title: Inception of Insight Investigations
 tags:
   - NYC Midnight
   - Mystery
+  - Insight Investigations
 categories:
   - - Flash Fiction
 prompt: 'Fiona => mystery, clocktower, ring'
