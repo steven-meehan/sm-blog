@@ -1,5 +1,5 @@
 ---
-title: Assault on a Skywalk
+title: Reviewing the Skywalk
 tags: [NYC Midnight, Mystery, Insight Investigations]
 categories:
   - [Flash Fiction]
