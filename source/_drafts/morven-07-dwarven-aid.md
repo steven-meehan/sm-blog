@@ -1,5 +1,5 @@
 ---
-title: morven-07-dwarven-aid
+title: Dwarven Aid
 tags: [Morven]
 categories:
   - [Flash Fiction]
