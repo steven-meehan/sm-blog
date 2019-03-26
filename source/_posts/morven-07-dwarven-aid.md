@@ -1,9 +1,12 @@
 ---
 title: Dwarven Aid
-tags: [Morven]
+tags:
+  - Morven
 categories:
-  - [Flash Fiction]
+  - - Flash Fiction
+date: 2019-03-26 17:22:18
 ---
+
 After a long night of searching a tired and nervous Caleb stopped when he came upon a place he could sit and rest his feet.  As he relaxed, he deliberately began pulling his weaponry out and giving it a thorough examination.  So far as Caleb tried to follow the path when he last crossed paths with the Dwarves all he managed to do was avoid vicious wildlife.  With each successful examination, Caleb returned the weapon he found that his nerves calmed down.  Once finished Caleb got to his feet and continued his attempt at following the path his last hunt.  Unfortunately, this world’s terrain was still too familiar, but Caleb knew the colony required him to succeed in his assignment.  With a sigh of frustration, Caleb resumed his search.
 
 As the day wore on Caleb rubbed at his eyes as he forced himself to keep putting one foot in front of the other.  He needed to find the dwarves, he knew that without their aid the settlement couldn’t stand up to the massing threat.<!-- more -->  As Caleb stumbled into a tree, he shook his head and resigned himself to look for a place where that he could secure to get a few hours of sleep.  Just as he altered his search, Caleb finally caught sight of tracks that didn’t belong to the natural wildlife.  The discovery forced the exhaustion out of his mind and with a newfound vigor he started following the tracks.  Unfortunately as Caleb followed the tracks his nerves began to fray as they rapidly began diminishing.
