@@ -1,9 +1,12 @@
 ---
 title: Founding
-tags: [Transfromation]
+tags:
+  - Transfromation
 categories:
-  - [Flash Fiction]
+  - - Flash Fiction
+date: 2019-03-28 17:22:09
 ---
+
 A couple of months after championing the cry to settle on this world, Caitlin began to wonder if she made a mistake.  The typical plans quickly failed with trying to settle every settler on the planet, and that created an irate and argumentative people.  Every time Caitlin attempted to advance the common goals of some group with their own agenda would block her progress.  As a result, the lofty goals that should've unified the fledgling world seemed just as unattainable as the day they lost Laria.  Looking around the chamber, Caitlin shook her head in awe of the number of people who somehow managed to force themselves into the room, each trying to argue their point.  She recognized so many faces and knew them all to be hard workers, but something changed in them.  As she slumped in her chair, her mind sought an answer, but she kept circling back to the fact everything changed, which sparked a fear that spread like wildfire throughout Aurora.<!-- more -->
 
 Digging deeply, Caitlin hoped that tonight would be more productive.  As the clamor grew she leaned over to Quinn, covering her microphone and asked, "Is it too late to change our minds?"
