@@ -1,9 +1,12 @@
 ---
 title: Final Stop
-tags: [Fortunes]
+tags:
+  - Fortunes
 categories:
-  - [Flash Fiction]
+  - - Flash Fiction
+date: 2019-04-02 18:07:45
 ---
+
 As the craft's journey drew to the end of its trip, the doctors examined Rylan for the last time. Sitting on the edge of an examination bed, Rylan's fingers were tapping away. So far not one of the crews who landed on either Latria or Medicia developed radiation sickness. Rylan suspected that he was the only member of the landing parties to receive this level of care. As time dragged on the captain's voice boomed through the intercoms. "We're about three hours from the Larian system. Any member of the crew that has made planetfall, report to sickbay immediately."
 
 Bouncing his head side to side, Rylan glanced at the doctor hiding behind a console. "Well doc, can you finish up my exam before you get slammed with the last minute rush.<!-- more -->"
