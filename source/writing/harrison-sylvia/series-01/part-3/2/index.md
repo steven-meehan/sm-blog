@@ -4,7 +4,7 @@ date: 2019-01-29 10:58:04
 updated: 2019-01-29 06:04:10
 displayAd: true
 ---
-<p class="center"> [Previous Part](/writing/harrison-sylvia/series-01/part-2) | [Page 1](/writing/harrison-sylvia/series-01/part-3/) | <span class="current-page">***Page 2***</span> | [Page 3](/writing/harrison-sylvia/series-01/part-3/3) | [Page 4](/writing/harrison-sylvia/series-01/part-3/4) | [Page 5](/writing/harrison-sylvia/series-01/part-3/5) | [Page 6](/writing/harrison-sylvia/series-01/part-3/6) </p><hr class="clear-both center-fade"/><div class="embedded-image-right"><img src="/writing/harrison-sylvia/series-01/part-3/hs103.jpg" alt="Part One" style="max-height: 275px;"/></div>“Like what.”
+<p class="center"> [Previous Part](/writing/harrison-sylvia/series-01/part-2) | [Page 1](/writing/harrison-sylvia/series-01/part-3/) | <span class="current-page">***Page 2***</span> | [Page 3](/writing/harrison-sylvia/series-01/part-3/3) | [Page 4](/writing/harrison-sylvia/series-01/part-3/4) | [Page 5](/writing/harrison-sylvia/series-01/part-3/5) | [Page 6](/writing/harrison-sylvia/series-01/part-3/6) | [Next Part](/writing/harrison-sylvia/series-01/part-4) </p><hr class="clear-both center-fade"/><div class="embedded-image-right"><img src="/writing/harrison-sylvia/series-01/part-3/hs103.jpg" alt="Part One" style="max-height: 275px;"/></div>“Like what.”
 
 “Well, I'm sure you could modify your illuminator in a few different ways.”
 
@@ -43,4 +43,4 @@ With another sigh, Harrison sat up ignoring the relic in his hands as he replied
 
 "I can do whatever I think is best for this family, son.  Don’t ever forget that."
 
-Harrison caught the subtle threat, and he lowered his eyes he mumbled, "I won't."<hr class="clear-both center-fade"/><p class="center"> [Previous Part](/writing/harrison-sylvia/series-01/part-1) | [Page 1](/writing/harrison-sylvia/series-01/part-3/) | <span class="current-page">***Page 2***</span> | [Page 3](/writing/harrison-sylvia/series-01/part-3/3) | [Page 4](/writing/harrison-sylvia/series-01/part-3/4) | [Page 5](/writing/harrison-sylvia/series-01/part-3/5) | [Page 6](/writing/harrison-sylvia/series-01/part-3/6) </p>
+Harrison caught the subtle threat, and he lowered his eyes he mumbled, "I won't."<hr class="clear-both center-fade"/><p class="center"> [Previous Part](/writing/harrison-sylvia/series-01/part-1) | [Page 1](/writing/harrison-sylvia/series-01/part-3/) | <span class="current-page">***Page 2***</span> | [Page 3](/writing/harrison-sylvia/series-01/part-3/3) | [Page 4](/writing/harrison-sylvia/series-01/part-3/4) | [Page 5](/writing/harrison-sylvia/series-01/part-3/5) | [Page 6](/writing/harrison-sylvia/series-01/part-3/6) | [Next Part](/writing/harrison-sylvia/series-01/part-4) </p>
