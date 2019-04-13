@@ -1,5 +1,5 @@
 ---
-title: revelations-07-briefing
+title: fortunes-15-briefing
 tags: []
 categories:
   - []

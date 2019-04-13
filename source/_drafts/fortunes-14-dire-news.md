@@ -1,5 +1,5 @@
 ---
-title: revelations-06-dire-news
+title: fortunes-14-dire-news
 tags: []
 categories:
   - []

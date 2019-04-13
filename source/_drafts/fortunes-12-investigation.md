@@ -1,5 +1,5 @@
 ---
-title: revelations-04-investigation
+title: fortunes-12-investigation
 tags: []
 categories:
   - []

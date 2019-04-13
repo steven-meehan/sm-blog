@@ -1,5 +1,5 @@
 ---
-title: revelations-02-survey-laria
+title: fortunes-10-survey-laria
 tags: []
 categories:
   - []

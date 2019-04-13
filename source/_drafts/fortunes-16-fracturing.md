@@ -1,5 +1,5 @@
 ---
-title: revelations-08-fracturing
+title: fortunes-16-fracturing
 tags: []
 categories:
   - []
