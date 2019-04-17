@@ -1,9 +1,12 @@
 ---
 title: Elven Aid
-tags: [Morven]
+tags:
+  - Morven
 categories:
-  - [Flash Fiction]
+  - - Flash Fiction
+date: 2019-04-16 20:52:45
 ---
+
 Keldon stared at the arrows pointing at him. As he took a small step to look around him all the arrows were pulled back in their bows. Keldon raised his hands gesturing his surrender to their will. "I'm not looking for a fight."
 "Why are you here?" Asked one of the creatures holding the bows.
 Keldon tried to take a step to face where the voice came from. And as his leg twitched an arrow embedded itself into the ground next to his leg. Keldon reached down and felt the torn fabric as he heard another voice echo in the dark forest. "You will not be warned again, do not move at all.<!-- more -->"
