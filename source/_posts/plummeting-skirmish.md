@@ -1,10 +1,13 @@
 ---
 title: Plummeting Skirmish
-tags: [Drama]
+tags:
+  - Drama
 categories:
-  - [Flash Fiction]
+  - - Flash Fiction
 prompt: 'NYC Midnight => Drama, An Elevator, A Folding Chair'
+date: 2019-04-19 11:41:00
 ---
+
 Tired and exhausted Glen pressed the down button.  And when there wasn't an immediate ding, he groaned. After a long day, all Glen wanted to do was go home and collapse into his bed and sleep. Glen stumbled to the folding chair propped against the wall across from the elevator. He opened the chair and sat down, while he waited for the old and creeping elevator to arrive. And after what felt like an interminable wait, the elevator's bell dinged.  So, Glen stood up and put the chair back against the wall.
 
 As the doors slid apart, Glen noticed a man and a woman riding in the car. He waited for a moment, but neither of them moved to get out of the car, so he walked in. With a glance at the floor buttons, Glen saw that the only floor selected was the ground floor.<!-- more --> With a smile, he leaned against the back of the car and joined the other riders in a silent trip towards the lobby.
