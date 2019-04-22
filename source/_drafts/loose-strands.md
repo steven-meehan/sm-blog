@@ -1,15 +1,15 @@
 ---
-title: loose-strands
-tags: []
+title: Loose Strands
+tags: [NYC Midnight, Mystery, Insight Investigations]
 categories:
-  - []
+  - [Flash Fiction]
 prompt: 'NYC Midnight => Mystery, A Creamery, A Fake Beard'
 ---
 Ducking underneath the yellow tape, Kyle Rickman surveyed the inside the creamery. There were a few witnesses including the Damien Horn's nanny and his parents. From what the father told him on the phone, a couple of family friends would be joining the people shortly. Kyle offered officer Andrew Grimes a nod, "Good afternoon officer."
 
-But the officer sneer and Kyle, "Good afternoon Mr. Rickman." As Kyle tried to walk to his clients, the officer grabbed him and whispered. "I didn't want you here, the family is insisting. But you better behave."
+But the officer sneer and Kyle, "Good afternoon Mr. Rickman." As Kyle tried to walk to his clients, the officer grabbed him and whispered. "I didn't want you here, the family is insisting. But you better behave.<!-- more -->"
 
-"Officer, we all want the same thing. Damien returned to his family safely and quickly. Now if you'll excuse me, I need to do my job.<!-- more -->"
+"Officer, we all want the same thing. Damien returned to his family safely and quickly. Now if you'll excuse me, I need to do my job."
 
 "Be careful."
 
