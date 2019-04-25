@@ -4,7 +4,7 @@ date: 2019-01-29 10:58:04
 updated: 2019-01-29 06:04:10
 displayAd: true
 ---
-<p class="center"> [Previous Part](/writing/harrison-sylvia/series-01/part-3) | [Page 1](/writing/harrison-sylvia/series-01/part-3/) | [Page 2](/writing/harrison-sylvia/series-01/part-3/2) | [Page 3](/writing/harrison-sylvia/series-01/part-3/3) | [Page 4](/writing/harrison-sylvia/series-01/part-3/4) | <span class="current-page">***Page 5*** </span> | [Page 6](/writing/harrison-sylvia/series-01/part-3/6) | [Next Part](/writing/harrison-sylvia/series-01/part-4) </p><hr class="clear-both center-fade"/><div class="embedded-image-left"><img src="/writing/harrison-sylvia/series-01/part-3/hs103.jpg" alt="Part One" style="max-height: 275px;"/></div>Harrison shook his head muttering, “And exactly how many relics have we been able to activate, Connor?”
+<p class="center"> [Previous Part](/writing/harrison-sylvia/series-01/part-3) | [Page 1](/writing/harrison-sylvia/series-01/part-3/) | [Page 2](/writing/harrison-sylvia/series-01/part-3/2) | [Page 3](/writing/harrison-sylvia/series-01/part-3/3) | [Page 4](/writing/harrison-sylvia/series-01/part-3/4) | <span class="current-page">***Page 5*** </span> | [Page 6](/writing/harrison-sylvia/series-01/part-3/6) | [Next Part](/writing/harrison-sylvia/series-01/part-4) </p><hr class="clear-both center-fade"/><div class="embedded-image-left"><img src="/writing/harrison-sylvia/series-01/part-3/hs103.jpg" alt="Part Three" style="max-height: 275px;"/></div>Harrison shook his head muttering, “And exactly how many relics have we been able to activate, Connor?”
 
 “Master Harrison, I’m not equipped to decipher the use of relics.”  Connor paused as he ate more of his food, then answered, “You’re the expert in that particular field, Master Harrison.”
 

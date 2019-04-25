@@ -4,7 +4,7 @@ date: 2019-01-29 10:58:04
 updated: 2019-01-29 06:04:10
 displayAd: true
 ---
-<p class="center"> [Previous Part](/writing/harrison-sylvia/series-01/part-2) | [Page 1](/writing/harrison-sylvia/series-01/part-3/) | [Page 2](/writing/harrison-sylvia/series-01/part-3/2) | [Page 3](/writing/harrison-sylvia/series-01/part-3/3) | <span class="current-page">***Page 4*** </span> | [Page 5](/writing/harrison-sylvia/series-01/part-3/5) | [Page 6](/writing/harrison-sylvia/series-01/part-3/6) | [Next Part](/writing/harrison-sylvia/series-01/part-4) </p><hr class="clear-both center-fade"/><div class="embedded-image-right"><img src="/writing/harrison-sylvia/series-01/part-3/hs103.jpg" alt="Part One" style="max-height: 275px;"/></div>Instead of his father’s voice, Harrison heard Connor’s voice, “I never thought I would see you here Master Harrison.”
+<p class="center"> [Previous Part](/writing/harrison-sylvia/series-01/part-2) | [Page 1](/writing/harrison-sylvia/series-01/part-3/) | [Page 2](/writing/harrison-sylvia/series-01/part-3/2) | [Page 3](/writing/harrison-sylvia/series-01/part-3/3) | <span class="current-page">***Page 4*** </span> | [Page 5](/writing/harrison-sylvia/series-01/part-3/5) | [Page 6](/writing/harrison-sylvia/series-01/part-3/6) | [Next Part](/writing/harrison-sylvia/series-01/part-4) </p><hr class="clear-both center-fade"/><div class="embedded-image-right"><img src="/writing/harrison-sylvia/series-01/part-3/hs103.jpg" alt="Part Three" style="max-height: 275px;"/></div>Instead of his father’s voice, Harrison heard Connor’s voice, “I never thought I would see you here Master Harrison.”
 
 “I wanted to test the new Illuminator,” Harrison began as he lifted the prototype.  “So, I decided to look at what father was doing here.”
 

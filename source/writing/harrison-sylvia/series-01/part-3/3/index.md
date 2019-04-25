@@ -4,7 +4,7 @@ date: 2019-01-29 10:58:04
 updated: 2019-01-29 06:04:10
 displayAd: true
 ---
-<p class="center"> [Previous Part](/writing/harrison-sylvia/series-01/part-2) | [Page 1](/writing/harrison-sylvia/series-01/part-3/) | [Page 2](/writing/harrison-sylvia/series-01/part-3/2) | <span class="current-page">***Page 3***</span> | [Page 4](/writing/harrison-sylvia/series-01/part-3/4) | [Page 5](/writing/harrison-sylvia/series-01/part-3/5) | [Page 6](/writing/harrison-sylvia/series-01/part-3/6) | [Next Part](/writing/harrison-sylvia/series-01/part-4) </p><hr class="clear-both center-fade"/><div class="embedded-image-left"><img src="/writing/harrison-sylvia/series-01/part-3/hs103.jpg" alt="Part One" style="max-height: 275px;"/></div>"Well now that we have covered that issue,” his father began while the steel in his eyes softened.  “Did anything useful come from your investigations?"
+<p class="center"> [Previous Part](/writing/harrison-sylvia/series-01/part-2) | [Page 1](/writing/harrison-sylvia/series-01/part-3/) | [Page 2](/writing/harrison-sylvia/series-01/part-3/2) | <span class="current-page">***Page 3***</span> | [Page 4](/writing/harrison-sylvia/series-01/part-3/4) | [Page 5](/writing/harrison-sylvia/series-01/part-3/5) | [Page 6](/writing/harrison-sylvia/series-01/part-3/6) | [Next Part](/writing/harrison-sylvia/series-01/part-4) </p><hr class="clear-both center-fade"/><div class="embedded-image-left"><img src="/writing/harrison-sylvia/series-01/part-3/hs103.jpg" alt="Part Three" style="max-height: 275px;"/></div>"Well now that we have covered that issue,” his father began while the steel in his eyes softened.  “Did anything useful come from your investigations?"
 
 "No," Harrison said as he returned to his inspection of the plate.
 
