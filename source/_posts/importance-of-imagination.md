@@ -2,8 +2,10 @@
 title: The Importance of Imagination
 tags: []
 categories:
-  - [Thought]
+  - - Thought
+date: 2019-04-23 18:47:29
 ---
+
 Every so often I enjoy looking through old pictures, and the lives they chronical. And when I came across some of my daughter, I smiled at her unadulterated joy and happiness. I couldn't help but remember that her favorite toy was a simple cardboard box. The things she could imagine those ordinary boxes to be always astounded me. Every time I would ask her what she was doing I heard different things, from sailing on a boat to flying on a plane. And each answer brought a smile to my face.  Because it showcased her pure unadulterated imagination. <!-- more -->
 
 It is amazing how powerful an imagination really is when you stop and think about it. The ability to take something utilitarian and ordinary like a cardboard box and transform it into something extraordinary is nothing short of a miracle. It's also the ability that lets us submerge ourselves into a book.  It's what allows us to transform the words into an image unfolding before our very eyes. Unfortunately, I think it’s an undervalued part of our adult lives. Life has a way of eroding an imagination all on its own, from work to stress and everything in-between. 
