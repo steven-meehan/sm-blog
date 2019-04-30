@@ -1,8 +1,8 @@
 ---
 title: Avengers Endgame
-tags: []
+tags: [Movies, Marvel, Comics]
 categories:
-  - []
+  - [Review]
 ---
 I remember seeing the original Iron Man in theaters and being blown away by the movie. Its story was captivating, and the characters were cast with perfection. Then something extraordinary happened, the first post-credit scene ran. And I remember the chill that ran down my spine. Eleven years ago that scene teased a future movie, The Avengers. But even with that first mention of what was to come, I never expected what would unfold before me. It took a while for the depth of this saga to unfold. But when the credits of Infinity War began to roll, my heart yearned for the then-untitled fourth Avengers film to arrive. It was fortunate that the wait wasn't too long. But after twenty-one movies in the what has become known as the Infinity Saga. I couldn't help but wonder how Marvel Studios would manage to tie everything together. And after walking out of the theater on the 27th, the answer was simple. All they needed to do was release Avengers: Endgame.<!-- more -->
 
