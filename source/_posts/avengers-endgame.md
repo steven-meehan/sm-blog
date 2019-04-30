@@ -1,9 +1,14 @@
 ---
 title: Avengers Endgame
-tags: [Movies, Marvel, Comics]
+tags:
+  - Movies
+  - Marvel
+  - Comics
 categories:
-  - [Review]
+  - - Review
+date: 2019-04-30 18:36:10
 ---
+
 I remember seeing the original Iron Man in theaters and being blown away by the movie. Its story was captivating, and the characters were cast with perfection. Then something extraordinary happened, the first post-credit scene ran. And I remember the chill that ran down my spine. Eleven years ago that scene teased a future movie, The Avengers. But even with that first mention of what was to come, I never expected what would unfold before me. It took a while for the depth of this saga to unfold. But when the credits of Infinity War began to roll, my heart yearned for the then-untitled fourth Avengers film to arrive. It was fortunate that the wait wasn't too long. But after twenty-one movies in the what has become known as the Infinity Saga. I couldn't help but wonder how Marvel Studios would manage to tie everything together. And after walking out of the theater on the 27th, the answer was simple. All they needed to do was release Avengers: Endgame.<!-- more -->
 
 Over the past few months as I waited for the movie's premiere.  I sought and devoured every fan theory around the internet. And with each teaser and theory, I tried to form a picture of what Endgame might be. When I'm invested in a story, there are times when I cannot stop trying to find the answers early. Despite all the rumors on the web, the events that unfolded on the screen blindsided me every step of the way. And all the credit belongs to Marvel Studios. The secrecy that surrounded this movie was out of this world. After watching the movie, I wanted to applaud them for using every trick they could to keep the ending from escaping.
