@@ -3,7 +3,7 @@ title: The Spark
 tags:
   - Darren Gilbert
 categories:
-  - - Fortunes
+  - - Flash Fiction
 date: 2019-04-11 20:06:26
 ---
 
