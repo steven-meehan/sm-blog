@@ -10,7 +10,7 @@ I love crafting stories.  It is a transcendent experience for me, to craft tales
 
 I have created a [Patreon page](https://www.patreon.com/stevenpmeehan) for precisely this reason.  I have spent a fair amount of time deciding what kind of benefits I would offer for the various levels of support, and as a result of that thought I have come up with the following five tiers.
 
-* ***Copper***: This tier is $2.00 a month and will include getgives the patron access to exclusive flash fiction released on my Patreon page.
+* ***Copper***: This tier is $2.00 a month and will give the patron access to exclusive flash fiction released on my Patreon page.
 * ***Bronze***: This tier is $5.00 a month and will include the reward available to the ***Copper*** tier plus access to drafts of my published novels and short stories.
 * ***Silver***: This tier is $25.00 a month and will include the rewards available to the ***Bronze*** tier plus custom swag including.
   * Immediately: A stress reliever
