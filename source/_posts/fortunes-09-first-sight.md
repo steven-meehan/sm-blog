@@ -1,9 +1,12 @@
 ---
 title: First Sight
-tags: [Fortunes]
+tags:
+  - Fortunes
 categories:
-  - [Flash Fiction]
+  - - Flash Fiction
+date: 2019-05-17 17:50:54
 ---
+
 Placing his hand on his chest, Rylan tried to force his raging stomach to settle.  As his fingers went through the motions of lacing up his boots, his mind kept returning to the fact that according to the long-range sensors Laria was another dead world.  Yet there was another planet in this system that teemed with life, and he couldn't explain it.
 
 As he finished tying his shoes, Cederic sat down next to him.  "How are you holding up Rylan?"
@@ -80,7 +83,7 @@ The line crackled as Rylan, and the captain waited for a response from Cederic's
 
 "What is it Cederic?"
 
-"Well, re can confirm that based on the land masses this planet is not Laria." Cederic answered with a slight hitch in his voice.
+"Well, we can confirm that based on the land masses this planet is not Laria." Cederic answered with a slight hitch in his voice.
 
 "But what?" Rylan asked as the computer resumed the course to the other world.
 
