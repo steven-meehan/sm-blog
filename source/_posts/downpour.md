@@ -1,10 +1,13 @@
 ---
 title: Downpour
-tags: [Fantasy]
+tags:
+  - Fantasy
 categories:
-  - [Flash Fiction]
+  - - Flash Fiction
 prompt: 'Mine => Fantasy, Open'
+date: 2019-05-22 22:08:24
 ---
+
 As Amelia's feet carried her forward, she tugged at her hood to keep the rain from pummeling the top of her head. When her foot came down on a patch of rain-slicked earth, her foot slid, causing her to stumble. As Amelia fell, she reached out and kept herself from collapsing to the ground. With a steadying breath, she reclaimed her feet and stood to survey the field. With her path chosen Amelia probed at the swatch of earth to find a sturdier tail.
 
 As she traveled the firmer ground, Amelia raised her hand to let the raindrops fall upon her palm. As each droplet collided with her palm, her skin rippled absorbing the drop like a stone thrown upon a clear lake.<!-- more --> Each strike upon her skin drew excitement and joy into Amelia's feature. Water, specifically rain, rejuvenated the grim woman stalking across the field. As the ripples spread across her body, Amelia shoved the hood back from her face and looked up into the heart of the downpour. Standing there Amelia let the rain renew her body, filling her slender body with the power of the storm.
