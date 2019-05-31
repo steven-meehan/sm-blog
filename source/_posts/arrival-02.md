@@ -1,9 +1,12 @@
 ---
 title: Jettison Beaching
-tags: [Arrival]
+tags:
+  - Arrival
 categories:
-  - [Flash Fiction]
+  - - Flash Fiction
+date: 2019-05-31 17:40:21
 ---
+
 Nathaniel stood on the beach of the closest continent.  As the waves lapped up against the man's legs, he watched as bodies flowed out of the Novus into this strange new world.  Some headed away from the claimed shore.
 
 Someone tapped on Nathaniel's shoulder, and the man's head turned around and saw his friend, Marcus, standing behind him.  Marcus stepped closer to his friend and pointed at the raft coming towards the shore.<!-- more -->  He squeezed his friend's shoulder as he said, "That should be the last of the supplies."
