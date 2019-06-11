@@ -1,10 +1,10 @@
 ---
-title: 'Harrison & Sylvia, Part Four'
+title: 'Harrison & Sylvia, Part Five'
 date: 2019-04-02 10:58:04
 updated: 2019-04-02 06:04:10
 displayAd: true
 ---
-<p class="center">[Previous Part](/writing/harrison-sylvia/series-01/part-4) | [Page 1](/writing/harrison-sylvia/series-01/part-5/) | <span class="current-page">***Page 2***</span> | [Page 3](/writing/harrison-sylvia/series-01/part-5/3) | [Page 4](/writing/harrison-sylvia/series-01/part-5/4) | [Page 5](/writing/harrison-sylvia/series-01/part-5/5) | [Page 6](/writing/harrison-sylvia/series-01/part-5/6) | [Page 7](/writing/harrison-sylvia/series-01/part-5/7) | [Page 8](/writing/harrison-sylvia/series-01/part-5/8) </p><hr class="clear-both center-fade"/><div class="embedded-image-right"><img src="/writing/harrison-sylvia/series-01/part-5/hs105.jpg" alt="Part Five" style="max-height: 275px;"/></div>“Of course, sir,” Gabriel answered as he bowed his head and left the room.
+<p class="center">[Previous Part](/writing/harrison-sylvia/series-01/part-4) | [Page 1](/writing/harrison-sylvia/series-01/part-5/) | <span class="current-page">***Page 2***</span> | [Page 3](/writing/harrison-sylvia/series-01/part-5/3) | [Page 4](/writing/harrison-sylvia/series-01/part-5/4) | [Page 5](/writing/harrison-sylvia/series-01/part-5/5) | [Page 6](/writing/harrison-sylvia/series-01/part-5/6) | [Page 7](/writing/harrison-sylvia/series-01/part-5/7) | [Page 8](/writing/harrison-sylvia/series-01/part-5/8) | [Next Part](/writing/harrison-sylvia/series-01/part-6)</p><hr class="clear-both center-fade"/><div class="embedded-image-right"><img src="/writing/harrison-sylvia/series-01/part-5/hs105.jpg" alt="Part Five" style="max-height: 275px;"/></div>“Of course, sir,” Gabriel answered as he bowed his head and left the room.
 
 Once the door closed, Lucas looked over at Harrison asking, “He’s a little stuffy, isn't he, Harrison?”
 
@@ -64,4 +64,4 @@ Harrison smiled as he placed a stone on the board. "Because I have no idea what 
 
 After Harrison placed his fourth piece on the board, Lucas finished his abandoned thought. "I'm sure if you could make a cannon that was portable he would reward that."
 
-"He probably would."<hr class="clear-both center-fade"/><p class="center">[Previous Part](/writing/harrison-sylvia/series-01/part-4) | [Page 1](/writing/harrison-sylvia/series-01/part-5/) | <span class="current-page">***Page 2***</span> | [Page 3](/writing/harrison-sylvia/series-01/part-5/3) | [Page 4](/writing/harrison-sylvia/series-01/part-5/4) | [Page 5](/writing/harrison-sylvia/series-01/part-5/5) | [Page 6](/writing/harrison-sylvia/series-01/part-5/6) | [Page 7](/writing/harrison-sylvia/series-01/part-5/7) | [Page 8](/writing/harrison-sylvia/series-01/part-5/8) </p>
+"He probably would."<hr class="clear-both center-fade"/><p class="center">[Previous Part](/writing/harrison-sylvia/series-01/part-4) | [Page 1](/writing/harrison-sylvia/series-01/part-5/) | <span class="current-page">***Page 2***</span> | [Page 3](/writing/harrison-sylvia/series-01/part-5/3) | [Page 4](/writing/harrison-sylvia/series-01/part-5/4) | [Page 5](/writing/harrison-sylvia/series-01/part-5/5) | [Page 6](/writing/harrison-sylvia/series-01/part-5/6) | [Page 7](/writing/harrison-sylvia/series-01/part-5/7) | [Page 8](/writing/harrison-sylvia/series-01/part-5/8) | [Next Part](/writing/harrison-sylvia/series-01/part-6)</p>

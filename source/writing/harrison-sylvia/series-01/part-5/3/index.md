@@ -1,10 +1,10 @@
 ---
-title: 'Harrison & Sylvia, Part Four'
+title: 'Harrison & Sylvia, Part Five'
 date: 2019-04-02 10:58:04
 updated: 2019-04-02 06:04:10
 displayAd: true
 ---
-<p class="center">[Previous Part](/writing/harrison-sylvia/series-01/part-4) | [Page 1](/writing/harrison-sylvia/series-01/part-5/) | [Page 2](/writing/harrison-sylvia/series-01/part-5/2) | <span class="current-page">***Page 3***</span> | [Page 4](/writing/harrison-sylvia/series-01/part-5/4) | [Page 5](/writing/harrison-sylvia/series-01/part-5/5) | [Page 6](/writing/harrison-sylvia/series-01/part-5/6) | [Page 7](/writing/harrison-sylvia/series-01/part-5/7) | [Page 8](/writing/harrison-sylvia/series-01/part-5/8) </p><hr class="clear-both center-fade"/><div class="embedded-image-left"><img src="/writing/harrison-sylvia/series-01/part-5/hs105.jpg" alt="Part Five" style="max-height: 275px;"/></div>"So what's your problem?"
+<p class="center">[Previous Part](/writing/harrison-sylvia/series-01/part-4) | [Page 1](/writing/harrison-sylvia/series-01/part-5/) | [Page 2](/writing/harrison-sylvia/series-01/part-5/2) | <span class="current-page">***Page 3***</span> | [Page 4](/writing/harrison-sylvia/series-01/part-5/4) | [Page 5](/writing/harrison-sylvia/series-01/part-5/5) | [Page 6](/writing/harrison-sylvia/series-01/part-5/6) | [Page 7](/writing/harrison-sylvia/series-01/part-5/7) | [Page 8](/writing/harrison-sylvia/series-01/part-5/8) | [Next Part](/writing/harrison-sylvia/series-01/part-6)</p><hr class="clear-both center-fade"/><div class="embedded-image-left"><img src="/writing/harrison-sylvia/series-01/part-5/hs105.jpg" alt="Part Five" style="max-height: 275px;"/></div>"So what's your problem?"
 
 Harrison waited for Lucas to place his next piece before he answered. "I'm not sure the world is ready for the devastation that something like that would bring."
 
@@ -46,4 +46,4 @@ Nodding Harrison looked at his friend’s mirth and gently demanded. “Enough o
 
 Harrison bobbed his head back and forth for a long moment, but he eventually answered. “Well she has a younger sister, and I do believe…”
 
-Putting up his hand Harrison cut his friend off, “Lucas I’m not interested.”<hr class="clear-both center-fade"/><p class="center">[Previous Part](/writing/harrison-sylvia/series-01/part-4) | [Page 1](/writing/harrison-sylvia/series-01/part-5/) | [Page 2](/writing/harrison-sylvia/series-01/part-5/2) | <span class="current-page">***Page 3***</span> | [Page 4](/writing/harrison-sylvia/series-01/part-5/4) | [Page 5](/writing/harrison-sylvia/series-01/part-5/5) | [Page 6](/writing/harrison-sylvia/series-01/part-5/6) | [Page 7](/writing/harrison-sylvia/series-01/part-5/7) | [Page 8](/writing/harrison-sylvia/series-01/part-5/8) </p>
+Putting up his hand Harrison cut his friend off, “Lucas I’m not interested.”<hr class="clear-both center-fade"/><p class="center">[Previous Part](/writing/harrison-sylvia/series-01/part-4) | [Page 1](/writing/harrison-sylvia/series-01/part-5/) | [Page 2](/writing/harrison-sylvia/series-01/part-5/2) | <span class="current-page">***Page 3***</span> | [Page 4](/writing/harrison-sylvia/series-01/part-5/4) | [Page 5](/writing/harrison-sylvia/series-01/part-5/5) | [Page 6](/writing/harrison-sylvia/series-01/part-5/6) | [Page 7](/writing/harrison-sylvia/series-01/part-5/7) | [Page 8](/writing/harrison-sylvia/series-01/part-5/8) | [Next Part](/writing/harrison-sylvia/series-01/part-6)</p>

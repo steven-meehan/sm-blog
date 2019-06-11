@@ -1,10 +1,10 @@
 ---
-title: 'Harrison & Sylvia, Part Four'
+title: 'Harrison & Sylvia, Part Five'
 date: 2019-04-02 10:58:04
 updated: 2019-04-02 06:04:10
 displayAd: true
 ---
-<p class="center">[Previous Part](/writing/harrison-sylvia/series-01/part-4) | [Page 1](/writing/harrison-sylvia/series-01/part-5/) | [Page 2](/writing/harrison-sylvia/series-01/part-5/2) | [Page 3](/writing/harrison-sylvia/series-01/part-5/3) | [Page 4](/writing/harrison-sylvia/series-01/part-5/4) | [Page 5](/writing/harrison-sylvia/series-01/part-5/5) | [Page 6](/writing/harrison-sylvia/series-01/part-5/6) | <span class="current-page">***Page 7***</span> | [Page 8](/writing/harrison-sylvia/series-01/part-5/8) </p><hr class="clear-both center-fade"/><div class="embedded-image-left"><img src="/writing/harrison-sylvia/series-01/part-5/hs105.jpg" alt="Part Five" style="max-height: 275px;"/></div>"I came as soon as Kerri told me that dinner was ready."
+<p class="center">[Previous Part](/writing/harrison-sylvia/series-01/part-4) | [Page 1](/writing/harrison-sylvia/series-01/part-5/) | [Page 2](/writing/harrison-sylvia/series-01/part-5/2) | [Page 3](/writing/harrison-sylvia/series-01/part-5/3) | [Page 4](/writing/harrison-sylvia/series-01/part-5/4) | [Page 5](/writing/harrison-sylvia/series-01/part-5/5) | [Page 6](/writing/harrison-sylvia/series-01/part-5/6) | <span class="current-page">***Page 7***</span> | [Page 8](/writing/harrison-sylvia/series-01/part-5/8) | [Next Part](/writing/harrison-sylvia/series-01/part-6)</p><hr class="clear-both center-fade"/><div class="embedded-image-left"><img src="/writing/harrison-sylvia/series-01/part-5/hs105.jpg" alt="Part Five" style="max-height: 275px;"/></div>"I came as soon as Kerri told me that dinner was ready."
 
 "Sit down, Harrison."
 
@@ -42,4 +42,4 @@ When Harrison pulled his hands away from his face and saw a package in the stewa
 
 He instinctively suppressed a yawn as he rubbed the creeping sleep from his eyes. “You can place them on my desk, there should be ample room, so I’ll change here. And tell the cooks to make me a powerful tea to go with whatever they can bring me up to eat.”
 
-“I’ll be sure they bring something right up right away sir.” Gabriel said as he laid the clothes on the desk before leaving to instruct the cooks.<hr class="clear-both center-fade"/><p class="center">[Previous Part](/writing/harrison-sylvia/series-01/part-4) | [Page 1](/writing/harrison-sylvia/series-01/part-5/) | [Page 2](/writing/harrison-sylvia/series-01/part-5/2) | [Page 3](/writing/harrison-sylvia/series-01/part-5/3) | [Page 4](/writing/harrison-sylvia/series-01/part-5/4) | [Page 5](/writing/harrison-sylvia/series-01/part-5/5) | [Page 6](/writing/harrison-sylvia/series-01/part-5/6) | <span class="current-page">***Page 7***</span> | [Page 8](/writing/harrison-sylvia/series-01/part-5/8) </p>
+“I’ll be sure they bring something right up right away sir.” Gabriel said as he laid the clothes on the desk before leaving to instruct the cooks.<hr class="clear-both center-fade"/><p class="center">[Previous Part](/writing/harrison-sylvia/series-01/part-4) | [Page 1](/writing/harrison-sylvia/series-01/part-5/) | [Page 2](/writing/harrison-sylvia/series-01/part-5/2) | [Page 3](/writing/harrison-sylvia/series-01/part-5/3) | [Page 4](/writing/harrison-sylvia/series-01/part-5/4) | [Page 5](/writing/harrison-sylvia/series-01/part-5/5) | [Page 6](/writing/harrison-sylvia/series-01/part-5/6) | <span class="current-page">***Page 7***</span> | [Page 8](/writing/harrison-sylvia/series-01/part-5/8) | [Next Part](/writing/harrison-sylvia/series-01/part-6)</p>
