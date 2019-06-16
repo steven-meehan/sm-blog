@@ -1,9 +1,12 @@
 ---
 title: Backlash
-tags: [Transfromation]
+tags:
+  - Transfromation
 categories:
-  - [Flash Fiction]
+  - - Flash Fiction
+date: 2019-06-12 22:59:34
 ---
+
 The lithe Olyver opened the door to the triumvirate’s office and walked through the doorway. He let the door slam shut in the silent room. The loud echoing boom caused Quinn and Caitlin to jump in their seats. They looked up at the dirty blood man as he strode to his desk.
 
 "Good morning Olyver," Caitlin murmured as the man took his seat at the desk of the third triumvir.
