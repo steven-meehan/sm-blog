@@ -1,11 +1,10 @@
 ---
 title: Whispering Genie
-tags: []
+tags: [NYC Midnight, Fantasy]
 categories:
   - [Flash Fiction]
 prompt: 'NYC Midnight => Fantasy, A garbage truck, A pork chop'
 ---
-<!-- more -->
 As the truck slowed to a stop, Leland took it out of gear and tapped his partner's shoulder. "Veit, we're back. Go on and start emptying the truck."
 
 "I did it last time, Leland," Veit complained.
@@ -14,7 +13,7 @@ Leland scoffed as he looked at his diminutive partner, "It's not my fault you ca
 
 "That's not fair," Veit grumbled as he yanked his door open. "You'll have to take a turn doing this work eventually."
 
-"No, I won't," Leland replied as he threw the lever to open the garbage truck for Veit. "Come grab me once you've emptied the trash."
+"No, I won't," Leland replied as he threw the lever to open the garbage truck for Veit. "Come grab me once you've emptied the trash.<!-- more -->"
 
 Veit dropped to the ground and slammed his door shut. Leland grinned at the usual banter and leaned his head against the headrest. "You do know that you don't have to continue working with that foul Dwarf."
 
