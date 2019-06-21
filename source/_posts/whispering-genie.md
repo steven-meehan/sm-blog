@@ -1,10 +1,14 @@
 ---
 title: Whispering Genie
-tags: [NYC Midnight, Fantasy]
+tags:
+  - NYC Midnight
+  - Fantasy
 categories:
-  - [Flash Fiction]
+  - - Flash Fiction
 prompt: 'NYC Midnight => Fantasy, A garbage truck, A pork chop'
+date: 2019-06-20 20:58:25
 ---
+
 As the garbage truck came to a stop, Leland took it out of gear and tapped his partner's shoulder. "Veit, we're back. Go on and start emptying the load."
 
 "I did it last time, Leland," Veit complained.
