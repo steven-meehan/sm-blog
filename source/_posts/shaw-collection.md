@@ -1,16 +1,20 @@
 ---
 title: Shaw's Collection
-tags: []
+tags:
+  - Science Fiction
+  - NYC Midnight
+  - Shaw
 categories:
-  - [Flash Fiction]
+  - - Flash Fiction
 prompt: ' => Sci-Fi, A wine cellar, Perfume'
+date: 2019-06-23 19:27:37
 ---
-<!-- more -->
-Daniel and Rachel paced around the wine cellar, studying the extensive collection. As they toured the racks of wine, Daniel studied the milling crowd. Meanwhile Rachel focused her attention upon the expensive bottles, when her eyes caught sight of a particular bottle. She scurried towards the unique bottle and whipped her head around to stare at Daniel. He wrapped his arms around her shoulders, and she tapped at his shoulder and then pointed at the bottle. “Daniel," she exclaimed her eyes following her hand towards the wine. "I can't believe they have a bottle of..."
 
-"Not now, Rachel," Daniel chastised grabbing her wrist before she could touch the bottle of wine.
+Daniel and Rachel paced around the wine cellar, studying the extensive collection. As they toured the racks of wine, Daniel studied the milling crowd. Meanwhile, Rachel focused her attention upon the expensive wine when her eyes caught sight of a particular bottle. She scurried towards the unique bottle and whipped her head around to stare at Daniel. He wrapped his arms around her shoulders, and Rachel tapped at his shoulder and then pointed at the bottle. “Daniel," she exclaimed her eyes following her hand towards the wine. "I can't believe they have a bottle of..."
 
-"But Daniel," Rachel pleaded as she lifted her perfume atomizer. She turned to the bottle and the finger hovered above the plunger.
+"Not now, Rachel," Daniel chastised, grabbing her wrist before she could touch the bottle of wine.
+
+"But Daniel," Rachel pleaded as she lifted her perfume atomizer. She turned to the bottle, and the finger hovered above the plunger.<!-- more -->
 
 He immediately placed a finger against her lips while he activated his comms with his other hand. Then he turned towards Rachel to hide his words. "Harlan, do you see the target?"
 
@@ -64,13 +68,13 @@ Daniel stalked towards Rachel and Wayne as he muttered, "Now."
 
 After two steps, the ceiling began to crack, and large pits of concrete began plummeting to the ground. As the rubble fell, the patrons tried to run for the exits, but Daniel and Rachel clogged the main stairs. And Cecil and Franco secured the two alternate exits out of the cellar. Guests screamed as they ineffectually yanked on the sealed doors or tried to force themselves past Daniel and Rachel. Moments after Wayne grabbed Daniel and forcibly spun him around, the crumbling ceiling collapsed. Then a pair of metallic bodies collided with the floor with a sickening crack of concrete.
 
-As the robots stood, screams filled the room, and the bigger robot lifted its weapon and fired into the ceiling. "Silence. Nobody move."
+As the robots stood, screams filled the room, and the bigger robot lifted its weapon and fired into the ceiling. "Silence, nobody move!"
 
 Every throat fell silent as the smaller robot leapt into motion. Within moments everyone was bound and dropped into a pile, and the larger one collected five bottles of wine from the racks. The robot slipped a case off its back and put the wine into the container tossing it over its shoulder. The robot grabbed Wayne, who shouted, "How dare you!"
 
-The robot sent electricity into the struggling Wayne. The body went limp, and the robot tossed him over his shoulder and grabbed Daniel by his shirt. While the smaller yanked Rachel up by the scruff of her neck. Both robots went through the cellar's main exit. The other robot tossed a grenade down the stairs before he dragged Rachel to the exterior wall and planted a small charge. It strolled back towards his compatriot, and the explosive blew a hole in the wall.
+The robot sent electricity into the struggling Wayne. The body went limp, and the robot tossed him over his shoulder and grabbed Daniel by his shirt. While the smaller yanked Rachel up by the scruff of her neck. Both robots went through the cellar's main exit. The other robot tossed a grenade down the stairs before he dragged Rachel to the exterior wall and planted a small charge. It pulled Rachel back towards his compatriot, and the explosion blew a hole in the wall.
 
-Security flooded into the hallway as another of the small grenades detonated. The resulting explosion propelled gas into the room. And as security ran into the billowing fog they collapsed to the ground. The two robots walked out of the hole and immediately rose into the sky as a small craft passed overhead. As the craft raced away from the planet, the dangling passengers were pulled inside just before the ship broke the atmosphere.
+Security flooded into the hallway as another of the small grenades detonated. The resulting explosion propelled gas into the room. And as guards ran into the billowing fog, they collapsed to the ground. The two robots walked out of the hole and immediately rose into the sky as a small craft passed overhead. As the craft raced away from the planet, the dangling passengers were pulled inside just before the ship broke the atmosphere.
 
 Daniel's hand crept for his comms, and he switched it to a separate channel, "Laurie the pickup could have been smoother."
 
