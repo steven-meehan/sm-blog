@@ -1,9 +1,12 @@
 ---
 title: Recruitment
-tags: [Darren Gilbert]
+tags:
+  - Darren Gilbert
 categories:
-  - [Flash Fiction]
+  - - Flash Fiction
+date: 2019-06-25 17:55:26
 ---
+
 The old man's knuckles rapped softly on the door, and he took a step away from the door, waiting next to Darren. A few seconds later, the door flung open, and a lithe woman flew into Darren, wrapping her arms around him. A man followed on her footsteps and glared at the older man, “Who are you, and why do you have our son?”
 
 The man inclined his head, “My name is Leodor Sultasar.” Lifting his head, he asked, “I assume you’re Darren’s parents. May I come in?”
