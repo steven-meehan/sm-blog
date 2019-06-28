@@ -1,10 +1,14 @@
 ---
 title: Reflections
-tags: [Science Fiction]
+tags:
+  - Science Fiction
 categories:
-  - [Flash Fiction]
-prompt: 'https://m.yourshot.nationalgeographic.com/photos/13915355/?fbclid=IwAR1X-Db1aLDXwiP3A6uZfHGFsXECVZ09-MyDi17Xc9R3jw6D7hesL3_CpHI'
+  - - Flash Fiction
+prompt: >-
+  https://m.yourshot.nationalgeographic.com/photos/13915355/?fbclid=IwAR1X-Db1aLDXwiP3A6uZfHGFsXECVZ09-MyDi17Xc9R3jw6D7hesL3_CpHI
+date: 2019-06-27 16:48:30
 ---
+
 Pulling the note from his pocket, Lucious reread the postcard.
 
 ***Come to the museum. Find the three paintings each with a mother and child and sit on the couch at six this evening.***
