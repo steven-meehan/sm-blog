@@ -6,50 +6,47 @@ categories:
 prompt: ' => , , '
 ---
 <!-- more --><div class="embedded-image-left">![](./)</div><div class="embedded-image-right">![](./)</div>
-Marcus was leaving yet another meeting of the leadership, when he ran into Talia, "Do you think we'll ever be able to start trying to survive?" 
-"Well we've been able to get the animals to start breeding, which is a good thing." 
-Marcus stopped as he suddenly realized something, "How were we able to get them out of storage?" 
-"We didn’t get them all." 
-"I thought we did." 
-Shaking her head Talia replied, "No, once the ship stopped moving, we started getting the animals out but we were only about a quarter of the way through the storage tanks when the storage system died." 
-"That doesn’t mesh with what I heard."
-"What did you hear?"
-"I remember hearing ten percent of the animals survived." 
-"Ah, that explains it."
-"Explains what?"
-She resumed walking as she answered, "Ten percent is the right number, after you include all the animals that weren’t in storage."
-"Right the lose one."
-"Yup people seem to need the fresh food and supplies on these colonization trips." 
-"Fair enough." Marcus replied as he nodded his agreement
-"Which division are you being assigned to?" Tara asked as they meandered around the area
-"I'm not smart enough to rate the central region."
-"You're no dummy Marcus."
-"Which is why I forced myself to the Eastern region."
-"You want to be a farmer?"
-"I've done it in the past and more to the point it's something that I can handle."
-"You were a colonizer?"
-As a smile spread across his lips, "I was going to be a colonizer, but Nathaniel managed to see how I kept longingly look up to the ship.  And he eventually asked me if I wanted to join the ship's crew."
-"That simple?"
-"No it wasn't that simple.  Just before the colonization ship was supposed to leave Nathaniel came and spoke to me and it was a long conversation, but at the end he had talked me into abandoning my nearly finished plot of land and joining his crew."
-"So you aren't a mindless drone."
-Leaning into her he whispered, "I don’t think you'll want to describe any of us like that."
-"Fair enough, but my point still stands."
-"Yes, I was a colonist once upon a time."
-"How long did it take you to master your new responsibilities?"
-"Not all that long." Marcus replied as they continued on, "Are you going to be going to the Eastern region?"
-"Yeah, I will be." Talia
-"Are we going to have enough animals to support the proposed five regions?" Marcus
-With a laugh that didn’t reach her lips, "No, the western region doesn’t have nearly enough to support everyone." Talia
-"So that means that the northern region will be responsible for discovering everything about the local wildlife." Marcus
-"Yeah, while the southern region delves into the local ocean life for food and water generation." Talia replied
-"Every group will have a job, Talia."
-"Do you think the scientists will be able to figure out a way for us to get off this rock?"
-Marcus bent down and lifted a partially buried stone as he replied, "I'm not sure Talia.  I mean we barely entered the planet's orbit when every electrical based piece of technology failed."  He began to gently toss the stone up into the air as he answered, "It wasn’t a gradual process, like it was for the storage facility, so I don't know."
-"I wonder why we were able to use the storage facility for a little while."
-Marcus threw the stone off into the distance as he answered, "I don’t know the science behind the storage technology, but what I do know is that it is fundamentally different than the rest of our technology."
-"Wait? What?"
-"I don’t get it but then again I'm not supposed to."
-Talia looked around and realized they were very much alone, despite being in the basic campsite.  She cleared her throat and asked, "Marcus, we might be stuck here for our lifetimes and I don’t want to be randomly assigned to anyone."
-As she went silent trying to figure out the best way to ask the question, he came to her rescue. "I'd like that Talia, thank you for asking."
-"I guess we need to let the brass know about it."
-"Yeah, we'll have to get that taken care of but for the moment it doesn’t matter." Marcus said as he pulled her into his arms
+Marcus walked away from the meeting hall shoving his hands into his pockets.  Before he could get far someone grabbed at his arm and asked, "Marcus are you okay?"
+"Yeah, I'll be fine Talia," he answered smiling as he turned to look at the spindly woman.  "I just wish they paid more attention to our survival on this world?"
+Putting her hands on her hips Talia sighed with exasperation, "Stop exagerating, you know they're focusing on our survival.  The Western region started breeding the surviving animals."
+"Easy Talia," Marcus said as he raised his hands in surrender.  He walked over to a tree and leaned against it, "I wasn't trying to diminish your good work.  The constant political games bother me."
+"I understand that," Talia agreed joining his struggle to keep the tree form collapsing.
+The two stood there in silence staring back at the large cabin for a time when Marcus asked, "How were we able to get the animals out of storage?"
+"What do you mean?"
+Marcus spun to face Talia, "The ship crash landed because of a massive power failure."
+"I'm aware of that, Marcus," Talia retorted with a stern glare.
+Marcus dismissed the look with a wave and continued, "You're missing the point of my question, Talia."
+Talia took a couple steps forcing Marcus to backpedal as she asked, "Am I?"
+"Yes you are," Marcus replied as he dug his heels into the ground.  "If the ship didn't have enough power to land, how did it have enough to get any of the animals out of the storage system?"
+Talia froze in place and muttered, "I don't know.  Did you just think about that?"
+"It's the first time I actively thought about it," Marcus answered as he took a tentative step towards the rough-hewn meeting hall.  "But now that I'm thinking about it, I'd like to know the answer."
+"It would be nice to know," Talia agreed.  "But ultimately it won't help us."
+"Why's that?" Marcus demanded.
+"Because the storage system died before we could empty the tanks," Talia answered without any anger coloring it.  "We tried to get it back online but the power stopped pumping into it."
+Closing his eyes Marcus protested, "We could try and use similar shielding for our power systems."
+"I've already talked to some of the brain trust," Talia answered thrusting a finger off in a different direction.  "And according to them the only reason we managed to get any of the animals out was that the system was already running."
+"That doesn't make any sense," Marcus whimpered as he lowered himself to the ground.
+"You never worked with the storage systems did you?"  Talia asked as she lowered herself down next to him.
+"No," Marcus replied tartly.
+"When it's running the system's capacitors store energy and dissipates whenever we store or retrieve animals," Talia replied warmly.  "Then once the capacitors died we couldn't remove the animals."
+"Makes sense," Marcus replied hanging his head between his knees.
+Jostling his shoulder Talia asked, "Which division have you being assigned to?"
+"I volunteered for the Eastern region," Marcus answered lifting his head.  "Figured I'd be able to steer clear of all the political backstabbing that way."
+Talia scoffed and then caught Marcus's grim expression.  She reached out and squeezed his shoulder asking, "You seriously want to be a farmer?"
+Marcus climbed to his feet and then offered Talia a hand as he answered, "I've done it before and it's something that I know I can handle."
+"You were a colonizer?" Talia asked as she grabbed his hand.
+Pulling Talia to her feet Marcus explained, "Yes, at one point in my life I was a colonizer.  But that all changed when Nathaniel caught me longingly looking up at the ship.  And to keep a long story short Nathaniel recruited me."
+"There's no way it was that simple," Talia objected as they resumed their walk away from the meeting hall.
+"You're right," Marcus agreed.  "But you won't get anything else out of me," he winked at her and added, "Not without getting me dinner and a drink first."
+"Flirt," Talia accused but her voice softened as she went on, "Not that I'd refuse taking you up on that first.  Though it’s good to know that you aren't a mindless drone."
+Leaning into her Marcus whispered, "I wouldn't get into the habit of describing us like that." 
+"Fair enough," Talia agreed before affirming her stance.  "But that's not going to alter my belief." 
+Marcus meandered through the developing streets asking, "Do we have enough livestock to support the five proposed regions?"
+Talia reached out and plucked one of the strange orange and purple flowers from a nearby tree.  Lifting the bud to her nose she inhaled the flower's rich and heady aroma, "You know this flower manages to fruity and dank at the same time."
+"Talia," Marcus asked as he pulled the flower away from her face.  "Are we going to be able to supply all five regions?"
+Dropping the bud to the ground Talia grabbed his hands, "What it means is that the Western region will rely heavily upon the Northern region to discover everything it can about the local wildlife.  And the Southern region will have to delve into the local ocean life to find an adequate food supply.  Not their responsibilities for generate fresh water."
+"Do you think the egg-heads will be able to get us off this rock?"  Marcus asked as his eyes drifted to the sky.
+Ignoring his question Talia looked around emphasizing just how alone they were.  She took a step closer and cleared her throat, "Marcus, we'll probably be stuck here for our lifetimes."
+"And?"
+"You are a dummy," Talia said as she wrapped her arms around his neck.  "Will I always have to be this obvious?"  She asked as she leaned in kissing him.
+Marcus returned her kiss passionately, and when they separated he muttered, "It never hurts to be that obvious."
