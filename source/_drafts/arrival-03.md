@@ -1,9 +1,8 @@
 ---
-title: arrival-03
-tags: []
+title: Wandering Reflections
+tags: [Arrival]
 categories:
-  - []
-prompt: ' => , , '
+  - [Flash Fiction]
 ---
 Marcus walked away from the meeting hall, shoving his hands into his pockets. Before he could get far, someone grabbed at his arm and asked, "Marcus, are you okay?"
 
