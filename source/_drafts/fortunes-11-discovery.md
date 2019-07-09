@@ -1,8 +1,8 @@
 ---
-title: fortunes-11-discovery
-tags: []
+title: Discovery
+tags: [Fortunes]
 categories:
-  - []
+  - [Flash Fiction]
 ---
 "We're over the ships, Cederic," Sybell said as she swiveled away from her consoles. 
 
