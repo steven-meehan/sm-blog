@@ -1,9 +1,12 @@
 ---
 title: Wandering Reflections
-tags: [Arrival]
+tags:
+  - Arrival
 categories:
-  - [Flash Fiction]
+  - - Flash Fiction
+date: 2019-07-08 22:48:31
 ---
+
 Marcus walked away from the meeting hall, shoving his hands into his pockets. Before he could get far, someone grabbed at his arm and asked, "Marcus, are you okay?"
 
 "Yeah, I'll be fine Talia," he answered, smiling as he turned to look at the spindly woman. "I just wish they paid more attention to our survival."
