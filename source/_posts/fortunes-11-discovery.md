@@ -1,9 +1,12 @@
 ---
 title: Discovery
-tags: [Fortunes]
+tags:
+  - Fortunes
 categories:
-  - [Flash Fiction]
+  - - Flash Fiction
+date: 2019-07-09 23:11:18
 ---
+
 "We're over the ships, Cederic," Sybell said as she swiveled away from her consoles. 
 
 "Excellent," Cederic answered, bringing the shuttle to a near motionless hover. "Have we figured anything else out, yet?" 
