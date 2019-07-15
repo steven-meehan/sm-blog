@@ -3,9 +3,9 @@ title: Dueling Wizards
 tags: [Fantasy]
 categories:
   - [Flash Fiction]
-prompt: 'Photo image https://m.yourshot.nationalgeographic.com/photos/13984215/' Morven, 'Hunters'
+prompt: 'Photo image https://m.yourshot.nationalgeographic.com/photos/13984215/ - Morven, Hunters'
 ---
-Wrapping his hand in incandescent blue light, Marc throws the ball at his pursuer.  Thomas managed to use his talent to catch the strike and throw it into the sky.  As the ball rushed past the tops of the trees, it burst the resulting explosion threw concentric azure rings into the night sky.  The detonation caught Thomas’s attention and he took a step away from his quarry.  Amplifying his voice he said, “You’re talented, but you won’t escape me.”
+Wrapping his hand in incandescent blue light, Marc throws the ball at his pursuer.  Thomas managed to use his talent to catch the strike and throw it into the sky.  As the ball rushed past the tops of the trees, it burst the resulting explosion threw concentric azure rings into the night sky.  The detonation caught Thomas’s attention, and he took a step away from his quarry.  Amplifying his voice, he said, “You’re talented, but you won’t escape me.”
 
 Pausing his flight Marc replied, “Don’t get cocky, Thomas.”  Turning around slowly, Marc wiped at the pooling blood on his cheek.  Looking down at his hand Marc’s initial comment died on his lips, but he looked back at his pursuer and replied, “Just because you’ve caught every rouge you’ve ever hunted, doesn’t mean that you’ll be able to catch me.<!-- more -->”
 
@@ -29,11 +29,11 @@ Striding through the devastated trees and other debris, Thomas reached out and t
 
 “For everything there is a first time,” Marc quipped as he took a defensive stance within his protective bubble.
 
-Thomas’s hands flew into motion, and fear drained color from Marc’s face.  He recognized the runes the other wizard traced in the air.  He knew the shape of the spell that the hunter was working.  Marc crouched down to touch the earth and muttered “Ja-Rein.”
+Thomas’s hands flew into motion, and fear drained color from Marc’s face.  He recognized the runes the other wizard traced in the air.  He knew the shape of the spell that the hunter was working.  Marc crouched down to touch the earth and muttered “Ja-Rein.”
 
-Once his barrier vanished Marc leapt into the sky and started tracing his own series of runes.  When he finished tracing the last one Marc cried out, “Hein-keh-ri!”  Instantly his cape billowed out, growing in size and gaining the definition that only bone could provide.  In the blink of an eye the cape completed its transformation and a large set of wings pounded against the earth propelling Marc above the trees. 
+Once his barrier vanished Marc leapt into the sky and started tracing his own series of runes.  When he finished tracing the last one Marc cried out, “Hein-keh-ri!”  Instantly his cape billowed out, growing in size and gaining the definition that only bone could provide.  In the blink of an eye the cape completed its transformation and a large set of wings pounded against the earth propelling Marc above the trees. 
 
-The sudden transition back to flight shocked Thomas and he lost track of the spell he’d been working.  The gathered energy dispersed back into the world as he howled in rage at the shrinking outline of the rouge wizard.  With a shift in his focus he threw three explosive spells after Marc.  Sensing the incoming spells, Marc threw one of his own at the incoming spheres of destruction.  As the two spells collided an explosion ripped through the air causing Marc’s wings to falter.  He managed to right himself in the fading colors.
+The sudden transition back to flight shocked Thomas and he lost track of the spell he’d been working.  The gathered energy dispersed back into the world as he howled in rage at the shrinking outline of the rouge wizard.  With a shift in his focus he threw three explosive spells after Marc.  Sensing the incoming spells, Marc threw one of his own at the incoming spheres of destruction.  As the two spells collided an explosion ripped through the air causing Marc’s wings to falter.  He managed to right himself in the fading colors.
 
 “I told you that you couldn’t escape me,” Thomas yelled as he soared at me with his own set of wings flapping furiously.
 
