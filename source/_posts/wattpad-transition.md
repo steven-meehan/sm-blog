@@ -1,8 +1,6 @@
 ---
 title: Transition to Wattpad
 tags:
-  - Flash Fiction
-  - Short Stories
 categories:
   - - News
 date: 2019-07-16 18:14:58
