@@ -15,4 +15,4 @@ Harrison is at home and receives a visit from the King's messenger. With a royal
 Upon Harrison’s arrival, the steward, Gabriel, hurries him to the King's manner. After a lengthy wait, Harrison and the King exchanging pleasantries. Then the King hands Harrison a relic and a poignant demonstration. Come follow Harrison's first interaction with the King of the Isles.
 
 <div class="clear-both center">
-[![Part Seven](/writing/harrison-sylvia/series-01/part-7/hs107.jpg "Part Six")](/writing/harrison-sylvia/series-01/part-7)<p>Click above to read Part Seven</p></div>
+[![Part Seven](/writing/harrison-sylvia/series-01/part-7/hs107.jpg "Part Seven")](https://www.wattpad.com/761351701-harrison-sylvia-crossroads-part-seven)<p>Click above to read Part Seven</p></div>

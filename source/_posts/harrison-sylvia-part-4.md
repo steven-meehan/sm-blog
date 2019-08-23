@@ -15,4 +15,4 @@ Responding to Kameron's summons, an aggravated Sylvia goes to see her employer. 
 Knowing that she has a lot to prepare and far too little time to do it, Sylvia instantly begins chasing down whispers.  She also realizes just how ill-equipped she is to handle her employer's recent challenge, so she decides to rectify that issue.  Accordingly, one of her stops is a friend, who can help her but that help always comes at a price.
 
 <div class="clear-both center">
-[![Part Four](/writing/harrison-sylvia/series-01/part-4/hs104.jpg "Part Four")](/writing/harrison-sylvia/series-01/part-4)<p>Click above to read Part Four</p></div>
+[![Part Four](/writing/harrison-sylvia/series-01/part-4/hs104.jpg "Part Four")](https://www.wattpad.com/761351192-harrison-sylvia-crossroads-part-four)<p>Click above to read Part Four</p></div>

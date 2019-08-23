@@ -20,4 +20,4 @@ After exhausting the relics on his family's isle, Harrison is forced to refine h
 When Harrison finally arrives on the King's Isle, he is unsure if he can achieve similar results.  Come and discover if Harrison is able to satisfy his father's desire for power and prestige.
 
 <div class="clear-both center">
-[![Part Three](/writing/harrison-sylvia/series-01/part-3/hs103.jpg "Part Three")](/writing/harrison-sylvia/series-01/part-3)<p>Click above to read Part Three</p></div>
+[![Part Three](/writing/harrison-sylvia/series-01/part-3/hs103.jpg "Part Three")](https://www.wattpad.com/761350237-harrison-sylvia-crossroads-part-three)<p>Click above to read Part Three</p></div>

@@ -15,4 +15,4 @@ Harrison tries to enjoy the little bit of freedom that his latest success brough
 Harrison agrees and sends a letter to his father, explaining why he won’t return as scheduled. While Harrison tries to relax, before the upcoming gala, his father arrives to interrogate him. After a brief discussion, he agrees that this woman would be an excellent match for Harrison. Will Harrison manage to serve his familial duty? Or will his father return Harrison to the never-ending visits to other nobles?
 
 <div class="clear-both center">
-[![Part Five](/writing/harrison-sylvia/series-01/part-5/hs105.jpg "Part Five")](/writing/harrison-sylvia/series-01/part-5)<p>Click above to read Part Five</p></div>
+[![Part Five](/writing/harrison-sylvia/series-01/part-5/hs105.jpg "Part Five")](https://www.wattpad.com/761351361-harrison-sylvia-crossroads-part-five)<p>Click above to read Part Five</p></div>

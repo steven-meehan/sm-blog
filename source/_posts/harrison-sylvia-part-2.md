@@ -18,4 +18,4 @@ Shaken by his father's demand, Harrison takes a moment to collect himself before
 When he can, Harrison spends most of his time in this room trying to do what no one has ever managed, duplicate a relic.  Yet every attempt falls short of its goal. However now with his father's ultimatum hanging over him, Harrison knows that if he chooses his tinkering, he will never get another chance to examine these marvels again.  Come see if Harrison is able to find a way to stay in his family's home while avoiding the fate he has been running from ever since he was old enough.
 
 <div class="clear-both center">
-[![Part Two](/writing/harrison-sylvia/series-01/part-2/hs102.jpg "Part Two")](/writing/harrison-sylvia/series-01/part-2)<p>Click above to read Part Two</p></div>
+[![Part Two](/writing/harrison-sylvia/series-01/part-2/hs102.jpg "Part Two")](https://www.wattpad.com/761349692-harrison-sylvia-crossroads-part-two)<p>Click above to read Part Two</p></div>

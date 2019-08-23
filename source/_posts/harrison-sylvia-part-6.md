@@ -15,4 +15,4 @@ Despite searching the entire city, Sylvia finds nothing aside from the ever-pres
 She collects her equipment form Gregor, and then she seeks a way to protect her employer from himself.  Will she be able to safeguard Kameron from the course he chose?  Or has her fear only been exaggerated by the countless whispers of hatred?
 
 <div class="clear-both center">
-[![Part Six](/writing/harrison-sylvia/series-01/part-6/hs106.jpg "Part Six")](/writing/harrison-sylvia/series-01/part-6)<p>Click above to read Part Six</p></div>
+[![Part Six](/writing/harrison-sylvia/series-01/part-6/hs106.jpg "Part Six")](https://www.wattpad.com/761351519-harrison-sylvia-crossroads-part-six)<p>Click above to read Part Six</p></div>

@@ -19,4 +19,4 @@ Danger is something the king has become numb to, ever since he employed the best
 Yet later during the petitions that strange face appears once more, and it is full of malice and defiance.  The king immediately tries to locate it only to be distracted again, once more letting the face disappear back into the crowd.  With this face appearing multiple times, the king's faith in his protection is about to be measured.
 
 <div class="clear-both center">
-[![Part One](/writing/harrison-sylvia/series-01/part-1/hs101.jpg "Part One")](/writing/harrison-sylvia/series-01/part-1)<p>Click above to read Part One</p></div>
+[![Part One](/writing/harrison-sylvia/series-01/part-1/hs101.jpg "Part One")](https://www.wattpad.com/761347610-harrison-sylvia-crossroads-part-one)<p>Click above to read Part One</p></div>
