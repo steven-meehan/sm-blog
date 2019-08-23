@@ -2,6 +2,7 @@
 title: Divisions
 tags:
   - Fortunes
+  - Wattpad
 categories:
   - - Flash Fiction
 date: 2018-11-06 11:07:16

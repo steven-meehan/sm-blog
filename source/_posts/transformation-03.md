@@ -1,7 +1,8 @@
 ---
 title: Compromises
 tags:
-  - Transfromation
+  - Transformation
+  - Wattpad
 categories:
   - - Flash Fiction
 date: 2019-05-28 22:47:07

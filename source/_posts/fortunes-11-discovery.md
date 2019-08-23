@@ -2,6 +2,7 @@
 title: Discovery
 tags:
   - Fortunes
+  - Wattpad
 categories:
   - - Flash Fiction
 date: 2019-07-09 23:11:18

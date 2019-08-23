@@ -2,6 +2,7 @@
 title: Surveying Laria
 tags:
   - Fortunes
+  - Wattpad
 categories:
   - - Flash Fiction
 date: 2019-06-14 20:37:07

@@ -2,6 +2,7 @@
 title: Novus' Plummet
 tags:
   - Arrival
+  - Wattpad
 categories:
   - - Flash Fiction
 date: 2019-01-10 19:51:33

@@ -2,6 +2,7 @@
 title: Recruitment
 tags:
   - Darren Gilbert
+  - Wattpad
 categories:
   - - Flash Fiction
 date: 2019-06-25 17:55:26

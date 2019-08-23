@@ -1,7 +1,8 @@
 ---
 title: Inaccessible
 tags:
-  - Transfromation
+  - Transformation
+  - Wattpad
 categories:
   - - Flash Fiction
 date: 2018-10-16 08:50:44

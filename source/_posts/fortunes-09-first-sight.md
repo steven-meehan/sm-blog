@@ -2,6 +2,7 @@
 title: First Sight
 tags:
   - Fortunes
+  - Wattpad
 categories:
   - - Flash Fiction
 date: 2019-05-17 17:50:54

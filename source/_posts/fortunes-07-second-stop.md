@@ -2,6 +2,7 @@
 title: Second Stop
 tags:
   - Fortunes
+  - Wattpad
 categories:
   - - Flash Fiction
 date: 2019-03-12 18:11:41

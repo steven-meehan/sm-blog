@@ -2,6 +2,7 @@
 title: Explanations
 tags:
   - Fortunes
+  - Wattpad
 categories:
   - - Flash Fiction
 date: 2018-10-11 11:07:08

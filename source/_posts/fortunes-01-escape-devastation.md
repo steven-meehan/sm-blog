@@ -2,6 +2,7 @@
 title: Escaping Devastation
 tags:
   - Fortunes
+  - Wattpad
 categories:
   - - Flash Fiction
 date: 2018-09-18 06:40:46
