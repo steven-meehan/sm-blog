@@ -1,6 +1,7 @@
 ---
 title: Preparations
 tags:
+  - Colonization
   - Morven
   - Wattpad
 categories:

@@ -1,6 +1,7 @@
 ---
 title: Forging Alliance
 tags:
+  - Colonization
   - Morven
   - Wattpad
 categories:

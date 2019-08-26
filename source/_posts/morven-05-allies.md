@@ -1,6 +1,7 @@
 ---
 title: Allies
 tags: 
+  - Colonization
   - Morven
   - Wattpad
 categories:

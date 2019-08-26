@@ -1,6 +1,7 @@
 ---
 title: Crumbling Walls
 tags:
+  - Colonization
   - Morven
   - Wattpad
 categories:

@@ -1,6 +1,7 @@
 ---
 title: Exploration of Morven
 tags:
+  - Colonization
   - Morven
   - Wattpad
 categories:
