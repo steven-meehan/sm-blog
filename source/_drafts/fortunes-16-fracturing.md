@@ -4,7 +4,8 @@ tags: []
 categories:
   - []
 ---
-<!-- more --><div class="embedded-image-left">![](./)</div><div class="embedded-image-right">![](./)</div>
+<!-- more -->
+<div class="center">[![Expedition](/images/covers/fortunes.png "Expedition")](https://www.wattpad.com/780697523-fortunes-expedition)</div>
 
 	8. The journey home is a straight shot to their home world
 		a. The crew quickly splits into two groups

@@ -4,7 +4,8 @@ tags: []
 categories:
   - []
 ---
-<!-- more --><div class="embedded-image-left">![](./)</div><div class="embedded-image-right">![](./)</div>
+<!-- more -->
+<div class="center">[![Foundation](/images/covers/colonization.png "Foundation")](https://www.wattpad.com/763643828-fortunes-forging-alliance)</div>
 
 	18. One lone figure stands out in front of the walls and cries out to the people inside, telling them that they have to submit to their law
 		a. The leader is roused and brought to the wall to answer, via the speakers telling the figure to go away

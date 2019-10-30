@@ -17,8 +17,7 @@ After reaching this arrangement, Francis’ former partner in crime and lifelong
 But Francis will not allow his friend to suffer because of him.  Now Francis will have to convince his new mentor to help him free his friend from a highly funded group with no qualms about killing whoever they need to accomplish their goals.
 <div class="float-right"><a href="https://www.wattpad.com/761379113-drawing-thin-prologue">Read Sample</a></div>
 </div>
-<div class="clear-both" style="visibility: hidden;">
-    <a href="https://www.amazon.com/Dead-Mans-Hand-Steven-Meehan/dp/1520247427/ref=sr_1_2?ie=UTF8&qid=1515960726&sr=8-2&keywords=dead+mans+hand+steven+meehan" class="purchase-links">Click here to buy the Paperback.</a> <br>
-    <a href="http://www.amazon.com/Dead-Mans-Hand-Steven-Meehan-ebook/dp/B00TTXVQ7A/ref=sr_1_8?ie=UTF8&amp;qid=1424786594&amp;sr=8-8&amp;keywords=dead+mans+hand" class="purchase-links">Click here to buy the E-Book.</a>
+<div class="clear-both" >
+    <a href="https://www.amazon.com/Drawing-Thin-Forgers-Steven-Meehan/dp/1086229924/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1567163108&sr=8-1" class="purchase-links">Click here to buy the Paperback.</a> <br>
+    <a href="https://www.amazon.com/Drawing-Thin-Forgers-Book-2-ebook/dp/B07X2Z5KZ1/ref=sr_1_1?keywords=steven+meehan+drawing+thin&qid=1567163108&s=gateway&sr=8-1" class="purchase-links">Click here to buy the E-Book.</a>
 </div>
-<br/>

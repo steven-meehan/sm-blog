@@ -4,7 +4,8 @@ tags: []
 categories:
   - []
 ---
-<!-- more --><div class="embedded-image-left">![](./)</div><div class="embedded-image-right">![](./)</div>
+<!-- more -->
+<div class="center">[![Foundation](/images/covers/colonization.png "Foundation")](https://www.wattpad.com/763643828-fortunes-forging-alliance)</div>
 
 	15. The dwarves are upset when this evidence is presented to the elves in council and the elves say the dwarves cannot be trusted
 		a. The dwarves withdraw from the alliance furious that the humans would dare to tarnish their honor
