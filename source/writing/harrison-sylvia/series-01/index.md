@@ -5,7 +5,7 @@ updated: 2018-02-17 06:03:59
 ---
 
 <div class="embedded-image-left">
-    ![](harrison-sylvia-1.jpg)
+    ![Crossroads](harrison-sylvia-1.jpg)
 </div>
 <div class="text-negative-margin-top">
 Harrison is the eldest son of a powerful nobleman of the Isles. And he would rather tinker than learn how to run the family business. With a tireless effort, he manages to prove that his tinkering is of value. Not only to his father but to the king of the Isles. He manages to befriend the king making a powerful ally in his desire to explore how things work.

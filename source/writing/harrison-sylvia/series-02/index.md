@@ -5,6 +5,7 @@ updated: 2018-02-17 06:03:59
 ---
 
 <div class="embedded-image-right">
+    ![Conspiracies](harrison-sylvia-conspiracies.png)
 </div>
 <div class="text-negative-margin-top">
 Now a member of the King's court, Harrison continues tinkering with relics for Jacob. While researching some relics, Harrison turns his attention to the Isle's current events. In so doing, he helps the local constabulary with their troubles. He even delves into other mysteries for them. 
