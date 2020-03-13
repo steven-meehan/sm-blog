@@ -32,5 +32,8 @@ Rylan ran his fingers through his hair and sighed, “I guess not.”
 
 “What about them?”
 
-<div class="center">...</div>
-<div class="center">[Click here](https://www.wattpad.com/822505972-fortunes-fracturing) to continue on Wattpad</div>
+<div class="center story-ellipses">
+.
+.
+.
+</div><div class="center">[Click here](https://www.wattpad.com/822505972-fortunes-fracturing) to continue on Wattpad</div>

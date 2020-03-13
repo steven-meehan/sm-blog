@@ -21,7 +21,7 @@ The pilot’s fingers tightened around the steering yoke as he inquired, “Asid
 
 “What can five witches do for us?”
 
-Erik covered his mouth, stifling a yawn, then snatched the microphone from the console and switched channels.<!-- more --> “All of them are master, which means they’re capable of a lot.”
+Erik covered his mouth, stifling a yawn, then snatched the microphone from the console and switched channels.<!-- more --> “All of them are masters, which means they’re capable of a lot.”
 
 The navigator pressed her face against the glass and stared into the moonlight sky. She quickly found a witch flying alongside the bomber. The woman straddled her broom, gripping its neck with her hands while the black robes and dark hair fluttered behind her. Without warning, the witch rolled from Ramona’s view. “All five are masters?”
 
