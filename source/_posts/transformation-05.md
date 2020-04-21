@@ -3,6 +3,8 @@ title: Concessions
 tags:
   - Transformation
   - Wattpad
+  - Aurora
+  - Science-Fiction
 categories:
   - - Flash Fiction
 date: 2019-07-30 19:36:25

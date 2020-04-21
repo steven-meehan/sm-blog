@@ -3,6 +3,7 @@ title: Bombing Run
 tags:
   - Fantasy
   - Steampunk
+  - Picture Prompt
 categories:
   - - Flash Fiction
 prompt: >-
@@ -22,6 +23,8 @@ The pilot’s fingers tightened around the steering yoke as he inquired, “Asid
 “What can five witches do for us?”
 
 Erik covered his mouth, stifling a yawn, then snatched the microphone from the console and switched channels.<!-- more --> “All of them are masters, which means they’re capable of a lot.”
+
+<div class="center">[![Bombing Run](https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/82793934_2424142461248852_7737984488323416064_n.jpg?_nc_cat=108&_nc_oc=AQklCx31otugFyryBa1pUQoUM8BgKJrTZvkWpb_TN-vkNgbBI7DbAZ_wKjib1cKxrKQ&_nc_ht=scontent-iad3-1.xx&oh=f45ba2a676f8fc18180a0222139bd8b1&oe=5E915D23 "Gary Clark added a new photo to Dracula's House of Halloween's timeline.")](https://www.facebook.com/photo.php?fbid=2424142457915519&set=p.2424142457915519&type=3&theater)</div>
 
 The navigator pressed her face against the glass and stared into the moonlight sky. She quickly found a witch flying alongside the bomber. The woman straddled her broom, gripping its neck with her hands while the black robes and dark hair fluttered behind her. Without warning, the witch rolled from Ramona’s view. “All five are masters?”
 

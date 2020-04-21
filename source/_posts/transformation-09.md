@@ -3,6 +3,8 @@ title: Escort Two
 tags:
   - Wattpad
   - Transformation
+  - Aurora
+  - Science-Fiction
 categories:
   - - Flash Fiction
 date: 2019-12-19 23:13:09

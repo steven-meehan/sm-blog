@@ -2,6 +2,7 @@
 title: Draconic Bargain
 tags:
   - Fantasy
+  - Picture Prompt
 categories:
   - - Flash Fiction
 prompt: >-
@@ -16,6 +17,8 @@ While a gnarled man with wild white hair walked in front of his bookshelf, his f
 The elderly man thumped the book down and pulled his robes tightly against his chest. He waved his hand across his throat, screaming, “Silence!”
 
 Semil frowned and tried to reply, but nothing escaped his lips. With his eyes narrowing to slits, he dropped his load.<!-- more --> He tapped his neck and shoved his fingers towards the old man.
+
+<div class="center">[![Draconic Bargain](https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/81544785_2480622842226233_8029671475629785088_n.jpg?_nc_cat=108&_nc_oc=AQk2tMmkbvYfwJ0CSynbd_EuuUDSvHbeKhtK5d1m_ZLgmHYNr2MvAZu4JkPkoZ5Xz8o&_nc_ht=scontent-iad3-1.xx&oh=5e86b3057e005656c5776d4041eaa93f&oe=5E8EB74D "Dragon shared by WYKD WundrLnd")](https://www.facebook.com/2056374031317785/photos/a.2056421691313019/2480622835559567/?type=3&theater)</div>
 
 With a sigh, the older man opened his tome and began flipping through sheets until his mouth curled into a smile. He jabbed his finger down and dragged it across the lines. When he finished absorbing the information, he pulled the ribbon out and laid it between the pages. The gnarled man circled the table and rummaged through the components scattered about the floor.
 

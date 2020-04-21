@@ -3,6 +3,8 @@ title: Solora's Descent
 tags:
   - Wattpad
   - Transformation
+  - Aurora
+  - Science-Fiction
 categories:
   - - Flash Fiction
 date: 2020-02-29 09:38:27
@@ -10,7 +12,7 @@ date: 2020-02-29 09:38:27
 
 With all the information about their system gathered and the first colonization ship created, the Aurorans take their first step towards forming their new federation. The triumvirs select Isaac and his crew to pilot the new world ship. The ship is populated promptly and their departure and flight is without issue. Jump into the story as the ship enters the atmosphere of their new colony.<!-- more --> Will the ship’s decent be without issue? Or will the fresh step into the future be marred with disaster?
 
-<div class="center">[![Solora's Descent](/images/covers/transformation.png "Solora's Descent")](https://www.wattpad.com/...)</div>
+<div class="center">[![Solora's Descent](/images/covers/transformation.png "Solora's Descent")](https://www.wattpad.com/827537190-transformation-solora%27s-descent)</div>
 
 As flames raced up the prow of the ship, Isaac sank into his chair and groaned.
 
@@ -30,4 +32,4 @@ With a grin, Jasmine crooked her finger. “Weren’t you the pilot who claimed 
 .
 .
 .
-</div><div class="center">To continue reading the story, click [here](https://www.wattpad.com/...) to head over to Wattpad.</div>
+</div><div class="center">To continue reading the story, click [here](https://www.wattpad.com/827537190-transformation-solora%27s-descent) to head over to Wattpad.</div>
