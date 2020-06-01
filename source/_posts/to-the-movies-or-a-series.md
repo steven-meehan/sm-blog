@@ -4,6 +4,7 @@ date: 2013-03-15 01:29:35
 tags:
 categories: 
 - [Question]
+showKofiSuport: false
 ---
 What is it about books that make them so hard to translate to the screen?  The first thing that pops into my mind is the depth of a book.  There is so much occurring throughout the pages that to force the book into the constraints of a movie certain things must be forfeited.  No one will sit through a six to eight hour movie, it just won’t happen.  Rarely, a movie will run very close to a book, in fact I have seen it happen only a couple of times.<!-- more -->
 

@@ -7,6 +7,7 @@ tags:
 categories:
   - - Review
 date: 2019-03-19 18:38:54
+showKofiSuport: false
 ---
 
 I have been a big fan of the Marvel Cinematic Universe dating back to its inception with Iron Man, so I get excited about every film that comes out.  Now I remember all of the emotions that were swirling in me at the conclusion of Avengers: Infinity War's, despite intellectually knowing that it would happen.  But when the film's final post-credit scene ended with Nick Fury's pager falling through his disintegrating fingers, I got excited with the teasing of Captain Marvel.  Many things went through my mind, but the biggest was why not before, and so I've been eagerly waiting to get the backstory.  And we finally got the answers we were waiting for, and then some.

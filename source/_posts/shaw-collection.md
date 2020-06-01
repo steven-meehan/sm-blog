@@ -8,6 +8,7 @@ categories:
   - - Flash Fiction
 prompt: ' => Sci-Fi, A wine cellar, Perfume'
 date: 2019-06-23 19:27:37
+showKofiSuport: true
 ---
 
 Daniel and Rachel paced around the wine cellar, studying the extensive collection. As they toured the racks of wine, Daniel studied the milling crowd. Meanwhile, Rachel focused her attention upon the expensive wine when her eyes caught sight of a particular bottle. She scurried towards the unique bottle and whipped her head around to stare at Daniel. He wrapped his arms around her shoulders, and Rachel tapped at his shoulder and then pointed at the bottle. “Daniel," she exclaimed her eyes following her hand towards the wine. "I can't believe they have a bottle of..."

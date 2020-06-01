@@ -7,6 +7,7 @@ categories:
   - - Flash Fiction
 prompt: NYC Midnight List => horror, convention, tray
 date: 2018-11-01 16:12:24
+showKofiSuport: true
 ---
 
 Jemma and Charles were exploring Comic-Con amazed at the variety at their fingertips.  This was just what they needed to jumpstart their YouTube channel.  With each and booth they walked past they were able to chat with various companies about their upcoming projects.  The twins were eager to take the notes from those conversations and transform them into new and engaging videos for their channel.  They had even gotten a few sneak peeks at exciting and new characters ready to make their debuts.

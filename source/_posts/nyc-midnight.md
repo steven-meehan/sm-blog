@@ -4,6 +4,7 @@ tags: []
 categories:
   - - News
 date: 2018-09-25 16:14:53
+showKofiSuport: true
 ---
 
 I was introduced to NYC Midnight by John Dutton one of the leaders of the Spilled Ink group on Facebook.  I was talking with him about some of the flash fiction stories I had written, and he suggested this particular competition if I was into that format.  As soon as he told me about these competitions, I was intrigued.  So I put it on my list of things to investigate, and when I finally got to delve into NYC Midnight and their competition, I began to soak up everything I could in earnest to learn as much as I could.

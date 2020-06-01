@@ -5,6 +5,7 @@ tags:
 categories:
   - - Thought
 date: 2018-07-06 23:36:49
+showKofiSuport: false
 ---
 
 I remember when I got my first Kindle way back in 2008, it was a clunky wedge-shaped device, but I was excited to get my hands on my very first e-reader.  Though by no stretch of the imagination was the Kindle the first e-reader, at the time the devices were an extremely niche and expensive.  In fact, shortly before the launch of the product, I remember listening to a technology podcast, and one of the hosts was talking about the sheer uselessness of e-readers in general.  He thought that the Kindle would come and go amounting to nothing but a footnote in history.  Well the Kindle did a little bit better than what that particular host thought it would, a lot better.<!-- more --><div class="embedded-image-left">![1st Generation Kindle](./1st-gen-kindle.jpg)</div>

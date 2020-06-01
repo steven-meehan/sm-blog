@@ -6,6 +6,7 @@ tags:
 categories:
   - - Flash Fiction
 date: 2020-04-20 22:51:18
+showKofiSuport: true
 ---
 
 After months of study, another student is being brought into the Academy. While the students are eager to meet the new student, Roland grumbles about being forced to take on the newcomer as a roommate. His attempts to convince Darren to take on the new pupil continue to fall apart. The day of the fresh student’s arrival comes, and Roland is late entering the cafeteria, and while all the students are hesitant to room with the unknown student, they are eager to meet Wayne Iydril.<!-- more --> Will Wayne Iydril get off to a pleasant start? Or will the new student cause problems for the rest of the Academy?

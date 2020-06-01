@@ -6,6 +6,7 @@ tags:
 categories:
   - - Flash Fiction
 date: 2020-02-25 23:23:51
+showKofiSuport: true
 ---
 
 With the Captain curtailing the rights of his crew, Rylan searches for a way to keep his team safe. He reaches back to his roots as a technician, and attempts to retrieve the information from the salvaged data assembly. And because he refuses to diminish their ultimate survival, he keeps most of his decisions from his lieutenants.<!-- more --> Will he be able to recover the data from the assembly? Will his people turn on him because of his desire to protect his secrets?

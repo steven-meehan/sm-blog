@@ -6,6 +6,7 @@ tags:
 categories:
   - - Flash Fiction
 date: 2018-11-06 11:07:16
+showKofiSuport: true
 ---
 
 Ever since the charges that had been brought against Rylan were dismissed, he had been waiting for the meeting that would decide what the planet did regarding Laria.  It had been a month since the dismissal, and the various leaders had been unable to contact anyone off world.  The population of the planet was divided on what they should do, some wanted to ignore what had happened and just carry on as usual.  While the other group wanted to build a ship so they could return to Laria and discover what had happened there, a desire that Rylan shared.

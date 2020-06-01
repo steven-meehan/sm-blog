@@ -4,6 +4,7 @@ tags:
 categories:
   - [Thought]
 date: 2018-04-13 21:02:52
+showKofiSuport: false
 ---
 What is it about reading that is so important?  Growing up, I never thought twice about my choice to sit in front of a television and just watch whatever was on.  The cartoons and shows were exciting and as an easily impressed youngster the “storylines” they presented captured my fleeting attention and did not make me think too hard.  It was a perfect way to be entertained, at least my younger self-thought so.  <!-- more -->And ever since I cracked open my [first fantasy](https://en.wikipedia.org/wiki/Wizard%27s_First_Rule) I have been making up for lost time reading everything I can.
 

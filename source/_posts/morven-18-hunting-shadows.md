@@ -7,6 +7,7 @@ tags:
 categories:
   - - Flash Fiction
 date: 2020-03-12 3:18:21
+showKofiSuport: true
 ---
 
 Facing a new threat, Tarian dispatches teams to scour the wilderness for the recent peril. Keldon, Engrim, and Caleb are tapped as leaders and they spend every available moment searching for the evasive threat. After weeks of fruitless searching, they believe the initial creature was unique.<!-- more --> Will these hunters find another one of these creatures? Or will they finally discover another one of these doppelgangers?

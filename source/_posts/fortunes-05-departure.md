@@ -6,6 +6,7 @@ tags:
 categories:
   - - Flash Fiction
 date: 2019-01-08 18:18:22
+showKofiSuport: true
 ---
 
 Rylan looked at everyone around him, they were preparing for the launch of the ship.  They had been training vigorously for the last three weeks since no one had any idea what to expect, so those who had been volunteered for the mission were being readied for anything.  Those in charge had even decided to alter the purpose of the mission, slightly.  Their primary goal was still to discover what had happened on Laria but it was decided that to help prepare those on the mission that they should investigate two planets that were on the way to the Larian system.

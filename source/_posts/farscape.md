@@ -4,6 +4,7 @@ date: 2013-06-14 22:21:19
 tags: [Science Fiction, Farscape]
 categories: 
 - [Recommendation]
+showKofiSuport: false
 ---
 How often do we romanticize our experiences as children?  There are a few shows that I remember doggedly following, trying never to miss a second of the story.  And looking back at them now I simply do not understand why I was so enamored with them.  I still mostly enjoy watching the shows, out of some misguided sense of nostalgia; but, the love I had for the story has long since faded.  <!-- more --><div class="embedded-image-right">![Farscape](./farscape.jpg)</div>Somehow though, there are some shows that have been able to burn just as brightly now as they did when I first glimpsed them.   Farscape was one of these special few shows.
 

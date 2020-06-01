@@ -7,6 +7,7 @@ tags:
 categories:
   - - News
 date: 2019-11-27 16:44:54
+showKofiSuport: false
 ---
 
 NaNoWriMo came, and I began crafting my initial draft of *Survival*. When Veteran’s day rolled around, I came down with Shingles. Shingles! It took a few days for the pain to make it into my life. While the vacation helped me get a leg up on the writing, I lost most of the time I earned with the pain that lanced through my head. After being diagnosed, I heard plenty of horror stories about shingles, and I feared that I would be in for a rough few weeks maybe multiple months. Thankfully, I got the antiviral into my body before the pain started, because the pain didn’t linger.<!-- more -->

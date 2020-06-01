@@ -7,6 +7,7 @@ categories:
   - - Flash Fiction
 prompt: 'NYC Midnight => Suspense, A pottery studio, A shovel'
 date: 2019-11-27 18:10:32
+showKofiSuport: false
 ---
 
 Shortly after finishing [*Lost Chance*](https://www.patreon.com/posts/31899677), I turned my attention to the final tale for the NaNoWriMo shortened month. The benefit of this story was that I got to craft a suspense narrative. Then I looked through all my previous posts and realized how little I’ve done in this field. Thumbing through the posts on my website I found the only other foray into this genre there, [*The Grave Countdown*](/archives/2019/01/01/grave-countdown/). I published that story back in January of this year. That tale featured an inspector called Ryan Graves, and after re-reading it, I was eager to explore the inspector’s personality more.<!-- more --> 

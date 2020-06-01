@@ -5,6 +5,7 @@ tags:
 categories:
   - - Review
 date: 2020-04-02 21:52:37
+showKofiSuport: false
 ---
 
 I don’t remember how I stumbled onto the [Souls of the Never](https://www.audible.com/pd/Souls-of-the-Never-Audiobook/B013ITHDNG?ref=a_author_C-_c19_lProduct_1_1&pf_rd_p=1ae0e65e-ad09-4aa7-aa73-772cefb1b5e1&pf_rd_r=Q83GP2HH2142PBE8F126). But while pursuing my library, I stumbled upon the title and read the publisher’s summary.<!-- more -->

@@ -7,6 +7,7 @@ tags:
 categories:
   - - Flash Fiction
 date: 2019-06-04 20:51:35
+showKofiSuport: true
 ---
 
 Rushing to the precious center of a section of the wall, Tarian grabbed one of the rifles of the dead still lining the failing wall. He bent down, and a tear threatened to escape, but he forced the emotions down. He could grieve for the dead later. Tarian wished that the dead could have been given the respect they deserved, but they couldn't spare the manpower. As a result, bodies and their rifles littered the walls.

@@ -6,6 +6,7 @@ tags:
 categories:
   - - Flash Fiction
 date: 2020-01-14 05:19:33
+showKofiSuport: true
 ---
 
 With the colony of Nova beginning to thrive, Nathaniel has to diffuse another volatile situation with the leader of the Eastern Region. Kethra complains about her region’s inability to meet their quota, citing that she doesn’t have the people she needs to achieve the desired results. He saddles up his trusty mount and heads to Marcus’s ranch to speak with his friend.<!-- more --> Will Nathaniel be able to secure a new deal to appease his squeaky wheel? Or will Marcus and Talia finally refuse to bend to her whims again?

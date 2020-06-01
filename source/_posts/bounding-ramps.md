@@ -7,6 +7,7 @@ categories:
   - - Flash Fiction
 prompt: 'NYC Midnight => Drama, A Parking Garage, A Tennis Racket'
 date: 2020-03-15 23:36:07
+showKofiSuport: false
 ---
 
 With March’s poll complete, I turned my focus to the first story for the month, another Drama. Though it competed with the draft of a different project. But when that future draft stopped spinning around in my mind, I ventured back to NYC Midnight’s collection of prompts for 2019 and pulled a random Drama prompt. And I grumbled about the location once my mind processed it. I needed to put a dramatic story into a parking garage.<!-- more --> A parking garage. How do you spin a dramatic story in that place? The requirement to layer in a tennis racket seemed easy in comparison.

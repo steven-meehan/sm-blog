@@ -7,6 +7,7 @@ categories:
   - - Flash Fiction
 prompt: "NYC Midnight => Suspense,\tA dressing room for actors,\tA shot glass"
 date: 2019-01-01 21:07:48
+showKofiSuport: true
 ---
 
 Pausing backstage Ryan pulled the bagged letter out of his coat.  Forensics had examined the thing already, but he never wanted to contaminate evidence.  He quickly reread the mismatched letters, yearning for some new insight.  Unfortunately, it revealed nothing new.  Ryan thought about how it had been delivered to the station earlier that morning by a private courier.  Yet it was just another dead end, that another detective already found.

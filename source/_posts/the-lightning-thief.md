@@ -4,6 +4,7 @@ tags: [Fantasy, Mythology, Greek]
 categories:
   - [Review]
 date: 2018-04-17 22:29:38
+showKofiSuport: false
 ---
 
 Growing up I was always a fan of Greek mythology; and, since Roman mythology is essentially a variation of Greek, I loved it too.  It was not the surviving myths (stories) that addicted me to the subject.  It had been the concept of gods and demigods that seared the topic into my mind.  During my college days, I took a course in {% post_link greek-mythology-part-1 %}.  <!-- more --><div class="embedded-image-right">![The Lightning Thief](./lightning_thief_cover.jpg)</div>In it I was forced to explore the topic through the literature and not just through superficial overviews of the legends. The course turned out to be very enjoyable and I gained a deeper appreciation for the myths.  

@@ -5,6 +5,7 @@ tags:
 categories:
   - - Review
 date: 2020-03-30 18:50:53
+showKofiSuport: false
 ---
 
 Sometimes when I’m browsing Audible, I’ll glance at their suggestions, and sometimes I’ll even latch onto one. So when [The Girl Who Sees: Sasha Urban Series, Book 1](https://www.audible.com/pd/The-Girl-Who-Sees-Audiobook/B07FK12WH9?ref=a_library_t_c5_libItem_&pf_rd_p=91ba6faf-5e4f-494c-abef-d663c65bee07&pf_rd_r=HYZAVY6AD6JXAKHTYXTN), popped up on that list, the cover caught my attention. The vortex of playing cards pulled at my attention, and I possessed an extra credit to use, so I traded the credit for the book. Despite getting the book, it lingered in my library for a while, until I finished some other stories.

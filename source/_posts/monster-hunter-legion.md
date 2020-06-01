@@ -7,6 +7,7 @@ tags:
 categories:
   - - Review
 date: 2018-07-21 8:50:58
+showKofiSuport: false
 ---
 
 What do the letters ICMHP mean to you?  Before reading [this book](https://www.amazon.com/gp/product/1451639066/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451639066&linkCode=as2&tag=mysite009e-20&linkId=e681ee5f7468edef258ac94407bceb20) it looked like nothing but gibberish, but shortly after stating _Monster Hunter Legion_ we are told it stands for the International Conference of Monster Hunting Professionals.  The conference, the first ever, was set up to pull hunters from around the world together in an effort to make them better at their job.  Once again we are treated to Owen Zastava Pitt's point of view, which makes sense since he is such a central figure in this series.  His team arrives in Las Vegas just having completed a job, and he is trying to enjoy a buffet, when his past runs into him quite literally.<!-- more --><div class="embedded-image-left">![](./monster-hunter-legion.jpg)</div>

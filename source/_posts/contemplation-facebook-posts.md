@@ -4,6 +4,7 @@ tags: []
 categories:
   - - News
 date: 2018-12-03 20:08:11
+showKofiSuport: false
 ---
 
 I was feeling a little under the weather for the latter half of last week, so I wasn't able to write the piece of flash fiction that I wanted to.  As poor as I felt I didn't completely ignore the site, I was pursuing my insights for the posts that I link to on my facebook page.  The gold standard for an author, or any creative individual, is unsolicited feedback, be it reviews for my books or comments on my posts.  Now my blog is currently not configured for comments, thankfully when I publish a post, I also publish a link to it on my [Facebook page](https://www.facebook.com/steven.patrick.meehan).  This way I can see any conversations that might be had there.  And ever since I posted the first link to that page, I've been eagerly awaiting for my first Facebook comment.

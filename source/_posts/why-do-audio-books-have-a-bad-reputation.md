@@ -4,6 +4,7 @@ date: 2013-03-06 15:00:52
 tags: [Audible]
 categories: 
 - [Question]
+showKofiSuport: false
 ---
 Audio books are an incredible way to consume literature… well some types of literature anyway.  I do not care how good a narrator might be, he will be unable to adequately describe a technical diagram in sufficient detail.  So technical literature aside, listening to an audio book can bring the story alive in different ways than simply reading it ever could.  Yet there are those who believe that listening to an audio book is a bad thing, almost childish. <!-- more -->
 

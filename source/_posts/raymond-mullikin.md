@@ -6,6 +6,7 @@ tags:
 categories:
   - - News
 date: 2018-10-23 07:38:10
+showKofiSuport: false
 ---
 
 The other day I received a message from Raymond Mullikin, via Kickstarter.  After reading his message, I decided to check out his Kickstarter page to see what kind of projects he did.  When I landed on his page, I immediately saw his current project [Jonathin Quackup: Issue #3 - The Deadly Journey!](https://www.kickstarter.com/projects/raytoons/jonathin-quackup-issue-3-the-deadly-journey).  And the cover image of that project blew me away.  That image with the skeleton in the background and an apparently sorry character is so captivating that I was pulled to delve into the details of the project.

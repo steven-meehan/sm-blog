@@ -4,6 +4,7 @@ date: 2013-09-05 08:19:42
 tags: [Science Fiction, Farscape]
 categories: 
 - [Recommendation]
+showKofiSuport: false
 ---
 Could I have discussed The Peacekeeper Wars mini-series with Farscape?  Probably.  They feature the same characters with the same past but there is a more foreboding atmosphere  to the special that did not exist in the main show.  This two hour special most likely would have formed the basis for the shows fifth season had it not been canceled.  <!-- more --><div class="embedded-image-left">![Farscape Peacekeeper Wars](./farscapepw.jpg)</div>But to me they are completely disparate — okay, I guess in all honesty distinct is probably the better word — stories.  And so each should be discussed on its own merits. 
 

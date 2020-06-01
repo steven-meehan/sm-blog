@@ -6,6 +6,7 @@ tags:
 categories:
   - - Flash Fiction
 date: 2018-10-11 11:07:08
+showKofiSuport: true
 ---
 
 Rylan sat in the judge's office head in his hands as he listened to the each of the counselors explain their arguments.  The judge who would ultimately decide his fate was an impressive figure sitting tall behind his desk, an unmoving mountain.  Sweat began to form along Rylan's brow as the heat in the room finally started to get to the technician.  As each of the counselors was finishing their arguments, Rylan began to think about what had happened to him under the emotionless scrutiny of the judge sitting across from him.

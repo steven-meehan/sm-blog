@@ -7,6 +7,7 @@ categories:
   - - Flash Fiction
 prompt: 'NYC Midnight => Historical Fiction, A School Dance, A Photo Album'
 date: 2019-10-01 17:20:50
+showKofiSuport: true
 ---
 
 

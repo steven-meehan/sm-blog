@@ -5,6 +5,7 @@ tags:
 categories:
   - - Review
 date: 2020-04-14 21:09:08
+showKofiSuport: false
 ---
 
 When I’m scrolling through my Facebook feed, sometimes I’ll see a book recommendation in there. I usually skip them, but occasionally the cover or tag line pulls me in. I cannot remember which captivated me with Dead of Night, but I took a lengthy look at the ad and followed it to the Amazon page to get [Dead of Night](https://www.amazon.com/Dead-Night-Ghosts-Magic-Book-ebook/dp/B00KET4TR2).<!-- more -->

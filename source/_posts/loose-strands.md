@@ -8,6 +8,7 @@ categories:
   - - Flash Fiction
 prompt: 'NYC Midnight => Mystery, A Creamery, A Fake Beard'
 date: 2019-04-25 21:38:15
+showKofiSuport: true
 ---
 
 Ducking underneath the yellow tape, Kyle Rickman surveyed the inside the creamery. There were a few witnesses including the Damien Horn's nanny and his parents. From what the father told him on the phone, a couple of family friends would be joining them shortly. As Kyle entered, he offered officer Andrew Grimes a nod.  "Good afternoon officer."

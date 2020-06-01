@@ -6,6 +6,7 @@ tags:
 categories:
   - - News
 date: 2019-08-30 16:15:51
+showKofiSuport: false
 ---
 
 Today I’m posting, Racing Retinue, the third and final piece of flash fiction for Patreon in August. If you enjoy any of the flash fiction that I post here or on [Wattpad](https://www.wattpad.com/user/StevenMeehan), and you want to get more. You should consider visiting my [Patreon site](https://www.patreon.com/stevenpmeehan). Ever since February, I’ve been posting three unique pieces of flash fiction there. For a $2.00 monthly pledge, you can get access to all seven months of stories. Not to mention all the tales that I will continue to write going forward.<!-- more -->

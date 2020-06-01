@@ -6,6 +6,7 @@ tags:
 categories:
   - - Review
 date: 2019-01-03 21:14:41
+showKofiSuport: false
 ---
 
 After reading the first issue of [Jonathin Quackup of the Planet Weralt](https://www.comixcentral.com/products/jonathin-quackup-of-the-planet-weralt-1/), I was eager to pick up the next book in the series.  But I wanted to wait and savor these books like an excellent steak.  So I waited to read the second book and instead thumbed through the first book multiple times to extract all the beauty and depth of that book.  Yet it was time to move onto the [second book](https://www.comixcentral.com/products/jonathin-quackup-of-the-planet-weralt-2/) in the series.  So I opened the book on my Surface Book and found a comfortable place to consume the story and artwork.

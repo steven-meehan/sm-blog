@@ -6,6 +6,7 @@ tags:
 categories:
   - - News
 date: 2019-12-17 21:23:46
+showKofiSuport: true
 ---
 
 Last month, we joined Harrison while he attended one of the King’s galas. While the other guests ate, drank, and danced the night away, the King strolled his corridors with Harrison. The two talked about Harrison’s work with his relics. After they finished their conversation, the King’s tinkerer returned to the festivities for a time. A freak lightning storm tore through the night’s sky, and a mysterious woman fell to earth. This month, we return our attention to Sylvia’s picking up her tale.<!-- more --><hr class="clear-both center-fade"/><div class="embedded-image-right">![Crossroads](/writing/harrison-sylvia/series-01/harrison-sylvia-1.jpg)</div>

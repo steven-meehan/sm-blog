@@ -7,6 +7,7 @@ categories:
   - - Flash Fiction
 prompt: 'NYC Midnight => Fantasy, A garbage truck, A pork chop'
 date: 2019-06-20 20:58:25
+showKofiSuport: true
 ---
 
 As the garbage truck came to a stop, Leland took it out of gear and tapped his partner's shoulder. "Veit, we're back. Go on and start emptying the load."

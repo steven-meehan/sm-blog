@@ -8,6 +8,7 @@ categories:
 prompt: >-
   https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/81544785_2480622842226233_8029671475629785088_n.jpg?_nc_cat=108&_nc_oc=AQk2tMmkbvYfwJ0CSynbd_EuuUDSvHbeKhtK5d1m_ZLgmHYNr2MvAZu4JkPkoZ5Xz8o&_nc_ht=scontent-iad3-1.xx&oh=5e86b3057e005656c5776d4041eaa93f&oe=5E8EB74D
 date: 2020-02-26 22:11:44
+showKofiSuport: true
 ---
 
 While a gnarled man with wild white hair walked in front of his bookshelf, his finger traced the spine of each book on the fifth shelf from the floor. When he felt the one constructed with dragon scales, he stopped and grinned. He pulled the volume from its fellows and clutched it to his chest, marching for the table in the middle of the room. “Semil, where are you?”

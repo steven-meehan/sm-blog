@@ -7,6 +7,7 @@ categories:
   - - Flash Fiction
 prompt: 'NYC Midnight => Crime Caper, A Vineyard, A Laminator'
 date: 2019-12-26 22:12:05
+showKofiSuport: false
 ---
 
 Between work and Christmas, December became just as hectic as November. But as Christmas approached, I knuckled down and focused on writing my Patreon posts. After the poll closed, I ended up with a Crime Caper, a Mystery and a thriller. As the twentieth came to a close, my mind started churning on what Jessica’s latest adventure might be.<!-- more -->

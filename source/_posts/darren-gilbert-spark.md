@@ -6,6 +6,7 @@ tags:
 categories:
   - - Flash Fiction
 date: 2019-04-11 20:06:26
+showKofiSuport: true
 ---
 
 Running home a pudgy little boy, Darren Gilbert, fled from his bullies.  He decided to risk taking his shortcut home, sure that they didn’t know about it.  As he drew closer, he churned his legs faster even after he turned down the alley.  As he ran past a dumpster, he risked a glance behind him.  Unfortunately, Darren collided with someone falling to the ground.    As Darren Gilbert tried to climb to his feet an all to familiar voice taunted him.  “So you thought we didn’t know about this shortcut of yours.” 

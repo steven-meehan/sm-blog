@@ -8,6 +8,7 @@ tags:
 categories:
   - - Review
 date: 2018-11-08 21:55:31
+showKofiSuport: false
 ---
 
 Fresh off their costly yet crucial victory over Napoleon, the French have been driven off of British soil.  While Temeraire and Laurence helped to secure this ever so crucial a victory, those who witnessed the devastation caused by Lien have no desire for Temeraire to remain so close to their borders since Laurence is still to be punished for his treason.  Though they no longer wish to risk Temeraire's outrage so instead of returning him to a wait for the gallows, they decide to lessen the punishment to Transportation, sending him across the world to Australia to live out his remaining days as far away from England as possible.<!-- more --><div class="embedded-image-left"><img src="https://images-na.ssl-images-amazon.com/images/I/51a7jcE%2BUNL._SX342_.jpg" alt="Tongues of Serpents" style="max-height: 300px; max-width: 300px"/></div>

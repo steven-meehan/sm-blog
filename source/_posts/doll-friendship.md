@@ -7,6 +7,7 @@ categories:
   - - Flash Fiction
 prompt: 'NYC Midnight List => Science Fiction, hospice, armband'
 date: 2018-12-18 17:40:33
+showKofiSuport: true
 ---
 
 Walking down the corridors of the Gemini, Samantha held her mother's hand with her right and clutched her most precious possession, the doll she had gotten for her birthday, to her chest with the other.  As the two journeyed towards the ship's hospice ward, Samantha noticed a lot of the people wearing a black armband with a series of red dots running along the center of it.  The child looked away from the metallic corridors of her home and to her mother's own left arm and saw that same band there.  "Mommy, why are so many people wearing that armband?"

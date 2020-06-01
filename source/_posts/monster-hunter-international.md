@@ -7,6 +7,7 @@ tags:
 categories:
   - - Review
 date: 2018-06-27 20:23:38
+showKofiSuport: false
 ---
 
 Going through my Audible library I saw a series that I enjoyed, _Monster Hunter_, and I saw that there was a new entry _Monster Hunter Siege_.  I quickly added the new book to my library, but I did not want to start it right away since it had been so long since I had read any of the books.  So now that I held a new entry in the series, I went to the Audible app on my phone and downloaded [_Monster Hunter International_](https://www.amazon.com/gp/product/1439132852/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1439132852&linkCode=as2&tag=mysite009e-20&linkId=67986cad749825deaba8db6ad8d26705) so I could once more begin my journey in the _Monster Hunter_ series.<!-- more --><div class="embedded-image-left">![](./monster-hunter-international.jpg)</div>

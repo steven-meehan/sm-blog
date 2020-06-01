@@ -7,6 +7,7 @@ tags:
 categories:
   - [Flash Fiction]
 date: 2019-01-17 17:50:09
+showKofiSuport: true
 ---
 
 Tarian sauntered through the forest with his detachment with no signs of any of his people that went missing during the assault.  He reached for his radio and depressed the button calling out to Keldon.  "Hey Kel, have you had any luck over there?"

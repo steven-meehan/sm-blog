@@ -6,6 +6,7 @@ tags:
 categories:
   - - Review
 date: 2018-04-25 19:42:41
+showKofiSuport: false
 ---
 
 [_The Hidden Masters of Marandur_](https://www.amazon.com/gp/product/1625671334/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1625671334&linkCode=as2&tag=mysite009e-20&linkId=d575d3e928d1e89881c4adea7bc9bcc1) is the sequel to _The Dragons of Dorcastle_ and I was eager to finally be able to return to the world that Jack Campbell created.  In the first book he crafted a world, yet barely scratched its history, that was engaging and pulled me into the story.  <!-- more --><div class="embedded-image-left">![](./hidden-masters-of-marandur.jpg)</div>This time he delves a little deeper into the world as he tells the story of Master Mechanic Mari and Mage Alain.

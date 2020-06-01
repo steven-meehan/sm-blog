@@ -8,6 +8,7 @@ categories:
   - - Flash Fiction
 prompt: 'Fiona => mystery, clocktower, ring'
 date: 2018-12-11 18:31:22
+showKofiSuport: true
 ---
 
 As Gregory leaned against the wall of the clock tower, the tears flowed from his eyes as he kept protesting his innocence.  But his words fell upon the deaf ears of Rebecca and her partner, Frank.  As they were standing next to their car, Frank asked, "Rebecca, are you sure about this?"

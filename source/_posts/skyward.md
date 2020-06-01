@@ -5,6 +5,7 @@ tags:
 categories:
   - - Review
 date: 2019-05-07 18:32:19
+showKofiSuport: false
 ---
 
 Brandon Sanderson is a fantastic author.  And the arcing story he is telling in his cosmere universe is breathtaking. But he does not spend all his time living in that universe.  Which means his faithful readers are treated to tales outside of that story. One such story is Skyward. This particular story centers around the life and struggles of Spensa aka Spin. She is a child who has a simple dream.  She wants to follow her father's footsteps and become a starship pilot.  That single goal focused by a desire to help her people in their struggle against their enemy.<!-- more --><div class="embedded-image-left">![Skyward](https://images-na.ssl-images-amazon.com/images/I/51GODC24fCL._SY346_.jpg)</div><div class="embedded-image-right">![](./)</div>

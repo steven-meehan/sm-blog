@@ -7,6 +7,7 @@ categories:
   - - Flash Fiction
 prompt: 'NYC Midnight => Crime Caper, An Automotive Store, A Pug'
 date: 2020-01-17 23:32:23
+showKofiSuport: false
 ---
 
 I hope everyone is enjoying the New Year. When I collected the votes from the Patreon Poll for January, I was excited to work on the Crime Caper. I’ve gotten a few of those recently, so I count on everybody being ready to revisit Jessica in her latest transgression.<!-- more -->

@@ -6,6 +6,7 @@ tags:
 categories:
   - - Flash Fiction
 date: 2018-09-18 06:40:46
+showKofiSuport: true
 ---
 
 Rylan opened his eyes and saw the pale green sky of Tergara.  He always closed his eyes when he traveled to new worlds by the platforms.  He never knew why he was so compelled, but he enjoyed the wondrous experience of seeing one world one moment than seeing the new world in the next moment.  This particular trip was going to be a short one, he just needed to perform a little maintenance on the platform.

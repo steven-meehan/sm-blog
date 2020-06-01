@@ -9,6 +9,7 @@ prompt: >-
   NYC Midnight => Historical Fiction, A fire station, and featuring A mosquito
   net
 date: 2020-01-24 16:22:13
+showKofiSuport: false
 ---
 
 With my first Patreon tale completed, I turned my attention to working on my second story, a Historical Fiction. I’ve gotten this genre a few times and they are always fun. They require a lot of work, but they’re enjoyable to craft. The last one I wrote in this genre was [**Letters**](/archives/2019/10/01/letters/) for the NYC Midnight competition. Just like with Letters, I dug into the history of the period to graft clues to ground the piece in its place in history.<!-- more -->

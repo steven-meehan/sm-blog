@@ -6,6 +6,7 @@ tags:
 categories:
   - - News
 date: 2019-08-02 15:03:25
+showKofiSuport: true
 ---
 
 Last month we followed Harrison through his first audience with Jacob, the King of the Isles. The King tasked Harrison with replicating a relic. The King demonstrated the relic's power, and Harrison pledged to replicate that power. <!-- more --><hr class="clear-both center-fade"/><div class="embedded-image-right">![](/writing/harrison-sylvia/series-01/harrison-sylvia-1.jpg)</div> 

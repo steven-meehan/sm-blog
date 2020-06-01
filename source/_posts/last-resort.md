@@ -8,6 +8,7 @@ categories:
   - - Flash Fiction
 prompt: Tony => Science Fiction, ship, whisk-
 date: 2018-10-25 07:33:03
+showKofiSuport: true
 ---
 The team led by Ray was the last team still searching the seemingly abandoned battleship.  The relatively small force of humanity on the shore was eagerly awaiting an all-clear from each of the inspecting groups.  So far all but one team had sent in that precious all clear.  Ray's team alone was still searching the haggard battleship that would hopefully be their escape.  The ship was found on the cost by one of humanity’s remaining scouting squadrons that had been searching for anything that could help them flee their dying world.   Despite the ship being clear so far, the teams and the last remnants of humanity on shore were still uneasy.
 

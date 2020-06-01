@@ -4,6 +4,7 @@ tags:
 categories:
   - - News
 date: 2019-07-16 18:14:58
+showKofiSuport: false
 ---
 
 A few months back, one of my friends suggested that I should look at [NaNoWriMo](https://www.nanowrimo.org).  After my examination, I joined the site, and I'm planning on using November to fully flesh out an upcoming project.  I'm eagerly looking forward to this experience, and while I examined the site, I stumbled upon [Camp NaNoWriMo](https://campnanowrimo.org/).  I'm currently in the middle of this year's Camp, and I am having a blast working on Hero Call.  While working on my camp project, I stumbled upon the camp's sponsors, one of which is [Wattpad](httsp://www.wattpad.com). <!-- more --><div class="embedded-image-left">[![Darren Gilbert’s Journeys](./darren-gilbert-journeys.png "Darren Gilbert’s Journeys")](https://www.wattpad.com/story/193730653-darren-gilbert-journeys)</div>

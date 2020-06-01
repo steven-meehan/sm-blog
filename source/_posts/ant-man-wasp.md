@@ -7,6 +7,7 @@ tags:
 categories:
   - - Review
 date: 2018-08-17 22:17:17
+showKofiSuport: false
 ---
 
 I was not an avid comic book reader when I was younger.  I remember thumbing through an X-Men comic book here and there, but I never dove into the world of Marvel superheroes.  So when I started watching movies set into the Marvel Cinematic Universe (MCU), I leaned upon those who were obsessed with the comics to understand how well they made the leap to the silver screen.  And then there were the heroes like Ant-Man that I had never even heard of before the 2015 MCU film.<!-- more --><div class="embedded-image-right">![](./ant-man-wasp.jpg)</div>

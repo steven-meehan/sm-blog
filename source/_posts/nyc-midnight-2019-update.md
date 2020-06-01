@@ -6,6 +6,7 @@ tags:
 categories:
   - - News
 date: 2019-09-12 20:22:27
+showKofiSuport: true
 ---
 
 This morning, I woke up and saw an email from [NYC Midnight](https://www.nycmidnight.com), with the subject ***Challenge #1 Results***, and I got anxious. Back in July, I completed my first story for their annual flash fiction competition, and when I saw my prompt, I got nervous. Comedy isn’t my forte. At first, I didn’t know how I would put it in a movie theater, let alone have a sword present. But I buckled down and completed my tale, to the best of my ability. I submitted the story back on July 14th and tried to put it out of my mind.<!-- more -->

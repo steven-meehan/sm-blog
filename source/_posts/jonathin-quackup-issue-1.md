@@ -6,6 +6,7 @@ tags:
 categories:
   - - Review
 date: 2018-12-21 15:17:12
+showKofiSuport: false
 ---
 
 Ever since I came upon Raymond Mullikin's Kickstarter for [Jonathin Quackup: Issue #3](https://www.kickstarter.com/projects/raytoons/jonathin-quackup-issue-3-the-deadly-journey), I have been [eagerly awaiting](https://www.stevenmeehan.com/archives/2018/10/23/raymond-mullikin) the campaign's conclusion and the arrival of the digital comics that my pledge promised.  I received them earlier this week, and I immediately downloaded each and every issue available.  Once I had the three books on my computer I opened the [first issue](https://www.comixcentral.com/products/jonathin-quackup-of-the-planet-weralt-1/) and began looking through the book, for my first pass I was not reading the book, rather I was taking in all the images bound within the comic book.

@@ -6,6 +6,7 @@ tags:
 categories:
   - - Review
 date: 2018-06-02 09:21:10
+showKofiSuport: false
 ---
 
 

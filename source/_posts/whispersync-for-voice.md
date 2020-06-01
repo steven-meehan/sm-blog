@@ -6,6 +6,7 @@ tags:
 categories:
   - - Thought
 date: 2018-08-11 11:00:45
+showKofiSuport: false
 ---
 
 Amazon has been delving into every aspect of reading since they introduced their first generation of Kindle in November of 2007.  And when they looked at the reading market, they saw a considerable sector of the market they currently didn't have control over in the form of Audible, so the online giant bought Audible in 2008.  With this new market brought under their control, they quickly set about to enhance the capabilities of their Kindle portfolio.  They had initially introduced Whispersync as a way to keep your place between Kindle screens so you could read on any given Kindle screen without losing your place.<!-- more -->

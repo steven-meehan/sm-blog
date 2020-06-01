@@ -8,6 +8,7 @@ tags:
 categories:
   - - Thought
 date: 2018-08-23 21:23:29
+showKofiSuport: false
 ---
 
 When it comes to reading, I can never get enough.  I used to have a very single track mind with books, I would start one and then nothing else till I finished what I was reading.  But as time went on and I began to branch out into the world of audiobooks, I found that I could handle more storylines at the same time.  Unfortunately for me as I talked about in a previous [post](https://www.stevenmeehan.com/archives/2018/04/29/can-reading-too-much-be-the-same-as-not-reading-at-all), there is a potential danger of reading too much at any given time.<!-- more -->  As I said in that post, I was just juggling way too many books, both the pleasure books and the one I was writing.  Well as I kept increasing the number of storylines, my mind started to crack, and I ended up taking an extended sabbatical from reading altogether.  When I finally got back into the swing of things I realized that if I weren't careful, I would repeat the same mistake again.  So I knew I needed a way to moderate my intake of literature.  Armed with this knowledge, I looked at the amount that I had read in the past and decided to switch it up a bit.

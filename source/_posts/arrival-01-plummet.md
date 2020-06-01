@@ -6,6 +6,7 @@ tags:
 categories:
   - - Flash Fiction
 date: 2019-01-10 19:51:33
+showKofiSuport: true
 ---
 
 Marcus let his eyes drop to the vast array of sensors for the colonization ship.  He had gone through these checks numerous times before, and they were always the same when the ship was coming to a new planet.  When the great ship entered the system, the long-range sensors had registered five planets in this system.  Of those five planets, one was too close to the sun to support life, while three were gas giants.  But the second sphere from the sun was the only suitable planet for colonization, so the ship automatically set a course for the world.  When they got close enough the ship's sensors indicated that the surface wouldn't need to be terraformed, which was a pleasant change from the last three planets.

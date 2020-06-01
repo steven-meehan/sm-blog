@@ -6,6 +6,7 @@ tags:
 categories:
   - - Flash Fiction
 date: 2020-02-12 20:29:58
+showKofiSuport: false
 ---
 
 With February’s polls complete, I turned my focus to the first story for the month, a Drama. This time instead of heading to NYC Midnight, I turned to a different source for a prompt, a [first line generator](https://writingexercises.co.uk/firstlinegenerator.php). The text message said, very clever… I stared at that line for a while as I let the ideas percolate. Thoughts rushed into my mind but I kept knocking them away. None of those thoughts seemed like a good foundation for a story.<!-- more -->

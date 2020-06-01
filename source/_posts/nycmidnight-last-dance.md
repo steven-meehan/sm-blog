@@ -7,6 +7,7 @@ categories:
   - - Flash Fiction
 prompt: NYC Midnight List => ghost story, dance studio, drop of blood
 date: 2018-09-27 20:08:10
+showKofiSuport: true
 ---
 
 Felicia was holding onto Gerard with skilled hands, as they gracefully moved around her dancing studio.  She was amazed that a man with his skill would put his name into a drawing for a free dancing lesson, he did not need it.  His motions were as graceful as a swan gliding across the top of a crystal clear lake.  With each step across the smooth floor, Felica was amazed at how gently he was able to hold here, without sacrificing his grip upon her.

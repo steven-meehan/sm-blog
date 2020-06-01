@@ -8,6 +8,7 @@ tags:
 categories:
   - - Review
 date: 2018-10-04 17:16:10
+showKofiSuport: false
 ---
 
 At the conclusion of [_Empire of Ivory_](https://www.amazon.com/gp/product/0345496876/ref=as_li_tl?ie=UTF8&tag=mysite009e-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0345496876&linkId=51d53e24e9d2eee4cfd359b83f4953c2) Temeraire and Laurence stood at a moral crossroads, unbeknownst to them the Admiralty of the British Empire had deliberately caused the sickness that had plagued their Arieal Corps to spread to France, and were holding the cure in an effort to decimate the dragons under Napoleon's control.  When Temeraire heard this, he immediately decided to gather some of the medicine from the British stores and take them to France to prevent the potential destruction of the draconic race from Eurasia.  With knowledge of his dragon's desire Laurence needed only a little longer to knowingly commit treason to try and undo a truly horrific act.  However after successfully delivering the cure to the French Laurence willingly returns to England to face the consequences of his actions.<!-- more -->

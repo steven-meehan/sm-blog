@@ -7,6 +7,7 @@ categories:
   - - Flash Fiction
 prompt: 'NYC Midnight => Political Satire, Ski Resort, Sushi'
 date: 2020-03-25 23:13:33
+showKofiSuport: false
 ---
 
 With the completion of [Bounding Ramps](/archives/2020/03/15/bounding-ramps/) and [Dangerous Cuts](/archives/2020/03/18/dangerous-cuts/), I buckled down and started thinking about the last story of March, a Political Satire. Once more, I focused my attention on the headlines, but this time instead of finding an abundance of articles to pluck a central idea from, all I could find were articles about COVID-19. I didn’t want to write a story about the reaction to the outbreak. But after searching for another option, I couldn’t find something that seemed any better, so I tackled the topic.<!-- more -->

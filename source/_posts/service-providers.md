@@ -4,6 +4,7 @@ tags: []
 categories:
   - - Rant
 date: 2018-06-22 14:26:26
+showKofiSuport: false
 ---
 
 Sorry for the rant, but I spent a fair amount of the day reminiscing about significant events in my life, and one of the ones that my mind spent some time on recently was my daughter's kindergarten graduation, and play.  I don't remember all of the details of the play but a strong memory was that it was adorable and that my daughter did an excellent job with her lines.  After everything that was done, we spent the rest of the day together just having a good time.  One of the places we went to was a local park that was built back in the… well, it was around back when I was her age, and my daughter loves it, especially the tire swing.  I remember as we came close to the park I asked her if she knew where we were, and as soon as she could see the tops of the playground's structures the joy in her voice was evident as she cried out, “We’re at the tire wheel park.” <!-- more -->

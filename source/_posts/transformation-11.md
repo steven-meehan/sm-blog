@@ -8,6 +8,7 @@ tags:
 categories:
   - - Flash Fiction
 date: 2020-02-29 09:38:27
+showKofiSuport: true
 ---
 
 With all the information about their system gathered and the first colonization ship created, the Aurorans take their first step towards forming their new federation. The triumvirs select Isaac and his crew to pilot the new world ship. The ship is populated promptly and their departure and flight is without issue. Jump into the story as the ship enters the atmosphere of their new colony.<!-- more --> Will the ship’s decent be without issue? Or will the fresh step into the future be marred with disaster?

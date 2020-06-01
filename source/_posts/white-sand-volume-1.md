@@ -7,6 +7,7 @@ tags:
 categories:
   - - Review
 date: 2018-05-31 07:54:04
+showKofiSuport: false
 ---
 
 When I have some free time, and I want to explore Brandon Sanderson's Cosmere universe, I will visit [The Coppermind](https://coppermind.net/wiki/Coppermind:Welcome) to explore the universe these stories are crafting.  Long before [_White Sand Vol. 1_](https://www.amazon.com/gp/product/B01E62OKF8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01E62OKF8&linkCode=as2&tag=mysite009e-20&linkId=116465499e17674cee58bb7e23f51715) was released I read an article that talked about its placement in the cosmere [timeline](https://coppermind.net/wiki/Cosmere#Chronological_Order).  Given the fact that this story takes place so early on in the cosmere's history, I'm hoping to get some history of this wondrous universe.  Though I was very eager to delve into this new story and see how it would stand on its own.<!-- more --><div class="embedded-image-left">![White Sand Vol 1](./white-sand-vol1.jpg)</div>

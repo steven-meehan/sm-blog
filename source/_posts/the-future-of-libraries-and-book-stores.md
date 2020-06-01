@@ -4,6 +4,7 @@ date: 2013-03-03 21:50:40
 tags:
 categories: 
 - [Question]
+showKofiSuport: false
 ---
 As technology grows every day, it ever so slowly seeps into the world of literature.  Just four years ago if e-books were thought of at all they were considered a joke.  Used only by a handful of people, they were quickly dismissed by the vast majority.  Not caring about the lack of an apparent market or the other dedicated e-ink e-readers already on the market, Amazon released its first generation Kindle.  <!-- more -->Amazon immediately gave its device a competitive edge, when they managed to ensure the device had a contract free wireless connection to the internet.  The ability to download books directly to your Kindle meant that you had the first e-reader that did not have to be tethered to a computer.
 

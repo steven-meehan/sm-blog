@@ -8,6 +8,7 @@ tags:
 categories:
   - - Review
 date: 2019-01-22 16:24:43
+showKofiSuport: false
 ---
 
 As [_Crucible of Gold_](https://www.amazon.com/gp/product/0345522877/ref=as_li_tl?ie=UTF8&tag=mysite009e-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0345522877&linkId=769db48428d60d09007f134e0785936f) came to a close, the British detachment led by Laurence and Temeraire managed to help appease the Tswana dragons by claiming the French dragon transports, the Polonaise and the Maréchal, allowing them to go home.  After that Laurence was approached by Gong Su, Temeraire's cook that Laurence hired way back during the events of [_Black Powder War_](https://www.amazon.com/gp/product/0345481305/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0345481305&linkCode=as2&tag=mysite009e-20&linkId=8bc6caf64898873995caba325fde6006).  The cook revealed himself to be a  servant of Prince Mianning, the heir-apparent to China.  He presented a letter to Laurence and suggested that Laurence should return to visit his adoptive father to discuss Napoleon's ongoing conquest. And of course Hammond, ever looking to improve the relations between China and Brittain agreed that they should go.

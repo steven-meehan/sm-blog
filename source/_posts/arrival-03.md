@@ -6,6 +6,7 @@ tags:
 categories:
   - - Flash Fiction
 date: 2019-07-08 22:48:31
+showKofiSuport: true
 ---
 
 Marcus walked away from the meeting hall, shoving his hands into his pockets. Before he could get far, someone grabbed at his arm and asked, "Marcus, are you okay?"

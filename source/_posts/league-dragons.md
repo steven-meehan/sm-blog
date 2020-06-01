@@ -8,6 +8,7 @@ tags:
 categories:
   - - Review
 date: 2019-02-28 17:54:32
+showKofiSuport: false
 ---
 
 Having just forced Napoleon to retreat from Russia, despite the damage inflicted upon their forces from the starving and mistreated dragons freed from the Russian breeding grounds, they were unable to secure his capture.  Unfortunately for the Russian troops and countryside, Laurence's pleas for their conditions were too little too late for them to have claimed the dragons for their side.  It also made his life a little uncomfortable, while he was at a party for the Czar, he sucker-punched a nobleman who had talked about poisoning the dragons to be rid of them.  By this time most of Laurence's memories had returned to him, and he was outraged by the man's behavior, yet knowing he shouldn't participate in a duel he did anyway bring Hammond along as his second.

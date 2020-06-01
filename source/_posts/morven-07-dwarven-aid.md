@@ -7,6 +7,7 @@ tags:
 categories:
   - - Flash Fiction
 date: 2019-03-26 17:22:18
+showKofiSuport: true
 ---
 
 After a long night of searching a tired and nervous Caleb stopped when he came upon a place he could sit and rest his feet.  As he relaxed, he deliberately began pulling his weaponry out and giving it a thorough examination.  So far as Caleb tried to follow the path when he last crossed paths with the Dwarves all he managed to do was avoid vicious wildlife.  With each successful examination, Caleb returned the weapon he found that his nerves calmed down.  Once finished Caleb got to his feet and continued his attempt at following the path his last hunt.  Unfortunately, this world’s terrain was still too familiar, but Caleb knew the colony required him to succeed in his assignment.  With a sigh of frustration, Caleb resumed his search.

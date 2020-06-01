@@ -6,6 +6,7 @@ tags:
 categories:
   - - News
 date: 2019-10-24 22:46:52
+showKofiSuport: true
 ---
 
 Last month, we witnessed Sylvia escape a dungeon designed for wizards and battle with a mercenary as well equipped as she is. She escaped her assailant, but she needed to recover before making her next move. And so for this month, we will continue following Sylvia’s story as she strives to understand what happened to her life.<!-- more --><hr class="clear-both center-fade"/><div class="embedded-image-right">![Crossroads](/writing/harrison-sylvia/series-01/harrison-sylvia-1.jpg)</div>

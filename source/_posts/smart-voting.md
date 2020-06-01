@@ -7,6 +7,7 @@ categories:
   - - Flash Fiction
 prompt: 'NYC Midnight => Political Satire, Buffet, Fire Hose'
 date: 2020-01-29 05:48:50
+showKofiSuport: false
 ---
 
 With two Patreon stories down, I focused on the last tale for January, a Political Satire. Getting these stories always is a mixed bag, because I'm not a political person. In fact I try to avoid the news altogether. But there are times when I can let some of my personal beliefs bleed through and takle particular issues.<!-- more -->

@@ -7,6 +7,7 @@ tags:
 categories:
   - - Flash Fiction
 date: 2020-02-01 14:30:52
+showKofiSuport: true
 ---
 
 After the alliance with the Dwarves and Elves shattered, Tarian spends his time sulking in the former meeting hall. As the days and weeks march on, only Keldon can disturb his solitude. Though those meetings continue growing briefer.<!-- more --> Will Keldon be able to rouse his friend from his self-pity? Or will the Tarian continue to spiral out of control?

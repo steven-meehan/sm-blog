@@ -6,6 +6,7 @@ tags:
 categories:
   - - News
 date: 2019-04-04 21:23:21
+showKofiSuport: true
 ---
 
 Last month we witnessed one of Harrison's mad scientist moments, while he was studying a relic.  This month the spotlight shifts back to Sylvia, who last we saw saved the life of her employer, pouncing on the would-be assassin.  It turned out that the man was irate over what the king did to his sibling.  And when the dust settled from the attempt, the king ordered the man’s execution.<!-- more --><hr class="clear-both center-fade"/><div class="embedded-image-left">![](/writing/harrison-sylvia/series-01/harrison-sylvia-1.jpg)</div> 

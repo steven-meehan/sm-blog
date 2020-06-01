@@ -7,6 +7,7 @@ tags:
 categories:
   - - Review
 date: 2018-07-11 21:22:08
+showKofiSuport: false
 ---
 
 With the [third installment](https://www.amazon.com/gp/product/1439134588/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1439134588&linkCode=as2&tag=mysite009e-20&linkId=4cc1b719e70c125004c1e50e64241293) of the _Monster Hunter_ series we are not following Owen Zastava Pitt, instead, we are given the first true insight into Earl Harbinger's life.  This is an interesting change of pace rather than having to follow Pitt in yet another battle to save the day we are treated to the point of view of the unstoppable force.  Another wonderful thing about the change is that it opens the possibility that we will get other points of view in the other books in the series.  But back to _Alpha_, we were teased with the strength and knowledge the cantankerous old werewolf possesses, but we never get to see the events through his eyes.  We get it now, and it is a fantastic change of pace.<!-- more --><div class="embedded-image-right">![](./monster-hunter-alpha.jpg)</div>

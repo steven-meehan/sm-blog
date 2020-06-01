@@ -4,6 +4,7 @@ tags: [Epic, Fantasy, Cosmere]
 categories:
 - [Review]
 date: 2018-04-21 19:56:23
+showKofiSuport: false
 ---
 I remember when I was first introduced to Brandon Sanderson's work, I was wondering around a Barns & Nobel, and I saw one of his books from the Mistborn trilogy.  And I was hooked on his writing from the first word.  He has always been very good at building a word and filling it with wonderful characters.  <!-- more --><div class="embedded-image-left">![Oathbringer](./oathbringer-cover.jpg)</div>And I had high expectations for his newest installment to the Stormlight Archives, _Oathbringer_ from the previous two installments of the series.  For those who have not yet read [_Oathbringer_](https://www.amazon.com/gp/product/076532637X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=076532637X&linkCode=as2&tag=mysite009e-20&linkId=c0b7306478edf1caf20601d4194792f7) I will try my best to keep this review to the point and spoiler free.  
 

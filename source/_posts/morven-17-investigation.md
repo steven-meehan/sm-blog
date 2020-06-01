@@ -7,6 +7,7 @@ tags:
 categories:
   - - Flash Fiction
 date: 2020-02-13 21:16:52
+showKofiSuport: true
 ---
 
 With the ever looming danger the world possesses and no allies, Tarian shifts his focus to the dead creature that attacked him. He arranged for the brightest people to delve into the mysteries the body can illuminate. Over the course of a week, the colony’s scientists are unable to discover anything. Tarian unwilling to wait any longer barges in and demands what they have.<!-- more --> Will the scientists reward his patience with results? Or will the mysteries of this creature elude him?

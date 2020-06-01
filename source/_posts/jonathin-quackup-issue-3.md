@@ -6,6 +6,7 @@ tags:
 categories:
   - - Review
 date: 2019-02-07 21:32:50
+showKofiSuport: false
 ---
 
 It was time to pull out [Jonathin Quackup, Issue 3](https://www.comixcentral.com/products/jonathin-quackup-of-the-planet-weralt-3/) out and read the book that alerted me to this series.  While this entry brought me to the world of Weralt, it was after reading the first two issues, that I became excited about reading this issue.  So once again I found a nice quiet place and opened up the book and began thumbing through the digital pages soaking in all the artwork.  Just like the previous books the artwork was crisp and clean to the point that I had a rough idea of what the story was without reading any of the text.

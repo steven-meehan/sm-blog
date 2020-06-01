@@ -6,6 +6,7 @@ tags:
 categories:
   - - News
 date: 2019-11-07 18:01:33
+showKofiSuport: true
 ---
 
 This year marks the first time that I entered the NYC Midnight Flash Fiction Competition, and I plan on competing for years to come. It was a fantastic opportunity to stretch my writing muscles. Unfortunately, my first assignment was a comedy, which is not my forte. But I crafted a story, ***Birthday Blowout***, that placed within the [top fifteen](http://www.nycmidnight.com/Competitions/FFC/1stRound2019_Ch1results.htm) of my group. I got psyched by the result, and I absorbed the feedback from the judges and prepared for the next challenge of round one.

@@ -8,6 +8,7 @@ categories:
 prompt: >-
   Picture Prompt => https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/83788740_3102407963105916_417582541860503552_o.jpg?_nc_cat=105&_nc_sid=8024bb&_nc_ohc=enuT4dJGTAcAX_wycQe&_nc_ht=scontent-iad3-1.xx&oh=9cbfd8ce7aea9d9ebdb922ec991b1f29&oe=5E9DF426
 date: 2020-03-26 18:09:57
+showKofiSuport: true
 ---
 
 Every so often when I'm thumbing through my Facebook feed, I come across pictures that spark a story in my mind. When they come to the surface I'll give a brief overview of the tale. It's never anything extensive, but it's enough for me to keep the crux of the tale fresh in my mind. So when I came across a picture of a woman with purple hair using magic to extract a stone from a glass case, I couldn't resist crafting a narrative.<!-- more --> I immeadiately shared the image with a quick note:

@@ -4,6 +4,7 @@ date: 2013-08-16 01:21:28
 tags: [Fantasy]
 categories: 
 - [Review]
+showKofiSuport: false
 ---
 There are very few authors that spur me to purchase their books on the day they are released.  One author, well at this point the only author that I will do this for, is Brandon Sanderson.  Whenever I see one of his novels, novellas or short stories I immediately have a strong desire to place my hard earned money into his pocket.  He is a phenomenal author; in every story of his that I have read he manages to place me into the worlds he creates.  <!-- more --><div class="embedded-image-right">![The Rithmatist](./rithmatist.jpg)</div>His characters are always well rounded with a realistic strengths and weaknesses, and [_The Rithmathist_](https://www.amazon.com/gp/product/0765338440/ref=as_li_tl?ie=UTF8&tag=mysite009e-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0765338440&linkId=df14900b9f1781dcc8907052d4dbf013) is no exception.  I purchased the kindle book as soon as I saw that it was available, and then added the professional narration by Michael Kramer.  And instantly I began listening to this newest creation of Sanderson. 
 

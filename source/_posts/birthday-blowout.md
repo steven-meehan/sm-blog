@@ -7,6 +7,7 @@ categories:
   - - Flash Fiction
 prompt: 'NYC Midnight => Comedy, Movie Theater, Sword'
 date: 2019-09-09 21:16:45
+showKofiSuport: true
 ---
 
 Wrapping her hands around Damien, Jasmine asked, “Are you excited about the movie?”

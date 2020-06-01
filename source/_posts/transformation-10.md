@@ -8,6 +8,7 @@ tags:
 categories:
   - - Flash Fiction
 date: 2020-01-13 22:38:55
+showKofiSuport: true
 ---
 
 While the triumvirs of Aurora are orchestrating their fledgling colonization effort, they await the return of their ships. With most of the scans of the solar system’s planets and moons in hand, the leaders are waiting for the completion of the last steps for starting their first colony.<!-- more --> Will they agree on anything? Or will a dissenter derail the endeavor?

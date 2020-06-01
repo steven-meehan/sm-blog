@@ -1,7 +1,7 @@
 ---
 title: Unsuspecting
 tags:
-  - Wattpad
+  - Patreon
   - Action/Adventure
   - Aurora
   - Science-Fiction
@@ -9,6 +9,7 @@ categories:
   - - Flash Fiction
 prompt: 'NYC Midnight => Action/Adventure, Subway station, fur coat'
 date: 2020-04-19 12:32:44
+showKofiSuport: false
 ---
 
 During my day job, one of my coworkers commented that during this quarantine to help stem the spread of COVID-19, that I would be fine. Well, as the days unfolded, I’ve realized just how accurate he was. Aside from spending time with my family, I threw myself into my writing. As I started collecting and organizing all my scattered stories for my Wattpad series, I recognized that the Action/Adventure story could be placed into one of those worlds, giving my patrons a little extra insight into the world that [Transformation](https://www.wattpad.com/story/195777713-transformation) is exploring. With the setting determined, I turned to NYC Midnight and plucked a prompt from the list.<!-- more -->

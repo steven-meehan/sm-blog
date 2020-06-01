@@ -8,6 +8,7 @@ categories:
   - - Flash Fiction
 prompt: 'NYC Midnight => Mystery, Skywalk, Syringe'
 date: 2019-03-21 19:34:24
+showKofiSuport: true
 ---
 
 Leaning along the edge of the enclosed bridge, Kyle Rickman was staring out into his city.  His left hand was cradling a precious cargo, his notebook for this case.  He’d only been working on the case for a few days, but it was already mostly full, and there were plenty of thoughts circling around his mind just none particularly helpful.  Kyle's frown was warmed by the setting sun, but he fought the growing smile as he scratched the stubble invading his chin.  He turned to lean against the railing as he reviewed the facts he had recorded.  There were a lot of things that might be useful, but he didn’t have the central thread to pull it all together, yet.  And he was running out of time to help his client.

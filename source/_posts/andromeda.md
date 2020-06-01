@@ -6,6 +6,7 @@ tags:
 categories:
   - - Recommendation
 date: 2018-05-27 18:33:46
+showKofiSuport: false
 ---
 
 Gene Roddenberry's Andromeda is a show that premiered on October 2nd, 2000.  It stars Kevin Sorbo of Hercules: The Legendary Journeys fame, as Dylan Hunt a High Guard Captain who becomes lost in time after a surprise attack when his ship, the Andromeda Ascendant, enters a black hole in the hope to survive that attack.  As soon as his Andromeda escapes from the black hole that held them he meets the people who will ultimately form his new crew.  The show follows Dylan Hunt and his new crew as they strive to resurrect the fallen Systems Commonwealth, the republic Dylan served when he entered the black hole. <!-- more --><div class="embedded-image-left">![](./andromeda.jpg)</div>

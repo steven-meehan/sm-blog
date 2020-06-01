@@ -4,6 +4,7 @@ tags: []
 categories:
   - - Thought
 date: 2019-04-23 18:47:29
+showKofiSuport: false
 ---
 
 Every so often I enjoy looking through old pictures, and the lives they chronical. And when I came across some of my daughter, I smiled at her unadulterated joy and happiness. I couldn't help but remember that her favorite toy was a simple cardboard box. The things she could imagine those ordinary boxes to be always astounded me. Every time I would ask her what she was doing I heard different things, from sailing on a boat to flying on a plane. And each answer brought a smile to my face.  Because it showcased her pure unadulterated imagination. <!-- more -->

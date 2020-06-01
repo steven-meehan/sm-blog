@@ -4,6 +4,7 @@ tags: []
 categories:
   - - News
 date: 2018-08-30 05:33:41
+showKofiSuport: false
 ---
 
 I recently came across an article talking about the differences between the various classifications of [stories](https://owlcation.com/humanities/Difference-Between-A-Short-Story-Novelette-Novella-And-A-Novel).  The author briefly talks about those different types of fiction, and for the most part, these would be short stories, novellas, and novels.  And indeed those were the only types I had really ever heard of.  However before the author even mentioned short stories he talked about flash fiction.  The term caught my eye, so I started digging into the term and not just taking this authors definition as gospel.  As a result of that digging, I found out that flash fiction is a story that is roughly less than a thousand words.<!-- more -->

@@ -4,6 +4,7 @@ tags: []
 categories:
   - - Question
 date: 2018-09-11 18:41:49
+showKofiSuport: false
 ---
 
 I was having a discussion with my dad a while back that centered around flash fiction.  He was immediately against it as a type of literature primarily because it would be impossible to develop a character with a limit of one thousand words.  At first, I was surprised by my dad's reaction, but I thought about it as we continued our discussion.  At first, I tried to compare flash fiction to poetry, as both are intended to express extremely brief ideas.  Though he sidestepped that point talking about how good poetry has to have many different layers.<!-- more -->

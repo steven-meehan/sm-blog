@@ -6,6 +6,7 @@ tags:
 categories:
   - - News
 date: 2019-07-02 23:01:03
+showKofiSuport: true
 ---
 
 Last month we followed Sylvia's final efforts to prepare for Kameron's celebration. She collected her equipment from Gregor. Then she went about securing the two paths that Kameron's guard missed. Then we followed her actions during the celebration. This month we return to watch Harrison follow his latest investigation with a relic.<!-- more --><hr class="clear-both center-fade"/><div class="embedded-image-right">![](/writing/harrison-sylvia/series-01/harrison-sylvia-1.jpg)</div> 

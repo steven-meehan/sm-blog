@@ -7,6 +7,7 @@ categories:
   - - Flash Fiction
 prompt: 'Mine => Fairy Tale, Forest, Christmas Tree'
 date: 2018-12-27 19:27:36
+showKofiSuport: true
 ---
 
 Once upon a time, a young girl woke up on Christmas morning, and with a grin running across her face, she raced from her room.  She flew down the stairs as quietly as she could to the living and adorned Christmas tree.  She ignored the presents under the tree, choosing to lock her gaze upon the hanging stockings packed with wonderous goodies.  She picked her stocking up and found a thread running from the edge of her stocking into a nearby closet.  Opening the door, she followed the thread into the closet.  Instinctively she knew she should have reached the wall across the door, yet it never came.  Her mind was further befuddled when her foot stepped into a puddle.  She knelt and confirmed the presence of water with her free hand.  Turning around she couldn’t find the door, though she felt fabric brushing against her.  Keeping the fiber in her grasp, she found a coat, pants, and boots that would fit her.<!-- more -->

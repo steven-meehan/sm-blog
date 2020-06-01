@@ -8,6 +8,7 @@ categories:
   - - Flash Fiction
 prompt: 'NYC Midnight => Action/Adventure, An embassy, A sewing needle'
 date: 2019-02-19 18:19:46
+showKofiSuport: true
 ---
 
 Slipping down from the roof, Ezekiel's feet silently landed upon the balcony. He quickly put his back against the wall and waited for an eternal moment. Then he promptly went to the balcony's door and withdrew his tools and unlocked the entrance to the embassy. Before opening it, he quickly checked to see if there were any alarms or other surveillance devices. Neither his eyes nor his sniffers detected any such device, so he opened the door and slipped inside. 

@@ -7,6 +7,7 @@ categories:
   - - Flash Fiction
 prompt: 'Mine => Thriller, Parking Lot, Hubcap'
 date: 2019-03-14 17:43:19
+showKofiSuport: true
 ---
 
 Groggy Lucas was thrown to the ground in front of a junkyard entrance by his kidnapper.  He sat upon the ground dumbfounded as he listened to the man's blunt words, "I'll give you a full minute head start."

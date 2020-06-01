@@ -6,6 +6,7 @@ tags:
 categories:
   - - News
 date: 2020-01-02 22:22:14
+showKofiSuport: false
 ---
 
 Ever since February 2nd, 2019, when I posted my first [Patreon](https://www.patreon.com/stevenpmeehan) post, [Harrison & Sylvia Part One](https://www.patreon.com/posts/24410744), I’ve had a Discord server. Unfortunately, like so many things, it got lost in the shuffle between my day job, my writing, and my family. But with the new year on the horizon, I buckled down and fleshed out what I wanted the server to look like. I borrowed some concepts from other servers, while I tinkered with a couple on my own. For the moment, I’m happy with what I’ve prepared.<!-- more -->

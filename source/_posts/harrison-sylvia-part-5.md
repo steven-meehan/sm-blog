@@ -6,6 +6,7 @@ tags:
 categories:
   - - News
 date: 2019-05-05 13:15:29
+showKofiSuport: true
 ---
 
 Last month Sylvia was tasked with preparing for a celebration that her employer was going to put on. She felt Kameron was foolish with his decision.  But she relented when it became apparent that Kameron was not going to back down. This month we shift back to Harrison and his latest adventure with his familial duties.<!-- more --><hr class="clear-both center-fade"/><div class="embedded-image-left">![](/writing/harrison-sylvia/series-01/harrison-sylvia-1.jpg)</div> 

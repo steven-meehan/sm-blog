@@ -7,6 +7,7 @@ categories:
   - - Flash Fiction
 prompt: 'NYC Midnight => Romance, A conference room, A sea urchin'
 date: 2019-11-27 16:45:49
+showKofiSuport: false
 ---
 
 With November being slammed with NaNoWriMo, I knew that if I wanted to finish my next Patreon post done, I would have to burn the proverbial midnight oil. One reason I let myself get so wrapped up in the challenge was because of my second genre for November. I needed to craft my first romance. The other was because Survival has been a story that’s floated in my mind for a long time. But now that I won NaNoWriMo, I put the nearly finished project to the side to wade into the field of romance.<!-- more --> 

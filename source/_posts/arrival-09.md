@@ -6,6 +6,7 @@ tags:
 categories:
   - - Flash Fiction
 date: 2020-02-10 19:26:55
+showKofiSuport: true
 ---
 
 Three months after promising the railroad, Nathaniel examines the latest report of destruction by the wildlife. Once more, he’s having to balance the requirement for weaponry or repairing the damaged tracks. While eating a meal, Marcus barges in to discuss the status of the tracks and latest from Kethra ploy.<!-- more --> Will Nathaniel and Marcus be able to discover a way to silence Kethra’s vendetta? Or will Marcus and Talia continue to be hounded?

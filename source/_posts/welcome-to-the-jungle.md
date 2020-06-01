@@ -4,6 +4,7 @@ date: 2013-04-08 01:35:41
 tags: [Urban Fantasy]
 categories: 
 - [Recommendation]
+showKofiSuport: false
 ---
 With each new installment of The Dresden Files I find that I am filled with giddiness due to the rising anticipation of the story.  And as I have consumed each new chapter in this series I have found that I have not been disappointed.  Through each of the fourteen novels I have watched Harry Blackstone Copperfield Dresden learn and grow, as well as defeat enemies he should have no right walking away from. <!-- more -->
 

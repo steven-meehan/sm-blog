@@ -4,6 +4,7 @@ tags: [Kickstarter]
 categories:
   - - News
 date: 2018-09-15 07:15:27
+showKofiSuport: false
 ---
 
 I am closing in on a few projects, two books _Drawing Thin_ and Knavish.  _Drawing Thin_ is a sequel to [_Dead Man's Hand_](https://www.amazon.com/gp/product/1520247427/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1520247427&linkCode=as2&tag=mysite009e-20&linkId=18504421d9a9d640ffdaaaedda9d249c) and picks up right where it left off, while Knavish is my first attempt at a psychological thriller.  My other major project is a collection of twelve short stories entitled Harrison & Sylvia, I will be publishing these once a month over the entirety of 2019.

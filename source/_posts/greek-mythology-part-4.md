@@ -4,6 +4,7 @@ date: 2013-04-21 15:30:02
 tags: [Greek, Mythology]
 categories: 
 - [Thought]
+showKofiSuport: false
 ---
 After capturing the bow from Philoctetes, Neoptolemus starts to feel ashamed by his actions and wishes to make amends (p.203, Philoctetes).  In response to Odysseus’s question of where he was off to, Neoptolemus tells him, “To undo the wrong that I have already done”, (p. 203, Philoctetes).  Confused, Odysseus asks Neoptolemus, “What wrong are you talking about” (p. 203, Philoctetes)?  <!-- more -->This question and Neoptolemus’ response, “I used base treachery against a fellow-creature” (p. 203, Philoctetes), are what separate the two men.  Neoptolemus goes on to return Philoctetes’ bow to him and asks for forgiveness (p.206-7, Philoctetes).  The use of deception in the attempt to steal the bow from Philoctetes and Philoctetes himself emphasizes Odysseus’ lack of honor.  Honor is achieved by doing what is right no matter what the consequences; it is also gained through fair combat and victory.
 

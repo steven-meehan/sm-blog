@@ -5,6 +5,7 @@ tags:
 categories:
   - - Review
 date: 2020-02-11 20:36:07
+showKofiSuport: false
 ---
 
 When dealing with fantasy, the words full moon invokes a particular image. They prepare the reader to encounter werewolves. So before starting to listen to this story, I expect the heroes to deal with some shape-shifting menace. Or if such a being isn’t the central antagonist, it would play a significant part in this case file. Much to my delight, the opening pages of this novel live up to the expectation.

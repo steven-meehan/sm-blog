@@ -7,6 +7,7 @@ categories:
   - - Flash Fiction
 prompt: 'Mine => Fairy  Tale, snow covered forest, paracord'
 date: 2019-01-15 18:40:23
+showKofiSuport: true
 ---
 
 Once upon a time, there were two neighborhood friends, a boy and girl, who loved to play and wander through the snow-covered woods behind their homes.  In fact, the pair spent so much of their free time in these woods that they knew them better than they knew their own homes.  Their parents only had one rule regarding this favored playground, they had to stay close to those homes.  Unfortunately, this day both children were too eager to explore the full extent of their domain.  While they were investigating, they eventually came across a stream flowing through their snow-topped forest playground.  The girl looked at the boy and asked, "Where did this stream come from?"

@@ -7,6 +7,7 @@ tags:
 categories:
   - - Review
 date: 2018-06-30 05:37:20
+showKofiSuport: false
 ---
 
 At the close of _Monster Hunter International_, the Monster Control Bureau (MCB) launched a nuke at the climax in an effort to neutralize the situation.  However, the nuke went into the Old One's dimension and hit one of them injuring it, and it placed a bounty upon the person who hurt it.  Unfortunately for our hero from _Monster Hunter International_, Owen Zastava Pitt was named as the one who launched the device.  Though he doesn't know that.  All he knows is that he is at the top of his game.  He works for the best monster hunting company, and in fact, he is a member of the flagship team of hunters, Earl Harbinger's team.  While they are on a job in Mexico without Earl, since the job is happening during a full moon, a shadowy man seeking to collect Owen for the rewards promised by the Old Ones.<!-- more --><div class="embedded-image-right">![](./monster-hunter-vendetta.jpg)</div>

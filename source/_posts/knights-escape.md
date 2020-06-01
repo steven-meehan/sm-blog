@@ -8,6 +8,7 @@ categories:
   - - Flash Fiction
 prompt: Brian => thriller, Rotunda, crest
 date: 2018-12-05 17:51:34
+showKofiSuport: true
 ---
 
 Ezekiel was standing among his guards, hands zip-tied behind his back, as he thought about how this had happened.  He had stumbled upon this conspiracy, and with that discovery, the pool of those he could trust had shrunk drastically.  The only reason he was alive, despite being in captivity, was due to his training.  His days spent with special forces had transformed him into the living weapon he actually was.  Unfortunately, even with that training, he couldn't handle the sheer number of minions in this conspiracy that had swarmed him in the Rotunda.

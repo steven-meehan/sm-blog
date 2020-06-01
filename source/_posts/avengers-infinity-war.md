@@ -7,6 +7,7 @@ tags:
 categories:
   - - Recommendation
 date: 2018-06-14 22:25:59
+showKofiSuport: false
 ---
 
 Ever since Iron Man came to the big screen in 2008, Marvel Studios has been building to Avengers Infinity Wars and its next installment _Avengers 4_.  This past weekend I left the theater, and I was blown away by the breadth of the film.  Given that I didn't see the movie on opening weekend, I was thankful that I had managed to not hear anything about the movie before I walked into the theater.  That said, I had a pretty good idea of what was going to happen, the web is always flooded with various rumors about upcoming movies it especially seems that Marvel Cinematic Universe (MCU) rumors are particularly rampant.<!-- more --><div class="embedded-image-left">![](./avengers-infinity-war.jpeg)</div>

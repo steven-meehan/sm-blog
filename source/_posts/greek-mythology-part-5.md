@@ -4,6 +4,7 @@ date: 2013-05-18 12:59:10
 tags: [Greek, Mythology]
 categories: 
 - [Thought]
+showKofiSuport: false
 ---
 Not only do his actions destroy his honor, they also show his lack of compassion towards a fellow comrade.  Already having likened Odysseus to the Spartans, Sophocles implies that the Spartans have no honor or compassion for their allies or fellow citizens.  This is further use of propaganda to bolster the morale of the Athenians and to slander the Spartans.  Making them out to be self-centered honor less men, who only care for themselves, they will use and abandon any of their allies.  <!-- more -->The Spartans, having been likened to Odysseus (who has no bravery, no honor, and who does not care for his friends) are, in Sophocles’ work, turned into less than men.
 

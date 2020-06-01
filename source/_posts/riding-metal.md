@@ -7,6 +7,7 @@ categories:
   - - Flash Fiction
 prompt: NYC Midnight List => Science Fiction, rodeo, bodybag
 date: 2018-11-22 19:25:57
+showKofiSuport: true
 ---
 
 "Good morning Lewis."  One of the numerous rodeo clowns said with a smile

@@ -6,6 +6,7 @@ tags:
 categories:
   - - News
 date: 2019-11-30 21:53:35
+showKofiSuport: true
 ---
 
 Last month, we witnessed Sylvia’s attempted escape from the Central Kingdom. Unfortunately for her, the mysterious mercenary that injured her captured her. She is reunited with Kameron’s assassin and informed of her fate. Sylvia is to be exiles from their world so she will forever be denied her revenge. This month, we leave Sylvia’s story and return to Harrison’s tale.<!-- more --><hr class="clear-both center-fade"/><div class="embedded-image-right">![Crossroads](/writing/harrison-sylvia/series-01/harrison-sylvia-1.jpg)</div>

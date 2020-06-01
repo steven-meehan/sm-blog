@@ -8,6 +8,7 @@ categories:
   - - Flash Fiction
 prompt: 'Mine => Science Fiction, tavern, spork'
 date: 2019-02-12 18:11:07
+showKofiSuport: true
 ---
 
 Daniel Shaw sauntered into the Lost Flask, holding his breath.  The man disliked coming to this establishment, it attracted too many truly disreputable people.  Unfortunately, the man who had hired him had insisted upon using this establishment.  From the moment they had acquired the goods Daniel had been reasonably confident that he was being set up, but walking into this place confirmed that in his eyes.  He quickly walked over to an empty booth with a decent view of the entrance and waited for the trap to spring.

@@ -7,6 +7,7 @@ categories:
   - - Flash Fiction
 prompt: 'NYC Midnight => Fantasy, Barbershop, Bongo'
 date: 2020-03-18 05:27:49
+showKofiSuport: false
 ---
 
 As I finished [Bounding Ramps](/archives/2020/03/15/bounding-ramps), my attention turned to the next story in the pipeline for March. And this month, the second genre is one of my absolute favorites, a fantasy. This is a wonderfully rich genre with many sub-genres to explore. With a gleam in my eye, I navigated to NYC Midnight’s competition page for 2019 and searched for a fantasy prompt. My random search fell on the line telling me to write this tale in a barbershop with a bongo drum making an appearance.<!-- more --> The instant I absorbed the prompt, my mind latched upon Darren Gilbert, and I shoved him into the story.

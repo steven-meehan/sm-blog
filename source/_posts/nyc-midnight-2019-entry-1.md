@@ -5,6 +5,7 @@ tags:
 categories:
   - - News
 date: 2019-07-15 21:34:03
+showKofiSuport: false
 ---
 
 I learned about NYC Midnight's Annual Flash Fiction Challenge this past September.  And after having experimented with the format, I got excited about taking part in the competition.  Unfortunately for me, this contest begins in July, which meant that I missed out on the opportunity to flex my muscles in the contest last year.  Looking at the varied prompts in the first [list](http://www.nycmidnight.com/Competitions/FFC/1stRound2018_Ch1.htm) for participating writers, I knew that I would need to practice.  As a result, I decided to take advantage of those prompts by picking random ones and giving myself forty-eight hours to complete my story.<!-- more -->

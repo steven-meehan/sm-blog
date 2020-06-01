@@ -6,6 +6,7 @@ tags:
 categories:
   - - News
 date: 2019-06-10 21:29:25
+showKofiSuport: true
 ---
 
 Last month Harrison followed his familial duties and thanks to the influence of his friend, Lucas Roth.  As with any duty, Harrison could not escape it for long.  This month we shift to Sylvia, who is now dealing with the fallout of her employer's demands.<!-- more --><hr class="clear-both center-fade"/><div class="embedded-image-right">![](/writing/harrison-sylvia/series-01/harrison-sylvia-1.jpg)</div> 

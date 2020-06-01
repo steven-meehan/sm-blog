@@ -8,6 +8,7 @@ categories:
   - - Flash Fiction
 prompt: 'Mine => Science Fiction, engine room, deck of cards'
 date: 2019-03-05 17:21:37
+showKofiSuport: true
 ---
 
 Walking towards the engine room, Daniel could hear Franco yelling at the now-stalled engine.  The captain put his hand upon the hallway of his craft and whispered to it apologizing for his engineer's hostility.  When he was fifteen feet of the door, he saw Rachel run out of the room and just avoid getting struck by a random part of the engine as she slid to the ground.  Daniel shook his head and helped her up asking, "I take it he's having issues with the repairs?"

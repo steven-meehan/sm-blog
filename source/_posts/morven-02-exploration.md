@@ -7,6 +7,7 @@ tags:
 categories:
   - - Flash Fiction
 date: 2018-10-02 06:21:40
+showKofiSuport: true
 ---
 
 Tarian is resting upon a tree thinking about how the colonization ship has overcome. First, there was the crash landing. Fortunately, no one had died, but there had been some minor injuries and even a couple of major ones. Though the livestock they had brought with them on the trip did not fair as well, they should be able to breed replacements for the ones that had died, while the dead ones were taken for provisions while they settled around the crashed ship.

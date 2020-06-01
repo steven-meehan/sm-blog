@@ -6,6 +6,7 @@ tags:
 categories:
   - - Flash Fiction
 date: 2020-03-23 21:29:31
+showKofiSuport: true
 ---
 
 As Rylan’s plans continue to be implemented, the half of the crew that disagree with the Captain begin to wonder if Rylan will be able to help him. While Darvan continues to prepare their escape, Annabelle convinces Rylan that he has to give the crew answers. He agrees to a meeting and arranges for it to take place on the shuttle he piloted to the dead worlds.<!-- more --> Will the meeting give the hopeful crew the answers they seek? Or will they leave still seeking answers?

@@ -6,6 +6,7 @@ categories:
   - - Flash Fiction
 prompt: 'Mine => Fantasy, Open'
 date: 2019-05-22 22:08:24
+showKofiSuport: true
 ---
 
 As Amelia's feet carried her forward, she tugged at her hood to keep the rain from pummeling the top of her head. When her foot came down on a patch of rain-slicked earth, her foot slid, causing her to stumble. As Amelia fell, she reached out and kept herself from collapsing to the ground. With a steadying breath, she reclaimed her feet and stood to survey the field. With her path chosen Amelia probed at the swatch of earth to find a sturdier tail.

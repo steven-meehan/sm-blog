@@ -7,6 +7,7 @@ tags:
 categories:
   - - Review
 date: 2018-06-12 05:47:48
+showKofiSuport: false
 ---
 
 After reading the rest of the Pillars of Creation series, I picked up the [last installment](https://www.amazon.com/gp/product/1625671415/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1625671415&linkCode=as2&tag=mysite009e-20&linkId=83d6bf4e22860dbf7561553a0f385e31) with great eagerness.  From Mage Alain's vision in the first book to the Master Mechanic Marie's dread of her ultimate destination throughout the series to the end of the _Servants of the Storm_, I had a rough idea of what the story was going to be.  As I read each page my hope that I would get a satisfying conclusion to the series grew and grew, and while the series was ended with a satisfactory completion, it did create another new thread that would be continued in another series, _The Legacy Of Dragons_.<!-- more --><div class="embedded-image-right">![](./wrath-great-guilds.jpg)</div>

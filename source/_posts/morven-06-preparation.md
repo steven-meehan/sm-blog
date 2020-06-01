@@ -7,6 +7,7 @@ tags:
 categories:
   - - Flash Fiction
 date: 2019-02-26 18:25:14
+showKofiSuport: true
 ---
 
 Tarian and his closet advisors were standing on the wall looking out at the massing horde of alien creatures.  Using a telescope, Tarian was able to identify some of the creatures as trolls and goblins.  Yet there were new creatures amongst them that looked just as terrifying.  As he lowered the scope from his eye, Tarian looked over his shoulder and spoke to Keldon, loudly enough so everyone there could hear his concern.  "Kel, there are already more out there than the last time we had to defend this wall."

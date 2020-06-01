@@ -4,6 +4,7 @@ tags: []
 categories:
   - - Thought
 date: 2018-08-02 22:17:05
+showKofiSuport: false
 ---
 
 A while back I was brought into a facebook group for local authors, Spilled Ink (Virginia), unfortunately, I was not very active in the group.  I did not participate in the conversations on the channel nor did I go to any of the events.  That is until I went to [Jirani Coffeehouse](http://www.jiranicoffeehouse.com/) last Friday for my very first Spilled Ink event.  It took me a little while to find a parking space in Manassas and then a bit more time to locate the coffeehouse, and when I did, I discovered that I missed the very beginning of the event. But based upon the images the group posted of the event all I missed was the opening and a bit of the first reading.<!-- more -->

@@ -5,6 +5,7 @@ tags:
 categories:
   - - News
 date: 2018-11-20 09:27:30
+showKofiSuport: false
 ---
 
 I remember almost five years ago I bought a computer game called [Torchlight](https://www.amazon.com/gp/product/B0085P7YGU/ref=as_li_tl?ie=UTF8&tag=mysite009e-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0085P7YGU&linkId=235131b07ffde76feb3b808a08e7fd4e) from Amazon.  A friend had recommended the game, and I decided it was time to give it a try, so I started a game.  There are three classes for that game, the Vanquisher, the Destroyer and The Alchemist.  I remember hearing that the Alchemist was akin to a mad scientist, at least in the broadest of definitions.  So I leapt at the chance to play the Alchemist, and I gave him the name Harrison.

@@ -4,6 +4,7 @@ date: 2013-04-14 12:03:56
 tags: [Greek, Mythology]
 categories: 
 - [Thought]
+showKofiSuport: false
 ---
 Odysseus’ lack of bravery appears again in Sophocles’ Philoctetes.  He is unwilling to be in line of sight of Philoctetes, who is one of the best archers in all of Greece.  In addition to Philoctetes skill with the bow, he wields Heracles’ bow along with the arrows tipped in the Hydra’s blood (p. 364, Powell).  So, Odysseus instead sends Neoptolemus to meet Philoctetes and trick both the bow and the man into coming to Troy (p. 165, Philoctetes).  <!-- more -->Sending Neoptolemus instead of going himself shows that he is simply afraid for his life and will risk it for no one.  The cowardice is not only seen in Odysseus’ actions but also heard by Philoctetes, “It’s easy to see what cowards they are”, when speaking of Odysseus (p. 206, Philoctetes).  Philoctetes makes his remark just after his bow is returned to him as Odysseus flees from the stage (p. 206, Philoctetes).  As noted above, Odysseus is reduced to the level of normal man in Sophocles’ Ajax.  A possible reason for wanting to degrade Odysseus from being a Greek hero to the level of a normal man would be to attribute any of his character flaws to the Spartan army.  With the Peloponnesian War coming to a close around the time Sophocles wrote the Philoctetes, the comparison of Odysseus to normal men would be tied to the Spartans, through their allies. 
 

@@ -4,6 +4,7 @@ tags: []
 categories:
   - - News
 date: 2019-01-31 20:12:42
+showKofiSuport: false
 ---
 
 I love crafting stories.  It is a transcendent experience for me, to craft tales that people genuinely enjoy reading.  Unfortunately, keeping up the pace I that I want to is not always entirely smooth sailing.  I knew there would be plenty of small expenses to keep this dream alive and I fully embrace them.  But for anyone who has found my site and enjoyed my collection of flash fiction, short stories, reviews, thoughts and musings, I will ask you to consider helping me to keep the lights on and the content coming.<!-- more -->

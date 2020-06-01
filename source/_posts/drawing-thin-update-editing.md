@@ -4,6 +4,7 @@ tags: []
 categories:
   - - News
 date: 2019-04-09 18:20:26
+showKofiSuport: true
 ---
 
 Journeys are all about the experience. No matter where you are going or what you are doing the trip will always be a part of the experience. When I published [Dead Man's Hand](https://www.stevenmeehan.com/writing/forgers/dead-mans-hand/), I remember being on cloud nine at every major milestone. <!-- more -->It was an incredible experience that I encourage anyone who has ever thought about crafting a book to do. But I as I make my way through the publication of my second novel, Drawing Thin. I find that I'm still reaching those same highs.<div class="embedded-image-left">[![Drawing Thin](/writing/forgers/drawing-thin/drawing-thin.jpg "Drawing Thin")](/writing/forgers/drawing-thin)</div>

@@ -5,6 +5,7 @@ tags:
 categories:
   - - Review
 date: 2019-11-05 20:57:14
+showKofiSuport: false
 ---
 
 [*Tombyards & Butterflies*](https://www.audible.com/pd/Tombyards-Butterflies-Audiobook/B0797K6BDV?pf_rd_p=6a5ce8e4-798e-4a64-8bc5-71dcf66d673f&pf_rd_r=H5C71EX0QSX48PRCVRRF&ref=a_lib_c4_libItem_B0797K6BDV), what do you think of when you hear those two words? For me, I can’t put these two objects together. I can’t picture something as beautiful as a butterfly swarming over a tombyard, not that it’s actually a thing. But that’s besides the point. I’m here to talk about the book Tombyards & Butterflies, A Montague and Strong Detective Agency Novel. Honestly, I don’t remember what possessed me to pick the book up. The author is not one of my regulars, and when I re-read the summary, I’m not sucked into the world. But I’m glad that I pulled the trigger and bought this book.<!-- more -->

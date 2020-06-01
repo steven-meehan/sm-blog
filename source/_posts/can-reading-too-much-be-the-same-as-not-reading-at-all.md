@@ -4,6 +4,7 @@ categories:
   - - Question
 date: 2018-04-29 23:47:33
 tags:
+showKofiSuport: false
 ---
 
 A while back I began my rather lengthy and unplanned sabbatical, from blogging.  Well to be honest from writing and reading.  Originally I thought just needed a small mental break, after all, I had just broken my mind, or at least cracked it slightly.  <!-- more -->In addition to work, family, blogging and everything else that I had going on I had been trying to keep four different books straight in my mind.  It was too much for my simple human mind to handle.  So I started a self-imposed hiatus from anything to do with reading or writing, and as soon as I stopped, I got better.  Then the pressures of the real world fell upon me and did so in mass.  But the topic that flew into my mind at the beginning of my hiatus has stuck with me all the way through it, and so I wanted to raise the topic that I had been chewing while I was taking a break, is reading too much as bad as not reading at all?

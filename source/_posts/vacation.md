@@ -4,6 +4,7 @@ tags: []
 categories:
   - - News
 date: 2019-08-04 21:56:27
+showKofiSuport: false
 ---
 
 Earlier this year, when a trip to Niagara falls first came up, I started wondering when my last real vacation was. Don’t get me wrong. I’ve used vacation days over the years, to break up the daily grind. Granted I’ve just taken a day here, a day there, at least once I’ve taken a week. But those uses of my precious vacation days were always for day trips or some other purpose. I haven’t gone on a trip like this in a long while, a really long while. So, I intend to enjoy every moment of this trip and decompress.<!-- more -->

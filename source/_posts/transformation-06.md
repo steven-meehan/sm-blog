@@ -8,6 +8,7 @@ tags:
 categories:
   - - Flash Fiction
 date: 2019-08-28 17:36:30
+showKofiSuport: true
 ---
 
 With the space docks complete, the triumvirs need to turn their attention to other matters.  They still need to ratify the Federation’s charter and the new colonization ships. But they only have so many people they can task with work. The triumvirs must balance the race for expansion with maintaining what they’ve managed to create.<!-- more --> Will they manage to find the balance between upkeep and exploration?

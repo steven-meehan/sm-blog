@@ -7,6 +7,7 @@ tags:
 categories:
   - - Recommendation
 date: 2019-10-17 21:11:13
+showKofiSuport: false
 ---
 
 ***Endless wonder***. What runs through your mind at those two words? For me, the answer is [Warehouse 13](https://www.amazon.com/gp/video/detail/B002GJO6GC/ref=atv_dp). And considering just how prevalent the line is that connection makes sense. But only when you consider I finished watching the series again. I may end up buying the show through Amazon Prime, but in the meantime it’s available to stream for free with [IMDb TV](https://www.imdb.com/tv/). The only caveat with that is the sheer number of commercial breaks. The service seems to be more aggressive than other similar ones. Thankfully, the content rises above the pesky ads.<!-- more -->

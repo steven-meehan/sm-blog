@@ -8,6 +8,7 @@ tags:
 categories:
   - - Flash Fiction
 date: 2020-03-31 17:41:18
+showKofiSuport: true
 ---
 
 After the rough landing on Soloran, Isaac forced the triumvirs to redesign the colonization ships. Irate of the potential delay, Olyver pushed for the Triumvirate to ignore the complaints of a single pilot. Unfortunately for him, Quinn and Caitlin take the pilot’s concern seriously and force Olyver to reluctantly agree to the patient path. But despite the setback, Olyver seeks to honor his promises.<!-- more --> Will Olyver be able to honor those pledges? Or will he be required to give his constituents unwelcome news?

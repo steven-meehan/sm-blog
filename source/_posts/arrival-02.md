@@ -6,6 +6,7 @@ tags:
 categories:
   - - Flash Fiction
 date: 2019-05-31 17:40:21
+showKofiSuport: true
 ---
 
 Nathaniel stood on the beach of the closest continent.  As the waves lapped up against the man's legs, he watched as bodies flowed out of the Novus into this strange new world.  Some headed away from the claimed shore.

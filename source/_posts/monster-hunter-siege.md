@@ -7,6 +7,7 @@ tags:
 categories:
   - - Review
 date: 2018-08-06 20:55:27
+showKofiSuport: false
 ---
 
 With each and every installment of the Monster Hunter series, the stakes have gotten greater, and the dangers intensified.  And as the stakes and risks increase the entire world keeps circling around a central being, a big bad villain coming to lay waste to the world.  During the events of the series, we have met some of this being's minions, seen the devastation those minions have caused or orchestrated.  Yet during the events of those entries, he has yet to make his appearance.<!-- more --><div class="embedded-image-left">![](./monster-hunter-siege.jpeg)</div>  But that is about to change, this tale starts off just after the events of Monster Hunter Legion, and we are once more following Owen Pitt as he sets off on his latest journey against the forces of evil.  

@@ -7,6 +7,7 @@ categories:
   - - Flash Fiction
 prompt: 'NYC Midnight => Fairy Tale, Family Reunion, A Fireplace'
 date: 2020-02-24 23:16:18
+showKofiSuport: false
 ---
 
 As I finished [Inquiries](/archives/2020/02/12/inquiries), my attention turned to the next genre for the month of February. I’ve written a few [Fairy Tales](/tags/Fairy-Tale), and each one was fun, though I believe my first, [The Noodle Trap](/archives/2018/10/18/noodle-trap) to be the best of the bunch. But with that said, I started digging into the potential story. While I used a different source of prompts for the first story, I returned to NYC Midnight and picked the prompt placing my story at a family reunion and featuring a fireplace.<!-- more -->

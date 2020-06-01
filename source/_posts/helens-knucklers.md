@@ -7,6 +7,7 @@ categories:
   - - Flash Fiction
 prompt: 'NYC Midnight => Historical Fiction, Tenement Building, Grater'
 date: 2020-02-28 15:55:50
+showKofiSuport: false
 ---
 
 With the completion of [Inquiries](/archives/2020/02/12/inquiries) and [Encroaching Shadows](/archives/2020/02/24/encroaching-shadow/), I tackled the final story for February my Historical Fiction. But I needed a seed to plant so a story could grow. So once more I ran towards the trusty source of writing prompts, NYC Midnight. As I searched the document, I ended up on a Historical fiction that takes place in a tenement building with a grater making an appearance along the way.<!-- more -->

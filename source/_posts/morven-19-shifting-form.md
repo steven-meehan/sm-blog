@@ -7,6 +7,7 @@ tags:
 categories:
   - - Flash Fiction
 date: 2020-04-12 12:01:33
+showKofiSuport: true
 ---
 
 With the live shapeshifter, Caleb captured, the scientists endeavor to perfect the serum they equipped gave Caleb. While they continually tell Tarian they are on the brink of a discovery, the settlement’s leader grows unsatisfied with their progress. He makes almost daily trips to discover their status. On one occasion, Keldon tries to stop him from distracting the scientists.<!-- more --> Will Keldon give the scientists their reprieve from Tarian’s constant interruptions? Or will they provide him the answers he’s looking for?

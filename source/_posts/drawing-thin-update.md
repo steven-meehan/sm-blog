@@ -4,6 +4,7 @@ tags: []
 categories:
   - - News
 date: 2018-11-27 18:13:15
+showKofiSuport: true
 ---
 
 Whenever I'm finished with my initial work on one of my stories, be it a short story or a full-length novel, I can't wait to get feedback on my work.  This was true for [_Dead Man's Hand_](https://www.amazon.com/gp/product/B00TTXVQ7A/ref=as_li_tl?ie=UTF8&tag=mysite009e-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00TTXVQ7A&linkId=7604bee100b7341d92003d066462a0a6), the flash fiction I post on my blog to the other tales that I've been busy crafting.  So once I finished the initial work on _Drawing Thin_, I immediately started reaching out to people that I trust to give me their honest thoughts on what I had.  In fact, I implored them to tell me where I messed up.  Those particular notes mean more to me than the ones that highlight what they think I did right.<!-- more -->

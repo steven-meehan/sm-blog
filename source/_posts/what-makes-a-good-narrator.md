@@ -4,6 +4,7 @@ date: 2013-07-19 09:12:42
 tags: [Audible]
 categories: 
 - [Question]
+showKofiSuport: false
 ---
 When it comes to audio books, I have only one destination, audible.com.  They have an incredible collection of books to choose from.  And since they are an Amazon company there are some very nice tie-ins with their Kindle platform.  However, when it comes to the book’s narrator these tie-ins are not all that relevant.  More than likely people who do not routinely listen to audio books will assume that a fantastic book will make a fantastic audio performance.  <!-- more -->I know I did, especially when I was younger; but this is not always the case. A bad narrator can devastate a great read while; conversely, a good narrative can transcend a poor narrative’s limitations.
 

@@ -4,6 +4,7 @@ date: 2013-07-15 09:19:13
 tags: [Science Fiction]
 categories: 
 - [Review]
+showKofiSuport: false
 ---
 [_Clean_](https://www.amazon.com/gp/product/0451464753/ref=as_li_tl?ie=UTF8&tag=mysite009e-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0451464753&linkId=43fc346422b3b63d8b01e1316c6474b2) was written by Alex Hughes and centers around an unnamed powerful telepath.  He had been very influential in the Guild, an autonomous group of telepaths, prior to the start of the book.  Fortunately for his development he has a pretty serious flaw, he is an addict.  Over the course of the novel we discover that his drug was originally an experiment by the Guild.  However, just because he was an addict was not the cause for his washing out of the Guild. <!-- more --><div class="embedded-image-left">![Clean](./clean.jpg)</div>The official reasons for his being forced out are not central to the plot of the novel and, hence, not really explored.  That said, in the little time the main character talks about it, I was left to believe he broke some major rules, one of which was stealing more of the drug from the Guild.  He had been reduced to a consultant for the police force, every day interviewing the hardest cases.  Paraphrasing his words, he has the capability of pulling rabbits out of the hat and so he is pulled into a serial killer case.  And the top brass are hoping he can find them their rabbit. 
 

@@ -6,6 +6,7 @@ tags:
 categories:
   - - Flash Fiction
 date: 2020-03-11 22:23:47
+showKofiSuport: true
 ---
 
 While Marcus waits for the completion of the tracks to the Western Region, he assists Talia in teaching the other farmers of the Eastern Region how to breed their animals. Over the course of a year, most of their neighbors have embraced the challenge and are delivering animals to the Northern, Southern, and Central Regions. One day while Talia is working with their animals, she doubles over and Marcus rushes her to the Central Region’s hospital via train.<!-- more --> Join Marcus in his long wait over his wife’s health. Will the news the doctors deliver be good?

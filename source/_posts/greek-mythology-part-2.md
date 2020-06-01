@@ -4,6 +4,7 @@ date: 2013-04-01 09:34:55
 tags: [Greek, Mythology]
 categories: 
 - [Thought]
+showKofiSuport: false
 ---
 Through this action Odysseus keeps a firm grasp on his honor, despite his earlier cowardice.  Ajax has no one with whom he could truly connect — no one of equal stature to help him through his problems.  For all the past deeds and the honor he has accrued, ultimately it takes Odysseus, a man he wishes to murder (Ajax), to grant him honor after death.  <!-- more -->vContinuing with the likening of Odysseus to normal men, this shows that honor can be maintained by men even though they might let cowardice come through on occasions.  Odysseus, who in the Ajax represented normal men, gave hope to all the Greek men in the audience, by showing them that regular men can attain honor.    Honor is of paramount concern to for the Greeks, as shown by Greek heroes such as Achilles who die for ‘death and glory’, eternal honor.  To let Odysseus maintain his honor while taking away his bravery, Sophocles shows how important honor is to the Greeks for all time.
 

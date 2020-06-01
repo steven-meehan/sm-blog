@@ -4,6 +4,7 @@ date: 2013-02-16 14:32:48
 tags:
 categories: 
 - [Question]
+showKofiSuport: false
 ---
 A good book is a wonderful thing; it can comfort your soul as it carries your mind into a new world.  As a fantastic story speeds to its inexorable conclusion you begin to dread and, at the same time, yearn for the climax.  On the one hand, the engrossing plot and the compelling characters make you wish the story would continue and would never end.  <!-- more -->But as the saying goes, all good things come to an end; and books, even good ones, are not exempted from this rule.
 

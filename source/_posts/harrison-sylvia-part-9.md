@@ -6,6 +6,7 @@ tags:
 categories:
   - - News
 date: 2019-09-10 22:20:40
+showKofiSuport: true
 ---
 
 Last month we saw Harrison's ascension to the court of the King of the Isles. He transformed his discovered material into a protective suit. Now the attention turns back to Sylvia and her journey.<!-- more --><hr class="clear-both center-fade"/><div class="embedded-image-right">![](/writing/harrison-sylvia/series-01/harrison-sylvia-1.jpg)</div>

@@ -4,6 +4,7 @@ date: 2013-05-24 09:29:15
 tags: [Epic, Fantasy]
 categories: 
 - [Review]
+showKofiSuport: false
 ---
 I first purchased the [Eye of the World](https://www.amazon.com/gp/product/0812511816/ref=as_li_tl?ie=UTF8&tag=mysite009e-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0812511816&linkId=b75c2d7f30702bc4772f706c72494e30)  back sometime when I was in college, if not before.  It sat on my shelf for a couple of years before I decided to read it; that was probably in my early junior or late sophomore year.  I was barely able to read it.  I struggled to read it, while I gorged myself on Terry Goodkind’s work.  Now fast forward to February of 2011: I purchased  the audio version of the book.  <!-- more --><div class="embedded-image-right">![Wheel of Time Covers](./wheel-of-time-covers.png)</div>I most likely purchased it because it was on sale for a few bucks and I figured I would try listening to it at some point; after all, I liked the narrators in other works I had listened to.  There it sat untouched for another two years before I actually forced myself to give the story its second chance.  And I am happy I finally relented.
 

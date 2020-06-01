@@ -8,6 +8,7 @@ tags:
 categories:
   - - Review
 date: 2018-08-16 00:17:49
+showKofiSuport: false
 ---
 
 [The second installment](https://www.amazon.com/gp/product/0345481291/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0345481291&linkCode=as2&tag=mysite009e-20&linkId=92a6ec813733f91093598708482d42d1) of the Temeraire series takes place sometime after the events of _His Majesty's Dragon_ and brings a beautiful story with plenty of intrigues.  While the dragon was thought to be an imperial for most of the book, it was his use of the Divine Wind that helped educate Laurance that Temeraire is not an imperial but rather a celestial.  The greatest of all the Chinese dragons, and so right from the beginning we are treated to a Chinese delegation led by the emperor's brother, Prince Yongxing, who is seeking the immediate return of Lung Tien Xiang, Temeraire, but neither Laurence or Temeraire are willing to part.<!-- more --><div class="embedded-image-right">![](./throne-of-jade.jpg)</div>  To keep the Chinese from severing ties, the British are eager to try and force the dragon's departure.  Which does not go over well and an eventual compromise is reached, since the two will not be parted.  It is decided that Temeraire would return to China with Laurence and his crew.  The compromise does manage to give Laurence the opportunity to try and convince the Chinese to let Temeraire stay with Laurence.

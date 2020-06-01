@@ -4,6 +4,7 @@ tags: []
 categories:
   - - Rant
 date: 2018-07-20 08:37:12
+showKofiSuport: false
 ---
 
 Sorry for the rant, but one of the most important things in anyone's life is their mattress, and since we sleep for roughly a third of our lives it is crucial to have an exceptional mattress when we sleep.  Now over my life, I have had a few mattresses, and the quality ranged from a standard Serta mattress to my new Purple Mattress.  And without a doubt the Purple, for my sleep and my wallet the purple mattress reigns supreme.  I remember the first time I saw the [raw egg test](https://www.youtube.com/watch?v=4BvwpjaGZCQ) on YouTube, and I was amazed, and honestly enthralled, by the almost four-minute commercial.<!-- more -->  The grownup Goldilocks begins with dropping raw eggs onto a Purple mattress under the weight of a pane of tempered glass.  She then guides the viewer to a similar test with other types of beds, offering some humorous jokes to go with the appropriate type of mattress (watch the video to get the full effect of the humor).  

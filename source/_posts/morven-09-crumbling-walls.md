@@ -7,6 +7,7 @@ tags:
 categories:
   - - Flash Fiction
 date: 2019-05-14 19:17:44
+showKofiSuport: true
 ---
 
 Pacing the wall, Tarian stopped when he came to a destroyed section. He ran his fingers along the new edge and looked towards the boulder that ripped through the wall. Thankfully the men stationed there saw the massive rock hurtling towards them.  And managed to get out of the way of the boulder as it tore through the wall.  Shaking his head, Tarian returned his attention to the massing ranks of monsters.  Blinking at the what he thought was a moving tree Tarian's shoulder's slumped.  He pulled out his telescope and searched for answers. As he followed the steady stream of creatures, he came to the biggest troll he’d seen.

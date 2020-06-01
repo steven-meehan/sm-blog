@@ -8,6 +8,7 @@ prompt: >-
   Photo image https://m.yourshot.nationalgeographic.com/photos/13984215/ -
   Morven, Hunters
 date: 2019-07-22 21:51:44
+showKofiSuport: true
 ---
 
 Wrapping his hand in incandescent blue light, Marc throws the ball at his pursuer.  Thomas managed to use his talent to catch the strike and throw it into the sky.  As the ball rushed past the tops of the trees, it burst the resulting explosion threw concentric azure rings into the night sky.  The detonation caught Thomas’s attention, and he took a step away from his quarry.  Amplifying his voice, he said, “You’re talented, but you won’t escape me.”

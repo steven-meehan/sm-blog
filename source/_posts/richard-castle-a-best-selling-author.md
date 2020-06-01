@@ -4,6 +4,7 @@ date: 2013-02-06 02:54:35
 tags:
 categories: 
 - [Thought]
+showKofiSuport: false
 ---
 When I hear the name Richard Castle, my first thoughts are not of actual books, but of the ABC television show, Castle.  Not content dominating his assigned hour entertaining us, Richard Castle reaches out from the screen and into our lives through his Niki Heat series.  <!-- more -->His books refused to be limited to his fictional world, they have traversed through the screen and into bookstores across the nation.  Richard Castle is a New York Times bestselling author, yet he has never walked those New York streets. 
 

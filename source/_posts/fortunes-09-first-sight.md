@@ -6,6 +6,7 @@ tags:
 categories:
   - - Flash Fiction
 date: 2019-05-17 17:50:54
+showKofiSuport: true
 ---
 
 Placing his hand on his chest, Rylan tried to force his raging stomach to settle.  As his fingers went through the motions of lacing up his boots, his mind kept returning to the fact that according to the long-range sensors Laria was another dead world.  Yet there was another planet in this system that teemed with life, and he couldn't explain it.

@@ -7,6 +7,7 @@ categories:
   - - Flash Fiction
 prompt: Amanda => ghost story, apartment building, note
 date: 2018-11-13 12:52:54
+showKofiSuport: true
 ---
 
 Tully looked down at his hand and reviewed the note that was firmly attached.  He stared at the writing and remembered dying while attempting to save the life a little girl.  Unfortunately, that particular memory was still hazy, and the only thing he could remember with perfect clarity was the crushing coldness as the water pulled him under.  As a shiver ran down his incorporeal spine, Tully looked up from the address that was perfectly imprinted upon the paper.  As Tully stared in front of himself and saw the building that he had been directed to.

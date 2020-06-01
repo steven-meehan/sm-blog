@@ -4,6 +4,7 @@ date: 2013-03-27 10:04:08
 tags: [Fantasy]
 categories: 
 - [Recommendation]
+showKofiSuport: false
 ---
 I remember a few years ago, well maybe closer to five years ago, I was walking through a local Barns & Noble and out of the corner of my eye I saw a hardcover book which cover caught my eye.  I immediately picked it up, gave it a once over and was gripped by the reviews.  I am fairly sure the book was not The Final Empire, it was The Hero of Ages, if my memory serves me correctly.  <!-- more --><div class="embedded-image-left">![Mistborn](./mistborn.jpg)</div>I remember instantly wanting to read this novel, but I was unwilling to start with the last book of a trilogy.
 

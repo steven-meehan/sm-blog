@@ -10,6 +10,7 @@ prompt: >-
   Picture Prompt =>
   https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/82793934_2424142461248852_7737984488323416064_n.jpg?_nc_cat=108&_nc_oc=AQklCx31otugFyryBa1pUQoUM8BgKJrTZvkWpb_TN-vkNgbBI7DbAZ_wKjib1cKxrKQ&_nc_ht=scontent-iad3-1.xx&oh=f45ba2a676f8fc18180a0222139bd8b1&oe=5E915D23
 date: 2020-01-18 09:23:08
+showKofiSuport: true
 ---
 
 “Why do we need the escort?” The navigator asked while she referenced her map.

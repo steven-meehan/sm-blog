@@ -7,6 +7,7 @@ tags:
 categories:
   - - Review
 date: 2019-10-10 18:00:22
+showKofiSuport: false
 ---
 
 Unlike the earlier installments, I did not stalk the release of [White Sands Volume 3](https://www.amazon.com/Brandon-Sandersons-White-Sand-3/dp/152411006X). So, when I saw the final book of this trilogy available, it was a pleasant surprise. Unfortunately, as with all things, life got in the way, and I didn’t buy it the moment I made my discovery. But I promised myself that I would add this book to my collection soon. Well, I recently did just that. And over the last couple of nights, I concluded Brandon Sanderson’s first foray into the world of comic books.<!-- more --><div class="embedded-image-left">![White Sand Volume 3](./white-sand-vol3.jpg)</div>

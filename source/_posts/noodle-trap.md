@@ -7,6 +7,7 @@ categories:
   - - Flash Fiction
 prompt: NYC Midnight List => fairy tale, noodle shop, mittens
 date: 2018-10-18 17:22:16
+showKofiSuport: true
 ---
 
 One day a father and his daughter were out eating at their favorite restaurant, The Noodle Shop.  The father enjoyed that he got the night off from cooking, while his daughter enjoyed her macaroni and cheese.  As always they got their meal and went to their regular booth to enjoy their dinner together.  Unfortunately, this night was about to change.

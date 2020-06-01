@@ -4,6 +4,7 @@ date: 2013-03-24 19:14:18
 tags: [Greek, Mythology]
 categories: 
 - [Thought]
+showKofiSuport: false
 ---
 Greek Mythology has always interested me, so much so that while I was at college I took a class on the subject.  During the class I was required to write a paper that counted as a significant portion of my grade.  For a while I had trouble thinking about my topic, but then it came to me.  And it intrigued my professor at the time, so over the next several posts I will share the paper I wrote back in April of 2004.<!-- more -->
 

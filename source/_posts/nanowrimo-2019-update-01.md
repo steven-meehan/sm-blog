@@ -7,6 +7,7 @@ tags:
 categories:
   - - News
 date: 2019-11-07 18:01:54
+showKofiSuport: false
 ---
 
 I never heard about [National Novel Writing Month](https://www.nanowrimo.org/), or NaNoWriMo for short, until earlier this year. My friend mentioned it when I talked with him about the upcoming [NYC Midnight Flash Fiction Competition](http://www.nycmidnight.com/Competitions/FFC/Challenge.htm). Since I’m trying to develop my prose, I gave it a look. The history of this non-profit slapped me in the face. NaNoWriMo was founded back in 1999 with a simple idea. It challenged authors to write 50,000 words of a book during the month of November. The premise seems easy enough, but when you factor in that people have lives and other responsibilities, it can be a daunting goal. Since the non-profit’s inception, NaNoWriMo has evolved and grown. Besides the main event, they now have other programs offering new events, such as [Camp NaNoWriMo](https://campnanowrimo.org/).<!-- more -->

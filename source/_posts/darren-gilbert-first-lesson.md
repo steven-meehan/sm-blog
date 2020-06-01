@@ -6,6 +6,7 @@ tags:
 categories:
   - - Flash Fiction
 date: 2019-05-10 17:11:28
+showKofiSuport: true
 ---
 
 Guiding Darren through the streets, Leodor Sultaser ducked down an alley and positioned the boy behind him while they waited.  When the elf resumed his pace, Darren tugged at the man's sleeve.  "Where are we going?"

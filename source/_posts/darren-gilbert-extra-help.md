@@ -6,6 +6,7 @@ tags:
 categories:
   - - Flash Fiction
 date: 2020-03-14 18:47:38
+showKofiSuport: true
 ---
 
 Darren rubs his splinted arm as he pulls his assignment from his bag. He remembers the duel that caused the injury, and he groans at the sudden pain that lances up his forearm. When the stack of papers appear on the right side of his head, Darren collects them and adds his sheet to the pile. He hands them to the student in front of him and wonders if Imryll could assist him in improving his defenses.<!-- more --> Will Imryll give him extra help with defensive magic? Or will she turn him away and let him flounder with defensive magic?

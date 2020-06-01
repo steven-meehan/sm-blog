@@ -8,6 +8,7 @@ tags:
 categories:
   - - Question
 date: 2018-07-09 20:48:16
+showKofiSuport: false
 ---
 
 Let's roll back the clock ten years ago, it's 2008, and _Iron Man_ was coming around to theaters.  No one outside of Kevin Feige's inner circle truly knew what he was planning or even if they did no one would have thought he would succeed.  He has been spending the last decade orchestrating the production of comic book movies all that share the same universe.  This connection has genuinely led to wonderful crossovers like _The Avengers_ films or even a mini _Avengers_ film like _Captain America: Civil War_.<!-- more -->  So what is so special about the Marvel Cinematic Universe (MCU) that Kevin Feige has helped to forge?

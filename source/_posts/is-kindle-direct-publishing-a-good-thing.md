@@ -4,6 +4,7 @@ date: 2013-06-27 01:07:47
 tags:
 categories:
 - [Question]
+showKofiSuport: false
 ---
 What is the first thing you think of when someone mentions the Kindle?  Me, I think of Amazon’s {% link 'first generation electronic reader' 'http://www.amazon.com/gp/help/customer/display.html?nodeId=200143650' %} (e-reader), and then I quickly run through the newer models.  Amazon changed more than just how books were read with their Kindle platform; they changed how books are brought to the reader.  <!-- more -->Prior to the Kindle, more specifically {% link 'Kindle Direct Publishing' 'https://kdp.amazon.com/self-publishing/signin' %} (KDP), authors would have to present their creations to an established publishing company.  These companies are out to make money, so they would look through the hundreds, if not thousands, of manuscripts they received, trying to find what they considered to be valuable.  For anyone thinking that people will always get discovered in this fashion, just remember {% link 'The Beetles Decca Audition' "http://en.wikipedia.org/wiki/The_Beatles'_Decca_audition" %}.  Perhaps the most famous band in the world, was told that “guitar groups are on the way out” and “The Beatles have no future in show business” (copied form the Wikipedia page previously linked).
 

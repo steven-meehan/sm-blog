@@ -6,6 +6,7 @@ tags:
 categories:
   - - Thought
 date: 2018-09-13 20:51:33
+showKofiSuport: false
 ---
 
 As the work on my next novel is drawing to a conclusion, I've once again started the process of getting its cover created.  This time, however, I do not have to find an artist to do the creating since I already have worked with a truly talented and wonderful artist, who made the cover for [_Dead Man's Hand_](https://www.amazon.com/gp/product/1520247427/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1520247427&linkCode=as2&tag=mysite009e-20&linkId=18504421d9a9d640ffdaaaedda9d249c).  So I reached out to her, and I started the process for my new cover.  And as I filled out the project form for my new book, I couldn't help but think about the entire journey I went through bringing the cover for my first book to life.<!-- more -->

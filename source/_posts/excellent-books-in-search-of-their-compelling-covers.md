@@ -4,6 +4,7 @@ date: 2013-05-07 21:51:48
 tags:
 categories: 
 - [Question]
+showKofiSuport: false
 ---
 How many times have we heard the saying “Don’t judge a book by its cover”?  And how many times have we completely disregarded that advice?  I am willing to bet that everyone, myself included, has at least once in their lives judged a book by its cover, or at least its cover art.  You only get to make a first impression once; I know it is a cliché but that does not dull the truth of its meaning.  <!-- more -->Think about the last time you were browsing a bookstore.  Now think about how many books there are amongst those stacks.  Now let us think about how long we spend at any given book.  Even if we limit out search to a particular section we still have thousands of books to explore and choose from and maybe a couple of seconds to glance at all the different books. 
 

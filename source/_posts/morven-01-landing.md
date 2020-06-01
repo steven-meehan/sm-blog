@@ -7,6 +7,7 @@ tags:
 categories:
   - [Flash Fiction]
 date: 2018-09-04 21:43:33
+showKofiSuport: true
 ---
 
 Sitting on the bridge of the colonization ship Tarian, Keldon and Sherry were busy preparing to land the ship.  Tarian let his eyes peer down upon the planet on the other side of the windshield and without thought asked, "Sherry, you're sure the planet down there can support life?"

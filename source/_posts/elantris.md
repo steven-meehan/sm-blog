@@ -4,6 +4,7 @@ date: 2013-09-17 23:41:49
 tags: [Fantasy]
 categories: 
 - [Recommendation]
+showKofiSuport: false
 ---
 My first exposure to Brandon Sanderson’s writing was his Mistborn trilogy.  Which was so well written and such a unique story that I searched out his writing.  During this search I came across his first published work, Elantris, and I immediately added it to my library.  The book may have sat on my digital bookshelf for a while before I read it, but that was only because I had so much other reading to do.  <!-- more --><div class="embedded-image-right">![Elantris](./elantris.jpg)</div>How and when I read the book is irrelevant, all that matters now is how good the story is. I have had a friend tell me that he could tell from the writing that this was Sanderson’s first story.  I never noticed that. But that could easily be because I am so easy to forgive flaws when the accompanying story is strong.  And that is where Elantris excels. The storyline is broken down into three sections, each ‘narrated’ by one of the three main characters.  To me this round robin narration was ingenious in the telling of this tale.
 

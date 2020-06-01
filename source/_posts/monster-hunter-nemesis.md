@@ -7,6 +7,7 @@ tags:
 categories:
   - - Review
 date: 2018-07-25 21:22:53
+showKofiSuport: false
 ---
 
 Fresh off of Monster Hunter International's heroic defeat of the Nightmare, Larry Correia once again shakes up the series by giving us a new perspective.  But instead of picking any Monster Hunter International employees, he let Agent Franks, Frankenstein's monster tell the story.  Up to this point in the story, Frank's history has been shrouded in mystery, but we finally get to hear the monster's history.<!-- more --><div class="embedded-image-left">![](./monster-hunter-nemesis.jpg)</div>

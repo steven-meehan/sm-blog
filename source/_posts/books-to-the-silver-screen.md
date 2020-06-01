@@ -4,6 +4,7 @@ date: 2013-01-30 11:17:58
 tags:
 categories: 
 - [Thought]
+showKofiSuport: false
 ---
 About a month ago I went to see “The Hobbit: an Unexpected Journey” in the theater.  I went into the movie thinking Peter Jackson would treat this book the same way he did the Lord of the Rings series, as a single movie per book.  Since I have yet to read the Lord of the Rings I can not comment on its transition to the silver screen.  <!-- more -->But I have been told by some that they were disappointed.  Much to my surprise when the credits for”The Hobbit” began to make their journey across the screen, I realized that there was going to be another movie, and I yearned for it.  But a part of me was curious how accurate was this first movie.  
 

@@ -4,6 +4,7 @@ tags: []
 categories:
   - - Rant
 date: 2018-09-06 07:06:16
+showKofiSuport: false
 ---
 
 Sorry for the rant but, I remember years back getting a stubs membership for AMC, but with the prices skyrocketing to see a movie I quickly forgot about it and went looking for other ways to see movies.  One of the more routine methods was to go to University Malls theater and watch a film there for about five dollars a ticket.  The main drawback to this option is that the movie I wanted to see had to make its way out of theaters like AMC and that meant I needed to go to even further methods to not hear anything for a movie I wanted to see.  One of the more recent releases I saw that way was [_Thor: Ragnarok_](https://www.amazon.com/gp/product/B076X7F6BC/ref=as_li_tl?ie=UTF8&tag=mysite009e-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B076X7F6BC&linkId=cb4b4290cd7fa74a36fe9e5191057d82), and it worked I managed to go into the theater having not heard a single thing about the movie other than it was totally awesome, that was about the only thing I couldn't avoid.<!-- more -->

@@ -4,6 +4,7 @@ date: 2013-01-24 10:36:42
 tags: [Audible, Fantasy]
 categories: 
 - [Thought]
+showKofiSuport: false
 ---
 The Wheel of Time series by Robert Jordan has been recommended to be more than once.  I even bought a paperback copy of The Eye of the World, though at the time I purchased it I was simply adding it to the list of many that I wanted to eventually read.  <!-- more --><div class="embedded-image-right">![The Eye of the World](./simpleChangeFormat.jpg)</div>When I eventually picked up the book, I found it difficult to work my way through the pages.  I was eventually able to finish it, but decided that the series just wasn’t for me.  
 

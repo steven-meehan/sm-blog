@@ -6,6 +6,7 @@ tags:
 categories:
   - - Flash Fiction
 date: 2019-03-12 18:11:41
+showKofiSuport: true
 ---
 
 Before the ship left Latria, the captain opened communications with the government back home letting them know about the planet below.  They were told to continue on with their journey to Medicia to discover if it shared the same fate as Latria.  So while the command crew plotted a course to their next destination, all of the members of the landing crew were reported to the ship’s infirmary.  Once there they were forced into isolation so the doctors could ensure that their exposure to the radiation would do no lasting harm.

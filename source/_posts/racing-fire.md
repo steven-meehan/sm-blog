@@ -7,6 +7,7 @@ categories:
   - - Flash Fiction
 prompt: 'NYC Midnight => Thriller, A Bridge, A Mask'
 date: 2019-12-29 23:10:24
+showKofiSuport: false
 ---
 
 With [Liquid Assets](/archives/2019/12/26/liquid-assets) and [Weighing an Alibi](/archives/2019/12/26/weighing-alibi) completed, I turned my attention to the third and final Patreon post for December, a Thriller. Unlike the other tales, I don’t have a character waiting in the wings. Without the benefit of character, more blanks need to fill in, so to ease the burden, I jumped to NYC Midnight’s catalog. Once there, I searched the page for the word thriller and picked a random prompt.<!-- more -->

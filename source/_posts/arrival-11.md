@@ -6,6 +6,7 @@ tags:
 categories:
   - - Flash Fiction
 date: 2020-04-11 14:38:19
+showKofiSuport: true
 ---
 
 With the birth of his newest child, Marcus returns home to work his estate and care for his herd. Marcus and Talia help spread the expertize of husbandry to the other farmers in the Region. After scouring up all the unemployed citizens, Nathaniel sends them to the Eastern Region, and Marcus selects the best of the bunch. One day after selecting his men, Marcus interrupts Preston’s instruction for the fresh recruits a brief reprieve. During the break, Marcus catches sight of something on the horizon.<!-- more --> Will the approaching menace devastate Marcus’s land? Or will the recent developments of the Central Region save the day?

@@ -7,6 +7,7 @@ categories:
 prompt: >-
   https://m.yourshot.nationalgeographic.com/photos/13915355/?fbclid=IwAR1X-Db1aLDXwiP3A6uZfHGFsXECVZ09-MyDi17Xc9R3jw6D7hesL3_CpHI
 date: 2019-06-27 16:48:30
+showKofiSuport: true
 ---
 
 Pulling the note from his pocket, Lucious reread the postcard.

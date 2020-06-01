@@ -5,6 +5,7 @@ tags:
 categories:
   - - Question
 date: 2018-10-30 18:19:27
+showKofiSuport: false
 ---
 
 If I were to ask who the father of modern fantasy is, who would you name?  People will have their choice, but I think most people will reach back to the man who penned The Hobbit and the Lord of the Rings trilogy, [J.R.R. Tolkien](http://graphology-world.com/tolkien-the-father-of-modern-fantasy/).  While I certainly believe him to be the father of modern fantasy, there are some who have a [decenting position](https://www.bostonglobe.com/ideas/2013/12/22/sorry-tolkien-not-father-fantasy/pljM6NOC54JmFaqY8bzNSI/story.html#comments), such as Ed Power of the Boston Globe.

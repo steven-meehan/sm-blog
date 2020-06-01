@@ -8,6 +8,7 @@ tags:
 categories:
   - - Review
 date: 2018-09-20 05:20:06
+showKofiSuport: false
 ---
 
 [_Empire of Ivory_](https://www.amazon.com/gp/product/0345496876/ref=as_li_tl?ie=UTF8&tag=mysite009e-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0345496876&linkId=51d53e24e9d2eee4cfd359b83f4953c2) starts with the end of the journey back to England, and Laurence is shocked that no one is there to meet him, they find that the entire population of the dragons of England is decimated by disease. So Temeraire and the feral dragons that sided in the escape are now being pressed into service so that they can protect the coastline of England from Napoleon, though he is mostly still focused upon the continent. We see yet another side to Temeraire as the story progresses, in normal conditions, dragons can live for a couple hundred years or so and so naturally he had never thought about the possibility that his friends, Maximus and Lily to name a pair, might die and be lost to him.  this along with the patroling bring him down into depression but he keeps going, and he is eventually coaxed into helping commission England's first pavilion for the sick dragons though this does not help bring him out of his depression entirely.<!-- more --><div class="embedded-image-right">![](./empire-of-ivory.jpg)</div>

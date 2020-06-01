@@ -6,6 +6,7 @@ tags:
 categories:
   - - Flash Fiction
 date: 2020-02-19 22:00:17
+showKofiSuport: true
 ---
 
 Darren, Maxwell, and Roland leave the Academy for a night of relaxation. They head for a local restaurant for a meal, camaraderie, and recreation. The three intend to stay until the restaurant closes. And Darren wants to find out the truth about a rumor floating around the school.<!-- more --> Will the rumor of a new student prove true? Or will Darren’s quest for answers prove fruitless?

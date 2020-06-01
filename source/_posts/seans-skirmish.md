@@ -7,6 +7,7 @@ categories:
   - - Flash Fiction
 prompt: 'NYC Midnight => Action-Adventure, A Slum, A Chainsaw'
 date: 2019-10-22 16:51:02
+showKofiSuport: false
 ---
 
 My first Patreon exclusive story for October is an Action-Adventure tale. To help practice and prepare for NYC Midnight’s Flash Fiction Challenge, I pulled the prompt from one of their past challenges. It is incredible how wild these prompts can be. Bunker down and get ready for my take of an Action-Adventure set in a slum and featuring a chainsaw.<!-- more -->

@@ -7,6 +7,7 @@ tags:
 categories:
   - - Review
 date: 2019-10-31 18:14:08
+showKofiSuport: false
 ---
 
 Looking back at my youth, I remember two things that I loved, Greek mythology and Magic the Gathering. The stories of divinities and legends fascinated me, and I dove headfirst into those studies. From the Olympian gods to the Titans, I craved more than I ever got in school. Then outside of school, I enjoyed playing Magic with my friends. Though I also relished collecting the cards and the artwork that inked each one. As with everything, these interests began to wane. Fortunately, [college](http://localhost:4000/archives/2013/03/24/greek-mythology-part-1) allowed me to explore the lore, but my interest in Magic sputtered out.

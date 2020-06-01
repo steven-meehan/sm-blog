@@ -4,6 +4,7 @@ date: 2013-08-06 09:31:06
 tags: Football
 categories: 
 - [Rant]
+showKofiSuport: false
 ---
 Sorry for the rant.  But what is the first thing that pops into your mind when you hear the words ‘The Washington Redskins’?  I would think that, for most people, it would be the professional football team that plays in Landover, Maryland, while calling Washington DC their home.  But after reading over a dozen articles that say the name is racist, I began to wonder if that was the only thing that pops into people’s minds.  <!-- more -->Now for full disclosure — I am a lifelong Washington Redskin fan.  And I personally never want to see this team’s name changed. But that is me; it’s a fan thing.  Now most of the people who are calling for the name change are not Native Americans.  As far as I know, {% link 'Phil Jackson' 'http://bleacherreport.com/articles/1672551-phil-jackson-says-washington-redskins-nickname-highly-offensive' %} is a perfect example.  He recently tweeted about the name and a columnist for the Bleacher Report wrote an article from it. 
 

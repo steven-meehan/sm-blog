@@ -6,6 +6,7 @@ tags:
 categories:
   - - Flash Fiction
 date: 2018-12-07 19:40:42
+showKofiSuport: true
 ---
 
 Rylan was becoming very familiar with all of his counselor's staff as often as he had been visiting Desmond.  So when Rylan caught sight of Desmond's secretary, he waived at the slight and sociable woman, "Hello Ciara, is Desmond free?"

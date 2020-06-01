@@ -4,6 +4,7 @@ date: 2013-02-16 02:30:07
 tags:
 categories: 
 - [Question]
+showKofiSuport: false
 ---
 What is an acceptable piece of literature?  Are stories only acceptable after they have survived for generations?  Do they have to be distributed throughout the world?  Or can they be contained in just a handful of pages?<!-- more --><div class="embedded-image-right">![Dresden Files: Ghoul Goblin](./comic-books-count.jpg)</div>
 

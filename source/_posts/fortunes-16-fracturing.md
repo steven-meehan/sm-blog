@@ -6,6 +6,7 @@ tags:
 categories:
   - - Flash Fiction
 date: 2020-01-28 22:58:13
+showKofiSuport: true
 ---
 
 With both teams back on the boat, the Captain plots a course back home. The entire crew is somber with the destruction of everything they have ever known. While some members can cope with this enormous loss, others become ill-mannered with short tempers.<!-- more --> Will hostilities between the crew taper off? Or will the tempers flare and result in a riot between the factions?
