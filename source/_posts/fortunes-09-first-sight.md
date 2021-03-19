@@ -3,6 +3,7 @@ title: First Sight
 tags:
   - Fortunes
   - Wattpad
+  - Tergara
 categories:
   - - Flash Fiction
 date: 2019-05-17 17:50:54

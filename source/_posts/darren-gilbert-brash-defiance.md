@@ -3,6 +3,7 @@ title: Brash Defiance
 tags:
   - Wattpad
   - Darren Gilbert
+  - Fantasy
 categories:
   - - Flash Fiction
 date: 2019-10-15 22:58:59

@@ -3,6 +3,7 @@ title: Choices
 tags:
   - Wattpad
   - Darren Gilbert
+  - Fantasy
 categories:
   - - Flash Fiction
 date: 2020-05-18 21:48:57

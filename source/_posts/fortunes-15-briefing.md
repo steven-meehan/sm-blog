@@ -3,6 +3,7 @@ title: Briefing
 tags:
   - Wattpad
   - Fortunes
+  - Tergara
 categories:
   - - Flash Fiction
 date: 2019-12-04 22:35:18

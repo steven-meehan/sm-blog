@@ -3,6 +3,7 @@ title: Departure
 tags:
   - Fortunes
   - Wattpad
+  - Tergara
 categories:
   - - Flash Fiction
 date: 2019-01-08 18:18:22

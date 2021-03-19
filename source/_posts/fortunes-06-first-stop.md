@@ -3,6 +3,7 @@ title: First Stop
 tags:
   - Fortunes
   - Wattpad
+  - Tergara
 categories:
   - - Flash Fiction
 date: 2019-02-05 13:47:06

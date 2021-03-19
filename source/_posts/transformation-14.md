@@ -1,7 +1,7 @@
 ---
 title: Back on Track
 tags:
-  - Science-Fiction
+  - Science Fiction
   - Wattpad
   - Transformation
   - Aurora

@@ -3,6 +3,7 @@ title: Explanations
 tags:
   - Fortunes
   - Wattpad
+  - Tergara
 categories:
   - - Flash Fiction
 date: 2018-10-11 11:07:08

@@ -3,6 +3,7 @@ title: Retrieval
 tags:
   - Wattpad
   - Fortunes
+  - Tergara
 categories:
   - - Flash Fiction
 date: 2020-02-25 23:23:51

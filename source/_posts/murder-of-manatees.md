@@ -1,7 +1,7 @@
 ---
 title: A Murder of Manatees
 tags:
-  - Science-Fiction
+  - Science Fiction
 categories:
   - - Review
 date: 2020-06-02 21:24:16

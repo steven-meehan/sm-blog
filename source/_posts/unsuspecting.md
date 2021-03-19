@@ -4,7 +4,7 @@ tags:
   - Patreon
   - Action/Adventure
   - Aurora
-  - Science-Fiction
+  - Science Fiction
 categories:
   - - Flash Fiction
 prompt: 'NYC Midnight => Action/Adventure, Subway station, fur coat'

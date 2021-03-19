@@ -3,6 +3,7 @@ title: New Student
 tags:
   - Wattpad
   - Darren Gilbert
+  - Fantasy
 categories:
   - - Flash Fiction
 date: 2020-04-20 22:51:18

@@ -3,6 +3,7 @@ title: Night Out
 tags:
   - Wattpad
   - Darren Gilbert
+  - Fantasy
 categories:
   - - Flash Fiction
 date: 2020-02-19 22:00:17

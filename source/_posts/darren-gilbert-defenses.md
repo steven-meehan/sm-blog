@@ -3,6 +3,7 @@ title: Defenses
 tags:
   - Darren Gilbert
   - Wattpad
+  - Fantasy
 categories:
   - - Flash Fiction
 date: 2020-01-07 22:12:37

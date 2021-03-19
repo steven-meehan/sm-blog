@@ -3,6 +3,7 @@ title: First Impressions
 tags:
   - Darren Gilbert
   - Wattpad
+  - Fantasy
 categories:
   - - Flash Fiction
 date: 2019-07-23 19:23:56

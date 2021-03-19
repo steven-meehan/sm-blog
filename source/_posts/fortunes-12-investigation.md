@@ -3,6 +3,7 @@ title: Investigation
 tags:
   - Fortunes
   - Wattpad
+  - Tergara
 categories:
   - - Flash Fiction
 date: 2019-08-14 22:41:50

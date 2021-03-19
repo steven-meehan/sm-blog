@@ -3,6 +3,7 @@ title: First Lesson
 tags:
   - Darren Gilbert
   - Wattpad
+  - Fantasy
 categories:
   - - Flash Fiction
 date: 2019-05-10 17:11:28

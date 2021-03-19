@@ -3,6 +3,7 @@ title: Escape
 tags:
   - Wattpad
   - Fortunes
+  - Tergara
 categories:
   - - Flash Fiction
 date: 2020-04-27 22:58:58

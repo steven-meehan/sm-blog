@@ -1,7 +1,7 @@
 ---
 title: 'The Adventures of Tom Stranger, Interdimensional Insurance Agent'
 tags:
-  - Science-Fiction
+  - Science Fiction
 categories:
   - - Review
 date: 2020-05-21 21:30:09

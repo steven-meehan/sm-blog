@@ -3,6 +3,7 @@ title: Day of Rest
 tags:
   - Wattpad
   - Darren Gilbert
+  - Fantasy
 categories:
   - - Flash Fiction
 date: 2019-09-30 00:06:19

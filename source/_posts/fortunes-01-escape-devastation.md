@@ -3,6 +3,7 @@ title: Escaping Devastation
 tags:
   - Fortunes
   - Wattpad
+  - Tergara
 categories:
   - - Flash Fiction
 date: 2018-09-18 06:40:46

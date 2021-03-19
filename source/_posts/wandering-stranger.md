@@ -16,7 +16,7 @@ I love winter. I especially love it when the snow comes down, blanketing the wor
 
 > A wandering stranger stumbles into town during a snowstorm...
 
-<div class="center">[![Wandering Stranger](https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/80441449_3046705008676212_8402552899816652800_o.jpg?_nc_cat=103&_nc_sid=8024bb&_nc_ohc=bMGfs2_BFkwAX_poCP6&_nc_ht=scontent-iad3-1.xx&oh=3509a2bba06b7c2e1fb3794b7f6e4453&oe=5EFAF1E2 "Posted by ElfWatcher.com")](https://www.facebook.com/122167364463339/photos/a.727794320567304/3046705005342879/?type=3&theater)</div>
+<div class="center"><div id="fb-root"></div><script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v9.0" nonce="X0EL42DS"></script><div class="fb-post" data-href="https://www.facebook.com/permalink.php?story_fbid=3046705115342868&amp;id=122167364463339" data-width="350" data-show-text="true"><blockquote cite="https://www.facebook.com/permalink.php?story_fbid=3046705115342868&amp;id=122167364463339" class="fb-xfbml-parse-ignore">Posted by <a href="https://www.facebook.com/ElfWatchercom-122167364463339/">ElfWatcher.com</a> on&nbsp;<a href="https://www.facebook.com/permalink.php?story_fbid=3046705115342868&amp;id=122167364463339">Friday, December 27, 2019</a></blockquote></div></div>
 
 A wanderer adjusted his position against the tree as he lifted his palm. When a snowflake landed against it, he shook it from his hand and climbed to his feet. The man dragged his hair from his face and pulled his spare cloak from his pack and wrapped it around his shoulders. He gripped his bag under his mantle as he strode toward the road. As he neared it, the drifter checked both sides of the path before easing out from the underbrush.
 

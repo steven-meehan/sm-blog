@@ -3,6 +3,7 @@ title: The Spark
 tags:
   - Darren Gilbert
   - Wattpad
+  - Fantasy
 categories:
   - - Flash Fiction
 date: 2019-04-11 20:06:26

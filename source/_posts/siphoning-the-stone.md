@@ -15,7 +15,7 @@ Every so often when I'm thumbing through my Facebook feed, I come across picture
 
 >A sorceress uses magic to steal a crystal...
 
-<div class="center">[![Siphoning the Stone](https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/83788740_3102407963105916_417582541860503552_o.jpg?_nc_cat=105&_nc_sid=8024bb&_nc_ohc=enuT4dJGTAcAX_wycQe&_nc_ht=scontent-iad3-1.xx&oh=9cbfd8ce7aea9d9ebdb922ec991b1f29&oe=5E9DF426 "Crystallo Spiritus by Krouya")](https://www.deviantart.com/krouya/art/Crystallo-Spiritus-827612274)</div>
+<div class="center">[![Siphoning the Stone](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/de83a01f-0387-491c-8990-0e5998125c26/ddoqlpu-f802e219-71a1-4a00-b4b2-836e366e229a.jpg/v1/fill/w_1920,h_1440,q_75,strp/crystallo_spiritus_by_krouya_ddoqlpu-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD0xNDQwIiwicGF0aCI6IlwvZlwvZGU4M2EwMWYtMDM4Ny00OTFjLTg5OTAtMGU1OTk4MTI1YzI2XC9kZG9xbHB1LWY4MDJlMjE5LTcxYTEtNGEwMC1iNGIyLTgzNmUzNjZlMjI5YS5qcGciLCJ3aWR0aCI6Ijw9MTkyMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.NpdmcK8fbxY6oTqxqQj39c255Md9rsdbyWBKKwqcDL0 "Crystallo Spiritus by Krouya")](https://www.deviantart.com/krouya/art/Crystallo-Spiritus-827612274)</div>
 
 Taitha’s silk shawl whipped behind her as she walked down the street. When she came to a particular building, she halted, turning to face the entrance and grinned. With a glance to each side, she stepped up to the doors, touching the clasp on her belt, and strode through the thick wooden panels. Once inside, she hurried to the map of the interior.
 
