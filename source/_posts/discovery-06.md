@@ -1,15 +1,20 @@
 ---
 title: Evaluating Options
-tags: [Morven, Wattpad, Discovery]
+tags:
+  - Morven
+  - Wattpad
+  - Discovery
 categories:
-  - [Flash Fiction]
+  - - Flash Fiction
 showKofiSuport: true
+date: 2021-03-20 18:36:23
 ---
-Between the assaults on the complex and orchestrating its defense, Jarvis scours the recovered logs of the previous expedition. With a fresh understanding of the dangers lurking past the horizen, Jarvis pushes his crew to complete their tasks. Unfortunately, with each assault the ship's precious fuel creeps closer to extinction. But with so many aspects of their life calling out for attention, Jarvis comes to understand how dire their circumtstances are in the face of overwhelming force.<!-- more --> Will Jarvis throw more people at discovering an alternative power source? Or will he focus on establishing defenses to thwart the unflappable horde?
+
+With the brief opportunities between assaults, Jarvis scours the recovered logs for answers. After committing those words to memory, Jarvis understands the dangers lurking past the horizon. Those fears compel him to force his people to expedite their work. Despite their progress, the ship’s precious fuel dwindles with each assault. As another aspect of their life screams out for attention, Jarvis realizes just how dire their situation is.<!-- more --> As they stare at an unending terror, will Jarvis prioritize discovering an alternative power source? Or will he push for completing the ship’s defenses?
 
 <div class="center">
 
-[![Evaluating Options](/images/covers/discovery.png "Evaluating Options")](https://www.wattpad.com/...)
+[![Evaluating Options](/images/covers/discovery.png "Evaluating Options")](https://www.wattpad.com/1043051688-discovery-evaluating-options)
 
 </div>
 
@@ -36,6 +41,6 @@ Jarvis deactivated the monitor and drummed his fingertips across the table. “F
 
 <div>
 
-To continue reading the story, click [here](https://www.wattpad.com/...) to head over to Wattpad.
+To continue reading the story, click [here](https://www.wattpad.com/1043051688-discovery-evaluating-options) to head over to Wattpad.
 
 </div>
