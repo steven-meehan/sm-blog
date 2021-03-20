@@ -16,11 +16,18 @@ As I researched about tenement building, a picture unfolded in my mind, and I th
 
 John is alone and wandering a tenement building. He’s looking for a way to meet the quota that Helen decreed so he can return home...
 
-<div class="center">[![Helen's Knucklers](/images/patreon-flash-fiction/2020/helens-knucklers.png "Helen's Knucklers")](https://www.patreon.com/posts/34414512)</div>
+<div class="center">
+
+[![Helen's Knucklers](/images/patreon-flash-fiction/2020/helens-knucklers.png "Helen's Knucklers")](https://www.patreon.com/posts/34414512)
+
+</div>
 
 John brushed passed throngs of people as he meandered down the halls. But whenever he approached a doorframe, a face from the crowd glared at him. With each admonition, John gripped his stomach and cursed as he went down the line and up the floors. When he reached the top floor, he peered down the hallway. He found a few more familiar faces, protecting certain entrances, except for a pair at the end of the hall.
 
-He inched towards the first door and poked his head through it, only to yank it out after a brief glance. While his fingers clawed at the wall, he searched for another room. But his competitors smirked at his discomfort as they raided their targets. John cringed and held his breath as he gazed into the doorway. He looked from the resting figure on the bed and dashed behind a large chair.<div class="center story-ellipses">.
+He inched towards the first door and poked his head through it, only to yank it out after a brief glance. While his fingers clawed at the wall, he searched for another room. But his competitors smirked at his discomfort as they raided their targets. John cringed and held his breath as he gazed into the doorway. He looked from the resting figure on the bed and dashed behind a large chair.
+
+<div class="center story-ellipses">
+.
 .
 .
 </div>

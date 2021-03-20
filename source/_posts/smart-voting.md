@@ -16,4 +16,8 @@ I dug into the recent headlines and came across a headline that honestly terrifi
 
 A pair of friends are eating at a Brazilian Steakhouse, and the emerging voting system comes up...
 
-<div class="center">[![Smart Voting](/images/patreon-flash-fiction/2020/smart-voting.png "Smart Voting")](https://www.patreon.com/posts/33423325)</div>
+<div class="center">
+
+[![Smart Voting](/images/patreon-flash-fiction/2020/smart-voting.png "Smart Voting")](https://www.patreon.com/posts/33423325)
+
+</div>

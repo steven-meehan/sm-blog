@@ -15,7 +15,11 @@ date: 2020-06-09 16:57:48
 
 > Treant patrolling his domain, to ensure its safety...
 
-<div class="center">[![Plodding Hardwood](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5a2a27a1-91a9-4734-8740-4e4d9dfa3af1/ddoo6q7-6d9f1092-0b3f-4ee2-bc9d-65a31186ae94.jpg/v1/fill/w_1024,h_1429,q_75,strp/ent_by_0oki_ddoo6q7-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD0xNDI5IiwicGF0aCI6IlwvZlwvNWEyYTI3YTEtOTFhOS00NzM0LTg3NDAtNGU0ZDlkZmEzYWYxXC9kZG9vNnE3LTZkOWYxMDkyLTBiM2YtNGVlMi1iYzlkLTY1YTMxMTg2YWU5NC5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.lwDP_xYmcaCfrqzT7Zq6dD4J4yv_9NExuvxI_81AeUw "Ent by 0oki")](https://www.deviantart.com/0oki/art/Ent-827499535)</div>
+<div class="center">
+
+[![Plodding Hardwood](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5a2a27a1-91a9-4734-8740-4e4d9dfa3af1/ddoo6q7-6d9f1092-0b3f-4ee2-bc9d-65a31186ae94.jpg/v1/fill/w_1024,h_1429,q_75,strp/ent_by_0oki_ddoo6q7-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD0xNDI5IiwicGF0aCI6IlwvZlwvNWEyYTI3YTEtOTFhOS00NzM0LTg3NDAtNGU0ZDlkZmEzYWYxXC9kZG9vNnE3LTZkOWYxMDkyLTBiM2YtNGVlMi1iYzlkLTY1YTMxMTg2YWU5NC5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.lwDP_xYmcaCfrqzT7Zq6dD4J4yv_9NExuvxI_81AeUw "Ent by 0oki")](https://www.deviantart.com/0oki/art/Ent-827499535)
+
+</div>
 
 As the sun crested the horizon, two black orbs snapped opened and focused on the warming rays. The eyelids fluttered as twin branches flexed and swayed to position its leaves to collect as much light as possible. When it could not absorb enough daylight, its trunk split, and one half stepped out of the ground. Freed from the soil, the being strode into the patch of sunlight breaking through the forest and spread its limbs wide.
 

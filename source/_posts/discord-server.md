@@ -13,4 +13,8 @@ Ever since February 2nd, 2019, when I posted my first [Patreon](https://www.patr
 
 While I’ve connected my [Discord server](https://discord.gg/kP45fWV) to my Patreon page, and I have sections dedicated to those backers. There are a few sections that I’m keeping open for public use. So if you enjoy my writing, consider heading over to my server and delve into the literary worlds that I’m crafting. And if you want to access the protected tiers, consider backing me for $2.00 a month on [Patreon](https://www.patreon.com/stevenpmeehan).
 
-<div class="center">[![Discord Logo](./discord-logo.png "Discord Logo")](https://discord.gg/kP45fWV)</div>
+<div class="center">
+
+[![Discord Logo](./discord-logo.png "Discord Logo")](https://discord.gg/kP45fWV)
+
+</div>

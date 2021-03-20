@@ -16,6 +16,14 @@ I went through a couple of ideas before I even settled on the actual crime. I ne
 
 Jessica’s current job reunites her with someone from her past. Will she be able to complete the job, or will this man’s grudge prevail…
 
-<div class="center">[![Liquid Assets](/images/patreon-flash-fiction/2020/grudge.jpg "Liquid Assets")](https://www.patreon.com/posts/33240906)</div>
+<div class="center">
 
-<div class="center">I finally gave her a last name!</div>
+[![Grudge](/images/patreon-flash-fiction/2020/grudge.jpg "Grudge")](https://www.patreon.com/posts/33240906)
+
+</div>
+
+<div class="center">
+
+I finally gave her a last name!
+
+</div>

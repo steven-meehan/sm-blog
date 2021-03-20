@@ -13,7 +13,11 @@ showKofiSuport: true
 
 Fresh off a meeting with his constituents, Olyver works with Caitlin on a way to ramp up the colonization efforts. After multiple edits, the two produce a draft of the orders that will catapult them to the rest of the system. Now they need to get Quinn’s consent, but he’s steadfast in his belief that they have to expand at a snail’s pace.<!-- more --> Will Caitlin and Olyver be able to sway Quinn? Or will he sandbag their efforts to finish colonizing the Auroran system?
 
-<div class="center">[![Compromise](/images/covers/transformation.png "Compromise")](https://www.wattpad.com/875315989-transformation-compromise)</div>
+<div class="center">
+
+[![Compromise](/images/covers/transformation.png "Compromise")](https://www.wattpad.com/875315989-transformation-compromise)
+
+</div>
 
 Quinn tapped his desk and looked over the proposal. When he finished going over the document, he dropped the pad and groaned. He glared at Olyver and took a lengthy breath. “Caitlin, is there any reason you’ve abandoned the plan we originally detailed?”
 
@@ -31,4 +35,10 @@ With a growl, Quinn lifted the device. “Yes, Olyver, I scrutinized the entire 
 .
 .
 .
-</div><div class="center">To continue reading the story, click [here](https://www.wattpad.com/875315989-transformation-compromise) to head over to Wattpad.</div>
+</div>
+
+<div class="center">
+
+To continue reading the story, click [here](https://www.wattpad.com/875315989-transformation-compromise) to head over to Wattpad.
+
+</div>

@@ -18,7 +18,11 @@ I jumped to a point in time before the events of [Consequences](/archives/2020/0
 
 Shortly after the rash of random beatings stop, Oliver visits his friend to criticize him for a recent decision and debate a recent law…
 
-<div class="center">[![Fading Liberties](/images/patreon-flash-fiction/2020/fading-liberties.png "Fading Liberties")](https://www.patreon.com/posts/43263325)</div>
+<div class="center">
+
+[![Fading Liberties](/images/patreon-flash-fiction/2020/fading-liberties.png "Fading Liberties")](https://www.patreon.com/posts/43263325)
+
+</div>
 
 Dustin lifted the final parcel of rations off the shelf and checked its date. Sucking his lips, Darren rubbed his forehead, “With all our technology, you would think a scientist could figure out how to produce rations that outlast multiple emergencies?”
 
@@ -34,4 +38,10 @@ With a shallow breath, Dustin eased the tension from his shoulders and retrieved
 .
 .
 .
-</div><div>To continue reading head over to my [Patreon page](https://www.patreon.com/posts/43263325) and become a patron, $2 a month will give you access to this and other flash fiction stories.</div>
+</div>
+
+<div>
+
+To continue reading head over to my [Patreon page](https://www.patreon.com/posts/43263325) and become a patron, $2 a month will give you access to this and other flash fiction stories.
+
+</div>

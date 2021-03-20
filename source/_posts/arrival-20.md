@@ -11,7 +11,11 @@ date: 2021-02-04 20:35:46
 
 After storming away from the ruins of the Central Region, Kethra hurries home where she promptly gathers her most ardent supporters. Once gathered, she passes on her version of events and they rally the rest of the region to her aid. Meanwhile, back in the ruins of the Central Region, Marcus collects his team and prepares for an invasion. With backup and all the armaments they can carry, Marcus claims an entire car informing his men to leave him alone until their arrival.<!-- more --> Will Kethra’s preparation spell doom for Marcus and his team? Or will he sway the majority of the region to support Nathaniel and the new leadership?
 
-<div class="center">[![Propaganda](/images/covers/arrival.png "Propaganda")](https://www.wattpad.com/1021431682-arrival-propaganda)</div>
+<div class="center">
+
+[![Propaganda](/images/covers/arrival.png "Propaganda")](https://www.wattpad.com/1021431682-arrival-propaganda)
+
+</div>
 
 “Wake up, Marcus! The train’s pulling into the station,” a rumbling voice bellowed.
 
@@ -29,4 +33,10 @@ As the train coasted to a stop, Marcus withdrew his gun, cracked it open, and po
 .
 .
 .
-</div><div>To continue reading the story, click [here](https://www.wattpad.com/1021431682-arrival-propaganda) to head over to Wattpad.</div>
+</div>
+
+<div>
+
+To continue reading the story, click [here](https://www.wattpad.com/1021431682-arrival-propaganda) to head over to Wattpad.
+
+</div>

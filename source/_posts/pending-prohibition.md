@@ -14,4 +14,8 @@ My final Patreon exclusive story for October came up as a political satire. Sitt
  
 Saul attempts to argue with his elected official to prevent an upcoming ban. But the mayor prefers listening to his next appointment…
 
-<div class="center">[![Pending Prohibition](/images/patreon-flash-fiction/pending-prohibition.png "Pending Prohibition")](https://www.patreon.com/posts/31120012)</div>
+<div class="center">
+
+[![Pending Prohibition](/images/patreon-flash-fiction/pending-prohibition.png "Pending Prohibition")](https://www.patreon.com/posts/31120012)
+
+</div>

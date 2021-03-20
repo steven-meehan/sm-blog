@@ -16,7 +16,11 @@ This time, I wanted to continue that story, highlighting the division between th
 
 A Shifter ambles into a glade and interrupts an intruder from completing his task. Upset at the interruption, the Hunter lashes out…
 
-<div class="center">[![Arrogance](/images/patreon-flash-fiction/2021/arrogance.png "Arrogance")](https://www.patreon.com/posts/46472287)</div>
+<div class="center">
+
+[![Arrogance](/images/patreon-flash-fiction/2021/arrogance.png "Arrogance")](https://www.patreon.com/posts/46472287)
+
+</div>
 
 As a bear nudged through foliage and entered a clearing, a man in the middle of it whirled around. He glowered at the intruding animal while crackling blue energy emanated from his hand. The individual clenched his fingers, extinguishing the glow as he walked toward a lump. “Tiatha did a number on me. I can’t believe a stupid beast freaked me out.”
 
@@ -34,4 +38,10 @@ The shifter’s eyes flashed with rage as they flicked to the lump. With a grumb
 .
 .
 .
-</div><div>To continue reading head over to my [Patreon page](https://www.patreon.com/posts/46472287) and become a patron, $2 a month will give you access to this and other flash fiction stories.</div>
+</div>
+
+<div>
+
+To continue reading head over to my [Patreon page](https://www.patreon.com/posts/46472287) and become a patron, $2 a month will give you access to this and other flash fiction stories.
+
+</div>

@@ -17,7 +17,11 @@ While [Journeys](https://www.wattpad.com/story/193730653-darren-gilbert-journeys
 
 Having confirmed his stoolie’s loyalty, Darren searches for his informant. Will Darren be able to pass his false information to the Hunters…
 
-<div class="center">[![False Trails](/images/patreon-flash-fiction/2020/false-trails.png "False Trails")](https://www.patreon.com/posts/43257563/)</div>
+<div class="center">
+
+[![False Trails](/images/patreon-flash-fiction/2020/false-trails.png "False Trails")](https://www.patreon.com/posts/43257563/)
+
+</div>
 
 With a groan, Darren pulled his buzzing phone from his pocket and answered the call, “Randall, why are you bothering me?”
 
@@ -35,4 +39,10 @@ Darren’s palm slammed into his forehead as a groan wheezed out of him like air
 .
 .
 .
-</div><div>To continue reading head over to my [Patreon page](https://www.patreon.com/posts/43257563/) and become a patron, $2 a month will give you access to this and other flash fiction stories.</div>
+</div>
+
+<div>
+
+To continue reading head over to my [Patreon page](https://www.patreon.com/posts/43257563/) and become a patron, $2 a month will give you access to this and other flash fiction stories.
+
+</div>

@@ -11,7 +11,11 @@ showKofiSuport: true
 
 Three months after promising the railroad, Nathaniel examines the latest report of destruction by the wildlife. Once more, he’s having to balance the requirement for weaponry or repairing the damaged tracks. While eating a meal, Marcus barges in to discuss the status of the tracks and latest from Kethra ploy.<!-- more --> Will Nathaniel and Marcus be able to discover a way to silence Kethra’s vendetta? Or will Marcus and Talia continue to be hounded?
 
-<div class="center">[![Next Step](/images/covers/arrival.png "Next Step")](https://www.wattpad.com/827537284-arrival-next-step)</div>
+<div class="center">
+
+[![Next Step](/images/covers/arrival.png "Next Step")](https://www.wattpad.com/827537284-arrival-next-step)
+
+</div>
 
 “What happened to finishing the train tracks later today?” Marcus demanded as he slammed Nathaniel’s door.
 
@@ -33,4 +37,10 @@ Nathaniel worked his jaw loose and refolded his hands on the desk. “Are you pl
 .
 .
 .
-</div><div class="center">To continue reading the story, click [here](https://www.wattpad.com/827537284-arrival-next-step) to head over to Wattpad.</div>
+</div>
+
+<div class="center">
+
+To continue reading the story, click [here](https://www.wattpad.com/827537284-arrival-next-step) to head over to Wattpad.
+
+</div>

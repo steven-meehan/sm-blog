@@ -17,7 +17,11 @@ A decade and a half after the expedition to Laria, Rylan, Anabelle, and her fath
 
 During the previous fifteen years, the Captain has sought to embed himself into the Tergaran government championing changes to weaken the established party. His latest ploy is to alter the claim that the accident which destroyed the rest of the Larian Federation was a malicious act. Join Rylan and Annabelle as they seek a to deal with the thorn in their side.
 
-<div class="center">[![Old Debts](/images/covers/mounting-tensions.png "Old Debts")](https://www.wattpad.com/906318400-mounting-tensions-old-debts)</div>
+<div class="center">
+
+[![Old Debts](/images/covers/mounting-tensions.png "Old Debts")](https://www.wattpad.com/906318400-mounting-tensions-old-debts)
+
+</div>
 
 Rylan lifted a stylus from his desk and spun to face the window on his right. The piece of plastic twirled between his fingers as he stared out the glass, taking in the magnificent view. The framed forest swayed while rays of sunlight poked through the canopy.
 
@@ -35,4 +39,10 @@ With a snort, Annabelle walked behind Rylan and started rubbing his neck, while 
 .
 .
 .
-</div><div>To continue reading the story, click [here](https://www.wattpad.com/906318400-mounting-tensions-old-debts) to head over to Wattpad.</div>
+</div>
+
+<div>
+
+To continue reading the story, click [here](https://www.wattpad.com/906318400-mounting-tensions-old-debts) to head over to Wattpad.
+
+</div>

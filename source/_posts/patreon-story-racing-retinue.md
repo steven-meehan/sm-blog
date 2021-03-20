@@ -17,4 +17,8 @@ In addition to the Patreon only stories that I publish, with this tier, you also
 
 ***Stewart, Marty, and Vera are backpacking through a ravine and presented with a race to fund their future. Which friend will win the prize…***
 
-<div class="center margin-bump-top">[![Racing Retinue](/images/patreon-flash-fiction/racing-retinue.png "Racing Retinue")](https://www.patreon.com/posts/29552399)</div>
+<div class="center margin-bump-top">
+
+[![Racing Retinue](/images/patreon-flash-fiction/racing-retinue.png "Racing Retinue")](https://www.patreon.com/posts/29552399)
+
+</div>

@@ -13,7 +13,13 @@ showKofiSuport: false
 
 Let's roll back the clock ten years ago, it's 2008, and _Iron Man_ was coming around to theaters.  No one outside of Kevin Feige's inner circle truly knew what he was planning or even if they did no one would have thought he would succeed.  He has been spending the last decade orchestrating the production of comic book movies all that share the same universe.  This connection has genuinely led to wonderful crossovers like _The Avengers_ films or even a mini _Avengers_ film like _Captain America: Civil War_.<!-- more -->  So what is so special about the Marvel Cinematic Universe (MCU) that Kevin Feige has helped to forge?
 
-<div class="embedded-image-left">![MCU Logo](./Marvel_Cinematic_Universe.png)</div>Marvel Studios has done something unique in Hollywood, they looked at the various characters whose movie rights they still held, and they started a connected universe.  _Iron man_ was the first cornerstone the studio would lay down, and with it, they took their first chance.  They needed the movie to be a success right from the first weekend to the DVD sales.  It was a fantastic movie, and the people in the audience had no clue what was really happening in the universe founded by _Iron Man_.  That is right up till the included scene that rolled after the credits.
+<div class="embedded-image-left">
+
+![MCU Logo](./Marvel_Cinematic_Universe.png)
+
+</div>
+
+Marvel Studios has done something unique in Hollywood, they looked at the various characters whose movie rights they still held, and they started a connected universe.  _Iron man_ was the first cornerstone the studio would lay down, and with it, they took their first chance.  They needed the movie to be a success right from the first weekend to the DVD sales.  It was a fantastic movie, and the people in the audience had no clue what was really happening in the universe founded by _Iron Man_.  That is right up till the included scene that rolled after the credits.
 
 Since this was their first movie, it was such a brilliant thing to do, but after the last credit rolled the audience that had for some reason decided to wait were greeted with Nick Fury addressing Tony Stark.  And anyone who knew anything about Marvel's comic books knew what they were talking about instantly and just as immediately they went from slightly interested to over the moon with excitement.  We were teased with a plan that would be years in the making, Marvel Studios was planning on bringing the Avengers to the big screen.
 

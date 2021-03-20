@@ -11,7 +11,13 @@ date: 2018-08-13 20:57:54
 showKofiSuport: false
 ---
 
-The first question to ask yourself for this new historical series is, "What would the Napoleonic Wars have looked like if dragons existed?"  I have loved dragons ever since I started encountering them in literature and tv shows.  There is something about the fantastical creatures that are absolutely amazing and captivating.  And the premise that Naomi Novik wove into this series is precisely what drew me to read [_His Majesty's Dragon_](https://www.amazon.com/gp/product/0345481283/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0345481283&linkCode=as2&tag=mysite009e-20&linkId=6cde67a6da69a9478c278e46771011bc), the first book in the Temeraire series.<!-- more --><div class="embedded-image-left">![](./his-majestys-dragon.jpg)</div>
+The first question to ask yourself for this new historical series is, "What would the Napoleonic Wars have looked like if dragons existed?"  I have loved dragons ever since I started encountering them in literature and tv shows.  There is something about the fantastical creatures that are absolutely amazing and captivating.  And the premise that Naomi Novik wove into this series is precisely what drew me to read [_His Majesty's Dragon_](https://www.amazon.com/gp/product/0345481283/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0345481283&linkCode=as2&tag=mysite009e-20&linkId=6cde67a6da69a9478c278e46771011bc), the first book in the Temeraire series.<!-- more -->
+
+<div class="embedded-image-left">
+
+![His Majesty's Dragon](./his-majestys-dragon.jpg)
+
+</div>
 
 Despite promising to center around the aerial corp of the Brittish Empire, the book begins at sea aboard a British ship the Reliant and a French ship the Amitie after a skirmish in which the Reliant prevails.  One of the spoils of war is a dragon egg. Usually, this is something a crew would cheer over, however, this egg is about to hatch.  Something that will not only bring them less reward but also would require one of the crew to sacrifice their naval career to become an aviator.
 

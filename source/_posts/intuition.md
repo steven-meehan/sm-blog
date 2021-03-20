@@ -17,7 +17,11 @@ But when I sat down to work on this piece of flash fiction, I must have been cha
 
 Two detectives arrive at a jewelry store, but after making unrelated inquiries, the newest detective is ejected from the crime scene…
 
-<div class="center">[![Intuition](/images/patreon-flash-fiction/2020/intuition.png "Intuition")](https://www.patreon.com/posts/44418466)</div>
+<div class="center">
+
+[![Intuition](/images/patreon-flash-fiction/2020/intuition.png "Intuition")](https://www.patreon.com/posts/44418466)
+
+</div>
 
 Denis watched his partner walk into the jewelry store. But instead of following him, the young investigator backed up a couple of steps and peered into the neighboring establishment. Denis pulled his notebook and pencil from his jacket and bounced the tip against the cover. He sucked his lips into his mouth and shook his head as he sauntered away from the pawn store’s entrance.  He slipped into Jackson’s storefront and meandered down the shared wall.
 
@@ -35,4 +39,10 @@ Dennis nodded and walked out of the store. He took a deep breath and glared at h
 .
 .
 .
-</div><div>To continue reading head over to my [Patreon page](https://www.patreon.com/posts/44418466) and become a patron, $2 a month will give you access to this and other flash fiction stories.</div>
+</div>
+
+<div>
+
+To continue reading head over to my [Patreon page](https://www.patreon.com/posts/44418466) and become a patron, $2 a month will give you access to this and other flash fiction stories.
+
+</div>

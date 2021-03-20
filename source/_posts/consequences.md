@@ -15,7 +15,11 @@ With [Choices](/archives/2020/07/28/choices) and [Check Up](/archives/2020/07/30
 
 After a little thought, I realized that [Mounting Tensions](https://www.wattpad.com/story/229837636-mounting-tensions) offered me a perfect place to insert this brief story. Decision made, the story flooded into my mind and my fingers worked furiously to capture the broad outline that was spilling out from my mind. Thankfully, my fingers proved up to the task, and the narrative took hold and blossomed into a full first draft. With a little more time, I completed the story of two friends dealing with the hardship of a world where three quarters of the population has been forcibly resettled to other planets. Grab a chair, get comfortable, and explore these two friends, discuss their current events as they search for a meal.
 
-<div class="center">[![Consequences](/images/patreon-flash-fiction/2020/consequences.png "Consequences")](https://www.patreon.com/posts/39948293)</div>
+<div class="center">
+
+[![Consequences](/images/patreon-flash-fiction/2020/consequences.png "Consequences")](https://www.patreon.com/posts/39948293)
+
+</div>
 
 “Have you gotten your stimulus deposit?”
 
@@ -33,4 +37,10 @@ Wilson lifted a finger and twirled it over his head as he slumped into his chair
 .
 .
 .
-</div><div>To continue reading head over to my [Patreon page](https://www.patreon.com/posts/39948293) and become a patron, $2 a month will give you access to this and other flash fiction stories.</div>
+</div>
+
+<div>
+
+To continue reading head over to my [Patreon page](https://www.patreon.com/posts/39948293) and become a patron, $2 a month will give you access to this and other flash fiction stories.
+
+</div>

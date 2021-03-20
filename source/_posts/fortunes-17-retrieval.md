@@ -12,7 +12,11 @@ showKofiSuport: true
 
 With the Captain curtailing the rights of his crew, Rylan searches for a way to keep his team safe. He reaches back to his roots as a technician, and attempts to retrieve the information from the salvaged data assembly. And because he refuses to diminish their ultimate survival, he keeps most of his decisions from his lieutenants.<!-- more --> Will he be able to recover the data from the assembly? Will his people turn on him because of his desire to protect his secrets?
 
-<div class="center">[![Retrieval](/images/covers/fortunes.png "Retrieval")](https://www.wattpad.com/833091533-fortunes-retrieval)</div>
+<div class="center">
+
+[![Retrieval](/images/covers/fortunes.png "Retrieval")](https://www.wattpad.com/833091533-fortunes-retrieval)
+
+</div>
 
 While Rylan’s fingers flew across the shuttle’s console, a loud clang rang out from behind him. He jumped up and whipped his head around, catching sight of Darvan. With a sigh, the technician wiped his brow. “Did you have to drop that?”
 
@@ -32,4 +36,10 @@ When the door slid shut, Rylan rose, and headed over to the equipment Darvan dep
 .
 .
 .
-</div><div class="center">[Click here](https://www.wattpad.com/833091533-fortunes-retrieval) to continue on Wattpad</div>
+</div>
+
+<div class="center">
+
+[Click here](https://www.wattpad.com/833091533-fortunes-retrieval) to continue on Wattpad
+
+</div>

@@ -19,7 +19,11 @@ With the story finished, I needed a title. And as I thought about it, my mind la
 
 A local company hires Insight Investigations to assist the police in apprehending a thief that broke into one of their laboratories…
 
-<div class="center">[![Insight's Dual](/images/patreon-flash-fiction/2021/insights-dual.png "Insight's Dual")](https://www.patreon.com/posts/47651715)</div>
+<div class="center">
+
+[![Insight's Dual](/images/patreon-flash-fiction/2021/insights-dual.png "Insight's Dual")](https://www.patreon.com/posts/47651715)
+
+</div>
 
 “Get this door open!”
 
@@ -37,4 +41,10 @@ Kyle shook his head and pulled a radio to his lips, “What’s the status of th
 .
 .
 .
-</div><div>To continue reading head over to my [Patreon page](https://www.patreon.com/posts/47651715) and become a patron, $2 a month will give you access to this and other flash fiction stories.</div>
+</div>
+
+<div>
+
+To continue reading head over to my [Patreon page](https://www.patreon.com/posts/47651715) and become a patron, $2 a month will give you access to this and other flash fiction stories.
+
+</div>

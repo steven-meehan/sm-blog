@@ -15,7 +15,11 @@ Journey of Thanks centers about a note giving Tully an insight into the lasting 
 
 Lamar’s ghost awakens in the middle of a suburb with a note attached to his palm. After several failed escapes, he headed for the address…
 
-<div class="center">[![Message](/images/patreon-flash-fiction/2020/message.png "Message")](https://www.patreon.com/posts/42094842)</div>
+<div class="center">
+
+[![Message](/images/patreon-flash-fiction/2020/message.png "Message")](https://www.patreon.com/posts/42094842)
+
+</div>
 
 Lamar rolled his wrist and stared at the note attached to his palm. With a huff, he clenched his fist and swung at the building’s wall. But his immaterial fingers passed through the brick and mortar. Without the expected resistance, Lamar tumbled into the two-story structure. As his face hurtled for the floor, he twisted his body into a roll. As Lamar came to his feet, he brushed his hands through his legs, swallowing a curse. While taking a calming breath, Lamar shoved his head through the wall and traced the numbers next to the entrance.
 
@@ -33,4 +37,10 @@ Lamar crept to the nearest chair and touched its back, but his fingertips passed
 .
 .
 .
-</div><div>To continue reading head over to my [Patreon page](https://www.patreon.com/posts/42094842) and become a patron, $2 a month will give you access to this and other flash fiction stories.</div>
+</div>
+
+<div>
+
+To continue reading head over to my [Patreon page](https://www.patreon.com/posts/42094842) and become a patron, $2 a month will give you access to this and other flash fiction stories.
+
+</div>

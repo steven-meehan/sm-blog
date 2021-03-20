@@ -14,4 +14,8 @@ My second Patreon exclusive story for October is a crime caper, which means Jess
 
 Jessica's current employer requires her to steal from other criminals. Though she doesn't understand why she needs to hit the count room...
 
-<div class="center">[![Spiked Drinks](/images/patreon-flash-fiction/spiked-drinks.png "Spiked Drinks")](https://www.patreon.com/posts/30989546)</div>
+<div class="center">
+
+[![Spiked Drinks](/images/patreon-flash-fiction/spiked-drinks.png "Spiked Drinks")](https://www.patreon.com/posts/30989546)
+
+</div>

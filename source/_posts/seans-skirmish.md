@@ -14,4 +14,8 @@ My first Patreon exclusive story for October is an Action-Adventure tale. To hel
 
 Sean is beaten, bruised, and bleeding. Each step inflicts him with agonizing pain and fatigue. Can he evade his pursuer, or will he succumb?
 
-<div class="center">[![Sean's Skirmish](/images/patreon-flash-fiction/seans-skirmish.png "Sean's Skirmish")](https://www.patreon.com/posts/30945465)</div>
+<div class="center">
+
+[![Sean's Skirmish](/images/patreon-flash-fiction/seans-skirmish.png "Sean's Skirmish")](https://www.patreon.com/posts/30945465)
+
+</div>

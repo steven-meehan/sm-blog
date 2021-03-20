@@ -12,7 +12,11 @@ showKofiSuport: true
 
 With both teams back on the boat, the Captain plots a course back home. The entire crew is somber with the destruction of everything they have ever known. While some members can cope with this enormous loss, others become ill-mannered with short tempers.<!-- more --> Will hostilities between the crew taper off? Or will the tempers flare and result in a riot between the factions?
 
-<div class="center">[![Briefing](/images/covers/fortunes.png "Briefing")](https://www.wattpad.com/822505972-fortunes-fracturing)</div>
+<div class="center">
+
+[![Briefing](/images/covers/fortunes.png "Briefing")](https://www.wattpad.com/822505972-fortunes-fracturing)
+
+</div>
 
 “What’s gotten into Cederic?” Annabelle asked.
 
@@ -38,4 +42,10 @@ Rylan ran his fingers through his hair and sighed, “I guess not.”
 .
 .
 .
-</div><div class="center">[Click here](https://www.wattpad.com/822505972-fortunes-fracturing) to continue on Wattpad</div>
+</div>
+
+<div class="center">
+
+[Click here](https://www.wattpad.com/822505972-fortunes-fracturing) to continue on Wattpad
+
+</div>

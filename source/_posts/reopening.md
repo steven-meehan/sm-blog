@@ -16,7 +16,11 @@ Come around, and I’ll tell you the story of a pair of friends, one thrilled to
 
 When their governor lifts the lockdown, Stacey drags Lucile to a newly opened museum. Will they be fine, or will they catch the bug…
 
-<div class="center">[![Reopening](/images/patreon-flash-fiction/2020/reopening.png "Reopening")](https://www.patreon.com/posts/36481135)</div>
+<div class="center">
+
+[![Reopening](/images/patreon-flash-fiction/2020/reopening.png "Reopening")](https://www.patreon.com/posts/36481135)
+
+</div>
 
 Lucile lifted her mask over her nose and climbed out of her car. As her door slammed shut, she stared at the unassuming building looming in front of her. Her fingers adjusted the cloth covering her face as she marched toward the structure. When Lucile finished climbing the stairs, she caught sight of her friend, lounging on the bench just to the right of the entrance. “Stacey, why are we going to a wax museum?”
 
@@ -32,4 +36,10 @@ With a fierce sigh, Lucile slammed her hands against her thighs. “We’re in t
 .
 .
 .
-</div><div>To continue reading head over to my Patreon page and become a patron, $2 a month will give you access to this and other flash fiction stories.</div>
+</div>
+
+<div>
+
+To continue reading head over to my Patreon [page](https://www.patreon.com/posts/36481135) and become a patron, $2 a month will give you access to this and other flash fiction stories.
+
+</div>

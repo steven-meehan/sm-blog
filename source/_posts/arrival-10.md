@@ -11,7 +11,11 @@ showKofiSuport: true
 
 While Marcus waits for the completion of the tracks to the Western Region, he assists Talia in teaching the other farmers of the Eastern Region how to breed their animals. Over the course of a year, most of their neighbors have embraced the challenge and are delivering animals to the Northern, Southern, and Central Regions. One day while Talia is working with their animals, she doubles over and Marcus rushes her to the Central Region’s hospital via train.<!-- more --> Join Marcus in his long wait over his wife’s health. Will the news the doctors deliver be good?
 
-<div class="center">[![Long Night](/images/covers/arrival.png "Long Night")](https://www.wattpad.com/848346346-arrival-long-night)</div>
+<div class="center">
+
+[![Long Night](/images/covers/arrival.png "Long Night")](https://www.wattpad.com/848346346-arrival-long-night)
+
+</div>
 
 “What’s going on?” Marcus asked as his fingers traced the door.
 
@@ -33,4 +37,10 @@ Nathaniel eased across from his friend and wrung his hands. “We’ve already s
 .
 .
 .
-</div><div class="center">To continue reading the story, click [here](https://www.wattpad.com/848346346-arrival-long-night) to head over to Wattpad.</div>
+</div>
+
+<div class="center">
+
+To continue reading the story, click [here](https://www.wattpad.com/848346346-arrival-long-night) to head over to Wattpad.
+
+</div>

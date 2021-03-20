@@ -12,4 +12,8 @@ showKofiSuport: false
 
 My first Patreon story for the month is a Ghost Story. It focuses on Leonard and his journey to move on...<!-- more -->
 
-<div class="center">[![Grudge](/images/patreon-flash-fiction/grudge.png "Grudge")](https://www.patreon.com/posts/29909034)</div>
+<div class="center">
+
+[![Grudge](/images/patreon-flash-fiction/grudge.png "Grudge")](https://www.patreon.com/posts/29909034)
+
+</div>

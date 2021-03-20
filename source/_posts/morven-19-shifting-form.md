@@ -12,7 +12,11 @@ showKofiSuport: true
 
 With the live shapeshifter, Caleb captured, the scientists endeavor to perfect the serum they equipped gave Caleb. While they continually tell Tarian they are on the brink of a discovery, the settlement’s leader grows unsatisfied with their progress. He makes almost daily trips to discover their status. On one occasion, Keldon tries to stop him from distracting the scientists.<!-- more --> Will Keldon give the scientists their reprieve from Tarian’s constant interruptions? Or will they provide him the answers he’s looking for?
 
-<div class="center">[![Shifting Form](/images/covers/colonization.png "Shifting Form")](https://www.wattpad.com/864559877-colonization-shifting-form)</div>
+<div class="center">
+
+[![Shifting Form](/images/covers/colonization.png "Shifting Form")](https://www.wattpad.com/864559877-colonization-shifting-form)
+
+</div>
 
 Keldon grabbed Tarian’s shoulder and spun him around. In the blink of an eye, Tarian closed the distance with his friend and shoved him into the wall. Keldon’s brow furrowed as he took in a deep breath and rammed his finger into Tarian’s chest. “Tarian, you can’t keep bothering the scientists.”
 
@@ -30,4 +34,10 @@ Tarian’s face scrunched as he stared into the sky as his hand gripped the door
 .
 .
 .
-</div><div class="center">To continue reading the story, click [here](https://www.wattpad.com/864559877-colonization-shifting-form) to head over to Wattpad.</div>
+</div>
+
+<div class="center">
+
+To continue reading the story, click [here](https://www.wattpad.com/864559877-colonization-shifting-form) to head over to Wattpad.
+
+</div>

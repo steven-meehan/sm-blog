@@ -16,13 +16,19 @@ With a full prompt, I started trying to put pieces together. Over the weekend, I
 
 A little girl clutches her mother's hand, frightened by the familial strangers. Will all these mysterious individuals be friendly...
 
-<div class="center">[![Encroaching Shadow](/images/patreon-flash-fiction/2020/encroaching-shadow.png "Encroaching Shadow")](https://www.patreon.com/posts/34180424)</div>
+<div class="center">
+
+[![Encroaching Shadow](/images/patreon-flash-fiction/2020/encroaching-shadow.png "Encroaching Shadow")](https://www.patreon.com/posts/34180424)
+
+</div>
 
 Once upon a time, a little girl clutched her mother’s hand as they headed for a campsite. With a sniffle, the little girl pointed at the nearby throng and whined, “I don’t want to go.”
 
 Her mother turned and kneeled in front of her and brushed some locks of hair away from her eyes. She offered the child a wan smile and pulled her into a hug, whispering, “What’s wrong, darling?”
 
-The dutiful daughter buried her face into her mom’s shoulder. “I’m scared something bad will happen if I talk with strangers, and I don’t know anyone.”<div class="center">
+The dutiful daughter buried her face into her mom’s shoulder. “I’m scared something bad will happen if I talk with strangers, and I don’t know anyone.”
+
+<div class="center story-ellipses">
 .
 .
 .

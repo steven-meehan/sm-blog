@@ -13,7 +13,11 @@ Ever since I came upon Raymond Mullikin's Kickstarter for [Jonathin Quackup: Iss
 
 As I took in the images I was confused by the initial panels, based upon the campaign, and ignoring the cover, I was not expecting to see the main character dressed as the wanderer he would eventually become.<!-- more -->  I was expecting to see the pure origin of the titular character, which did unfold right after that brief introduction.  Before I get too far into the story, let me talk about the quality of the artwork in this tome.  The art is very clean and crisp capturing the reader's attention pulling the eyes away from the words.  In fact the comics first full page panel epitomizes, this effect.
 
-<div class="embedded-image-left">![](./jonathin-quackup-issue-1.png)</div>
+<div class="embedded-image-left">
+
+![Jonathin Quackup, Issue 1](./jonathin-quackup-issue-1.png)
+
+</div>
 
 This panel not only starts the origin of Jonathin but each time I see the image my eyes are immediately drawn to Jonathin's face.  Each and every time as I widen what I’m looking at taking in the more of the image.  The next part of the page my eyes latch upon is the sun, partially blocked by clouds.  Then my eyes drift down to the trees that appear to be caught in motion from a gust of wind.  The last thing my eyes take in is the other character twirling a sling and the animals that the pair is guarding.  The picture is crisp and tells a story without my eyes drifting to it’s accompanying text.
 

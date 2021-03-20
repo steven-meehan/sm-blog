@@ -16,7 +16,11 @@ I’m taking a little liberty with the location aspect of the prompt, shifting t
 
 Jessie comes to a local aquarium in the hopes of freeing someone important to him. Unfortunately, it requires him to betray someone else…
 
-<div class="center">[![Burnout](/images/patreon-flash-fiction/2020/burnout.png "Burnout")](https://www.patreon.com/posts/45229608)</div>
+<div class="center">
+
+[![Burnout](/images/patreon-flash-fiction/2020/burnout.png "Burnout")](https://www.patreon.com/posts/45229608)
+
+</div>
 
 When the car rolled to a stop alongside the curb, Jessie threw the vehicle into park and withdrew the key. Jessie’s fingers rubbed the stubble lining his chin as his gaze drifted from the aquarium’s sign to the people meandering about the abandoned lot. He tapped a finger against the steering wheel as he pulled himself out and strolled to the trunk.
 
@@ -34,4 +38,10 @@ Jessie shoved the barrel of a gun into Christian’s back as his mouth curled in
 .
 .
 .
-</div><div>To continue reading head over to my [Patreon page](https://www.patreon.com/posts/45229608) and become a patron, $2 a month will give you access to this and other flash fiction stories.</div>
+</div>
+
+<div>
+
+To continue reading head over to my [Patreon page](https://www.patreon.com/posts/45229608) and become a patron, $2 a month will give you access to this and other flash fiction stories.
+
+</div>

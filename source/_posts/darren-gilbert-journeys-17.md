@@ -14,7 +14,11 @@ I hope everyone has a Happy Thanksgiving! November is a magical month. Besides c
 
 In the last installment of Darren’s Journey, we saw our young wizard in training playing a game with his classmates Maxwell and Norry. While the three friends played, the arrogant and annoying Wayne barged into their game and stirred the pot. Come delve into the aftermath of Wayne’s bombastic interruption.
 
-<div class="center">[![Transfers](/images/covers/darrengilbert.png "Transfers")](https://www.wattpad.com/986832256-darren-gilbert-journeys-transfers)</div>
+<div class="center">
+
+[![Transfers](/images/covers/darrengilbert.png "Transfers")](https://www.wattpad.com/986832256-darren-gilbert-journeys-transfers)
+
+</div>
 
 As Darren climbed the stairs, he stretched his neck and rubbed his biceps. When he got to his floor, Darren sauntered to his door, pulling it open. He tossed his bag beside the bunk and collapsed face-first into the mattress while pulling a sheet over his head. “How was your day, Maxwell?”
 
@@ -32,4 +36,10 @@ An eyebrow climbed Maxwell’s face as he shook his head. “Life isn’t as dra
 .
 .
 .
-</div><div>To continue reading the story, click [here](https://www.wattpad.com/986832256-darren-gilbert-journeys-transfers) to head over to Wattpad.</div>
+</div>
+
+<div>
+
+To continue reading the story, click [here](https://www.wattpad.com/986832256-darren-gilbert-journeys-transfers) to head over to Wattpad.
+
+</div>

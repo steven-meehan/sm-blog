@@ -17,7 +17,11 @@ While [Colonization](https://www.wattpad.com/story/194933430-colonization) is ul
 
 Unlike the events of [Landing on Morven](/archives/2018/09/04/morven-01-landing), the ship in [Awaiting Confirmation](/archives/2020/10/14/discovery-01) experiences no turbulence as it enters the planet’s atmosphere. The ship’s command crew locate the previous colonization ship and set a course to land on the planet. The moment the vessel lands, Jarvis assumes command of the expedition, and the crew disembarks and begins cataloging the wonders of the unknown world.
 
-<div class="center">[![Assignments](/images/covers/discovery.png "Assignments")](https://www.wattpad.com/986794754-discovery-assignments)</div>
+<div class="center">
+
+[![Assignments](/images/covers/discovery.png "Assignments")](https://www.wattpad.com/986794754-discovery-assignments)
+
+</div>
 
 “That was one of the best landings I’ve ever had,” Dyrk said as he powered down the ship. He unbuckled and stretched his arms over his head. “After establishing base camp, what do you expect Jarvis’s first course of action will be?”
 
@@ -35,4 +39,10 @@ The responding silence died with a curse from Jarvis, “In what special world i
 .
 .
 .
-</div><div>To continue reading the story, click [here](https://www.wattpad.com/986794754-discovery-assignments) to head over to Wattpad.</div>
+</div>
+
+<div>
+
+To continue reading the story, click [here](https://www.wattpad.com/986794754-discovery-assignments) to head over to Wattpad.
+
+</div>

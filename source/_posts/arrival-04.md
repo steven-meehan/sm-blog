@@ -11,4 +11,9 @@ showKofiSuport: true
 ---
 
 The survivors of the Novus have started to turn things around.  While Marcus and Nathaniel are waiting for Talia, Nathaniel helps to sooth Marcus's nerves by talking about the status of the five regions.<!-- more -->
-<div class="center">[![Beginnings](/images/covers/arrival.png "Beginnings")](https://www.wattpad.com/765533740-arrival-beginnings)</div>
+
+<div class="center">
+
+[![Beginnings](/images/covers/arrival.png "Beginnings")](https://www.wattpad.com/765533740-arrival-beginnings)
+
+</div>

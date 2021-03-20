@@ -12,7 +12,11 @@ date: 2020-08-17 20:15:31
 
 After an exhausting day in the Academy, the Leodor gifted all the students with a free night. Maxwell and Darren seized the opportunity and race into the city for a good meal and an enjoyable evening. Unfortunately for them, Wayne insisted on joining them despite their pleas for him to leave them alone.<!-- more --> Will Wayne relent and leave them alone to enjoy their night off? Or will Wayne upend their night out on the town?
 
-<div class="center">[![Night Off](/images/covers/darrengilbert.png "Night Off")](https://www.wattpad.com/938598028-darren-gilbert-journeys-night-off)</div>
+<div class="center">
+
+[![Night Off](/images/covers/darrengilbert.png "Night Off")](https://www.wattpad.com/938598028-darren-gilbert-journeys-night-off)
+
+</div>
 
 Wayne blocked his nose with a finger as he passed by an alley. “There can’t be a valid reason to be roaming this part of the city?”
 
@@ -30,4 +34,10 @@ With smoldering eyes, Maxwell stepped in front of Wayne.
 .
 .
 .
-</div><div>To continue reading the story, click [here](https://www.wattpad.com/938598028-darren-gilbert-journeys-night-off) to head over to Wattpad.</div>
+</div>
+
+<div>
+
+To continue reading the story, click [here](https://www.wattpad.com/938598028-darren-gilbert-journeys-night-off) to head over to Wattpad.
+
+</div>

@@ -16,7 +16,11 @@ A lot of the headlines were talking about how most states were in some kind of p
 
 Having endured a trial, Kathy is in search of a pleasurable night out, but when she enters a karaoke bar, she’s met with hostility…
 
-<div class="center">[![Encore](/images/patreon-flash-fiction/2020/encore.jpg "Encore")](https://www.patreon.com/posts/37647768)</div>
+<div class="center">
+
+[![Encore](/images/patreon-flash-fiction/2020/encore.jpg "Encore")](https://www.patreon.com/posts/37647768)
+
+</div>
 
 Kathy slipped through the entrance and watched three sets of eyes latch onto her. Her hand flew to her mouth as she dashed to the bar and tapped on the counter. “What’s available to drink here?”
 
@@ -36,4 +40,10 @@ The bartender opened the refrigerator and collected the requested beverages. He 
 .
 .
 .
-</div><div>To continue reading head over to my Patreon page and become a patron, $2 a month will give you access to this and other flash fiction stories.</div>
+</div>
+
+<div>
+
+To continue reading head over to my Patreon page and become a patron, $2 a month will give you access to this and other flash fiction stories.
+
+</div>

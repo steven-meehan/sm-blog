@@ -12,7 +12,11 @@ showKofiSuport: true
 
 Darren rubs his splinted arm as he pulls his assignment from his bag. He remembers the duel that caused the injury, and he groans at the sudden pain that lances up his forearm. When the stack of papers appear on the right side of his head, Darren collects them and adds his sheet to the pile. He hands them to the student in front of him and wonders if Imryll could assist him in improving his defenses.<!-- more --> Will Imryll give him extra help with defensive magic? Or will she turn him away and let him flounder with defensive magic?
 
-<div class="center">[![Extra Help](/images/covers/darrengilbert.png "Extra Help")](https://www.wattpad.com/848459591-darren-gilbert-journeys-extra-help)</div>
+<div class="center">
+
+[![Extra Help](/images/covers/darrengilbert.png "Extra Help")](https://www.wattpad.com/848459591-darren-gilbert-journeys-extra-help)
+
+</div>
 
 Imryll sat down and reached for the pile of papers. She claimed the first sheet and scanned the document. With a sigh, she dropped the paper and stared at her students. “Well, I think that’s enough for today, go enjoy yourselves before your next class.”
 
@@ -32,4 +36,10 @@ With a grin, Darren patted Maxwell. “You got to do everything in your ability 
 .
 .
 .
-</div><div class="center">[Click here](https://www.wattpad.com/848459591-darren-gilbert-journeys-extra-help) to continue on Wattpad</div>
+</div>
+
+<div class="center">
+
+[Click here](https://www.wattpad.com/848459591-darren-gilbert-journeys-extra-help) to continue on Wattpad
+
+</div>

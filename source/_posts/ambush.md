@@ -21,11 +21,19 @@ Take a few moments and study snatti89’s illustration below. The bare trees and
 
 Find a comfortable place to sit down and click on the cover image to travel to Patreon to read the tale of friends marching towards danger.
 
-<div class="center">[![Ambush](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ae2fa3ca-0851-4f3c-b276-0c5b7412e428/da9fbus-8f7894c8-7039-440f-ac9b-9ad4c9845c08.png/v1/fill/w_1024,h_632,q_80,strp/348_365_the_ritual_by_snatti89_da9fbus-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD02MzIiLCJwYXRoIjoiXC9mXC9hZTJmYTNjYS0wODUxLTRmM2MtYjI3Ni0wYzViNzQxMmU0MjhcL2RhOWZidXMtOGY3ODk0YzgtNzAzOS00NDBmLWFjOWItOWFkNGM5ODQ1YzA4LnBuZyIsIndpZHRoIjoiPD0xMDI0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.8O51SyKn-qkL5PPkQTI3DLj4MyNDZjYJ9CJIKbEevdI "348/365 The Ritual By snatti89")](https://www.deviantart.com/snatti89/art/348-365-The-Ritual-620493508)</div>
+<div class="center">
+
+[![Ambush](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ae2fa3ca-0851-4f3c-b276-0c5b7412e428/da9fbus-8f7894c8-7039-440f-ac9b-9ad4c9845c08.png/v1/fill/w_1024,h_632,q_80,strp/348_365_the_ritual_by_snatti89_da9fbus-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD02MzIiLCJwYXRoIjoiXC9mXC9hZTJmYTNjYS0wODUxLTRmM2MtYjI3Ni0wYzViNzQxMmU0MjhcL2RhOWZidXMtOGY3ODk0YzgtNzAzOS00NDBmLWFjOWItOWFkNGM5ODQ1YzA4LnBuZyIsIndpZHRoIjoiPD0xMDI0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.8O51SyKn-qkL5PPkQTI3DLj4MyNDZjYJ9CJIKbEevdI "348/365 The Ritual By snatti89")](https://www.deviantart.com/snatti89/art/348-365-The-Ritual-620493508)
+
+</div>
 
 A small group of friends are wandering through a forest. During their walk some go missing. Will any of them escape the impending doom...
 
-<div class="center">[![Ambush](/images/patreon-flash-fiction/2020/ambush.png "Ambush")](https://www.patreon.com/posts/38453610)</div>
+<div class="center">
+
+[![Ambush](/images/patreon-flash-fiction/2020/ambush.png "Ambush")](https://www.patreon.com/posts/38453610)
+
+</div>
 
 Jillian rested against a lifeless tree and pulled her canteen from her hip. She guzzled the water inside and leaned her hair against the rough bark. “Can anyone tell me why we took this stupid hike?” She shoved her bottle onto her belt and pushed against the trunk supporting her. “I mean, we had plenty of options available to us in the city. Please explain the decision to head into the middle of nowhere!”
 
@@ -43,4 +51,10 @@ Norna pulled the canteen from Jillian’s belt and sighed. “I am unsure how mu
 .
 .
 .
-</div><div>To continue reading head over to my [Patreon page](https://www.patreon.com/posts/38453610) and become a patron, $2 a month will give you access to this and other flash fiction stories.</div>
+</div>
+
+<div>
+
+To continue reading head over to my [Patreon page](https://www.patreon.com/posts/38453610) and become a patron, $2 a month will give you access to this and other flash fiction stories.
+
+</div>

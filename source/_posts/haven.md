@@ -16,7 +16,11 @@ With the rough idea in mind, I dropped myself into a comfortable chair and watch
 
 Follow Roland as he searches for Darren’s home in the middle of a forest. Once located, Roland tries to drag Darren out of his isolation…
 
-<div class="center">[![Haven](/images/patreon-flash-fiction/2020/haven.png "Haven")](https://www.patreon.com/posts/45659517)</div>
+<div class="center">
+
+[![Haven](/images/patreon-flash-fiction/2020/haven.png "Haven")](https://www.patreon.com/posts/45659517)
+
+</div>
 
 Roland stormed through the forest, his scowl deepening as he punched a tree. He sucked his lips into his mouth and pounded his fist against the rough bark, “Darren, where are you? And why can’t you live in the city?!” As Roland’s words echoed throughout the trees, he stalked to another one. “Ditch the wilderness and find someplace sensible to call home!”
 
@@ -34,4 +38,10 @@ Darren stepped aside and ushered Roland into his house, “I’m happy here.”
 .
 .
 .
-</div><div>To continue reading head over to my [Patreon page](https://www.patreon.com/posts/45659517) and become a patron, $2 a month will give you access to this and other flash fiction stories.</div>
+</div>
+
+<div>
+
+To continue reading head over to my [Patreon page](https://www.patreon.com/posts/45659517) and become a patron, $2 a month will give you access to this and other flash fiction stories.
+
+</div>

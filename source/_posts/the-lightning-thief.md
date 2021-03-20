@@ -7,7 +7,13 @@ date: 2018-04-17 22:29:38
 showKofiSuport: false
 ---
 
-Growing up I was always a fan of Greek mythology; and, since Roman mythology is essentially a variation of Greek, I loved it too.  It was not the surviving myths (stories) that addicted me to the subject.  It had been the concept of gods and demigods that seared the topic into my mind.  During my college days, I took a course in {% post_link greek-mythology-part-1 %}.  <!-- more --><div class="embedded-image-right">![The Lightning Thief](./lightning_thief_cover.jpg)</div>In it I was forced to explore the topic through the literature and not just through superficial overviews of the legends. The course turned out to be very enjoyable and I gained a deeper appreciation for the myths.  
+Growing up I was always a fan of Greek mythology; and, since Roman mythology is essentially a variation of Greek, I loved it too.  It was not the surviving myths (stories) that addicted me to the subject.  It had been the concept of gods and demigods that seared the topic into my mind.  During my college days, I took a course in {% post_link greek-mythology-part-1 %}.<!-- more --> In it I was forced to explore the topic through the literature and not just through superficial overviews of the legends. The course turned out to be very enjoyable and I gained a deeper appreciation for the myths.  
+
+<div class="embedded-image-right">
+
+![The Lightning Thief](./lightning_thief_cover.jpg)
+
+</div>
 
 Now with my Greek myth background out of my system, I first read [_The Lightning Thief_](https://www.amazon.com/gp/product/0786838655/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0786838655&linkCode=as2&tag=mysite009e-20&linkId=2fbc70516fcf6200efee06d289e73136) just as the movie was released in 2010.  Instead of catching the movie first, I enjoyed the book.  Now fast forward to the present day. I listened to the story again, though this time with my daughter.  The story is about the Greek gods and their half-blood (demigod) children.  But Rick Riordan does a phenomenal job of bringing Greek mythology into the present day.  So yes the gods do exist, and just like myths of old, they have trouble staying away from the mortals.  So as the base of Western Civilization has moved so did the gods.  
 

@@ -16,4 +16,8 @@ Wading through a past catalog of NYC Midnight’s Flash Fiction Challenges and s
 
 Trevor watches Jasmine walk out of his life, leaving only a sea urchin key chain. After she leaves, Jessie comes to talk with his friend…
 
-<div class="center">[![Lost Chance](/images/patreon-flash-fiction/lost-chance.png "Lost Chance")](https://www.patreon.com/posts/31899677)</div>
+<div class="center">
+
+[![Lost Chance](/images/patreon-flash-fiction/lost-chance.png "Lost Chance")](https://www.patreon.com/posts/31899677)
+
+</div>

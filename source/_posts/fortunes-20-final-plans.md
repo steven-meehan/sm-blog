@@ -14,7 +14,11 @@ As Fortunes comes to a close, I have to stop and examine the journey this tale h
 
 With this last entry in Fortunes, my mind began toying with the next storyline to explore the technician’s world. And I needed a way to both complete this storyline and prepare the next one. Hopefully, I’ve accomplished this balancing act. Join me as I put a pin in this long-running series about loss and discovery.
 
-<div class="center">[![Final Plans](/images/covers/fortunes.png "Final Plans")](https://www.wattpad.com/892267094-fortunes-final-plans)</div>
+<div class="center">
+
+[![Final Plans](/images/covers/fortunes.png "Final Plans")](https://www.wattpad.com/892267094-fortunes-final-plans)
+
+</div>
 
 Rylan parted the curtains and stared out the window. “You could have told me just how powerful your family is.”
 
@@ -34,4 +38,10 @@ Annabelle smirked as her elbow flew into Rylan’s side. “With the crystals yo
 .
 .
 .
-</div><div>To continue reading the story, click [here](https://www.wattpad.com/892267094-fortunes-final-plans) to head over to Wattpad.</div>
+</div>
+
+<div>
+
+To continue reading the story, click [here](https://www.wattpad.com/892267094-fortunes-final-plans) to head over to Wattpad.
+
+</div>

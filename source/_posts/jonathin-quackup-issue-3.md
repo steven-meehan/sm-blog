@@ -9,9 +9,15 @@ date: 2019-02-07 21:32:50
 showKofiSuport: false
 ---
 
-It was time to pull out [Jonathin Quackup, Issue 3](https://www.comixcentral.com/products/jonathin-quackup-of-the-planet-weralt-3/) out and read the book that alerted me to this series.  While this entry brought me to the world of Weralt, it was after reading the first two issues, that I became excited about reading this issue.  So once again I found a nice quiet place and opened up the book and began thumbing through the digital pages soaking in all the artwork.  Just like the previous books the artwork was crisp and clean to the point that I had a rough idea of what the story was without reading any of the text.
+It was time to pull out [Jonathin Quackup, Issue 3](https://www.comixcentral.com/products/jonathin-quackup-of-the-planet-weralt-3/) out and read the book that alerted me to this series.  While this entry brought me to the world of Weralt, it was after reading the first two issues, that I became excited about reading this issue.  So once again I found a nice quiet place and opened up the book and began thumbing through the digital pages soaking in all the artwork.  Just like the previous books the artwork was crisp and clean to the point that I had a rough idea of what the story was without reading any of the text.<!-- more -->
 
-The first page delved into a brief overview of what happened during the previous two books.  And then the story continued into the piece of the story it was dedicated to, Jonathin's travel into the north.<!-- more --><span class="embedded-image-left">![](./jonathin-quackup-issue-3.jpg)</span>  The art does a fantastic job to present a long an arduous travel in a concise number of frames.  It also helps to show that passion that drives our hero.  As before there is a page that truly captured my eye and kept me coming back.  This page was a wonderful example of less being more.  Unfortunately, it was the last page of the issue, so I won't go into too many details the sparse details, pick up the issue [here](https://www.comixcentral.com/products/jonathin-quackup-of-the-planet-weralt-3/).  What that said it was a wonderful use of imagery and text.
+<div class="embedded-image-left">
+
+![Jonathin Quackup, Issue 3](./jonathin-quackup-issue-3.jpg)
+
+</div>
+
+The first page delved into a brief overview of what happened during the previous two books.  And then the story continued into the piece of the story it was dedicated to, Jonathin's travel into the north. The art does a fantastic job to present a long an arduous travel in a concise number of frames.  It also helps to show that passion that drives our hero.  As before there is a page that truly captured my eye and kept me coming back.  This page was a wonderful example of less being more.  Unfortunately, it was the last page of the issue, so I won't go into too many details the sparse details, pick up the issue [here](https://www.comixcentral.com/products/jonathin-quackup-of-the-planet-weralt-3/).  What that said it was a wonderful use of imagery and text.
 
 Once I finished taking in the art, held within my digital tome, I turned my attention to its text.  Before I go any farther, I want to mention that the book ended far too soon, yet it managed to give the most insight into the inner thoughts of our main character.  We received an insight into Jonathin's sheer determination to find his answers and the power of that conviction.  Then when he is faced with an arctic environment, we see his ingenuity as he is able to stay warm, while he got a night's sleep.
 

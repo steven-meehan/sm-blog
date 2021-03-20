@@ -22,4 +22,8 @@ The line is excellent and delivered perfectly, but this can be a significant neg
  
 Overall I enjoyed the book, and it’ll be interesting to see how Orlando Sanchez manages Simon’s immortality in future installments, like [*Full Moon Howl*](https://www.audible.com/pd/Full-Moon-Howl-Audiobook/B07BNSWCT9?pf_rd_p=1bcbcf4a-338d-4f9f-9fb9-7c5b66bf627d&pf_rd_r=DB0X05AX53YA7Y4X0YXG&ref=a_author_Or_c19_lProduct_1_3).
 
-<div class="center">[![Tombyards & Butterflies](./tombyards-butterflies.jpg "Tombyards & Butterflies")](https://www.audible.com/pd/Tombyards-Butterflies-Audiobook/B0797K6BDV?pf_rd_p=6a5ce8e4-798e-4a64-8bc5-71dcf66d673f&pf_rd_r=H5C71EX0QSX48PRCVRRF&ref=a_lib_c4_libItem_B0797K6BDV)</div>
+<div class="center">
+
+[![Tombyards & Butterflies](./tombyards-butterflies.jpg "Tombyards & Butterflies")](https://www.audible.com/pd/Tombyards-Butterflies-Audiobook/B0797K6BDV?pf_rd_p=6a5ce8e4-798e-4a64-8bc5-71dcf66d673f&pf_rd_r=H5C71EX0QSX48PRCVRRF&ref=a_lib_c4_libItem_B0797K6BDV)
+
+</div>

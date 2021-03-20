@@ -16,7 +16,11 @@ With the structure for my story set, I needed some characters to fill it with, a
 
 A bounty hunter heads into Dodge City on his dragon, and heads for the nearest saloon. With his Winchester he barges in seeking his mark…
 
-<div class="center">[![Runaway](/images/patreon-flash-fiction/2021/runaway.png "Runaway")](https://www.patreon.com/posts/47394555)</div>
+<div class="center">
+
+[![Runaway](/images/patreon-flash-fiction/2021/runaway.png "Runaway")](https://www.patreon.com/posts/47394555)
+
+</div>
 
 “Why do they always decide to run?” Samuel squeezed his legs, spurring his dragon to greater speeds. The wind buffeted Samuel as the world beneath him blurred with each stroke of his dragon’s wings. As they neared the river, Samuel rubbed his ride’s rough hide as he inched up her back. He pulled on the reins and pressed a hand against her neck, “Take us down, Pearl.” 
 
@@ -30,4 +34,10 @@ Samuel reached under his shirt and pulled out a charm. He patted it against his 
 .
 .
 .
-</div><div>To continue reading head over to my [Patreon page](https://www.patreon.com/posts/47394555) and become a patron, $2 a month will give you access to this and other flash fiction stories.</div>
+</div>
+
+<div>
+
+To continue reading head over to my [Patreon page](https://www.patreon.com/posts/47394555) and become a patron, $2 a month will give you access to this and other flash fiction stories.
+
+</div>

@@ -16,7 +16,11 @@ Having fixed the inner workings of the story in place, I started working on how 
 
 A child racked with fear about her grandmother’s life runs when she overhears the dire news concerning her grandmother’s health…
 
-<div class="center">[![Golden Hope](/images/patreon-flash-fiction/2020/golden-hope.png "Golden Hope")](https://www.patreon.com/posts/36301092)</div>
+<div class="center">
+
+[![Golden Hope](/images/patreon-flash-fiction/2020/golden-hope.png "Golden Hope")](https://www.patreon.com/posts/36301092)
+
+</div>
 
 A small girl huddled under her grandmother’s bed, her head hanging between her knees. She whimpered as she listened to the doctor’s talking to her mother.
 
@@ -36,4 +40,10 @@ The girl’s shoulders hunched as she tore down the hall and ducked down a corri
 .
 .
 .
-</div><div>To continue reading head over to my Patreon page and become a patron, $2 a month will give you access to this and other flash fiction stories.</div>
+</div>
+
+<div>
+
+To continue reading head over to my Patreon page and become a patron, $2 a month will give you access to this and other flash fiction stories.
+
+</div>

@@ -12,7 +12,11 @@ showKofiSuport: true
 
 Facing a new threat, Tarian dispatches teams to scour the wilderness for the recent peril. Keldon, Engrim, and Caleb are tapped as leaders and they spend every available moment searching for the evasive threat. After weeks of fruitless searching, they believe the initial creature was unique.<!-- more --> Will these hunters find another one of these creatures? Or will they finally discover another one of these doppelgangers?
 
-<div class="center">[![Hunting Shadows](/images/covers/colonization.png "Hunting Shadows")](https://www.wattpad.com/848360783-colonization-hunting-shadows)</div>
+<div class="center">
+
+[![Hunting Shadows](/images/covers/colonization.png "Hunting Shadows")](https://www.wattpad.com/848360783-colonization-hunting-shadows)
+
+</div>
 
 Reaching out, Caleb brushed the damaged branch with his fingers. He dropped to a knee and scrutinized the ground, finding more disturbed undergrowth. He pulled his radio out and switched channels. “Engrim, what’s your team’s position?”
 
@@ -34,4 +38,10 @@ Caleb stowed his radio and waved his team closer. “Something passed by recentl
 .
 .
 .
-</div><div class="center">[Click here](https://www.wattpad.com/848360783-colonization-hunting-shadows) to continue on Wattpad</div>
+</div>
+
+<div class="center">
+
+[Click here](https://www.wattpad.com/848360783-colonization-hunting-shadows) to continue on Wattpad
+
+</div>

@@ -15,4 +15,8 @@ After the conference, Tom Stranger roles into his junior associates’ reviews. 
 
 From there you should assume that Jimmy is the primary source of the book’s humor, and Larry Correia delivers it perfectly. The story quickly splits into two different narratives, one following Jimmy’s journey and the other watching Tom’s investigation of Wendell the Manatee’s kidnapping. Pull out a comfortable chair and pick up the latest entry in the adventures of Tom Stranger, Interdimensional Insurance Agent.
 
-<div class="center">[![Tom Stranger in... A Murder of Manatees](./murder-of-manatees.jpg "Tom Stranger in... A Murder of Manatees")](hhttps://www.audible.com/pd/A-Murder-of-Manatees-Audiobook/B077K4XXKV)</div>
+<div class="center">
+
+[![Tom Stranger in... A Murder of Manatees](./murder-of-manatees.jpg "Tom Stranger in... A Murder of Manatees")](hhttps://www.audible.com/pd/A-Murder-of-Manatees-Audiobook/B077K4XXKV)
+
+</div>

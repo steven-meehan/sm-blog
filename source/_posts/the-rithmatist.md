@@ -6,7 +6,13 @@ categories:
 - [Review]
 showKofiSuport: false
 ---
-There are very few authors that spur me to purchase their books on the day they are released.  One author, well at this point the only author that I will do this for, is Brandon Sanderson.  Whenever I see one of his novels, novellas or short stories I immediately have a strong desire to place my hard earned money into his pocket.  He is a phenomenal author; in every story of his that I have read he manages to place me into the worlds he creates.  <!-- more --><div class="embedded-image-right">![The Rithmatist](./rithmatist.jpg)</div>His characters are always well rounded with a realistic strengths and weaknesses, and [_The Rithmathist_](https://www.amazon.com/gp/product/0765338440/ref=as_li_tl?ie=UTF8&tag=mysite009e-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0765338440&linkId=df14900b9f1781dcc8907052d4dbf013) is no exception.  I purchased the kindle book as soon as I saw that it was available, and then added the professional narration by Michael Kramer.  And instantly I began listening to this newest creation of Sanderson. 
+There are very few authors that spur me to purchase their books on the day they are released.  One author, well at this point the only author that I will do this for, is Brandon Sanderson.  Whenever I see one of his novels, novellas or short stories I immediately have a strong desire to place my hard earned money into his pocket.  He is a phenomenal author; in every story of his that I have read he manages to place me into the worlds he creates.  <!-- more --> His characters are always well rounded with a realistic strengths and weaknesses, and [_The Rithmathist_](https://www.amazon.com/gp/product/0765338440/ref=as_li_tl?ie=UTF8&tag=mysite009e-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0765338440&linkId=df14900b9f1781dcc8907052d4dbf013) is no exception.  I purchased the kindle book as soon as I saw that it was available, and then added the professional narration by Michael Kramer.  And instantly I began listening to this newest creation of Sanderson. 
+
+<div class="embedded-image-right">
+
+![The Rithmatist](./rithmatist.jpg)
+
+</div>
 
 Like all of his previous fantasy work, Sanderson has created an entirely new system of ‘magic’ for this new world.  What would you do if pictures you drew in chalk came to life?  There are a few in this world who gained this ability, they are known as Rithmatists.  It is their responsibility to protect the rest of the isles from the deadly wild chalklings that pour out of The Tower located on the isle of Nebrask.  These creatures, as you would imagine, are made entirely of chalk and they will eat the flesh from a man’s body.  Once a Rithmatist graduates from one of the eight Rithmatic schools, they serve the isles on the front lines of Nebrask.
 

@@ -16,4 +16,8 @@ With my character selected, I needed a few more pieces of information to write t
 
 After one of Mayor Reese’s aides finds a threatening note on an online forum, the authorities task Inspector Graves to protect her…
 
-<div class="center">[![Grave Meeting](/images/patreon-flash-fiction/grave-meeting.png "Grave Meeting")](https://www.patreon.com/posts/31902675)</div>
+<div class="center">
+
+[![Grave Meeting](/images/patreon-flash-fiction/grave-meeting.png "Grave Meeting")](https://www.patreon.com/posts/31902675)
+
+</div>

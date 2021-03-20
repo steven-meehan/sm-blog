@@ -12,7 +12,11 @@ date: 2020-12-22 21:33:29
 
 From the moment Maxwell dumped Wayne with his former roommate, Darren does everything he can think of to avoid his arrogant and distant relative. As the weeks churn, he alters every aspect of his life except for his classes. The teachers refuse to make further alterations to their classes to accommodate the childish behavior. With that avenue removed from him, Darren continues to isolate himself from Wayne and his classmates. So, the rumors of a new student never reach Darren’s ears.<!-- more --> One day Wayne joins Darren in the cafeteria to inquire if Darren heard about the Academy’s latest arrival. Will Darren tolerate Wayne’s current intrusion? Or will he storm off never to meet the new student?
 
-<div class="center">[![Intrusion](/images/covers/darrengilbert.png "Intrusion")](https://www.wattpad.com/998205974-darren-gilbert-journeys-intrusion)</div>
+<div class="center">
+
+[![Intrusion](/images/covers/darrengilbert.png "Intrusion")](https://www.wattpad.com/998205974-darren-gilbert-journeys-intrusion)
+
+</div>
 
 “Have you met the newest student to grace the Academy?”
 
@@ -30,4 +34,10 @@ As steam wafted into Wayne’s face, he took a deep breath. “However, that’s
 .
 .
 .
-</div><div>To continue reading the story, click [here](https://www.wattpad.com/998205974-darren-gilbert-journeys-intrusion) to head over to Wattpad.</div>
+</div>
+
+<div>
+
+To continue reading the story, click [here](https://www.wattpad.com/998205974-darren-gilbert-journeys-intrusion) to head over to Wattpad.
+
+</div>

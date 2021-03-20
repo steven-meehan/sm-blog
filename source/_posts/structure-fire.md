@@ -11,7 +11,11 @@ showKofiSuport: true
 
 Running low on supplies, Marcus collected Bret and Wayne and dragged them to the train station. When it arrived, he ushered the farmhands onto the steam-powered locomotive and dropped into the first seat he found. Throughout the trip, the pair talked about the recent dangers. The occasional tidbit floated into Marcus’s mind, and he slumped over the back of the chair and dismissed their worries, professing that the Southern Region didn’t have any problems aside from not catching enough fish.<!-- more --> Will the danger the farmhands are talking about envelope the Southern Region? Or will Marcus's confidence in their safety be proven correct?
 
-<div class="center">[![Structure Fire](/images/covers/arrival.png "Structure Fire")](https://www.wattpad.com/880486815-arrival-structure-fire)</div>
+<div class="center">
+
+[![Structure Fire](/images/covers/arrival.png "Structure Fire")](https://www.wattpad.com/880486815-arrival-structure-fire)
+
+</div>
 
 Marcus hopped off the train and started stretching his limbs. With a sigh, he took a deep breath of fresh salty air and sighed. “If it weren’t for dangerous predators, I’d enjoy life here.”
 
@@ -31,4 +35,10 @@ Marcus whirled around while he continued heading for the harbor. “Stop goofing
 .
 .
 .
-</div><div>To continue reading the story, click [here](https://www.wattpad.com/880486815-arrival-structure-fire) to head over to Wattpad.</div>
+</div>
+
+<div>
+
+To continue reading the story, click [here](https://www.wattpad.com/880486815-arrival-structure-fire) to head over to Wattpad.
+
+</div>

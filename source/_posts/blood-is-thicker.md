@@ -12,7 +12,11 @@ When I found [*Blood Is Thicker*](https://www.audible.com/pd/Blood-Is-Thicker-Au
 
 As with the previous installments, our detectives are tossed into the deep end almost immediately. This time they’re greeted by the leader of the Dark Council, though she’s suffering from a potentially fatal wound. And while Simon and Tristan are pursuing the answers to the attack on Michiko, Tristan’s use of a void vortex in [*Full Moon Howl*](https://www.audible.com/pd/Full-Moon-Howl-Audiobook/B07BNSWCT9) was not overlooked by his old order. And unlike a friendly customer at a deli, the mages seeking to capture Tristan refuse to take their number and get in line for a chance to catch their wayward mage.
 
-<div class="center">[![*Blood Is Thicker*](https://m.media-amazon.com/images/I/518M+JVu2eL.jpg "Blood Is Thicker")](https://www.audible.com/pd/Blood-Is-Thicker-Audiobook/B08629JNZM)</div>
+<div class="center">
+
+[![*Blood Is Thicker*](https://m.media-amazon.com/images/I/518M+JVu2eL.jpg "Blood Is Thicker")](https://www.audible.com/pd/Blood-Is-Thicker-Audiobook/B08629JNZM)
+
+</div>
 
 The main issue that I’ve had with this series rears its ugly head once more, Simon’s inability to die. Throughout the entire book, many references are made to his special situation, and I’m never genuinely afraid that he’s ever in any actual danger. And just like before, the author’s attempt to make us fearful for Simon’s life falls short, or to quote Maxwell Smart:
 

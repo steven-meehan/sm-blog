@@ -23,8 +23,6 @@ The Ajax is slanted to show Odysseus’ cowardice, but the honor that belongs to
 {% post_link greek-mythology-part-2 Part 2 %}  | {% post_link greek-mythology-part-3 Part 3 %}  |  {% post_link greek-mythology-part-4 Part 4 %}  | {% post_link greek-mythology-part-5 Part 5 %}
 
 
-<sup><sub>Bibliography</sub></sup>
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><sub>Ajax translated by E.F. Wlting</sub></sup>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><sub>Philoctetes translated by E.F. Watling</sub></sup>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><sub>Ed. William H. Harris, and  Judith S Levey</sub></sup>

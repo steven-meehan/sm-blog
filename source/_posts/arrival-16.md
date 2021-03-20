@@ -14,7 +14,11 @@ As my wedding races toward me, my mind keeps getting pulled in about thirty diff
 After discovering the power cells stored in the bowels of the Novus, Marcus and his team collected their bounty and hiked back the way they came. Eager to return to his farm, Marcus leads everyone through the scavenged remains of the wrecked spacecraft. But as the expedition neared the end of their brief journey, the burden of lugging Nathaniel’s treasure from floor to floor wore at Marcus’s mental state. The combination of the bulky collection and his dread of being ambushed by the pirates broke his grip on his sanity. Will the wayward brigands prevent Marcus from returning to his land? Or will Marcus’s companions mock him for his concern?
 
 
-<div class="center">[![Return Journey](/images/covers/arrival.png "Return Journey")](https://www.wattpad.com/966564083-arrival-return-journey)</div>
+<div class="center">
+
+[![Return Journey](/images/covers/arrival.png "Return Journey")](https://www.wattpad.com/966564083-arrival-return-journey)
+
+</div>
 
 Vincent twisted his head as his lips raced into a smile, “I can see daylight behind you.”
 
@@ -32,4 +36,10 @@ The course line slid through Marcus’s grasp, rubbing his skin, “Not everythi
 .
 .
 .
-</div><div>To continue reading the story, click [here](https://www.wattpad.com/966564083-arrival-return-journey) to head over to Wattpad.</div>
+</div>
+
+<div>
+
+To continue reading the story, click [here](https://www.wattpad.com/966564083-arrival-return-journey) to head over to Wattpad.
+
+</div>

@@ -19,7 +19,11 @@ To add some extra flair to Darren’s side adventures, I pulled a prompt from NY
 
 Having primed his stoolie, Darren visits a local art gallery. While he studies the exhibits, a silence descends and a docent approaches…
 
-<div class="center">[![Strands](/images/patreon-flash-fiction/2020/strands.png "Strands")](https://www.patreon.com/posts/44063372)</div>
+<div class="center">
+
+[![Strands](/images/patreon-flash-fiction/2020/strands.png "Strands")](https://www.patreon.com/posts/44063372)
+
+</div>
 
 Darren clasped his hands behind his back as he meandered through the gallery. When he approached an exhibit flanked by a pair of floodlights, Darren halted and scrutinized the display as his hands untangled. His eyes darted from the piece to each flanking floodlight and settled on the artwork’s tag. He tucked his right hand under his arm while his other knuckles rubbed his lips.
 
@@ -35,4 +39,10 @@ Darren withdrew a small object, keeping it hidden from the docent’s view.
 .
 .
 .
-</div><div>To continue reading head over to my [Patreon page](https://www.patreon.com/posts/44063372) and become a patron, $2 a month will give you access to this and other flash fiction stories.</div>
+</div>
+
+<div>
+
+To continue reading head over to my [Patreon page](https://www.patreon.com/posts/44063372) and become a patron, $2 a month will give you access to this and other flash fiction stories.
+
+</div>

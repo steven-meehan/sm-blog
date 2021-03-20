@@ -16,7 +16,11 @@ It kept me ahead of schedule for January.<!-- more --> At no point, was I franti
 A man wanders his orchard at night, while carrying a shovel and obsessing over a locket. What secrets is the stranger bearing in the dark…
 
 
-<div class="center">[![Cruel Exchange](/images/patreon-flash-fiction/2021/cruel-exchange.png "Cruel Exchange")](https://www.patreon.com/posts/46781130)</div>
+<div class="center">
+
+[![Cruel Exchange](/images/patreon-flash-fiction/2021/cruel-exchange.png "Cruel Exchange")](https://www.patreon.com/posts/46781130)
+
+</div>
 
 John’s eyes whirled in every direction as he strolled through the orchard. He stopped alongside a tree, laying his head against it while his shovel slid through his fingers, its tip slammed into the tightly packed earth. A tear swelled at the corner of his eye, while John pulled a small locket from his pocket and studied it in the dim starlight. The intricately etched metal caught the faint light and amplified the stray beams, throwing them back at John.
 
@@ -28,4 +32,10 @@ Despite the darkness, John deftly strode between the trees, ducking under stray 
 .
 .
 .
-</div><div>To continue reading head over to my [Patreon page](https://www.patreon.com/posts/46781130) and become a patron, $2 a month will give you access to this and other flash fiction stories.</div>
+</div>
+
+<div>
+
+To continue reading head over to my [Patreon page](https://www.patreon.com/posts/46781130) and become a patron, $2 a month will give you access to this and other flash fiction stories.
+
+</div>

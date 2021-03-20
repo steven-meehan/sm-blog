@@ -14,5 +14,9 @@ November has been slammed with National Novel Writing Month (NaNoWriMo). I vivid
 
 Two fathers take their daughters to the local pizzeria. While the little ones are playing, the adults discuss the upcoming vote...
 
-<div class="center">[![Waiting For Results](/images/patreon-flash-fiction/waiting-for-results.png "Waiting For Results")](https://www.patreon.com/posts/31852265)</div>
+<div class="center">
+
+[![Waiting For Results](/images/patreon-flash-fiction/waiting-for-results.png "Waiting For Results")](https://www.patreon.com/posts/31852265)
+
+</div>
 

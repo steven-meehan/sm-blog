@@ -18,7 +18,11 @@ With the bare bones of a locale and the prompt firmly entrenched in my mind, I b
 
 As a couple walks off the waystation and a set of thugs brandishing weapons encircled them. Will the couple be the latest victims…
 
-<div class="center">[![Unsuspecting](/images/patreon-flash-fiction/2020/unsuspecting.png "Unsuspecting")](https://www.patreon.com/posts/35970168)</div>
+<div class="center">
+
+[![Unsuspecting](/images/patreon-flash-fiction/2020/unsuspecting.png "Unsuspecting")](https://www.patreon.com/posts/35970168)
+
+</div>
 
 The couple stepped off the small dais and basked in the illumination emanating from the strips running along the walls. The man extended his arm, and the woman latched onto it as they walked away from the waystation. As a grin emerged, he reached out and traced her chin. “What’s our schedule for this evening?”
 
@@ -36,4 +40,10 @@ As the two approached the platform, a shadowy figure emerged from the darkest re
 .
 .
 .
-</div><div class="center">To continue reading head over to my Patreon page and become a patron, $2 a month will give you access to this and other flash fiction stories.</div>
+</div>
+
+<div class="center">
+
+To continue reading head over to my Patreon page and become a patron, $2 a month will give you access to this and other flash fiction stories.
+
+</div>

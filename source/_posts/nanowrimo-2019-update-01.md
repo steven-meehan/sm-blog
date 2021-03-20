@@ -12,7 +12,17 @@ showKofiSuport: false
 
 I never heard about [National Novel Writing Month](https://www.nanowrimo.org/), or NaNoWriMo for short, until earlier this year. My friend mentioned it when I talked with him about the upcoming [NYC Midnight Flash Fiction Competition](http://www.nycmidnight.com/Competitions/FFC/Challenge.htm). Since I’m trying to develop my prose, I gave it a look. The history of this non-profit slapped me in the face. NaNoWriMo was founded back in 1999 with a simple idea. It challenged authors to write 50,000 words of a book during the month of November. The premise seems easy enough, but when you factor in that people have lives and other responsibilities, it can be a daunting goal. Since the non-profit’s inception, NaNoWriMo has evolved and grown. Besides the main event, they now have other programs offering new events, such as [Camp NaNoWriMo](https://campnanowrimo.org/).<!-- more -->
 
-<div class="embedded-image-left">![](./nanowrimo.png)</div> <div class="embedded-image-right">![](./camp-nanowrimo.jpg)</div>
+<div class="embedded-image-left">
+
+![NaNoWriMo](./nanowrimo.png)
+
+</div>
+
+<div class="embedded-image-right">
+
+![Camp NaNoWriMo](./camp-nanowrimo.jpg)
+
+</div>
 
 With my curiosity peaked, I signed up for an account and discovered that the camp’s start date was fast approaching. So I looked through my projects and selected a draft to use. For the camp, I chose ***Hero Call***, an Urban Fantasy, and spent the entire month of July working on it and somehow hit my rather lofty target of 85,000 words. I even squeezed in my [Patreon](https://www.patreon.com/stevenpmeehan) and [Wattpad](https://www.wattpad.com/user/StevenMeehan) flash fiction stories. The camp ran during the summer, which meant my daughter didn’t have school or other activities. That lack of scheduled activities gave me a little more time to get an extra bit of writing done. Unfortunately, NanoWriMo takes place in November. Couple school being in session and an uptick in her activities, I may have trouble hitting my goal and all the other work I’ve been doing for the last few months.
 

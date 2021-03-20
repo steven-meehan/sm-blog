@@ -16,7 +16,11 @@ With the central theme selected, I went to NYC Midnight and randomly selected a 
 
 A virus is discovered at a ski resort, while a couple are there on vacation. Will their isolation help them escape the bug’s rampage…
 
-<div class="center">[![Lockdown](/images/patreon-flash-fiction/2020/lockdown.png "Lockdown")](https://www.patreon.com/posts/35275022)</div>
+<div class="center">
+
+[![Lockdown](/images/patreon-flash-fiction/2020/lockdown.png "Lockdown")](https://www.patreon.com/posts/35275022)
+
+</div>
 
 Wanda snagged a California roll with her chopsticks and dipped it into her shallow bowl filled with a mixture of soy sauce and wasabi. She raised the exquisitely formed roll of sushi and pointed it towards her husband. “Do you think this lockdown will end soon?”
 
@@ -30,7 +34,8 @@ Jacob laid his chopsticks down and took a sip of his drink as he flourished his 
 
 Jacob rose and walked between the pair of beds, claiming the letter resting upon the shared nightstand.
 
-<div class="center story-ellipses">.
+<div class="center story-ellipses">
+.
 .
 .
 </div>

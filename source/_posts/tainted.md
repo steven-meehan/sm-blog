@@ -18,7 +18,11 @@ Even while I’ve explored Darren’s past with Journeys, but I always wanted to
 Randall drags Darren to a costume store. And while they search for something for the masquerade, a mysterious woman makes a delivery…
 
 
-<div class="center">[![Tainted](/images/patreon-flash-fiction/2020/tainted.jpg "Tainted")](https://www.patreon.com/posts/37546671)</div>
+<div class="center">
+
+[![Tainted](/images/patreon-flash-fiction/2020/tainted.jpg "Tainted")](https://www.patreon.com/posts/37546671)
+
+</div>
 
 “How did you convince me into agreeing to this foolishness?”
 
@@ -38,4 +42,10 @@ Darren shook his head and walked through the aisle, letting his fingertips trace
 .
 .
 .
-</div><div>To continue reading head over to my Patreon page and become a patron, $2 a month will give you access to this and other flash fiction stories.</div>
+</div>
+
+<div>
+
+To continue reading head over to my Patreon [page](https://www.patreon.com/posts/37546671) and become a patron, $2 a month will give you access to this and other flash fiction stories.
+
+</div>

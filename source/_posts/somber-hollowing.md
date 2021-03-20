@@ -18,4 +18,8 @@ I reached back into NYC Midnight’s catalog and plucked a Historical Fiction pr
 
 After extinguishing a fire, the Chief returns to his station and insists on handling a grim duty alone…
 
-<div class="center">[![Somber Hollowing](/images/patreon-flash-fiction/2020/somber-hollowing.png "Somber Hollowing")](https://www.patreon.com/posts/33420042)</div>
+<div class="center">
+
+[![Somber Hollowing](/images/patreon-flash-fiction/2020/somber-hollowing.png "Somber Hollowing")](https://www.patreon.com/posts/33420042)
+
+</div>

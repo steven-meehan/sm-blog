@@ -14,7 +14,11 @@ When I finished writing [*Burnout*](/archives/2020/12/19/burnout), I turned my a
 
 A man on crutches silently stares at his foreclosed home on Christmas Eve. A stranger intrudes upon his misery as tears swell in his eye...
 
-<div class="center">[![Second Chance](/images/patreon-flash-fiction/2020/second-chance.png "Second Chance")](https://www.patreon.com/posts/45432742)</div>
+<div class="center">
+
+[![Second Chance](/images/patreon-flash-fiction/2020/second-chance.png "Second Chance")](https://www.patreon.com/posts/45432742)
+
+</div>
 
 A gray-haired man limped across the snow on his crutches to a sign. He leaned against them and reached out to lift the plastic foreclosure notice. A tear ran down his cheek and tumbled to the ground. The soft powder swallowed the droplet as he dropped the notification. He gripped his supports and inched to the stairs leading up to the door.
 
@@ -32,4 +36,10 @@ Jacob sighed as he put his glove on while the hobbling man spun back to the hous
 .
 .
 .
-</div><div>To continue reading head over to my [Patreon page](https://www.patreon.com/posts/45432742) and become a patron, $2 a month will give you access to this and other flash fiction stories.</div>
+</div>
+
+<div>
+
+To continue reading head over to my [Patreon page](https://www.patreon.com/posts/45432742) and become a patron, $2 a month will give you access to this and other flash fiction stories.
+
+</div>

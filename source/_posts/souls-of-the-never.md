@@ -24,4 +24,8 @@ That said, I think this is one of those books that is best enjoyed with subseque
 
 There were plenty of loose threads dangling at the conclusion, and while I typically like to unravel those threads, I’m tentative about continuing with the [series](https://www.audible.com/series/Tales-of-the-Neverwar-Audiobooks/B0195SUQNS?ref=a_pd_Souls-_c1_series_1&pf_rd_p=52918805-f7fc-40f4-a76b-cf1c79f7d10a&pf_rd_r=DMDQQ4JAV061MVBYS43H) based on how much the first book jumped every which way.
 
-<div class="center">[![Souls of the Never](./souls-of-the-never.jpg "Souls of the Never")](https://www.audible.com/pd/Souls-of-the-Never-Audiobook/B013ITHDNG?ref=a_author_C-_c19_lProduct_1_1&pf_rd_p=1ae0e65e-ad09-4aa7-aa73-772cefb1b5e1&pf_rd_r=Q83GP2HH2142PBE8F126)</div>
+<div class="center">
+
+[![Souls of the Never](./souls-of-the-never.jpg "Souls of the Never")](https://www.audible.com/pd/Souls-of-the-Never-Audiobook/B013ITHDNG?ref=a_author_C-_c19_lProduct_1_1&pf_rd_p=1ae0e65e-ad09-4aa7-aa73-772cefb1b5e1&pf_rd_r=Q83GP2HH2142PBE8F126)
+
+</div>

@@ -12,7 +12,11 @@ showKofiSuport: true
 
 After the Captain locked down every member of the crew who attended Rylan’s gathering, they all wait for Rylan’s plan to unfold. Unfortunately, with each passing day, the ship gets closer to their home, and the tensions begin to mount. Annabelle constantly attempts to pry more information from Rylan, but he refuses to disseminate more information. The day the ship arrives in their home system, the former technician has Darvan pass out data crystals with all the information each of the escapees need.<!-- more --> Will Rylan’s plan succeed? Or will Darvan prove to be working for the Captain?
 
-<div class="center">[![](/images/covers/fortunes.png "")](https://www.wattpad.com/874719548-fortunes-escape)</div>
+<div class="center">
+
+[![Escape](/images/covers/fortunes.png "Escape")](https://www.wattpad.com/874719548-fortunes-escape)
+
+</div>
 
 Rylan sat down at his desk and opened a direct connection to Annabelle’s cabin. The screen flashed up with Annabelle’s face, and Rylan grinned. “Are you prepared for the escape?”
 
@@ -32,4 +36,10 @@ Annabelle tossed the gem into the air and caught it as it plummeted. “You plan
 .
 .
 .
-</div><div class="center">To continue reading the story, click [here](https://www.wattpad.com/874719548-fortunes-escape) to head over to Wattpad.</div>
+</div>
+
+<div class="center">
+
+To continue reading the story, click [here](https://www.wattpad.com/874719548-fortunes-escape) to head over to Wattpad.
+
+</div>

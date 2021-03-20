@@ -13,7 +13,11 @@ showKofiSuport: true
 
 While the triumvirs of Aurora are orchestrating their fledgling colonization effort, they await the return of their ships. With most of the scans of the solar system’s planets and moons in hand, the leaders are waiting for the completion of the last steps for starting their first colony.<!-- more --> Will they agree on anything? Or will a dissenter derail the endeavor?
 
-<div class="center">[![Christened](/images/covers/transformation.png "Christened")](https://www.wattpad.com/822505908-transformation-christened)</div>
+<div class="center">
+
+[![Christened](/images/covers/transformation.png "Christened")](https://www.wattpad.com/822505908-transformation-christened)
+
+</div>
 
 “Aurora, are you there?”
 
@@ -43,4 +47,10 @@ Quinn rolled his eyes and collapsed into his chair. “Olyver, be quiet.” Quin
 .
 .
 .
-</div><div class="center">To continue reading the story, click [here](https://www.wattpad.com/822505908-transformation-christened) to head over to Wattpad.</div>
+</div>
+
+<div class="center">
+
+To continue reading the story, click [here](https://www.wattpad.com/822505908-transformation-christened) to head over to Wattpad.
+
+</div>

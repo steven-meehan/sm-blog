@@ -18,7 +18,11 @@ Once I established the rough framework for the narrative, the rest of the detail
 
 Ava and Camila are the only students in Ethan’s yoga class, and as they wait for their tardy instructor, they talk about the cost of living…
 
-<div class="center">[![Cost of Living](/images/patreon-flash-fiction/2020/cost-of-living.png "Cost of Living")](https://www.patreon.com/posts/38381875)</div>
+<div class="center">
+
+[![Cost of Living](/images/patreon-flash-fiction/2020/cost-of-living.png "Cost of Living")](https://www.patreon.com/posts/38381875)
+
+</div>
 
 As the motorcycle’s engine died, Camila extended the kickstand and laid her helmet against the handles. “How are you doing, Ava?”
 
@@ -36,4 +40,10 @@ Camila grabbed her helmet, flipping the visor up and threaded her arm through th
 .
 .
 .
-</div><div>To continue reading head over to my [Patreon page](https://www.patreon.com/posts/38381875) and become a patron, $2 a month will give you access to this and other flash fiction stories.</div>
+</div>
+
+<div>
+
+To continue reading head over to my [Patreon page](https://www.patreon.com/posts/38381875) and become a patron, $2 a month will give you access to this and other flash fiction stories.
+
+</div>

@@ -20,4 +20,8 @@ Besides getting an excellent insight into the world’s only known Necromancer, 
 
 The premise rolled on and delivered a fantastic read, and while I plan to pick up the next book, this series is intended for a more mature audience. Keep that in mind while you consider adding Dead of Night to your library.
 
-<div class="center">[![Dead of Night](./dead-of-night.jpg "Dead of Night")](https://www.amazon.com/Dead-Night-Ghosts-Magic-Book-ebook/dp/B00KET4TR2)</div>
+<div class="center">
+
+[![Dead of Night](./dead-of-night.jpg "Dead of Night")](https://www.amazon.com/Dead-Night-Ghosts-Magic-Book-ebook/dp/B00KET4TR2)
+
+</div>

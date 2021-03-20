@@ -11,7 +11,11 @@ date: 2020-06-04 20:57:50
 
 After watching a warehouse burn in the main harbor of the Southern Region, Marcus returns to the train and hops onto the first train for the Central Region. He drops into his seat, gets some sleep as the train rumbles toward the central hub of the fledgling nation. When the conductor wakes Marcus up and, he hustles off the train and hurries to the tallest building. He gets off on Nathaniel’s floor and his secretary, Amelia, puts herself between him and his friend.<!-- more --> Will Marcus be able to talk with Nathaniel about the destruction of the warehouse? Or will Amelia prevent him from seeing him?
 
-<div class="center">[![Confrontation](/images/covers/arrival.png "Confrontation")](https://www.wattpad.com/898220014-arrival-confrontation)</div>
+<div class="center">
+
+[![Confrontation](/images/covers/arrival.png "Confrontation")](https://www.wattpad.com/898220014-arrival-confrontation)
+
+</div>
 
 “He’s in a meeting,” Amelia said, stepping in front of Nathaniel’s door, “he wants no interruptions.”
 
@@ -29,4 +33,10 @@ Marcus pushed his head into the room, ignoring the lady sitting across from Nath
 .
 .
 .
-</div><div>To continue reading the story, click [here](https://www.wattpad.com/898220014-arrival-confrontation) to head over to Wattpad.</div>
+</div>
+
+<div>
+
+To continue reading the story, click [here](https://www.wattpad.com/898220014-arrival-confrontation) to head over to Wattpad.
+
+</div>

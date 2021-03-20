@@ -18,7 +18,13 @@ Wrapping her hands around Damien, Jasmine asked, “Are you excited about the mo
 
 Moving her hand aside, he lifted the pendant, “What’s this, babe?”<!-- more -->
 
-<div class="embedded-image-left image-height">![Birthday Blowout](/images/nyc-midnight/birthday-blowout.png)</div>Jasmine sighed and unclasped the pendant, passing it to Damien, “Birthday present from my brother, Chase.”
+<div class="embedded-image-left image-height">
+
+![Birthday Blowout](/images/nyc-midnight/birthday-blowout.png)
+
+</div>
+
+Jasmine sighed and unclasped the pendant, passing it to Damien, “Birthday present from my brother, Chase.”
 
 Taking the ring of metal, Damien ran his fingers along each of the blades.  “Where did he find a hexagon made out of swords?”
 

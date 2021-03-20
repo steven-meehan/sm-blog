@@ -25,7 +25,15 @@ Sorry for the mini-rant and now back to NaNoWriMo. I entered the challenge with 
 
 The above blurbs are examples of what I opened with. While some chapters, especially the later ones, had a little more information, none of the thoughts were more than a paragraph. As the days wore on, I built out the web of the investigation that Daniel Corry would explore. While I love writing, I have to admit that I have a bit of a one track mind. I poured all the time I could find into the exploration of the world.
 
-<div class="embedded-image-right"><div class="center">![NaNoWriMo 2019 Winner](./nano-2019-winner-web.jpg)</div></div>
+<div class="embedded-image-right">
+
+<div class="center">
+
+![NaNoWriMo 2019 Winner](./nano-2019-winner-web.jpg)
+
+</div>
+
+</div>
 
 After twenty-one days of work, I hit the fifty thousand word goal, giving me the win. It was an incredible feeling to make that mark, the downside to the story’s scope was that that word count didn’t finish the story. For a hot moment, I thought about pushing through to the end, but I skipped the last few chapters for now. With the decision made, I buckled down and churned out the first Patreon post for November, [*Waiting for Results*](archives/2019/11/25/waiting-for-results).
 

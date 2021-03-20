@@ -20,4 +20,8 @@ As she explores the supernatural world, we’re treated to a little exposition i
 
 Overall, I enjoyed read, but when I looked at the [next book](https://www.audible.com/pd/Misfortune-Teller-Audiobook/B07G4KH2Y9?ref=a_series_Sa_c5_lProduct_1_2&pf_rd_p=284b47b1-a5db-4711-9667-612f2ac7458e&pf_rd_r=DJGW0X0BP69WTDQ3ZR5N) in the series, I got the impression that it would delve into the romantic side of things. Unfortunately, I’m not that into the romance side of literature, so I’ll leave this series unexplored. But for those who like an Urban Fantasy with Romance undertones, you should look into the [Sasha Urban series](https://www.audible.com/series/Sasha-Urban-Series-Audiobooks/B07FKNFMTC?ref=a_pd_The-Gi_c1_series_1&pf_rd_p=52918805-f7fc-40f4-a76b-cf1c79f7d10a&pf_rd_r=KHSK7B4DK26Y3C7HAS6C).
 
-<div class="center">[![The Girl Who Sees](./the-girl-who-sees.jpg "The Girl Who Sees")](https://www.audible.com/pd/The-Girl-Who-Sees-Audiobook/B07FK12WH9?ref=a_library_t_c5_libItem_&pf_rd_p=91ba6faf-5e4f-494c-abef-d663c65bee07&pf_rd_r=HYZAVY6AD6JXAKHTYXTN)</div>
+<div class="center">
+
+[![The Girl Who Sees](./the-girl-who-sees.jpg "The Girl Who Sees")](https://www.audible.com/pd/The-Girl-Who-Sees-Audiobook/B07FK12WH9?ref=a_library_t_c5_libItem_&pf_rd_p=91ba6faf-5e4f-494c-abef-d663c65bee07&pf_rd_r=HYZAVY6AD6JXAKHTYXTN)
+
+</div>

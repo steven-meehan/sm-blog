@@ -20,7 +20,11 @@ Zachary slipped his pen behind his ear with a groan and strolled up to Shawn’s
 
 Shawn grinned and lifted Zachary’s test and slipped it into a drawer. He locked it and propped his chin on a hand, “Normally I would grade these tests tonight. However, this time that’s a job for my teacher’s assistant, because I’ve got important plans for the weekend.”
 
-<div class="embedded-image-right">![Questions](/images/nyc-midnight/2020/questions.png)</div>
+<div class="embedded-image-right">
+
+![Questions](/images/nyc-midnight/2020/questions.png)
+
+</div>
 
 “Did you finally find a new place?” Zachary looked around the lecture hall as he shoved his hands into his pockets, “Cause living in a university lecture hall is a little strange.”
 

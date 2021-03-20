@@ -15,7 +15,11 @@ All month long, I’ve been contemplating about the whys behind all my series on
 
 Previously on [*Mounting Tensions*](https://www.wattpad.com/969344469-mounting-tensions-ambush "Ambush"), the protagonist from Fortunes is ambushed on a stroll through the city. Meanwhile, his father-in-law greats his daughter, wondering where Rylan is. The two share a brief conversation about the recent uptick in the beatings of the Traditionalist party while they wait for Rylan to return home. Will Rylan be brought home? Or has he become another statistic?
 
-<div class="center">[![Whereabouts](/images/covers/mounting-tensions.png "Whereabouts")](https://www.wattpad.com/987783434-mounting-tensions-whereabouts)</div>
+<div class="center">
+
+[![Whereabouts](/images/covers/mounting-tensions.png "Whereabouts")](https://www.wattpad.com/987783434-mounting-tensions-whereabouts)
+
+</div>
 
 “Where is your better half?” Garvin asked, removing his jacket and folding it over the back of a chair. He sat down across from his daughter, rubbing his chin. “He was supposed to meet me here, so we could discuss some upcoming legislation.”
 
@@ -33,4 +37,10 @@ Annabelle shook her head as her fingernails dug into her arms. “Rylan must hav
 .
 .
 .
-</div><div>To continue reading the story, click [here](https://www.wattpad.com/987783434-mounting-tensions-whereabouts) to head over to Wattpad.</div>
+</div>
+
+<div>
+
+To continue reading the story, click [here](https://www.wattpad.com/987783434-mounting-tensions-whereabouts) to head over to Wattpad.
+
+</div>

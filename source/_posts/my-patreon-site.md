@@ -21,7 +21,11 @@ I have created a [Patreon page](https://www.patreon.com/stevenpmeehan) for preci
   * After Twelve months: A custom hardcover book of eleven of my flash fiction stories, published either on the blog or on Patreon plus a custom one written especially for the patron
   * Every twelve months the patron will receive a signed hardcover copy of any of my published novels, or collected short stories.
 
-<div class="clear-both center">![Swag](./swag300.png)</div>
+<div class="clear-both center">
+
+![Swag](./swag300.png)
+
+</div>
 
 * ***Gold***: This tier is $35.00 a month and will include the rewards available to the ***Silver*** tier, though the frequency of the signed hardcover books will increase, plus the following:
   * Immediately: Be named in the acknowledgments of all future work 

@@ -10,7 +10,13 @@ date: 2018-08-06 20:55:27
 showKofiSuport: false
 ---
 
-With each and every installment of the Monster Hunter series, the stakes have gotten greater, and the dangers intensified.  And as the stakes and risks increase the entire world keeps circling around a central being, a big bad villain coming to lay waste to the world.  During the events of the series, we have met some of this being's minions, seen the devastation those minions have caused or orchestrated.  Yet during the events of those entries, he has yet to make his appearance.<!-- more --><div class="embedded-image-left">![](./monster-hunter-siege.jpeg)</div>  But that is about to change, this tale starts off just after the events of Monster Hunter Legion, and we are once more following Owen Pitt as he sets off on his latest journey against the forces of evil.  
+With each and every installment of the Monster Hunter series, the stakes have gotten greater, and the dangers intensified.  And as the stakes and risks increase the entire world keeps circling around a central being, a big bad villain coming to lay waste to the world.  During the events of the series, we have met some of this being's minions, seen the devastation those minions have caused or orchestrated.  Yet during the events of those entries, he has yet to make his appearance.<!-- more -->  But that is about to change, this tale starts off just after the events of Monster Hunter Legion, and we are once more following Owen Pitt as he sets off on his latest journey against the forces of evil.  
+
+<div class="embedded-image-left">
+
+![Monster Hunter Siege](./monster-hunter-siege.jpeg)
+
+</div>
 
 Both of the Pitt brothers meet with their father so he can fulfill his destiny, preparing Owen to go into battle so he can have a chance to save the world.  Once their father tells them everything, he needed to tell them he collapses and with that Owen knows what he has to do.  He and Julie take the lead that Franks gave them in Nemesis and end up meeting a Cyclops, who is so devoted to Julie that he tells them he can see seven lights from the Nightmare Realm.  And armed with this knowledge Owen starts planning a siege of the city of monsters.  The city sits on top of a portal that on a particular day will give them access to their missing brothers in arms.  It also happens to be where the big bad evil that threatens the end of the world slumbered until Owen broke time.
 

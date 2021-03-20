@@ -11,7 +11,11 @@ date: 2021-03-15 21:32:32
 
 With Kethra’s departure, Marcus sent Vincent and the rest of his team to the Kethra’s home and the Western Coordination Center. The team prevents Kethra or her followers from causing any more damage or retrieving any paperwork. With all the documentation in hand, Marcus gets comfortable and pours through it all, trying to determine the state of the Region. During his investigation, multiple people approach him wondering why Kethra needed to leave.<!-- more --> Will Kethra’s loyalists prevent Marcus from doing his job? Or will he be getting all the answers Nathaniel requires?
 
-<div class="center">[![Repercussions](/images/covers/arrival.png "Repercussions")](https://www.wattpad.com/1040714245-arrival-repercussions)</div>
+<div class="center">
+
+[![Repercussions](/images/covers/arrival.png "Repercussions")](https://www.wattpad.com/1040714245-arrival-repercussions)
+
+</div>
 
 “Marcus is busy,” Vincent’s voice sliced through the wall. “You’ll have to come back later.”
 
@@ -29,4 +33,10 @@ Marcus’s eyes widened as he examined the three strangers. He raised his hands 
 .
 .
 .
-</div><div>To continue reading the story, click [here](https://www.wattpad.com/1040714245-arrival-repercussions) to head over to Wattpad.</div>
+</div>
+
+<div>
+
+To continue reading the story, click [here](https://www.wattpad.com/1040714245-arrival-repercussions) to head over to Wattpad.
+
+</div>

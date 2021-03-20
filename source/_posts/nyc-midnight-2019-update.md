@@ -17,4 +17,8 @@ When I found the link to the results page, I followed it and started searching f
  
 I’m still waiting to get the feedback, but I’ve been revitalized for the second round. This Friday cannot come soon enough. I’m eager to receive and absorb the feedback from the judges and to craft my second entry. In the meantime, please use the link below to read Birthday Blowout.
 
-<div class="center margin-top-2em">[![Birthday Blowout](/images/nyc-midnight/birthday-blowout.png "Birthday Blowout")](/archives/2019/09/09/birthday-blowout/)</div>
+<div class="center margin-top-2em">
+
+[![Birthday Blowout](/images/nyc-midnight/birthday-blowout.png "Birthday Blowout")](/archives/2019/09/09/birthday-blowout/)
+
+</div>

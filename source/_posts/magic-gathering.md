@@ -9,7 +9,15 @@ date: 2018-05-08 23:17:36
 showKofiSuport: false
 ---
 
-Sorry for the rant.  But I was looking around my office, and I see a fair amount of my Magic the Gathering collection.  Looking at the collection in my office makes me think of a time when I was back when I was in high school gathering around my collection searching for just the right card trying to build the best deck I can.  Though as high school went on, I eventually put my collection aside and went on to other things.  Years after putting my collection aside a good friend of mine got pulled back into the game, and he started telling me about all the ways the game has changed and adapted since we last played.  Despite my friend trying to pull me back into the game, I didn't have the time or money for it.  <!-- more --><div class="embedded-image-left">![](./magic-gathering-back.jpg)</div>In fact at the time, I could use a little extra money, so I pulled out my most valuable cards and went to a local game store entertaining the idea of selling them.  Before I went to the store, I did some research into the what the cards were worth thankfully because the store was a little shady.  So when the store gave me their insultingly low offer, I walked out my cards still in hand, and my collection continued to sit in my house untouched.
+Sorry for the rant.  But I was looking around my office, and I see a fair amount of my Magic the Gathering collection.  Looking at the collection in my office makes me think of a time when I was back when I was in high school gathering around my collection searching for just the right card trying to build the best deck I can.  Though as high school went on, I eventually put my collection aside and went on to other things.  Years after putting my collection aside a good friend of mine got pulled back into the game, and he started telling me about all the ways the game has changed and adapted since we last played.  Despite my friend trying to pull me back into the game, I didn't have the time or money for it.  <!-- more -->
+
+<div class="embedded-image-left">
+
+![Magic the Gathering](./magic-gathering-back.jpg)
+
+</div>
+
+In fact at the time, I could use a little extra money, so I pulled out my most valuable cards and went to a local game store entertaining the idea of selling them.  Before I went to the store, I did some research into the what the cards were worth thankfully because the store was a little shady.  So when the store gave me their insultingly low offer, I walked out my cards still in hand, and my collection continued to sit in my house untouched.
 
 Shortly after my daughter and I moved into our new home in November of  2016, I bought a getting started pack of cards for my daughter and I.  With a sense of nostalgia blooming as my daughter and I played our game, she was utterly uninterested in the game.  While she liked the cards’ artwork, she was way too young to play the game.  So again the new cards were added to the collection that sat collecting dust.
 

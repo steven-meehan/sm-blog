@@ -13,7 +13,11 @@ date: 2020-07-07 23:25:19
 
 With the inertial world already folded into the fledgling federation, Isaac and Jasmine are piloting the newly redesigned world ship to the next colony. Though Isaac is dissatisfied with the level of automation, the engineers stuffed into the newest vessel. The updated systems have relegated the pilot to a glorified chaperon.<!-- more --> Will Isaac get his wish for an interesting landing? Or will Jasmine get her wish for an uneventful landing?
 
-<div class="center">[![Second Colony](/images/covers/transformation.png "Second Colony")](https://www.wattpad.com/916922836-transformation-second-colony)</div>
+<div class="center">
+
+[![Second Colony](/images/covers/transformation.png "Second Colony")](https://www.wattpad.com/916922836-transformation-second-colony)
+
+</div>
 
 Isaac swiveled in his chair, tossing a ball over his head. When the sphere reached the top of its arc, he grabbed it and slammed it against his console, “I’m bored.”
 
@@ -32,4 +36,10 @@ Isaac’s head turned, and he winked at Jasmine. “I’m capable of taking thin
 .
 .
 .
-</div><div>To continue reading the story, click [here](https://www.wattpad.com/916922836-transformation-second-colony) to head over to Wattpad.</div>
+</div>
+
+<div>
+
+To continue reading the story, click [here](https://www.wattpad.com/916922836-transformation-second-colony) to head over to Wattpad.
+
+</div>

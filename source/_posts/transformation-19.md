@@ -13,7 +13,11 @@ date: 2020-12-29 18:42:44
 
 The leadership of Aurora has completed its colonization of the Aurorian system. While Olyver has pushed for the Federation’s creation, Quinn and Caitlin have delayed the process until the planets have become self-sufficient. Now that each of the new worlds is thriving, Quinn and Caitlin invite the leaders to Aurora as they seek to complete the birth of the new Federation. However, each of the new governments is wary about the fledgling Federation’s leadership and placement.<!-- more --> Will the new Federation select its new leader? Will they determine an appropriate arrangement for the Aurorian Federation? Or will the splintered governments implode while seeking a unified leader?
 
-<div class="center">[![New Leadership](/images/covers/transformation.png "New Leadership")](https://www.wattpad.com/1000828253-transformation-new-leadership)</div>
+<div class="center">
+
+[![New Leadership](/images/covers/transformation.png "New Leadership")](https://www.wattpad.com/1000828253-transformation-new-leadership)
+
+</div>
 
 Quinn rested his hands on the conference table, and his eyes traveled from person to person until his gaze fell to Caitlin. “Well, now that Olyver has arrived. I believe we can resume our discussion from yesterday.”
 
@@ -31,4 +35,10 @@ The woman sitting to Bartholomew’s right turned and gripped Caitlin’s hand. 
 .
 .
 .
-</div><div>To continue reading the story, click [here](https://www.wattpad.com/1000828253-transformation-new-leadership) to head over to Wattpad.</div>
+</div>
+
+<div>
+
+To continue reading the story, click [here](https://www.wattpad.com/1000828253-transformation-new-leadership) to head over to Wattpad.
+
+</div>

@@ -10,7 +10,13 @@ date: 2018-05-03 21:30:27
 showKofiSuport: false
 ---
 
-I was very intregued by the first two installments of _The Pillars of Reality_ series, with them Jack Campbell has painted a wonderful tapestry of the world of Dematr.  He has woven the lives of Master Mechanic Mari and Mage Alain into the very tapestry of the world each giving strength to each other and to the world at large.  <!-- more --><div class="embedded-image-right">![](./the-assassins-altis.jpg)</div>The depth and jorneies of these two central characters has been wonderful from their first meeting to their stay ina dead city, so I bought the third instalment, [_The Assassins of Altis_](https://www.amazon.com/gp/product/1625671350/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1625671350&linkCode=as2&tag=mysite009e-20&linkId=98d607fdb13b5ce6637b65d3606d1922), and I immeadiately started listening to it.
+I was very intregued by the first two installments of _The Pillars of Reality_ series, with them Jack Campbell has painted a wonderful tapestry of the world of Dematr.  He has woven the lives of Master Mechanic Mari and Mage Alain into the very tapestry of the world each giving strength to each other and to the world at large.<!-- more --> The depth and jorneies of these two central characters has been wonderful from their first meeting to their stay ina dead city, so I bought the third instalment, [_The Assassins of Altis_](https://www.amazon.com/gp/product/1625671350/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1625671350&linkCode=as2&tag=mysite009e-20&linkId=98d607fdb13b5ce6637b65d3606d1922), and I immeadiately started listening to it.
+
+<div class="embedded-image-right">
+
+![The Assassins of Altis](./the-assassins-altis.jpg)
+
+</div>
 
 Now I was not particularly satisfied with the ending of _The Hidden Masters of Marandur_ but I was eager to see what this instalment has in store for Master Mechanic Mari and Mage Alain.  Now the world that had a few pieces revealed in the previous book takes gets yet another large leap forward in development, and the world at large is starting to really take shape and what we are shown is fantastic.
 

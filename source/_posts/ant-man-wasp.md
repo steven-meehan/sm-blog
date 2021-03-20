@@ -10,7 +10,13 @@ date: 2018-08-17 22:17:17
 showKofiSuport: false
 ---
 
-I was not an avid comic book reader when I was younger.  I remember thumbing through an X-Men comic book here and there, but I never dove into the world of Marvel superheroes.  So when I started watching movies set into the Marvel Cinematic Universe (MCU), I leaned upon those who were obsessed with the comics to understand how well they made the leap to the silver screen.  And then there were the heroes like Ant-Man that I had never even heard of before the 2015 MCU film.<!-- more --><div class="embedded-image-right">![](./ant-man-wasp.jpg)</div>
+I was not an avid comic book reader when I was younger.  I remember thumbing through an X-Men comic book here and there, but I never dove into the world of Marvel superheroes.  So when I started watching movies set into the Marvel Cinematic Universe (MCU), I leaned upon those who were obsessed with the comics to understand how well they made the leap to the silver screen.  And then there were the heroes like Ant-Man that I had never even heard of before the 2015 MCU film.<!-- more -->
+
+<div class="embedded-image-right">
+
+![Ant-Man and the Wasp](./ant-man-wasp.jpg)
+
+</div>
 
 But the little known, outside of the uber comic book obsessed fans, burst onto the screen and made a name for himself.  In the first movie, we are introduced to this tiny superhero, both the first Ant-Man and his successor.  Scott Lang is a devoted father who had made some bad choices, and by the end of the film, we see him moving in the right direction.
 

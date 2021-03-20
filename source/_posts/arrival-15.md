@@ -11,7 +11,11 @@ date: 2020-08-10 21:05:18
 
 When last we left off with the survivors of the Novus, Nathaniel was trying to enlist Marcus to assist the scientists’ recent request. Having obtained Marcus’s consent, Nathaniel pulled together the team to explore the ruins of the Novus and arranging their transportation. After securing his home and ranch, Marcus boarded a train and traveled to the Southern Region. Nathaniel greeted him at the station and introduced him to his team.<!-- more --> Will Marcus’s team find the requested technology? Or will the ship prove to be utterly barren of power cells?
 
-<div class="center">[![Exploration](/images/covers/arrival.png "Exploration")](https://www.wattpad.com/934978067-arrival-exploration)</div>
+<div class="center">
+
+[![Exploration](/images/covers/arrival.png "Exploration")](https://www.wattpad.com/934978067-arrival-exploration)
+
+</div>
 
 Marcus lifted his hand through the hole and waived it until someone handed him a torch. With it in hand, Marcus dropped to the floor, allowing the flickering flame to illuminate his surroundings. “I can already tell this level is a bust, secure another ladder before you follow. While you’re doing that, I’ll search for the next place to cut through.”
 
@@ -29,4 +33,10 @@ Marcus pointed down the corridor, staring at the various things reflecting the t
 .
 .
 .
-</div><div>To continue reading the story, click [here](https://www.wattpad.com/934978067-arrival-exploration) to head over to Wattpad.</div>
+</div>
+
+<div>
+
+To continue reading the story, click [here](https://www.wattpad.com/934978067-arrival-exploration) to head over to Wattpad.
+
+</div>

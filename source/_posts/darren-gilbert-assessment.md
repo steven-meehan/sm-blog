@@ -12,7 +12,11 @@ date: 2020-06-17 20:42:17
 
 Wayne’s first lesson with Volodar arrives, and Maxwell and Roland are present. Darren initially hopes that Volodar tapped him to progress to the more advanced martial arts lessons. But Maxwell reminds him that Volodar is unlikely to promote Darren to those classes. The two advanced students quickly comment that they are present only to assist in Wayne’s assessment.<!-- more --> Will Wayne prove to be a competent fighter? Or will he be pummeled with his initial combat?
 
-<div class="center">[![Assessment](/images/covers/darrengilbert.png "Assessment")](https://www.wattpad.com/905726071-darren-gilbert-journeys-assessment)</div>
+<div class="center">
+
+[![Assessment](/images/covers/darrengilbert.png "Assessment")](https://www.wattpad.com/905726071-darren-gilbert-journeys-assessment)
+
+</div>
 
 Darren leaned against the back wall of the dojo and watched as Wayne entered. He tapped Maxwell with a hand, whispering, “I thought Volodar preferred not forcing his students into remedial activities?”
 
@@ -30,4 +34,10 @@ Maxwell peeled Roland’s limb off and smirked. “Even if Volodar presented me 
 .
 .
 .
-</div><div>To continue reading the story, click [here](https://www.wattpad.com/905726071-darren-gilbert-journeys-assessment) to head over to Wattpad.</div>
+</div>
+
+<div>
+
+To continue reading the story, click [here](https://www.wattpad.com/905726071-darren-gilbert-journeys-assessment) to head over to Wattpad.
+
+</div>

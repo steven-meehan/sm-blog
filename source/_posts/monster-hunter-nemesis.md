@@ -10,7 +10,13 @@ date: 2018-07-25 21:22:53
 showKofiSuport: false
 ---
 
-Fresh off of Monster Hunter International's heroic defeat of the Nightmare, Larry Correia once again shakes up the series by giving us a new perspective.  But instead of picking any Monster Hunter International employees, he let Agent Franks, Frankenstein's monster tell the story.  Up to this point in the story, Frank's history has been shrouded in mystery, but we finally get to hear the monster's history.<!-- more --><div class="embedded-image-left">![](./monster-hunter-nemesis.jpg)</div>
+Fresh off of Monster Hunter International's heroic defeat of the Nightmare, Larry Correia once again shakes up the series by giving us a new perspective.  But instead of picking any Monster Hunter International employees, he let Agent Franks, Frankenstein's monster tell the story.  Up to this point in the story, Frank's history has been shrouded in mystery, but we finally get to hear the monster's history.<!-- more -->
+
+<div class="embedded-image-left">
+
+![Monster Hunter Nemesis](./monster-hunter-nemesis.jpg)
+
+</div>
 
 The story starts with Franks being interrogated, though he doesn't quite remember how he got into the room opposite his interrogator.  After a quick back and forth the agent instructs Franks to start at the beginning, and he does.  Each chapter begins with an excerpt from the interrogation and with each bit we delve deeper into who Franks is and what drives him, aside from just wanting to kill the demons and monsters that inhabit the world.
 

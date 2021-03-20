@@ -16,7 +16,11 @@ When I focused my attention on the constraints, I allowed my mind the freedom it
 
 Patrick dashes into a parking garage, trying to evade a local gang. Will he be able to avoid their wrath, or will he suffer their vengeance…
 
-<div class="center">[![Helen's Knucklers](/images/patreon-flash-fiction/2020/bounding-ramps.png "Helen's Knucklers")](https://www.patreon.com/posts/34924807)</div>
+<div class="center">
+
+[![Bounding Ramps](/images/patreon-flash-fiction/2020/bounding-ramps.png "Bounding Ramps")](https://www.patreon.com/posts/34924807)
+
+</div>
 
 Patrick glanced over his shoulder and stumbled into the parking garage, tripping over the threshold. He caught himself on the trunk of the closest vehicle and bounded off it, rushing toward the ramp. As his legs propelled him up the slope, he heard a commotion, and risked another glance behind him and witnessed a pair of leather-clad bikers rush into the structure. Patrick reached the next level and turned right, putting a car between him and the dangerous men. With a shallow breath, he peered at them and waited.
 

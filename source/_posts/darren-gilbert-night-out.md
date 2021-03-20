@@ -12,7 +12,11 @@ showKofiSuport: true
 
 Darren, Maxwell, and Roland leave the Academy for a night of relaxation. They head for a local restaurant for a meal, camaraderie, and recreation. The three intend to stay until the restaurant closes. And Darren wants to find out the truth about a rumor floating around the school.<!-- more --> Will the rumor of a new student prove true? Or will Darren’s quest for answers prove fruitless?
 
-<div class="center">[![Night Out](/images/covers/darrengilbert.png "Night Out")](https://www.wattpad.com/825843361-darren-gilbert-journeys-night-out)</div>
+<div class="center">
+
+[![Night Out](/images/covers/darrengilbert.png "Night Out")](https://www.wattpad.com/825843361-darren-gilbert-journeys-night-out)
+
+</div>
 
 Roland glanced at the bottom of his glass and groaned. “Is anyone else running on empty?”
 
@@ -34,4 +38,10 @@ Roland rolled his eyes and waved at the empty glasses. “Rianna, we need some r
 .
 .
 .
-</div><div class="center">[Click here](https://www.wattpad.com/825843361-darren-gilbert-journeys-night-out) to continue on Wattpad</div>
+</div>
+
+<div class="center">
+
+[Click here](https://www.wattpad.com/825843361-darren-gilbert-journeys-night-out) to continue on Wattpad
+
+</div>

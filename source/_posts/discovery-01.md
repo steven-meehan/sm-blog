@@ -12,7 +12,11 @@ date: 2020-10-14 16:14:34
 
 After Dorian got the council to agree with his plan to investigate the missing [colonization ship](/archives/2020/08/19/return). Once the workers laid the last bolt for the new ship and the council finished selecting the crew, the newly commissioned spacecraft launches to the world their ancestors vanished while attempting to colonize. As the vessel settles into an orbit around the planet, the command crew scans the world below. Neither member of the ship’s crew can make sense of the received data, but they transmit the confusing data back home to discuss the fate of the expedition’s mission.<!-- more --> Will the mission to discover the truth about the failed expedition receive its final green light? Or will the scans be enough to answer their questions?
 
-<div class="center">[![Awaiting Confirmation](/images/covers/discovery.png "Awaiting Confirmation")](https://www.wattpad.com/964692748-discovery-awaiting-confirmation)</div>
+<div class="center">
+
+[![Awaiting Confirmation](/images/covers/discovery.png "Awaiting Confirmation")](https://www.wattpad.com/964692748-discovery-awaiting-confirmation)
+
+</div>
 
 Dyrk adjusted the craft’s trajectory and flipped the communication switch, “Is anyone manning the comm back home?”
 
@@ -34,4 +38,10 @@ Dyrk’s tongue ran across his lips as he scrolled through the results of the sc
 .
 .
 .
-</div><div>To continue reading the story, click [here](https://www.wattpad.com/964692748-discovery-awaiting-confirmation) to head over to Wattpad.</div>
+</div>
+
+<div>
+
+To continue reading the story, click [here](https://www.wattpad.com/964692748-discovery-awaiting-confirmation) to head over to Wattpad.
+
+</div>

@@ -14,7 +14,11 @@ When I first came up with Darren Gilbert, I pictured a grumpy wizard thwarting a
 
 Fresh off of destroying their night off, Wayne looks for a fresh way to torment Darren’s friends. A few weeks later while Darren, Nory, and Maxwell are sitting around their table next to their dormitory, playing a card game. As the round creeps to a close, Maxwell salivates over his inevitable victory. Wayne inserts himself into their game and attempts to further undermine Darren's friendships. Will Wayne's actions isolate Darren? Or will Darren strengthen his friendship with Maxwell?
 
-<div class="center">[![Fractures](/images/covers/darrengilbert.png "Fractures")](https://www.wattpad.com/967534436-darren-gilbert-journeys-fractures)</div>
+<div class="center">
+
+[![Fractures](/images/covers/darrengilbert.png "Fractures")](https://www.wattpad.com/967534436-darren-gilbert-journeys-fractures)
+
+</div>
 
 Darren drew a card, placing it alongside the others in his fingers. He chewed his upper lip as he tapped the corner of each card. With a glance at the played ones, Darren pulled his hand into his chest and leaned toward his friend. “What are you looking for?”
 
@@ -32,4 +36,10 @@ Maxwell leaned over and tapped the pile of bills. “Don’t get too familiar wi
 .
 .
 .
-</div><div>To continue reading the story, click [here](https://www.wattpad.com/967534436-darren-gilbert-journeys-fractures) to head over to Wattpad.</div>
+</div>
+
+<div>
+
+To continue reading the story, click [here](https://www.wattpad.com/967534436-darren-gilbert-journeys-fractures) to head over to Wattpad.
+
+</div>

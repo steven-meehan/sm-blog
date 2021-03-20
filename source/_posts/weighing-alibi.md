@@ -17,4 +17,8 @@ Ever since I discovered NYC Midnight, I’ve turned to their sites to pluck prom
 
 Kyle’s latest client maintains her innocence despite being the police’s most likely suspect. Will Kyle’s search for truth assist the client…
 
-<div class="center">[![Weighing an Alibi](/images/patreon-flash-fiction/weighing-alibi.png "Weighing an Alibi")](https://www.patreon.com/posts/32612439)</div>
+<div class="center">
+
+[![Weighing an Alibi](/images/patreon-flash-fiction/weighing-alibi.png "Weighing an Alibi")](https://www.patreon.com/posts/32612439)
+
+</div>

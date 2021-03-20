@@ -14,7 +14,11 @@ Between the first entry into this year’s NYC Midnight and my 3D printers, this
 
 When last we left Darren and Randall, Darren was searching for who poisoned his friend while Randall busied himself with his recovery. Now I’ve left Darren Gilbert’s world a little vague, but I’ve always intended it to be a world where technology and magic coexist. And with my focus on my 3D printer, I incorporated that into this month’s tale. Come delve into Darren’s discovery of the origin of the poison when he checks on his friend.
 
-<div class="center">[![Check Up](/images/patreon-flash-fiction/2020/check-up.png "Check Up")](https://www.patreon.com/posts/39867127)</div>
+<div class="center">
+
+[![Check Up](/images/patreon-flash-fiction/2020/check-up.png "Check Up")](https://www.patreon.com/posts/39867127)
+
+</div>
 
 The door swung open silently, and Darren eased into Randall’s home. When the lock clicked into place, Darren patted the frame with his fist and sucked in a deep breath. Shaking his head, he rushed into Randall’s kitchen and opened the refrigerator. His fingers snatched a tall glass bottle, and with a swift motion, he popped the top off and took a swig. “Ahhhh,” Darren mumbled as he thumped the drink onto the counter. “Randall, where are you!?”
 
@@ -28,4 +32,10 @@ As the seconds ticked away, Darren’s foot resumed its tapping as he took anoth
 .
 .
 .
-</div><div>To continue reading head over to my [Patreon page](https://www.patreon.com/posts/39867127) and become a patron, $2 a month will give you access to this and other flash fiction stories.</div>
+</div>
+
+<div>
+
+To continue reading head over to my [Patreon page](https://www.patreon.com/posts/39867127) and become a patron, $2 a month will give you access to this and other flash fiction stories.
+
+</div>

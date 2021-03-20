@@ -11,7 +11,15 @@ Earlier this year, when a trip to Niagara falls first came up, I started wonderi
 
 Take a look at the image below courtesy of <a style="background-color:black;color:white;text-decoration:none;margin-right:1px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@kalenemsley?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Kalen Emsley"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Kalen Emsley</span></a>. And if you like it here, you should check out the high-resolution version of the picture. After having sifted through these kinds of scenes, I’m eager to get this trip started.
 
-<br /><div class="center">![](./niagara-falls.png)</div><br />
+<br />
+
+<div class="center">
+
+![Niagara Falls](./niagara-falls.png)
+
+</div>
+
+<br />
 
 I am not a city boy. I’m not the guy who can look out of a window and be wowed by a cityscape. But the above image. Now that’s one of the most beautiful things I’ve ever seen. I cannot wait to see it in person.
 

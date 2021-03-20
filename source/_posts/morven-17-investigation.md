@@ -12,7 +12,11 @@ showKofiSuport: true
 
 With the ever looming danger the world possesses and no allies, Tarian shifts his focus to the dead creature that attacked him. He arranged for the brightest people to delve into the mysteries the body can illuminate. Over the course of a week, the colony’s scientists are unable to discover anything. Tarian unwilling to wait any longer barges in and demands what they have.<!-- more --> Will the scientists reward his patience with results? Or will the mysteries of this creature elude him?
 
-<div class="center">[![Investigation](/images/covers/colonization.png "Investigation")](https://www.wattpad.com/838575446-colonization-investigation)</div>
+<div class="center">
+
+[![Investigation](/images/covers/colonization.png "Investigation")](https://www.wattpad.com/838575446-colonization-investigation)
+
+</div>
 
 Tarian threw the doors open and marched into the makeshift lab. He marched towards the cracked table that bore the milky corpse. “What can you tell me about the mystery monster lying on the slab?”
 
@@ -32,4 +36,10 @@ Tarian wiped the frustration off his face. “Please tell me there’s an update
 .
 .
 .
-</div><div class="center">[Click here](https://www.wattpad.com/838575446-colonization-investigation) to continue on Wattpad</div>
+</div>
+
+<div class="center">
+
+[Click here](https://www.wattpad.com/838575446-colonization-investigation) to continue on Wattpad
+
+</div>

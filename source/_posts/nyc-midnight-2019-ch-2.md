@@ -17,4 +17,8 @@ When I woke up this morning, I found the email with the [results](http://www.nyc
  
 With my journey in the 2019 competition ending, I’m looking forward to receiving the judges’ feedback. Refining my skills will be my top priority while I wait for next year’s contest. I’ll be using that advice to improve my skills using past prompts on my Patreon Site. This competition has sparked my passion for writing to new heights. I plan on entering this contest again next year, and I’m already adjusting my goals for 2020.
 
-<div class="center">[![Birthday Blowout](/images/nyc-midnight/birthday-blowout.png "Birthday Blowout")](/archives/2019/09/09/birthday-blowout/) [![Letters](/images/nyc-midnight/letters.png "Letters")](/archives/2019/10/01/letters/)</div>
+<div class="center">
+
+[![Birthday Blowout](/images/nyc-midnight/birthday-blowout.png "Birthday Blowout")](/archives/2019/09/09/birthday-blowout/) | [![Letters](/images/nyc-midnight/letters.png "Letters")](/archives/2019/10/01/letters/)
+
+</div>

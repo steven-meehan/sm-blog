@@ -6,7 +6,13 @@ categories:
 - [Thought]
 showKofiSuport: false
 ---
-The Wheel of Time series by Robert Jordan has been recommended to be more than once.  I even bought a paperback copy of The Eye of the World, though at the time I purchased it I was simply adding it to the list of many that I wanted to eventually read.  <!-- more --><div class="embedded-image-right">![The Eye of the World](./simpleChangeFormat.jpg)</div>When I eventually picked up the book, I found it difficult to work my way through the pages.  I was eventually able to finish it, but decided that the series just wasn’t for me.  
+The Wheel of Time series by Robert Jordan has been recommended to be more than once.  I even bought a paperback copy of The Eye of the World, though at the time I purchased it I was simply adding it to the list of many that I wanted to eventually read.  <!-- more -->When I eventually picked up the book, I found it difficult to work my way through the pages.  I was eventually able to finish it, but decided that the series just wasn’t for me.  
+
+<div class="embedded-image-right">
+
+![The Eye of the World](./simpleChangeFormat.jpg)
+
+</div>
 
 When I heard that Brandon Sanderson was going to finish Jordan’s grand epic, a new sense of desire for the series flooded into me.  Sanderson has quickly become one of my favorite authors, from the world he fashioned in Mistborn to the beginnings of his own grand epic The Stormlight Archives.  But the initial interest quickly evaporated when I recalled how disinterested I was in The Eye of the World.  I was sure Sanderson could pull me into these stories but I couldn’t skip the rest of The Wheel of Times series just to read the his work.  So in the end rather than being excited about the news I grew rather disappointed by it.  
 

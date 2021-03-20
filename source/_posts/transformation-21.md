@@ -13,7 +13,11 @@ date: 2021-02-27 17:47:45
 
 Caitlin and Quinn deftly outmaneuvered the remaining Auroran triumvir and laid the groundwork for his eventual removal. While the departing triumvirs busied themselves with building the new alliance, the world's population quickly sets about to choose their replacements. During that consideration, Caitlin and Quinn openly supported Annabelle Holland, who wins the first position. After the selection process, Caitlin summons the newest triumvir.<!-- more --> What tasks will Caitlin pass on to Annabelle? And will the new triumvir be willing to accept them?
 
-<div class="center">[![Replacements](/images/covers/transformation.png "Replacements")](https://www.wattpad.com/1032874317-transformation-replacements)</div>
+<div class="center">
+
+[![Replacements](/images/covers/transformation.png "Replacements")](https://www.wattpad.com/1032874317-transformation-replacements)
+
+</div>
 
 “I can read your profile from now until the day I die, Annabelle.” Caitlin lowered the pad into her lap as she huffed. She bounced the tablet against her desk and thumped it onto the table. “Unfortunately, this doesn’t tell me anything about who you are.”
 
@@ -31,4 +35,10 @@ Caitlin’s fingers locked together, forming a temporary bed for her head. Her e
 .
 .
 .
-</div><div>To continue reading the story, click [here](https://www.wattpad.com/1032874317-transformation-replacements) to head over to Wattpad.</div>
+</div>
+
+<div>
+
+To continue reading the story, click [here](https://www.wattpad.com/1032874317-transformation-replacements) to head over to Wattpad.
+
+</div>

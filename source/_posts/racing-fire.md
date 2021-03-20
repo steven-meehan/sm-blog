@@ -16,6 +16,10 @@ My location came up as a bridge, and I needed to weave a mask somewhere into the
 
 A couple are crossing a bridge to get home when something collides with the structure. As the taillights flare, they flee to survive…
 
-<div class="center">[![Racing Fire](/images/patreon-flash-fiction/racing-fire.png "Racing Fire")](https://www.patreon.com/posts/32612454)</div>
+<div class="center">
+
+[![Racing Fire](/images/patreon-flash-fiction/racing-fire.png "Racing Fire")](https://www.patreon.com/posts/32612454)
+
+</div>
 
 To read the story, head over to my Patreon page and become a patron. For $2 a month, you will get access to this and other flash fiction stories that I post.

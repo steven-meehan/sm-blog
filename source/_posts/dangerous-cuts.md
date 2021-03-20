@@ -16,7 +16,11 @@ With the beginnings of the story in place, I focused on everything else. With ea
 
 When Darren is getting a haircut, his barber asks what Darren thinks about the new crackdown on rogue wizards…
 
-<div class="center">[![Dangerous Cuts](/images/patreon-flash-fiction/2020/dangerous-cuts.png "Helen's Knucklers")](https://www.patreon.com/posts/34978041)</div>
+<div class="center">
+
+[![Dangerous Cuts](/images/patreon-flash-fiction/2020/dangerous-cuts.png "Dangerous Cuts")](https://www.patreon.com/posts/34978041)
+
+</div>
 
 The bell attached to the door chimed as Darren entered the shop. He stopped in the middle of the entrance and glared at the man at the far end of the barbershop. “Neil, why do you let Geoffrey bang away on those bongos?”
 
@@ -34,4 +38,6 @@ Darren stepped out of the doorway and allowed Geoffrey to leave.
 .
 .
 .
-</div>To continue reading, [click here](https://www.patreon.com/posts/34978041) page and become a patron, $2 a month will give you access to this and other flash fiction stories. If you enjoyed Darren’s tale, delve into his origins with [Darren Gilbert: Journeys](https://www.wattpad.com/story/193730653-darren-gilbert-journeys) on Wattpad.
+</div>
+
+To continue reading, [click here](https://www.patreon.com/posts/34978041) page and become a patron, $2 a month will give you access to this and other flash fiction stories. If you enjoyed Darren’s tale, delve into his origins with [Darren Gilbert: Journeys](https://www.wattpad.com/story/193730653-darren-gilbert-journeys) on Wattpad.

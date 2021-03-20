@@ -13,7 +13,11 @@ date: 2020-08-30 21:28:12
 
 Confident with his work to undermine Liam’s agenda to abandon the platforms, Rylan focuses on other problems facing Tergara. And while he focuses on those issues, Rylan skips several council meetings because he’s unable to stomach the propaganda spewing forth from Liam and his constituents. On the day of the vote, Rylan arrives to find Liam arguing his position on several unrelated topics.<!-- more -->  Will Liam’s latest arguments sway the council? Or can Rylan’s previous efforts overcome Liam’s propaganda?
 
-<div class="center">[![Platform Vote](/images/covers/mounting-tensions.png "Platform Vote")](https://www.wattpad.com/945870689-mounting-tensions-platform-vote)</div>
+<div class="center">
+
+[![Platform Vote](/images/covers/mounting-tensions.png "Platform Vote")](https://www.wattpad.com/945870689-mounting-tensions-platform-vote)
+
+</div>
 
 Rylan eased into the seat beside Garvin and folded his hands in his lap. After listening to the drivel for a few minutes, he leaned toward his father-in-law and tapped his shoulder. “Why’s the council allowing Liam to drone on like this?”
 
@@ -31,4 +35,10 @@ Rylan’s head fell into his headrest as he closed his eyes, listening to the pr
 .
 .
 .
-</div><div>To continue reading the story, click [here](https://www.wattpad.com/945870689-mounting-tensions-platform-vote) to head over to Wattpad.</div>
+</div>
+
+<div>
+
+To continue reading the story, click [here](https://www.wattpad.com/945870689-mounting-tensions-platform-vote) to head over to Wattpad.
+
+</div>

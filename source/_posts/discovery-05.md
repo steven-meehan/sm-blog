@@ -12,7 +12,11 @@ date: 2021-02-09 22:28:07
 
 While Fenton and his team fought and ran from living trees, Jarvis and the rest of the expedition had their own trial of fire. Midway through establishing their base camp, a horde of hostile denizens of the planet rush from the forest. The weary defenders exterminate the hostile force, but the horde's ferocity leaves an impression upon the crew.<!-- more --> Will Fenton's rescued knowledge provide answers? Or will it spell the expedition's doom?
 
-<div class="center">[![Revelations](/images/covers/discovery.png "Revelations")](https://www.wattpad.com/1022931015-discovery-revelations)</div>
+<div class="center">
+
+[![Revelations](/images/covers/discovery.png "Revelations")](https://www.wattpad.com/1022931015-discovery-revelations)
+
+</div>
 
 A shot whizzed over Fenton’s head, driving him to the ground. His lips curled into a snarl as his head whipped up, “Why are you firing at friendlies?”
 
@@ -30,4 +34,10 @@ Rubbing his temples vigorously, Fenton followed his commander into the ship. “
 .
 .
 .
-</div><div>To continue reading the story, click [here](https://www.wattpad.com/1022931015-discovery-revelations) to head over to Wattpad.</div>
+</div>
+
+<div>
+
+To continue reading the story, click [here](https://www.wattpad.com/1022931015-discovery-revelations) to head over to Wattpad.
+
+</div>

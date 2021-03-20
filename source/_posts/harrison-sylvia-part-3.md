@@ -10,7 +10,14 @@ showKofiSuport: true
 ---
 
 Last month Harrison was introduced, and he displayed his desire to find a way to do what he loved, rather than be a slave to his father's will.  At least that was what he thought, this month we return to Harrison's story to see how his life has changed as a result of his victory.<!-- more -->
-<hr class="clear-both center-fade"/><div class="embedded-image-left">![](/writing/harrison-sylvia/series-01/harrison-sylvia-1.jpg)</div>
+
+<hr class="clear-both center-fade"/>
+
+<div class="embedded-image-left">
+
+![Harrison & Sylvia Part Three](/writing/harrison-sylvia/series-01/harrison-sylvia-1.jpg)
+
+</div>
 
 Having achieved his lifelong dream of replicating a relic Harrison is ecstatic.  Yet as he names his device, the Illuminator, his father dashes his hopes of aimlessly tinkering with relics when he informs his son that his Illuminator is going to be mass produced.  Adding insult to injury, his father demands that Harrison replicate other relics for the same purpose, beginning with their own.
 
@@ -21,4 +28,13 @@ After exhausting the relics on his family's isle, Harrison is forced to refine h
 When Harrison finally arrives on the King's Isle, he is unsure if he can achieve similar results.  Come and discover if Harrison is able to satisfy his father's desire for power and prestige.
 
 <div class="clear-both center">
-[![Part Three](/writing/harrison-sylvia/series-01/part-3/hs103.jpg "Part Three")](https://www.wattpad.com/761350237-harrison-sylvia-crossroads-part-three)<p>Click above to read Part Three</p></div>
+
+[![Part Three](/writing/harrison-sylvia/series-01/part-3/hs103.jpg "Part Three")](https://www.wattpad.com/761350237-harrison-sylvia-crossroads-part-three)
+
+<p>
+
+Click above to read Part Three
+
+</p>
+
+</div>

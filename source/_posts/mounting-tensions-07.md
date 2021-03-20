@@ -13,7 +13,11 @@ date: 2021-02-15 23:20:52
 
 After returning home to continue his recovery, Rylan requests that he and Annabelle go out for a meal. Annabelle suggests one of their favorite restaurants, but Rylan insists on a new establishment. Reluctantly Annabelle agrees and as they travel through the city, his smile sours at the sight of the military personnel lining the streets. Once they are seated, Rylan quickly begins musing about Liam’s accomplishments and plans. He is amazed at how far he’s pushed things.<!-- more --> Has Rylan given up on trying to fight Liam? Or will he reveal his plans to Annabelle as they share a meal?
 
-<div class="center">[![Discussing Options](/images/covers/mounting-tensions.png "Discussing Options")](https://www.wattpad.com/1026983799-mounting-tensions-discussing-options)</div>
+<div class="center">
+
+[![Discussing Options](/images/covers/mounting-tensions.png "Discussing Options")](https://www.wattpad.com/1026983799-mounting-tensions-discussing-options)
+
+</div>
 
 “It’s amazing what Liam’s been able to achieve in such a short amount of time.”
 
@@ -27,4 +31,10 @@ Rylan raised a finger, and their waiter hurried over. The man deposited a plate 
 .
 .
 .
-</div><div>To continue reading the story, click [here](https://www.wattpad.com/1026983799-mounting-tensions-discussing-options) to head over to Wattpad.</div>
+</div>
+
+<div>
+
+To continue reading the story, click [here](https://www.wattpad.com/1026983799-mounting-tensions-discussing-options) to head over to Wattpad.
+
+</div>

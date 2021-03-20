@@ -18,7 +18,11 @@ The man peering down the chasm smiled, waving his arms over his head. He glanced
 
 Daniel pulled Ethan closer, smirking as he nudged his friend’s shoulder. “You make it sound so unpleasant.”<!-- more -->
 
-<div class="embedded-image-left">![Running Leap](/images/nyc-midnight/2020/running-leap.png)</div>
+<div class="embedded-image-left">
+
+![Running Leap](/images/nyc-midnight/2020/running-leap.png)
+
+</div>
 
 Ethan pushed Daniel away, as he thrust his hand toward the far side of the gorge. “That gap’s over ten feet wide, and I’ll remind you of two things. First, your earlier try came up short and second you almost killed yourself when you plummeted thirty feet into the lake.”
 

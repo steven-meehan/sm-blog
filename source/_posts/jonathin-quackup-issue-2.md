@@ -13,7 +13,11 @@ After reading the first issue of [Jonathin Quackup of the Planet Weralt](https:/
 
 Just like the first book, the second one was intriguing, and it captured my attention.  Letting my eyes soak up the cover my mind was ready for action and my mind was prepared for the promise of knightly action.<!-- more -->  Scrolling past the cover I found the first page of the book, and just like before we are given more information about Jonathin in the present.  He has taken on the mantle of a wandering hero, and we are dropped into the middle of one of his heroic acts.  In the encounter Jonathin quickly is forced to remember his past and the book continues right where the first left off.
 
-<div class="embedded-image-right">![](./jonathin-quackup-issue-2.jpg)</div>
+<div class="embedded-image-right">
+
+![Jonathin Quackup, Issue 2](./jonathin-quackup-issue-2.jpg)
+
+</div>
 
 With my first pass through the book, I studied the art and took in all of the panels' details.  The artwork of this book goes farther than the first expressing the characters emotions, specifically those of Jonathin.  From the [Kickstarter campaign](https://www.kickstarter.com/projects/raytoons/jonathin-quackup-issue-3-the-deadly-journey) I knew that Jonathin's family was going to die and that fact was definitely foreshadowed in the first book and executed perfectly in this book.  The panels perfectly captured the emotional impact of the characters at very critical times.
 

@@ -16,4 +16,8 @@ Still working without a full name for my master thief, I went delving for this j
 
 Jessica’s current job drops her in a vineyard, searching for the owner’s treasure. With no concrete information, will she ever find it…
 
-<div class="center">[![Liquid Assets](/images/patreon-flash-fiction/liquid-assets.png "Liquid Assets")](https://www.patreon.com/posts/32612422)</div>
+<div class="center">
+
+[![Liquid Assets](/images/patreon-flash-fiction/liquid-assets.png "Liquid Assets")](https://www.patreon.com/posts/32612422)
+
+</div>

@@ -16,7 +16,11 @@ With the prompt in place, I sat down, and the story flowed from my fingertips in
 
 Follow Lucile as she wanders her Uncle’s strawberry farm lost in her thoughts. Will the tranquility of the field bring her peace…
 
-<div class="center">[![Simple Pleasures](/images/patreon-flash-fiction/2020/simple-pleasures.png "Simple Pleasures")](https://www.patreon.com/posts/40484134)</div>
+<div class="center">
+
+[![Simple Pleasures](/images/patreon-flash-fiction/2020/simple-pleasures.png "Simple Pleasures")](https://www.patreon.com/posts/40484134)
+
+</div>
 
 Lucile’s fingertips slid across the worn boards of the raised platforms of her Uncle’s berry field. With every step, a bunch of green and red fruits collided with her fingers, their rough surface rubbing her delicate skin. As she strolled through the strawberry field, it took her a few moments to realize that she couldn’t feel the touch of the smooth wood. Her hands jerked to her chest as she held her breath. 
 
@@ -34,4 +38,10 @@ The man sauntered up to his niece and wrapped an arm around her shoulders and ta
 .
 .
 .
-</div><div>To continue reading head over to my [Patreon page](https://www.patreon.com/posts/40484134) and become a patron, $2 a month will give you access to this and other flash fiction stories.</div>
+</div>
+
+<div>
+
+To continue reading head over to my [Patreon page](https://www.patreon.com/posts/40484134) and become a patron, $2 a month will give you access to this and other flash fiction stories.
+
+</div>

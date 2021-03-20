@@ -16,7 +16,11 @@ For most of my picture prompts, I’ll take a picture that speaks to me and writ
 
 I laid the initial threads for Discovery, while I worked on Colonization, but I knew I needed something to bridge the time between the narratives. While those initial scribbles mentioned the inhabitants of the homeworld grew frightened and insular when they lost contact with their ship, I knew something would have to motivate an entire planet to investigate that loss. So while Colonization drew to a close, I let a story line percolate in my mind, and Return unfurled. Pull up a chair and get comfortable so you can delve into the bridge between these two collections.
 
-<div class="center">[![Return](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/105583cf-61e4-4514-8937-325568f6b6ed/d2yfpd5-bf00ffcb-0692-4cb4-bd57-b5c4c9edc80c.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMTA1NTgzY2YtNjFlNC00NTE0LTg5MzctMzI1NTY4ZjZiNmVkXC9kMnlmcGQ1LWJmMDBmZmNiLTA2OTItNGNiNC1iZDU3LWI1YzRjOWVkYzgwYy5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.uujNxGQsNhrKG_Uo8mn_EmXsXo2AaTnCNUjojxyhYZ0 "Council Chamber by JackEavesArt")](https://www.deviantart.com/jackeavesart/art/Council-Chamber-178772009)</div>
+<div class="center">
+
+[![Return](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/105583cf-61e4-4514-8937-325568f6b6ed/d2yfpd5-bf00ffcb-0692-4cb4-bd57-b5c4c9edc80c.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMTA1NTgzY2YtNjFlNC00NTE0LTg5MzctMzI1NTY4ZjZiNmVkXC9kMnlmcGQ1LWJmMDBmZmNiLTA2OTItNGNiNC1iZDU3LWI1YzRjOWVkYzgwYy5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.uujNxGQsNhrKG_Uo8mn_EmXsXo2AaTnCNUjojxyhYZ0 "Council Chamber by JackEavesArt")](https://www.deviantart.com/jackeavesart/art/Council-Chamber-178772009)
+
+</div>
 
 The gathered council members sat in the hall, whispering amongst themselves as they waited for the session to begin. As the whispers grew, one voice sliced through the din, reaching everyone’s ears. “There’s no scheduled vote today. Why are we here?”
 

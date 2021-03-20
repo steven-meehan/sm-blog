@@ -10,7 +10,11 @@ date: 2020-08-06 21:21:51
 
 A couple months ago, the family decided to set aside thirty minutes every night for reading. And the only self-imposed restriction was that no one could choose an audiobook. So, I dusted off my Kindle and plugged it into the charging station and went about the rest of the evening. When the time to read came, I opened the Kindle and browsed, coming across [*Harley Merlin and the Secret Coven*](https://www.amazon.com/Harley-Merlin-Secret-Coven-Forrest-ebook/dp/B07DNGRZF7). I couldn’t say why the book captured my attention, it may have been the cover, the title, the blurb, or a combination of the three. But I needed to choose something, and before I knew it, I borrowed the book via the Kindle Lending Library and started reading it.<!-- more -->
 
-<div class="center">[![Harley Merlin and the Secret Coven](./harley-merlin-secret-coven.jpg "Harley Merlin and the Secret Coven")](https://www.amazon.com/Harley-Merlin-Secret-Coven-Forrest-ebook/dp/B07DNGRZF7)</div>
+<div class="center">
+
+[![Harley Merlin and the Secret Coven](./harley-merlin-secret-coven.jpg "Harley Merlin and the Secret Coven")](https://www.amazon.com/Harley-Merlin-Secret-Coven-Forrest-ebook/dp/B07DNGRZF7)
+
+</div>
 
 While the book starts a little slow, the dedicated thirty minutes a day to read got me through the initial chapters. And for that, I’m thankful. When the action started, Bella Forrest paced it beautifully. The initial conflict of the novel pits Harley’s feeble abilities against a gargoyle who is searching for his next meal. It quickly becomes clear that she’s taken on more than she can handle. Fortunately for her, another magical intervenes, keeping her from joining the helpless human as the gargoyle’s next meal.
 

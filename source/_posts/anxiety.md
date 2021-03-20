@@ -17,7 +17,11 @@ I did some research into the workings of an 1800s cattle ranch in the Midwest, a
 
 Emma and Thomas’s wedding is approaching, but the bride is uneasy with this new chapter in her life. Can her parents soothe Emma’s unease…
 
-<div class="center">[![Anxiety](/images/patreon-flash-fiction/2020/anxiety.png "Anxiety")](https://www.patreon.com/posts/43263262)</div>
+<div class="center">
+
+[![Anxiety](/images/patreon-flash-fiction/2020/anxiety.png "Anxiety")](https://www.patreon.com/posts/43263262)
+
+</div>
 
 A robust man bent down, lifting his wife’s head from her needlework. He leaned forward and kissed her. When they finished, he knelt and drew the back of his hand along her cheek. “I’ll return shortly with dinner, Anna.”
 
@@ -35,4 +39,10 @@ With a series of sniffles, Anna guided her needle along the hem of the garment r
 .
 .
 .
-</div><div>To continue reading head over to my [Patreon page](https://www.patreon.com/posts/43263262) and become a patron, $2 a month will give you access to this and other flash fiction stories.</div>
+</div>
+
+<div>
+
+To continue reading head over to my [Patreon page](https://www.patreon.com/posts/43263262) and become a patron, $2 a month will give you access to this and other flash fiction stories.
+
+</div>

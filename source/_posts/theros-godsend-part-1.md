@@ -18,4 +18,8 @@ The first book’s climax, while entertaining and well woven, came all too soon 
 
 People who are diehard fans of either Greek mythology or Magic the Gathering would enjoy this story.
 
-<div class="center">[![Theros Godsend Part I](./theros-godsend-part-1.jpg "Theros Godsend Part I")](https://www.amazon.com/Theros-Godsend-Part-Jenna-Helland-ebook/dp/B00FUZNL7O/ref=sr_1_3?keywords=theros&qid=1572556429&sr=8-3)</div>
+<div class="center">
+
+[![Theros Godsend Part I](./theros-godsend-part-1.jpg "Theros Godsend Part I")](https://www.amazon.com/Theros-Godsend-Part-Jenna-Helland-ebook/dp/B00FUZNL7O/ref=sr_1_3?keywords=theros&qid=1572556429&sr=8-3)
+
+</div>

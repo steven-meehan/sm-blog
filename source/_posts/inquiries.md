@@ -15,4 +15,8 @@ Then my mind flashed to Law & Order and Perry Mason. Courtrooms have the potenti
 
 A defendant caught with blood on his hands claims someone set him up. Will his attorney be able to shine the light of truth on the crime...
 
-<div class="center">[![Inquiries](/images/patreon-flash-fiction/2020/inquiries.png "Inquiries")](https://www.patreon.com/posts/inquiries-33938239)</div>
+<div class="center">
+
+[![Inquiries](/images/patreon-flash-fiction/2020/inquiries.png "Inquiries")](https://www.patreon.com/posts/inquiries-33938239)
+
+</div>

@@ -15,7 +15,13 @@ Patricia’s fingers caressed the photograph in the album. Her fingers kept trac
 
 When she calmed her sorrowful eyes, Patricia lowered the book. As she studied the picture, she caught sight of the banner for the homecoming dance over their head. She ripped her gaze away from the photograph.<!-- more --> With her fingers clutching at the album, she remembered her last night with James. The memory blazed in her mind as if it happened moments ago rather than just over a year ago.
 
-<div class="embedded-image-right">![Letters](/images/nyc-midnight/letters.png)</div>Gripping each other’s hands, Patricia and James glided across the school’s auditorium. She barely heard the lyrics of Van Morrison’s Crazy Love or the conversations of the dancers filling the room. Ignoring the banner and the decorations, Patricia focused upon James’s bright eyes. She never wanted to tear her eyes away from his. Those vibrant orbs sucked her into them like a whirlpool yanking ships into the depths. Patricia sighed and smiled, leaning into his chest.
+<div class="embedded-image-right">
+
+![Letters](/images/nyc-midnight/letters.png)
+
+</div>
+
+Gripping each other’s hands, Patricia and James glided across the school’s auditorium. She barely heard the lyrics of Van Morrison’s Crazy Love or the conversations of the dancers filling the room. Ignoring the banner and the decorations, Patricia focused upon James’s bright eyes. She never wanted to tear her eyes away from his. Those vibrant orbs sucked her into them like a whirlpool yanking ships into the depths. Patricia sighed and smiled, leaning into his chest.
 
 Flashing her a warm smile, James tightened his grip around her as they swayed. Pulling at her waist, James mouthed the chorus in time with Van Morrison. She give me love, love, love, love, crazy love.
 

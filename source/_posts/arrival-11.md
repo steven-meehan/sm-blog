@@ -11,7 +11,11 @@ showKofiSuport: true
 
 With the birth of his newest child, Marcus returns home to work his estate and care for his herd. Marcus and Talia help spread the expertize of husbandry to the other farmers in the Region. After scouring up all the unemployed citizens, Nathaniel sends them to the Eastern Region, and Marcus selects the best of the bunch. One day after selecting his men, Marcus interrupts Preston’s instruction for the fresh recruits a brief reprieve. During the break, Marcus catches sight of something on the horizon.<!-- more --> Will the approaching menace devastate Marcus’s land? Or will the recent developments of the Central Region save the day?
 
-<div class="center">[![One Round](/images/covers/arrival.png "One Round")](https://www.wattpad.com/861746315-arrival-one-round)</div>
+<div class="center">
+
+[![One Round](/images/covers/arrival.png "One Round")](https://www.wattpad.com/861746315-arrival-one-round)
+
+</div>
 
 “Preston, get over here!” Marcus cried as he spurred his horse towards the fence line. As the horse thundered across the grassland, he glanced back at the herd, catching sight of his helper. Marcus’s eyes whipped around, and he tugged on the reins as his mount drew close to the barrier.
 
@@ -29,4 +33,10 @@ Preston’s hand gripped his side as his lips quivered.
 .
 .
 .
-</div><div class="center">To continue reading the story, click [here](https://www.wattpad.com/861746315-arrival-one-round) to head over to Wattpad.</div>
+</div>
+
+<div class="center">
+
+To continue reading the story, click [here](https://www.wattpad.com/861746315-arrival-one-round) to head over to Wattpad.
+
+</div>

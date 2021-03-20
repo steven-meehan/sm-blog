@@ -17,7 +17,11 @@ With the foundation of the tale entrenched in my mind, I took a slight break. Wh
 A seasoned thief has procured the services of a reckless youngster. Will this unlikely pairing bear fruit? Or will their efforts fail...
 
 
-<div class="center">[![Beginnings](/images/patreon-flash-fiction/2020/beginnings.png "Beginnings")](https://www.patreon.com/posts/42094839)</div>
+<div class="center">
+
+[![Beginnings](/images/patreon-flash-fiction/2020/beginnings.png "Beginnings")](https://www.patreon.com/posts/42094839)
+
+</div>
 
 As a shadow slid down the home’s exterior wall, Alistair groaned and tapped his earpiece. “Dexter, I spliced the disruptor into the power line last night, don’t worry about disabling the security system.”
 
@@ -33,4 +37,10 @@ Alistair’s teeth ground as he glared across the lawn at his partner. His finge
 .
 .
 .
-</div><div>To continue reading head over to my [Patreon page](https://www.patreon.com/posts/42094839) and become a patron, $2 a month will give you access to this and other flash fiction stories.</div>
+</div>
+
+<div>
+
+To continue reading head over to my [Patreon page](https://www.patreon.com/posts/42094839) and become a patron, $2 a month will give you access to this and other flash fiction stories.
+
+</div>

@@ -13,7 +13,11 @@ date: 2021-01-27 21:15:49
 
 On the heels of Caitlin's success with founding the Federation, the other leaders return to their homes. Promptly Caitlin and Quinn start working on their initial decrees. Upon completing the first, they send a copy to the other leaders, including Olyver.<!-- more --> Will the first act of the Federation be cheered by Olyver? Or will he try to undermine Caitlin and Quinn's first decree?
 
-<div class="center">[![Initial Acts](/images/covers/transformation.png "Initial Acts")](https://www.wattpad.com/1017441753-transformation-initial-acts)</div>
+<div class="center">
+
+[![Initial Acts](/images/covers/transformation.png "Initial Acts")](https://www.wattpad.com/1017441753-transformation-initial-acts)
+
+</div>
 
 Olyver threw the Chairman’s doors open and stormed inside, rushing to Caitlin. He ignored Quinn and slammed a tablet onto her desk. “What’s the meaning of this?!”
 
@@ -31,4 +35,10 @@ Olyver straightened as rage and frustration rippled across his face. He took sev
 .
 .
 .
-</div><div>To continue reading the story, click [here](https://www.wattpad.com/1017441753-transformation-initial-acts) to head over to Wattpad.</div>
+</div>
+
+<div>
+
+To continue reading the story, click [here](https://www.wattpad.com/1017441753-transformation-initial-acts) to head over to Wattpad.
+
+</div>

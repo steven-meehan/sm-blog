@@ -16,4 +16,8 @@ The tale’s comedy focusses around Tom's newest intern, who isn't up to interdi
  
 The action is well done and moves at a quick pace. The comedic relief is expertly done, and while the intrepid and customer-centric insurance agent is set in his desire to deliver top-quality service to his customers, Tom's journey brings him to a moment of clarity as he deals with his newest intern. 
 
-<div class="center">[![The Adventures of Tom Stranger, Interdimensional Insurance Agent](./tom-stranger.jpg "The Adventures of Tom Stranger, Interdimensional Insurance Agent")](https://www.audible.com/pd/The-Adventures-of-Tom-Stranger-Interdimensional-Insurance-Agent-Audiobook/B01D0FJOAI)</div>
+<div class="center">
+
+[![The Adventures of Tom Stranger, Interdimensional Insurance Agent](./tom-stranger.jpg "The Adventures of Tom Stranger, Interdimensional Insurance Agent")](https://www.audible.com/pd/The-Adventures-of-Tom-Stranger-Interdimensional-Insurance-Agent-Audiobook/B01D0FJOAI)
+
+</div>

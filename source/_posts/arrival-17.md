@@ -15,7 +15,11 @@ However, the leader of the ship, Nathaniel, understands that despite trying to r
 
 But that’s enough exposition. Over the last few months [*Discussions*](/archives/2020/07/08/arrival-14/), [*Exploration*](/archives/2020/08/10/arrival-15/), and [*Return Journey*](/archives/2020/10/13/arrival-16/) have been focused on a plan hatched by the best and brightest of the Novan scientists. This month our attention will be centered on a conversation between Nathaniel and his confidant, Marcus, while those scientists seek to find the answers to their escape from their temporary home.
 
-<div class="center">[![Circumstances](/images/covers/arrival.png "Circumstances")](https://www.wattpad.com/983028904-arrival-circumstances)</div>
+<div class="center">
+
+[![Circumstances](/images/covers/arrival.png "Circumstances")](https://www.wattpad.com/983028904-arrival-circumstances)
+
+</div>
 
 Nathaniel clapped Marcus’s back, “What are you worried about?”
 
@@ -33,4 +37,10 @@ A scientist approached, tapped the window, and thrust his finger towards the exi
 .
 .
 .
-</div><div>To continue reading the story, click [here](https://www.wattpad.com/983028904-arrival-circumstances) to head over to Wattpad.</div>
+</div>
+
+<div>
+
+To continue reading the story, click [here](https://www.wattpad.com/983028904-arrival-circumstances) to head over to Wattpad.
+
+</div>

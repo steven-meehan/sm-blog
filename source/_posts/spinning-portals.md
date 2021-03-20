@@ -16,7 +16,11 @@ My random prompt for this tale required me to place the narrative in a laundroma
 
 A child enters a laundromat frightened, searching for someone to help him. He finds the only person in the building. Will this man help...
 
-<div class="center">[![Spinning Portals](/images/patreon-flash-fiction/spinning-portals.png "Spinning Portals")](https://www.patreon.com/posts/37347784)</div>
+<div class="center">
+
+[![Spinning Portals](/images/patreon-flash-fiction/spinning-portals.png "Spinning Portals")](https://www.patreon.com/posts/37347784)
+
+</div>
 
 A frail adolescent boy shouldered the laundromat’s door open and slammed it shut. He slid down the glass, gasping as his body shuddered. When his breathing evened out, the child rose and stared outside. He turned around and ran his fingers through his hair as he registered the rows of washing and drying machines. His head swayed as he darted across the aisles. When he came to the last one, his eyes widened.
 
@@ -36,4 +40,10 @@ The man folded his broadsheet and opened his slicker and slipped the paper into 
 .
 .
 .
-</div><div>To continue reading head over to my Patreon page and become a patron, $2 a month will give you access to this and other flash fiction stories.</div>
+</div>
+
+<div>
+
+To continue reading head over to my Patreon [page](https://www.patreon.com/posts/37347784) and become a patron, $2 a month will give you access to this and other flash fiction stories.
+
+</div>

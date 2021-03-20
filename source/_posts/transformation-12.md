@@ -13,7 +13,11 @@ showKofiSuport: true
 
 After the rough landing on Soloran, Isaac forced the triumvirs to redesign the colonization ships. Irate of the potential delay, Olyver pushed for the Triumvirate to ignore the complaints of a single pilot. Unfortunately for him, Quinn and Caitlin take the pilot’s concern seriously and force Olyver to reluctantly agree to the patient path. But despite the setback, Olyver seeks to honor his promises.<!-- more --> Will Olyver be able to honor those pledges? Or will he be required to give his constituents unwelcome news?
 
-<div class="center">[![Solora's Descent](/images/covers/transformation.png "Solora's Descent")](https://www.wattpad.com/848459711-transformation-best-laid-plans)</div>
+<div class="center">
+
+[![Solora's Descent](/images/covers/transformation.png "Solora's Descent")](https://www.wattpad.com/848459711-transformation-best-laid-plans)
+
+</div>
 
 Olyver inhaled the aromas wafting up from the food arrayed before him. As he extracted the silverware from his napkin, the triumvir licked his lips. Olyver dragged the knife’s edge along the tines of his fork, stopping when the plate slid across the table. He followed the motion, discovering two men and a woman occupying the opposite bench. Olyver’s eyes darted among the trio and the exit as the utensils tumbled out of his grip, clattering on the table.
 
@@ -31,4 +35,10 @@ The woman popped the morsel into her mouth and started chewing.
 .
 .
 .
-</div><div class="center">To continue reading the story, click [here](https://www.wattpad.com/848459711-transformation-best-laid-plans) to head over to Wattpad.</div>
+</div>
+
+<div class="center">
+
+To continue reading the story, click [here](https://www.wattpad.com/848459711-transformation-best-laid-plans) to head over to Wattpad.
+
+</div>

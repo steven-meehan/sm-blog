@@ -19,7 +19,6 @@ Despite having Odysseus maintain a firm grasp on his honor even with his cowardi
 {% post_link greek-mythology-part-1 Part 1 %}  |  {% post_link greek-mythology-part-2 Part 2 %}  | {% post_link greek-mythology-part-4 Part 4 %}  | {% post_link greek-mythology-part-5 Part 5 %}
 
 
-<sup><sub>Bibliography</sub></sup>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><sub>Ajax translated by E.F. Wlting</sub></sup>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><sub>Philoctetes translated by E.F. Watling</sub></sup>

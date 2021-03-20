@@ -14,7 +14,11 @@ In [*Tombyards & Butterflies*](/archives/2019/11/05/tombyards-butterflies), Orla
 
 After the attack, The Dark Council blames Tristan for creating the disease that is spreading throughout the werewolf community and sends him an ultimatum. He can either surrender or be declared a dark mage and suffer the consequences. As with the previous installment, since Simon is immortal, this implication serves to keep the detective on his toes with death lurking around the corner.
 
-<div class="center">[![*Full Moon Howl*](https://m.media-amazon.com/images/I/617j6PQgR1L._SL500_.jpg "Full Moon Howl")](https://www.audible.com/pd/Full-Moon-Howl-Audiobook/B07BNSWCT9)</div>
+<div class="center">
+
+[![*Full Moon Howl*](https://m.media-amazon.com/images/I/617j6PQgR1L._SL500_.jpg "Full Moon Howl")](https://www.audible.com/pd/Full-Moon-Howl-Audiobook/B07BNSWCT9)
+
+</div>
 
 Taking a step back and looking at the book, the plot moves along at a good pace and is punctuated with enough action to capture my attention. But that doesn’t mean that Orlando Sanchez ignores his characters. Each continues to develop and grow from the initial page to the story’s conclusion. And the humor laced throughout *Full Moon Howl* is as sharp and well placed as the first entry.
 

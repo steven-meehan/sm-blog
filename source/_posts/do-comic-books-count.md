@@ -6,7 +6,13 @@ categories:
 - [Question]
 showKofiSuport: false
 ---
-What is an acceptable piece of literature?  Are stories only acceptable after they have survived for generations?  Do they have to be distributed throughout the world?  Or can they be contained in just a handful of pages?<!-- more --><div class="embedded-image-right">![Dresden Files: Ghoul Goblin](./comic-books-count.jpg)</div>
+What is an acceptable piece of literature?  Are stories only acceptable after they have survived for generations?  Do they have to be distributed throughout the world?  Or can they be contained in just a handful of pages?<!-- more -->
+
+<div class="embedded-image-right">
+
+![Dresden Files: Ghoul Goblin](./comic-books-count.jpg)
+
+</div>
 
 Comic books, or graphic novels as they are marketed in places, have historically been looked down upon as childish.  While they **might** be allowed for children, for the rest of the population they held little to no value.  And someone who wanted to read one was considered foolish and unable to read a regular novel.  Over the last couple of decades comic books, rather graphic novels, have made strides, and are now considered by some people to be acceptable.
 
