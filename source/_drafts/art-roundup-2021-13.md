@@ -9,16 +9,44 @@ What art im up to<!-- more -->
 
 Sit back and enjoy the artwork below and as always, click on any image below to get a better look at the picture.
 
-<div class="center">[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)</div>
+<div class="center">
 
-<div class="center">[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)</div>
+[![Liquified Clouds 0407](IMAGE-LINK "Liquified Clouds 0407")](PAGE-URL)
 
-<div class="center">[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)</div>
+</div>
 
-<div class="center">[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)</div>
+<div class="center">
 
-<div class="center">[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)</div>
+[![Guardian](IMAGE-LINK "Guardian")](PAGE-URL)
 
-<div class="center">[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)</div>
+</div>
 
-<div class="center">[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)</div>
+<div class="center">
+
+[![Swirled Lotus](IMAGE-LINK "Swirled Lotus")](PAGE-URL)
+
+</div>
+
+<div class="center">
+
+[![Liquified Clouds 0508](IMAGE-LINK "Liquified Clouds 0508")](PAGE-URL)
+
+</div>
+
+<div class="center">
+
+[![Melted Chain](IMAGE-LINK "Melted Chain")](PAGE-URL)
+
+</div>
+
+<div class="center">
+
+[![Liquified Clouds 0210](IMAGE-LINK "Liquified Clouds 0210")](PAGE-URL)
+
+</div>
+
+<div class="center">
+
+[![Liquified Clouds 0408](IMAGE-LINK "Liquified Clouds 0408")](PAGE-URL)
+
+</div>

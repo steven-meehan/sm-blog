@@ -6,7 +6,21 @@ categories:
 prompt: ' => , , '
 showKofiSuport: false
 ---
-<!-- more --><div class="embedded-image-left">![](./)</div><div class="embedded-image-right">![](./)</div>
+<!-- more -->
+
+<div class="embedded-image-left">
+
+![](./)
+
+</div>
+
+<div class="embedded-image-right">
+
+![](./)
+
+</div>
+
+---
 
 <div class="center">
 
@@ -30,6 +44,8 @@ To continue reading head over to my [Patreon page](https://www.patreon.com/...) 
 
 </div>
 
+---
+
 <div class="center">
 
 [![](/images/covers/....png "")](https://www.wattpad.com/...)
@@ -52,7 +68,7 @@ To continue reading the story, click [here](https://www.wattpad.com/...) to head
 
 </div>
 
-...
+---
 
 <div class="center">
 
