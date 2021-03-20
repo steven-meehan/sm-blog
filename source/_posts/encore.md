@@ -37,9 +37,11 @@ The bartender opened the refrigerator and collected the requested beverages. He 
 “I don’t require that.” Kathy rose and grabbed her drinks. She tucked a drink under an arm and used the opener on her key chain to open the other. Kathy sipped the beverage as she sauntered over to the karaoke machine.
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

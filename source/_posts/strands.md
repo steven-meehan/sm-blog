@@ -36,9 +36,11 @@ The hooded figure nodded and pointed at the exhibit, “It’s a unique piece fo
 Darren withdrew a small object, keeping it hidden from the docent’s view.
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

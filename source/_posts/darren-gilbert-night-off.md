@@ -31,9 +31,11 @@ Darren nudged Maxwell and shoved his face into Wayne’s. “We told you our age
 With smoldering eyes, Maxwell stepped in front of Wayne.
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

@@ -6,7 +6,7 @@ categories:
 - [Thought]
 showKofiSuport: false
 ---
-When I hear the name Richard Castle, my first thoughts are not of actual books, but of the ABC television show, Castle.  Not content dominating his assigned hour entertaining us, Richard Castle reaches out from the screen and into our lives through his Niki Heat series.  <!-- more -->His books refused to be limited to his fictional world, they have traversed through the screen and into bookstores across the nation.  Richard Castle is a New York Times bestselling author, yet he has never walked those New York streets. 
+When I hear the name Richard Castle, my first thoughts are not of actual books, but of the ABC television show, Castle.  Not content dominating his assigned hour entertaining us, Richard Castle reaches out from the screen and into our lives through his Niki Heat series.<!-- more --> His books refused to be limited to his fictional world, they have traversed through the screen and into bookstores across the nation.  Richard Castle is a New York Times bestselling author, yet he has never walked those New York streets. 
 
 During the very first episode of the show we are introduced to Richard Castle as he is celebrating the launch of his last Derick Storm novel through the birth of his new character Niki Heat.  Throughout his research, the show’s premise, we catch glimpses of his new novel, Heat Wave.  When the second season aired we are treated to the launch of his book, a feat that mirrored the real world eight days later. On September 29th 2009, Heat Wave debuted at number 26 on the New York Times best seller list.  And, by early November, the book reached {% link 'number 6' 'http://www.nytimes.com/best-sellers-books/2009-11-08/hardcover-fiction/list.html' %} on the list.
 

@@ -33,9 +33,11 @@ When the second sauntered into the alley, he shoved the last one down the lane, 
 Rylan sighed and stepped out of his patch of shadows and waived at the trio. “Evan, why are you following me?”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

@@ -28,9 +28,11 @@ Annabelle unrolled the napkin, freeing the utensils, and laid them on the table.
 Rylan raised a finger, and their waiter hurried over. The man deposited a plate of sliced bread and a carafe of oil between them, “Are you ready to order?”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

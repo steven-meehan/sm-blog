@@ -30,9 +30,11 @@ Marcus laid the brush on his horse’s back and patted her haunches as he saunte
 “It’s okay Marcus, you don’t need to spare my feelings. It was an utter disaster.” Nathaniel slapped his thighs and ground his teeth. “One Kethra’s using to usurp control.” 
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

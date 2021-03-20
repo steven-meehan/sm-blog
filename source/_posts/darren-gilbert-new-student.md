@@ -31,9 +31,11 @@ The young man looked down his nose at the gathered pupils, claiming the serving 
 Darren scrunched his face and scooped a mouthful of the stew. With a flourish, he shoved it into his mouth and started speaking around the bite. “The food is delicious.”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div class="center">

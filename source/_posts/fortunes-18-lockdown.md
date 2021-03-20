@@ -35,9 +35,11 @@ With a chuckle, Darvan muttered, “You appear competent in that regard.”
 The sizeable man shook his head.
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div class="center">

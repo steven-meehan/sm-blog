@@ -32,9 +32,11 @@ Rylan coughed into his elbow and nodded. As the coughing ceased, he gripped her 
 “It isn’t far,” Annabelle pulled Rylan’s arm around her shoulders and guided him down the street. After a few steps, she released his wrist and pointed down the road. “Can you see the dark green one? It’s only three cars down.”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

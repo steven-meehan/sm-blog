@@ -31,9 +31,11 @@ He squeezed his legs, and Pearl flapped her mighty wings, propelling them into D
 Samuel reached under his shirt and pulled out a charm. He patted it against his chest and grabbed his rifle. He hopped off Pearl’s back and laid his weapon’s barrel against his shoulder, while he examined the surroundings. Samuel glared at the entrance as he drew his revolver, letting the comfortable weight reassure him. Taking a deep breath, Samuel holstered his pistol and kicked the door open. He rushed in as his Winchester’s sights fluttered about those gathered inside. 
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

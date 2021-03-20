@@ -37,9 +37,11 @@ Camila grabbed her helmet, flipping the visor up and threaded her arm through th
 “He’s never on time.” Ava pulled a prescription bottle from her purse and shook it. She read the label and tossed the container into her bag. “Do you believe I’d be able to run to a drugstore to get my medication refilled?”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

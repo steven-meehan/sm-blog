@@ -35,9 +35,11 @@ Darren patted the doorframe, “Don’t insult my place.”
 Darren stepped aside and ushered Roland into his house, “I’m happy here.”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

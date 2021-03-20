@@ -31,9 +31,11 @@ Rolling to a knee, Fenton examined the crumbling walls. As the silence lingered,
 Fenton snickered as his eyes studied the path. “Brianna, I thought our mission was self-evident.” He patted a tree and smirked at the woman behind him. “We’re here to discover what happened to that outpost.”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

@@ -30,9 +30,11 @@ Laughter bubbled out of Marcus as he rose and pulled a parcel off the rack. He d
 As the train coasted to a stop, Marcus withdrew his gun, cracked it open, and poured the ammunition into his palm. He scrunched his face and shoved the shells into his pocket and pulled a bullet from a pouch on his waist, and grinned as he slipped it into a chamber. A sorrowful smile formed as he continued to pull rounds from the sack. When he thrust the last one into the handgun, Marcus closed it and returned it to its holster. Marcus’s grin gained some warmth as he touched the pistol, “It’s also the reason I brought all the lizard killer bullets I could get my hands on.”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

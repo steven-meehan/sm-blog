@@ -29,9 +29,11 @@ Her mother turned and kneeled in front of her and brushed some locks of hair awa
 The dutiful daughter buried her face into her mom’s shoulder. “I’m scared something bad will happen if I talk with strangers, and I don’t know anyone.”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 To continue reading [click here](https://www.patreon.com/posts/34180424) page and become a patron, $2 a month will give you access to this and other flash fiction stories.

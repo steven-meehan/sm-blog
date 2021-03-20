@@ -32,9 +32,11 @@ Marcus whirled around while he continued heading for the harbor. “Stop goofing
 “Yet never enough time to complete it all,” Bret finished.
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

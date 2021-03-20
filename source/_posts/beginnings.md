@@ -34,9 +34,11 @@ The shadow swayed and circled the glass opening, “Weren’t you just telling m
 Alistair’s teeth ground as he glared across the lawn at his partner. His fingernails dug into his palms as he inched toward the building, “At the time, I was teaching you how to correctly lift someone’s identification.”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

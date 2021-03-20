@@ -7,7 +7,7 @@ tags: [Video Games, Games]
 showKofiSuport: false
 ---
 
-When someone talks about a story, what is the first thing that pops into your mind?  I would wager that for most people in this day and age the answer would be either television or movies.  For a select few it might be a good book or even a play.  Now while all of these things have storylines, an avenue for storytellers that is rapidly growing is video game stories.  <!-- more -->Now I can hear the immediate question, "Wait, video games!?"  Now I'm sure a lot of the people who are asking that question are asking it because they are also saying that video games don't have any meaningful storylines.  And with a vast array of games, I would agree the storyline is either very weak or even nonexistent.  But just because some games choose not to rely upon a rich story does not mean that no games implement a storyline.
+When someone talks about a story, what is the first thing that pops into your mind?  I would wager that for most people in this day and age the answer would be either television or movies.  For a select few it might be a good book or even a play.  Now while all of these things have storylines, an avenue for storytellers that is rapidly growing is video game stories.<!-- more --> Now I can hear the immediate question, "Wait, video games!?"  Now I'm sure a lot of the people who are asking that question are asking it because they are also saying that video games don't have any meaningful storylines.  And with a vast array of games, I would agree the storyline is either very weak or even nonexistent.  But just because some games choose not to rely upon a rich story does not mean that no games implement a storyline.
 
 <div class="embedded-image-right">
 

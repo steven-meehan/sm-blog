@@ -31,9 +31,11 @@ Tarian took a deep breath and rubbed his temples, “If that monster had approac
 Tarian’s face scrunched as he stared into the sky as his hand gripped the doorknob. With a twist, he shoved the door open, muttering, “They’ll get over it. Caleb required ten darts to secure his doppelganger.”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div class="center">

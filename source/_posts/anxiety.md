@@ -36,9 +36,11 @@ As a tear formed in Anna’s eye, she sniffled and wiped it away with her thumb.
 With a series of sniffles, Anna guided her needle along the hem of the garment resting in her lap. She pulled a handkerchief from her bodice and patted her eyes as she studied the dancing flames. Anna shoved the cloth up her sleeve and lifted the piece of clothing off her legs. She quickly found the needle, and her fingers continued their relentless labor.
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

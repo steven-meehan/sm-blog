@@ -35,9 +35,11 @@ Jacob laid his chopsticks down and took a sip of his drink as he flourished his 
 Jacob rose and walked between the pair of beds, claiming the letter resting upon the shared nightstand.
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 To continue reading [click here](https://www.patreon.com/posts/35275022) page and become a patron, $2 a month will give you access to this and other flash fiction stories.

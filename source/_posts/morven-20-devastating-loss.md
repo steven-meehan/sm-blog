@@ -31,9 +31,11 @@ Lloyd drew a pistol and stared at his extra handgun. With a snort, he thrust it 
 “Just give me the gun,” Tarian barked as he snatched the weapon. He aimed the small firearm at the depot and inched forward.
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

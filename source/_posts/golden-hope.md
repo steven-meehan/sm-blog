@@ -37,9 +37,11 @@ The child held her breath, clambering out from under the bed, and dashed for the
 The girl’s shoulders hunched as she tore down the hall and ducked down a corridor and then another until she came upon an empty room. She sidestepped into it and eased the door closed behind her. With a soft thump, she threw her back against the wall and slid to the floor, burying her face into her hands as the tears flowed. When something tapped her shoulder, the child’s head snapped up and swiveled around.
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

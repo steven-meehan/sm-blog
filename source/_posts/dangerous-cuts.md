@@ -35,9 +35,11 @@ Darren stepped out of the doorway and allowed Geoffrey to leave.
 “I’m not a fan of the noise pounding inside my skull,” Darren replied, plopping down into the proffered seat. “I prefer soothing music, not a wild percussion going off at random intervals.”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 To continue reading, [click here](https://www.patreon.com/posts/34978041) page and become a patron, $2 a month will give you access to this and other flash fiction stories. If you enjoyed Darren’s tale, delve into his origins with [Darren Gilbert: Journeys](https://www.wattpad.com/story/193730653-darren-gilbert-journeys) on Wattpad.

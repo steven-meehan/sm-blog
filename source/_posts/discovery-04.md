@@ -31,9 +31,11 @@ Fenton studied the members of his squad as he rubbed his lips. With a twirl of h
 “Did Jarvis actually say that?”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

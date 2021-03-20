@@ -48,9 +48,11 @@ Jillian wiped her forehead and smacked dry lips. “Does anyone here honestly th
 Norna pulled the canteen from Jillian’s belt and sighed. “I am unsure how much farther we have to go to reach this spectacular sight,” she shook the bottle and let the silence ring out over the wildlife. 
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

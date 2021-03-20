@@ -32,9 +32,11 @@ As Marcus’s home came within view, Nathaniel caught sight of someone working n
 “She won’t get past the cattle guard,” Wayne replied without looking away from his work. “You better tie up your horse and hoof it.”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div class="center">

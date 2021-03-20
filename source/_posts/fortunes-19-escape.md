@@ -33,9 +33,11 @@ Annabelle tossed the gem into the air and caught it as it plummeted. “You plan
 “Yes,” Rylan said, lifting his back. He grabbed some stuff off his desk and shoved them into the bag. “With as volatile as he and the rest of the crew have become, they needed to stop anything.”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div class="center">

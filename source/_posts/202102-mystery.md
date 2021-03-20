@@ -38,9 +38,11 @@ The officer’s eyes narrowed. He marched to Kyle and grabbed the detective’s 
 Kyle shook his head and pulled a radio to his lips, “What’s the status of the steel doors?”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

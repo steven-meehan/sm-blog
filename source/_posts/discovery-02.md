@@ -36,9 +36,11 @@ His co-pilot turned toward Dyrk, pulling her legs tightly into her chest. “We�
 The responding silence died with a curse from Jarvis, “In what special world is that considered a stroll? That stretch is the definition of a day’s march. Couldn’t you have gotten closer?”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

@@ -35,9 +35,11 @@ Caleb stowed his radio and waved his team closer. “Something passed by recentl
 “Are we spreading out?” Mika asked as she examined their surroundings.
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div class="center">

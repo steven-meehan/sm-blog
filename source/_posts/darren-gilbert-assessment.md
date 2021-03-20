@@ -31,9 +31,11 @@ Maxwell peeled Roland’s limb off and smirked. “Even if Volodar presented me 
 “Relax, we won’t be the first to fight our newest student. Remember, this is Wayne’s assessment process. There’s a chance he’s a better fighter than either of you believe.”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

@@ -32,9 +32,11 @@ She reached out and plucked the fallen utensils and sliced off a bite. “If tha
 The woman popped the morsel into her mouth and started chewing.
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div class="center">

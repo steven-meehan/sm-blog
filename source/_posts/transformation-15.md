@@ -33,9 +33,11 @@ Isaac’s head turned, and he winked at Jasmine. “I’m capable of taking thin
 “Does that include landing?” Jasmine asked as her fingers made quotes in the air. “Or have you forgotten about the last colony ship you piloted?”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

@@ -35,9 +35,11 @@ The stranger’s face curdled, “Step away before you make a mistake.”
 The shifter’s eyes flashed with rage as they flicked to the lump. With a grumble, he walked toward it, glaring at the Hunter, “Call me Lander.”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

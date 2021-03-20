@@ -35,9 +35,11 @@ Annabelle smirked as her elbow flew into Rylan’s side. “With the crystals yo
 “That’s not surprising considering it wasn’t a complete report.” Rylan rested against the rail. “I assume the other crystals will solidify our efforts.”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

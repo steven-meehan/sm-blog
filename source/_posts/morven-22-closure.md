@@ -31,9 +31,11 @@ Caleb slowed as his head swayed, “Sorry, but it’s remarkable those monsters 
 When the weight lessened, Keldon whipped around, finding Tarian. “Allow me to assist you with this burden. You’ve helped me carry mine lately.”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

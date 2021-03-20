@@ -34,9 +34,11 @@ The sandwich froze halfway to Marcus’s lips, and he swallowed the remnants in 
 Nathaniel worked his jaw loose and refolded his hands on the desk. “Are you planning to do anything other than mock me?”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div class="center">

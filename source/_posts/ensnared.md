@@ -41,9 +41,11 @@ The barrier keeping the rain off him flickered and vanished as Darren backpedale
 Darren’s fingers splayed as he thrust his hands at the monster, flinging red lightning from his fingertips. The collection of power slammed into the creature’s chest. As the attack burrowed into the monster’s electrical body, it whirled toward Darren and charged the wizard.
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

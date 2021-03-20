@@ -29,9 +29,11 @@ Between strikes, the door swung inward, and Keldon eased into the room. He stare
 “And the second reason?” Tarian inquired, plunging the blade through the wood.
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div class="center">

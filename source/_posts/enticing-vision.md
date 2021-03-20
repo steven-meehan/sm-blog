@@ -42,9 +42,11 @@ Her mother bent down and squeezed her daughter. “There’s nothing wrong with 
 While the child’s mother ordered, another series of cracks roared, and the girl’s arms wrapped around her father’s leg. Despite the intensifying sounds coming from the street, the child cracked her eyes open and gaped at the small flight of stairs in front of her. She tugged her dad’s arm and nodded at the forming archway at the bottom of the stairwell.
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

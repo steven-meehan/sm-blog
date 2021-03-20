@@ -36,9 +36,11 @@ With a snort, Annabelle walked behind Rylan and started rubbing his neck, while 
 “I remember the weight dumped on your shoulders.” She pulled a hand from his grip and reached out for the tablet on the desk.
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

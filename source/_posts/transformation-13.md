@@ -32,9 +32,11 @@ With a growl, Quinn lifted the device. “Yes, Olyver, I scrutinized the entire 
 “That’s not entirely true,” Caitlin replied. She sauntered next to Quinn and kneeled, taking his hand in hers. She withdrew another pad and placed it into his. “Don’t forget that Aurora was a world ship.”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div class="center">

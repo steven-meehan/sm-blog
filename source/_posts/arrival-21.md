@@ -30,9 +30,11 @@ With a nod, Vincent vanished as he pulled the door. However, before it could lat
 Marcus’s eyes widened as he examined the three strangers. He raised his hands and forced his mouth to curl upward, “Hello, Roxanne, how are you doing?”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

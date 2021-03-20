@@ -35,9 +35,11 @@ However, Jessie’s thick fingers hauled Christian from the shadows of the trunk
 Jessie shoved the barrel of a gun into Christian’s back as his mouth curled into a half smile. “I was talking to whatever minions and lackeys you have holed up on the aquarium’s roof.”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

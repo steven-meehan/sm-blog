@@ -6,7 +6,7 @@ categories:
 tags: [Fantasy]
 showKofiSuport: false
 ---
-What is the first thing that pops into you mind when you hear the word librarians?  I'm sure it is close to someone who works in an antiquated building full of books.  They offer aid to people who are in search of a specific book and are quick to collect the fines when you're late returning on of their books.  But either of those ideas is so very far from evil.  <!-- more -->But since this is a work of fiction Brandon Sanderson has turned everything upside down and inside out.  A world where the librarians secretly control everything, on a massive scale.  Yet fortunately for the world there is a sliver of hope.  There is a resistance seeking to one day undo the damage inflicted by the librarians to the Hush Lands.  The result of this setup is a fantastically wonderful and funny tale surrounding one Alcatraz Smedry.
+What is the first thing that pops into you mind when you hear the word librarians?  I'm sure it is close to someone who works in an antiquated building full of books.  They offer aid to people who are in search of a specific book and are quick to collect the fines when you're late returning on of their books.  But either of those ideas is so very far from evil.<!-- more --> But since this is a work of fiction Brandon Sanderson has turned everything upside down and inside out.  A world where the librarians secretly control everything, on a massive scale.  Yet fortunately for the world there is a sliver of hope.  There is a resistance seeking to one day undo the damage inflicted by the librarians to the Hush Lands.  The result of this setup is a fantastically wonderful and funny tale surrounding one Alcatraz Smedry.
 
 <div class="embedded-image-left">
 

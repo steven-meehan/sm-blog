@@ -36,9 +36,11 @@ The junior detective pushed through the throng of uniformed police officers, dis
 Dennis nodded and walked out of the store. He took a deep breath and glared at his stained finger. Denis looked over his shoulder and cracked the knuckles of his right hand. He ambled to the pawnshop’s entrance and entered, forcing a smile. Denis slipped the notepad into his jacket and strolled to the shared wall, finding a pair of painters packing up. He glanced at his fingertip, and hustled over to them, “Good afternoon, gentlemen, how’s it going?”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

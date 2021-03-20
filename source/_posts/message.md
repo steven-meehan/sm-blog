@@ -34,9 +34,11 @@ Lamar’s nose flared as a stream of curses spewed from his lips. His legs flail
 Lamar crept to the nearest chair and touched its back, but his fingertips passed through the bleached leather. He threw his notarized hand up and kicked the seat, “What am I doing here? Whoever lives here isn’t worth my time. They’re beneath me.”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

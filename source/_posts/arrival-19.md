@@ -30,9 +30,11 @@ Bang!
 All eyes whipped toward the source, finding Marcus leaning against the table.
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

@@ -42,9 +42,11 @@ The shadow clad being cackled as she flitted about the alley, slowly clapping he
 The silver light emanating from the other fairy reddened as her lips turned down.
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

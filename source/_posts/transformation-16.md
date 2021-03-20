@@ -32,9 +32,11 @@ With a smirk of her own, Jasmine slapped his arm as a flash of white light washe
 “What are you two betting on?” Quinn asked.
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

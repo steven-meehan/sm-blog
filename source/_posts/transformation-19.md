@@ -32,9 +32,11 @@ The woman sitting to Bartholomew’s right turned and gripped Caitlin’s hand. 
 “That’s part of the reason we’re gathered here, Kerri.” Caitlin patted the woman’s forearm, gripping it tightly. “Specifically, with this discussion,” Caitlin pulled Kerri’s hand off her wrist and resumed her walk around the table. “With our efforts, the tragic loss of our homeworld will be transformed into a glorious new beginning.”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

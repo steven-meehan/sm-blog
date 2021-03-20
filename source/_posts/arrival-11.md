@@ -30,9 +30,11 @@ Preston leaned forward and patted his horse’s neck. “They seem to be fine,�
 Preston’s hand gripped his side as his lips quivered.
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div class="center">

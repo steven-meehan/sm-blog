@@ -13,9 +13,11 @@ showKofiSuport: false
 
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div><div>To continue reading head over to my [Patreon page](https://www.patreon.com/...) and become a patron, $2 a month will give you access to this and other flash fiction stories.</div>
 
 <div class="center">[![](/images/covers/....png "")](https://www.wattpad.com/...)</div>
@@ -23,9 +25,11 @@ showKofiSuport: false
 
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div><div>To continue reading the story, click [here](https://www.wattpad.com/...) to head over to Wattpad.</div>
 
 ...

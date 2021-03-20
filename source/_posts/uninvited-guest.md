@@ -42,9 +42,11 @@ Her finger traced the lines of text on the open pages. When she finished, she sp
 Lisandra’s eyes flittered about the chamber as she withdrew her wand from her belt. She gripped it tightly to her chest, “And who are you?”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

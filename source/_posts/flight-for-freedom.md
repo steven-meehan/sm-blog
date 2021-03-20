@@ -48,9 +48,11 @@ Boom!
 She dropped into the chair and slammed the canopy into place, silencing the thunderclaps. Her hands flew across the console, activating the battle suit as something crested a nearby hill. A series of curses escaped her lips while she continued bringing her machine to life. As power flowed into the suit, the clear canopy darkened, transitioning into a view of the outside, complete with a tactical overlay.
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

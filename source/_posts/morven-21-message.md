@@ -31,9 +31,11 @@ Keldon lifted his telescope and studied the distant creature. When the scope low
 “I’m more concerned with whatever’s beyond our field of view.” Keldon laid a hand on Tarian’s shoulder and pulled him close. “That thing’s the tip of the oncoming storm.”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

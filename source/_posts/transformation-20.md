@@ -32,9 +32,11 @@ Olyver straightened as rage and frustration rippled across his face. He took sev
 “No,” Caitlin answered. “You may have believed that we came to that agreement, but we never did.” Caitlin lifted a small stylus and twirled it in her fingers. “My primary concern has always been the safety of this fledgling alliance of planets. And before we rush into the unknown, we’re going to build a proper military to protect the citizens who want to establish themselves on distant worlds.”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

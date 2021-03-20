@@ -9,7 +9,7 @@ date: 2018-05-08 23:17:36
 showKofiSuport: false
 ---
 
-Sorry for the rant.  But I was looking around my office, and I see a fair amount of my Magic the Gathering collection.  Looking at the collection in my office makes me think of a time when I was back when I was in high school gathering around my collection searching for just the right card trying to build the best deck I can.  Though as high school went on, I eventually put my collection aside and went on to other things.  Years after putting my collection aside a good friend of mine got pulled back into the game, and he started telling me about all the ways the game has changed and adapted since we last played.  Despite my friend trying to pull me back into the game, I didn't have the time or money for it.  <!-- more -->
+Sorry for the rant.  But I was looking around my office, and I see a fair amount of my Magic the Gathering collection.  Looking at the collection in my office makes me think of a time when I was back when I was in high school gathering around my collection searching for just the right card trying to build the best deck I can.  Though as high school went on, I eventually put my collection aside and went on to other things.  Years after putting my collection aside a good friend of mine got pulled back into the game, and he started telling me about all the ways the game has changed and adapted since we last played.  Despite my friend trying to pull me back into the game, I didn't have the time or money for it.<!-- more --> 
 
 <div class="embedded-image-left">
 

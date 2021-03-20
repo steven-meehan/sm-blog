@@ -34,9 +34,11 @@ Garvin took the device from her hands and placed it on the table. “Have you co
 Annabelle shook her head as her fingernails dug into her arms. “Rylan must have gotten distracted with something more pressing. There’s no need to start a kerfuffle because he’s running late.”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

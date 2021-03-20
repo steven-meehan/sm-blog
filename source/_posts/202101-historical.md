@@ -29,9 +29,11 @@ He whirled the chain around his hand until the heart-shaped jewelry slammed agai
 Despite the darkness, John deftly strode between the trees, ducking under stray branches and stepping over jutting roots while letting his fingers trace each trunk. When he felt the gap of a carving, John froze, and the shovel slipped from his quivering grip, bouncing off the ground. The ensuing silence intensified as he dropped to his knees while his fingertips explored the marred surface of the towering tree.
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

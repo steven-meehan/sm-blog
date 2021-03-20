@@ -35,9 +35,11 @@ Gerry’s smile flashed his teeth as he inched toward the ramp. His tongue ran a
 Patrick ducked down and swallowed an enormous lump in his throat.
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 To continue reading [click here](https://www.patreon.com/posts/34924807) page and become a patron, $2 a month will give you access to this and other flash fiction stories.

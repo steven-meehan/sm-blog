@@ -27,9 +27,11 @@ John brushed passed throngs of people as he meandered down the halls. But whenev
 He inched towards the first door and poked his head through it, only to yank it out after a brief glance. While his fingers clawed at the wall, he searched for another room. But his competitors smirked at his discomfort as they raided their targets. John cringed and held his breath as he gazed into the doorway. He looked from the resting figure on the bed and dashed behind a large chair.
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 To continue reading [click here](https://www.patreon.com/posts/34414512) page and become a patron, $2 a month will give you access to this and other flash fiction stories.

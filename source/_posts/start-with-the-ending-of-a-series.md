@@ -6,7 +6,7 @@ categories:
 - [Question]
 showKofiSuport: false
 ---
-A good book is a wonderful thing; it can comfort your soul as it carries your mind into a new world.  As a fantastic story speeds to its inexorable conclusion you begin to dread and, at the same time, yearn for the climax.  On the one hand, the engrossing plot and the compelling characters make you wish the story would continue and would never end.  <!-- more -->But as the saying goes, all good things come to an end; and books, even good ones, are not exempted from this rule.
+A good book is a wonderful thing; it can comfort your soul as it carries your mind into a new world.  As a fantastic story speeds to its inexorable conclusion you begin to dread and, at the same time, yearn for the climax.  On the one hand, the engrossing plot and the compelling characters make you wish the story would continue and would never end.<!-- more --> But as the saying goes, all good things come to an end; and books, even good ones, are not exempted from this rule.
 
 Now there are times when an author has such a grand tale in his head to tell, that one physical book cannot contain it all.  In these circumstances we, the readers, are rewarded with a series.  We get to learn and grow with our beloved characters.  We get to see the tale, the lore, go beyond a single volume; it is fantastic. 
 

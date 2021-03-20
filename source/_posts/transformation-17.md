@@ -32,9 +32,11 @@ Quinn dropped his head and started rubbing his temples. “Not everything is as 
 “Is that so?” Isaac pulled his chair towards Quinn and cleared the edge of the desk. He cupped his fingers around his chin as his eyes darkened, “You never say something without giving it a lot of thought. So, please explain yourself.”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

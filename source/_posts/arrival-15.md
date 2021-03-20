@@ -30,9 +30,11 @@ Marcus pointed down the corridor, staring at the various things reflecting the t
 “Vincent,” Marcus barked as he continued down the hall, “Everyone needs to get down here on the double.”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

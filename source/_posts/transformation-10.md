@@ -44,9 +44,11 @@ Quinn rolled his eyes and collapsed into his chair. “Olyver, be quiet.” Quin
 “Shut up, Olyver,” Quinn commanded.
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div class="center">

@@ -33,9 +33,11 @@ Rylan waved his hands. “No, you’re fine. Locate Annabelle and escort her her
 When the door slid shut, Rylan rose, and headed over to the equipment Darvan deposited. He kneeled at the data storage system and opened the control panel. Rylan pulled a diagnostic tool from his sling and connected it to the assembly. He flicked the power switch and waited for the assembly to activate. Once it booted up, he activated the diagnostic tool and drummed his finger on the assembly while he waited for it to connect. But his tool stubbornly refused to establish a connection, and without thinking, he whacked it.
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div class="center">

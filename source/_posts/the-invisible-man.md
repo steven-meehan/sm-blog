@@ -6,7 +6,7 @@ categories:
 - [Recommendation]
 showKofiSuport: false
 ---
-The SciFy original show, The Invisible Man, aired back in 2000.  It was a fun and campy show.  Watching you could tell that the actors had a lot of fun with each other and the show.  <!-- more -->
+The SciFy original show, The Invisible Man, aired back in 2000.  It was a fun and campy show.  Watching you could tell that the actors had a lot of fun with each other and the show.<!-- more --> 
 
 <div class="embedded-image-left">
 

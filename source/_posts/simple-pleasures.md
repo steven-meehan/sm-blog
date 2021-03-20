@@ -35,9 +35,11 @@ The man sauntered up to his niece and wrapped an arm around her shoulders and ta
 “Oh,” Lucile’s free hand leapt to her mouth, emphasizing her blushing cheeks.
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

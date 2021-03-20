@@ -35,9 +35,11 @@ Roland rolled his eyes and waved at the empty glasses. “Rianna, we need some r
 “Certainly,” Rianna replied. “I’ll be right back.”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div class="center">

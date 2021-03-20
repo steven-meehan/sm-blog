@@ -31,9 +31,11 @@ Rubbing his temples vigorously, Fenton followed his commander into the ship. “
 “Because you’re astute.” At the top of the ramp, Jarvis hurried into the chamber and claimed the closest seat. He pulled a tablet off the table, offering it to Fenton, “I believe you mentioned a storage assembly.”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

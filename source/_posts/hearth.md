@@ -44,9 +44,11 @@ With a nod, the squirrel dashed to his hole and pulled a nut from within. The sq
 The squirrel threw his meal back through the opening and scurried down the trunk. As he raced toward the base, the squirrel noticed an oncoming gleam. He clutched the bark as the object bit into the tree, knocking the animal off. As the squirrel collided with a branch, his claws bit into it, halting his fall.
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

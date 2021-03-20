@@ -33,9 +33,11 @@ Maxwell leaned over and tapped the pile of bills. “Don’t get too familiar wi
 “Just because you’re a card or two away from winning doesn’t mean the pot’s going to be yours.” Darren lifted an eyebrow as he selected the least helpful card in his grip.
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

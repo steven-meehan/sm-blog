@@ -36,9 +36,11 @@ Darren’s palm slammed into his forehead as a groan wheezed out of him like air
 “With the construction happening, I figured you would’ve selected a more suitable location to communicate with your snitch?”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

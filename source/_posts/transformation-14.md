@@ -32,9 +32,11 @@ The hostess bowed her head and spun on her heels, leading them into the restaura
 “Thank you, Helen,” Olyver replied as he slid into the requested seat.
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

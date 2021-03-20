@@ -7,7 +7,7 @@ date: 2018-04-09 21:27:20
 showKofiSuport: false
 ---
 
-One of the most enjoyable ways I’ve found to relax is to read or listen to books depending on the situation.  Unfortunately a while ago I was unable to do as much reading as I’ve wanted to.  But that particular hectic time of my life had ebbed so when it passed I threw myself back into the wonderful habit that I want to deepen every day.  <!-- more -->But I had to ask myself a single question.  What should I read?  Should I return to the worlds that I have explored and that I love or should I explore with something new?  Or should I do a little bit of both?
+One of the most enjoyable ways I’ve found to relax is to read or listen to books depending on the situation.  Unfortunately a while ago I was unable to do as much reading as I’ve wanted to.  But that particular hectic time of my life had ebbed so when it passed I threw myself back into the wonderful habit that I want to deepen every day.<!-- more --> But I had to ask myself a single question.  What should I read?  Should I return to the worlds that I have explored and that I love or should I explore with something new?  Or should I do a little bit of both?
 
 <div class="embedded-image-right">
 

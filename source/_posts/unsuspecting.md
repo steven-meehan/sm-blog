@@ -37,9 +37,11 @@ As the two approached the platform, a shadowy figure emerged from the darkest re
 “Is this fool serious?”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div class="center">

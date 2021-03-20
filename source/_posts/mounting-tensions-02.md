@@ -32,9 +32,11 @@ Rylan’s head fell into his headrest as he closed his eyes, listening to the pr
 “Well, as your presentation implied, he’s clutching at straws, and while you torpedoed his strongest argument with the rebuttal you and Annabelle crafted, he switched to other convincing arguments.” With a huff, Garvin pulled a pad from his jacket and brandished it in front of Rylan. “Unfortunately, you shouldn’t miss council meetings. Digging through their propaganda gives us a chance to understand his agenda.”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

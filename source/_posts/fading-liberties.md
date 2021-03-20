@@ -35,9 +35,11 @@ The interloper leaned against the doorframe, tapping his chin. “Perhaps if you
 With a shallow breath, Dustin eased the tension from his shoulders and retrieved the fallen rations. He bounced it off his friend’s forehead, “Oliver, please explain how you’re always able to sneak up on me?”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

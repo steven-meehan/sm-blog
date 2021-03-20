@@ -34,9 +34,11 @@ Marcus rested an arm against the window as he scratched the stubble invading his
 A scientist approached, tapped the window, and thrust his finger towards the exit. Marcus grabbed Nathaniel’s arm and tugged him in the indicated direction. “It appears they don’t appreciate that disruption. Walk with me to the station.”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

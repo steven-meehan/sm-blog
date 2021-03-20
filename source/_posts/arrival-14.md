@@ -30,9 +30,11 @@ After Marty vanished, Marcus pointed to the doorway he came through. “Will thi
 “Amongst other things.” Nathaniel stalked through the opening and scurried to the set of chairs. As he eased into the nearest seat, the lines covering his face melted away.
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

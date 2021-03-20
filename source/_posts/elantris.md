@@ -6,7 +6,7 @@ categories:
 - [Recommendation]
 showKofiSuport: false
 ---
-My first exposure to Brandon Sanderson’s writing was his Mistborn trilogy.  Which was so well written and such a unique story that I searched out his writing.  During this search I came across his first published work, Elantris, and I immediately added it to my library.  The book may have sat on my digital bookshelf for a while before I read it, but that was only because I had so much other reading to do.  <!-- more -->
+My first exposure to Brandon Sanderson’s writing was his Mistborn trilogy.  Which was so well written and such a unique story that I searched out his writing.  During this search I came across his first published work, Elantris, and I immediately added it to my library.  The book may have sat on my digital bookshelf for a while before I read it, but that was only because I had so much other reading to do.<!-- more --> 
 
 <div class="embedded-image-right">
 

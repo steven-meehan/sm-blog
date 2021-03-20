@@ -31,9 +31,11 @@ With a chuckle, Darren pointed at the pair, “Whoever she is, that woman can ha
 Lia’s eyes widened as she twisted in her seat. Leaning against the chair, Lia watched the pair pile steak and vegetables onto their plates before turning back to Darren with a broad grin. She wrapped her hands around her own mug and her smile wavered.
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

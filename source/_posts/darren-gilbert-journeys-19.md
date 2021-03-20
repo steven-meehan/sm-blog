@@ -31,9 +31,11 @@ Laughter died off as Darren replied, “You’ll have to wait a few days. My pro
 Thud!
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

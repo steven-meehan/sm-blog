@@ -43,9 +43,11 @@ Quinn flicked his gaze up as he pointed at the armchair. “Would you just sit d
 “We need to talk,” Quinn selected a pad and lifted it. “Now, take a seat and read this.”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

@@ -33,9 +33,11 @@ Darren lifted an eye and glowered over the paper. “Does it matter?”
 “You don’t like him,” Darren commented as he lowered the letter. “I thought you were keen on judging people after getting to know them.”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

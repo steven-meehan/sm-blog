@@ -33,9 +33,11 @@ The Dwarf’s face scrunched as he slung his pack onto his back. “You want add
 With a grin, Darren patted Maxwell. “You got to do everything in your ability to excel at the subjects you’re weak on.”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div class="center">

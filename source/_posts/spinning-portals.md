@@ -37,9 +37,11 @@ The child cringed and backed away from the towering man.
 The man folded his broadsheet and opened his slicker and slipped the paper into the inner pocket. He turned to the child and drifted toward him and kneeled next to him.
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

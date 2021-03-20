@@ -29,9 +29,11 @@ Darren scowled as his grip tightened around the beverage while his foot tapped a
 As the seconds ticked away, Darren’s foot resumed its tapping as he took another pull from his bottle. Darren clicked his tongue and bounced the bottle against his thigh, while Randall stoically hunched over a whizzing and whirling machine. Darren knocked on the wall and cleared his throat, “How is this resting...
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

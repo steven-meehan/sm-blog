@@ -39,9 +39,11 @@ Rylan ran his fingers through his hair and sighed, “I guess not.”
 “What about them?”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div class="center">

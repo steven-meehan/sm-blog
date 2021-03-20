@@ -30,9 +30,11 @@ The moment Marcus opened the office, Nathaniel’s voice ripped through the quie
 Marcus pushed his head into the room, ignoring the lady sitting across from Nathaniel, and offered a lopsided grin. “Don’t blame her.” Without waiting for a reply, Marcus slipped inside, closing the door. He sauntered to the bar and froze when he identified the woman. “Kethra, do not mind me. I’ll pour myself a drink and wait patiently here.”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

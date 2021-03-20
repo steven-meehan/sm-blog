@@ -32,9 +32,11 @@ As more coughing filled the room, nurses rushed inside like a flock of birds. On
 Annabelle covered her mouth with her hands while she shook her head.
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

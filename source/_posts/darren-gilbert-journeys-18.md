@@ -31,9 +31,11 @@ As steam wafted into Wayne’s face, he took a deep breath. “However, that’s
 “She’s a gorgeous elf.”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

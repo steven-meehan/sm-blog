@@ -33,9 +33,11 @@ Francis wrung his hands as he tried to look away from Tarian’s glare. “That 
 Tarian wiped the frustration off his face. “Please tell me there’s an update coming.”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div class="center">

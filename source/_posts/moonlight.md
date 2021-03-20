@@ -6,7 +6,7 @@ categories:
 - [Recommendation]
 showKofiSuport: false
 ---
-Often I will come across a show that I have never heard of and I immediately fall in love with, only to find out that it has already been cancelled.  Typically this happens as I’m three or four episodes into the series.  <!-- more -->I eagerly watch what is available and curse the studio for cancelling a show that I love.  One such show ran on Friday nights on CBS from September 28, 2007 to May 13, 2008.  For a long time I had assumed that the show died due to the Writers Guild of America strike; but, after the strike four new episodes were made, according to the {% link 'show’s Wikipedia pagev' 'http://en.wikipedia.org/wiki/Moonlight_(TV_series)' %}.  It would seem that the powers that be at CBS just decided that Moonlight was not worth the investment.
+Often I will come across a show that I have never heard of and I immediately fall in love with, only to find out that it has already been cancelled.  Typically this happens as I’m three or four episodes into the series.<!-- more --> I eagerly watch what is available and curse the studio for cancelling a show that I love.  One such show ran on Friday nights on CBS from September 28, 2007 to May 13, 2008.  For a long time I had assumed that the show died due to the Writers Guild of America strike; but, after the strike four new episodes were made, according to the {% link 'show’s Wikipedia pagev' 'http://en.wikipedia.org/wiki/Moonlight_(TV_series)' %}.  It would seem that the powers that be at CBS just decided that Moonlight was not worth the investment.
 
 <div class="embedded-image-right">
 

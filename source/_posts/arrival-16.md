@@ -33,9 +33,11 @@ A curse erupted from Marcus as the rope slipped through his grip. His knees slam
 The course line slid through Marcus’s grasp, rubbing his skin, “Not everything’s value is apparent. Now remove the dead weight from my hands.”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

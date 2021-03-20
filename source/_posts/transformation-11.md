@@ -34,9 +34,11 @@ With a grin, Jasmine crooked her finger. “Weren’t you the pilot who claimed 
 “Yeah,” Isaac groaned “I may have been boasting to shut Olyver up.”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div class="center">

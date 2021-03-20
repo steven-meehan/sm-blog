@@ -39,9 +39,11 @@ Darren inhaled through his nose as he hung the ware wolf costume back on the rac
 Darren shook his head and walked through the aisle, letting his fingertips trace the outfits. “I’ve turned my attention to other pursuits.” With a huff, Darren spun around and tugged his hair. “How did I let you talk me into this stupid outing?”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

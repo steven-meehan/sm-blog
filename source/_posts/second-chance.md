@@ -33,9 +33,11 @@ He chuckled and pulled a glove off, and with a warm smile, he offered the limpin
 Jacob sighed as he put his glove on while the hobbling man spun back to the house. “You’re an injured man standing in the snow and staring at a foreclosure notice on Christmas Eve. It’s obvious you are upset, and I suspect you were friends with the homeowner?”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

@@ -33,9 +33,11 @@ Maxwell grunted and sat down, patting the packs lying on the mattress. “I’m 
 An eyebrow climbed Maxwell’s face as he shook his head. “Life isn’t as dramatic as you make it out.”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

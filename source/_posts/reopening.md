@@ -33,9 +33,11 @@ With a fierce sigh, Lucile slammed her hands against her thighs. “We’re in t
 “Just because our dopey officials have lifted that restriction, doesn’t mean that we should be here.” Lucile stared at the parking lot and added. “This world-wide pandemic has gone nowhere.”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

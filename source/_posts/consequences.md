@@ -34,9 +34,11 @@ Wilson lifted a finger and twirled it over his head as he slumped into his chair
 “Oh, I’m a simple man to please.” Wilson pushed himself away from his desk and laced his fingers in his lap. “If Liam hadn’t pressed for that senseless resettlement program, then we wouldn’t have needed that stupid handout...
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

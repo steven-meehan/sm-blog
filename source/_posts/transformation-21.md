@@ -32,9 +32,11 @@ Caitlin’s fingers locked together, forming a temporary bed for her head. Her e
 “Excuse me, Caitlin, but I can’t believe your replacement in the Auroran triumvirate is the most pressing issue on your agenda.”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

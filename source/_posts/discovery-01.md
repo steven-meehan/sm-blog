@@ -35,9 +35,11 @@ Diana slid forward and covered the microphone, “You’re aware that we’re re
 Dyrk’s tongue ran across his lips as he scrolled through the results of the scans. “Wendell, I’m uploading you a full copy of the report now. But while you’re waiting, I can describe the eclectic array of life on this rock for you.”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div>

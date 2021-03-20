@@ -34,9 +34,11 @@ Marcus grimaced, taking several deep breaths. “Fine, when’s the estimated co
 Nathaniel eased across from his friend and wrung his hands. “We’ve already shaved time off your deliveries to Kethra.”
 
 <div class="center story-ellipses">
-.
-.
-.
+
+.</br>
+.</br>
+.</br>
+
 </div>
 
 <div class="center">
