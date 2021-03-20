@@ -4,9 +4,9 @@ tags: []
 categories:
   - []
 prompt: ' => , , '
-showKofiSuport: false
+showKofiSuport: true
 ---
-<!-- more -->
+Blurb goes here<!-- more -->
 
 <div class="center">
 

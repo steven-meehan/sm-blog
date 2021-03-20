@@ -6,7 +6,7 @@ categories:
 prompt: ' => , , '
 showKofiSuport: false
 ---
-<!-- more -->
+Blurb goes here<!-- more -->
 
 <div class="embedded-image-left">
 
