@@ -1,11 +1,14 @@
 ---
-title: Art Roundup, week of March 14th
-tags: []
+title: 'Art Roundup, week of March 14th'
+tags:
+  - Artwork
 categories:
-  - [News]
+  - - News
 showKofiSuport: true
+date: 2021-03-22 22:01:51
 ---
-What art im up to<!-- more -->
+
+The stock tools of art tools like [Krita](https://krita.org/en/), [Infinite Painter](https://www.infinitestudio.art/painter.php), or [Photoshop](https://www.adobe.com/products/photoshop.html) will only take an artist so far. The engines that allow artists to create wonderful brushes are extremely powerful. If I’d gone to school to learn those skills, I am certain that those intimidating settings wouldn’t look so frightening. But I didn’t and they do. While I could lean on the wider community of artists for exciting brushes, I’d make no progress in my artistic if I allowed those towering options to keep me away.<!-- more --> Despite the pleasure that liquifying textures and lines bring me, I decided I couldn’t put this journey off any longer. So, as I delve into landscapes, I’m also exploring the ins and outs of my brushes.
 
 Sit back and enjoy the artwork below and as always, click on any image below to get a better look at the picture.
 
