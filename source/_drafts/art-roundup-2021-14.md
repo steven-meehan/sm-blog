@@ -11,42 +11,42 @@ Sit back and enjoy the artwork below and as always, click on any image below to 
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Stressed Beams](IMAGE-LINK "Stressed Beams")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Liquified Clouds 0409](IMAGE-LINK "Liquified Clouds 0409")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Wrought Lens](IMAGE-LINK "Wrought Lens")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Liquified Clouds 0601](IMAGE-LINK "Liquified Clouds 0601")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Liquified Clouds 0509](IMAGE-LINK "Liquified Clouds 0509")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Liquified Fibers 0201](IMAGE-LINK "Liquified Fibers 0201")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Swaying Weeds](IMAGE-LINK "Swaying Weeds")](PAGE-URL)
 
 </div>
