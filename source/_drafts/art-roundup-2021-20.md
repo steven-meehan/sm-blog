@@ -1,5 +1,5 @@
 ---
-title: Art Roundup, week of May 23rd
+title: Art Roundup, week of May 16th
 tags: []
 categories:
   - [News]
@@ -11,42 +11,42 @@ Sit back and enjoy the artwork below and as always, click on any image below to 
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Liquified Fibers 0304](IMAGE-LINK "Liquified Fibers 0304")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Inlaid Stone Horn](IMAGE-LINK "Inlaid Stone Horn")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Bronze Mask](IMAGE-LINK "Bronze Mask")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Liquified Fibers 0206](IMAGE-LINK "Liquified Fibers 0206")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Rose Gold Amber](IMAGE-LINK "Rose Gold Amber")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Dark Silver Amulet](IMAGE-LINK "Dark Silver Amulet")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Liquified Clouds 0607](IMAGE-LINK "Liquified Clouds 0607")](PAGE-URL)
 
 </div>

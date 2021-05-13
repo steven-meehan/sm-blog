@@ -1,5 +1,5 @@
 ---
-title: Art Roundup, week of May 30th
+title: Art Roundup, week of May 23rd
 tags: []
 categories:
   - [News]
@@ -11,42 +11,42 @@ Sit back and enjoy the artwork below and as always, click on any image below to 
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Melting Treble](IMAGE-LINK "Melting Treble")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Liquified Fibers 0401](IMAGE-LINK "Liquified Fibers 0401")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Twisted Fibers 01](IMAGE-LINK "Twisted Fibers 01")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Top Hat](IMAGE-LINK "Top Hat")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Liquified Clouds 0608](IMAGE-LINK "Liquified Clouds 0608")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Screaming Souls](IMAGE-LINK "Screaming Souls")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Liquified Fibers 0305](IMAGE-LINK "Liquified Fibers 0305")](PAGE-URL)
 
 </div>

@@ -1,5 +1,5 @@
 ---
-title: Art Roundup, week of June 13th
+title: Art Roundup, week of June 6th
 tags: []
 categories:
   - [News]

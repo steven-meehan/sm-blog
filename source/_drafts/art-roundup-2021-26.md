@@ -1,5 +1,5 @@
 ---
-title: Art Roundup, week of July 4th
+title: Art Roundup, week of June 27th
 tags: []
 categories:
   - [News]

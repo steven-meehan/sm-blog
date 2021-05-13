@@ -1,5 +1,5 @@
 ---
-title: Art Roundup, week of June 6th
+title: Art Roundup, week of May 30th
 tags: []
 categories:
   - [News]
@@ -11,42 +11,42 @@ Sit back and enjoy the artwork below and as always, click on any image below to 
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Bone Arrowhead](IMAGE-LINK "Bone Arrowhead")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Twirled Metal 01](IMAGE-LINK "Twirled Metal 01")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Liquified Clouds 0706](IMAGE-LINK "Liquified Clouds 0706")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Liquified Fibers 0402](IMAGE-LINK "Liquified Fibers 0402")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Inlaid Stone](IMAGE-LINK "Inlaid Stone")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Cape's View](IMAGE-LINK "Cape's View")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Liquified Clouds 0707](IMAGE-LINK "Liquified Clouds 0707")](PAGE-URL)
 
 </div>
