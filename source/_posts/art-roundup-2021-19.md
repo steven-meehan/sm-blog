@@ -1,13 +1,16 @@
 ---
-title: Art Roundup, week of May 9th
-tags: []
+title: 'Art Roundup, week of May 9th'
+tags:
+  - Artwork
 categories:
-  - [News]
+  - - News
 showKofiSuport: true
+date: 2021-05-16 23:07:35
 ---
-What art im up to<!-- more -->
 
-Sit back and enjoy the artwork below and as always, click on any image below to get a better look at the picture.
+Another Sunday brings another collection of links to my art on [DeviantArt](https://www.deviantart.com/stevenmeehan). In this collection there are two pieces that make me smile. The first is the [Marble Skull Amulet](https://www.deviantart.com/stevenmeehan/art/Marble-Skull-Amulet-879199828), and the other is [Bone Stones](https://www.deviantart.com/stevenmeehan/art/Bone-Stones-879200790). Both doodles below were a lot of fun to make and added a lot of knowledge to my toolbox. As I laid my stylus down with those images, I’ve fallen into a comfortable workflow.<!-- more --> And Interspersed between my pictures and writing, I have kept working on my skills for drawing characters, and I’m getting closer to show those pieces.
+
+But in the meantime, sit back and enjoy the artwork below and as always, click on any image below to get a better look at the picture.
 
 <div class="center">
 
@@ -35,18 +38,18 @@ Sit back and enjoy the artwork below and as always, click on any image below to 
 
 <div class="center">
 
-[![Liquified Fibers 0303](IMAGE-LINK "Liquified Fibers 0303")](PAGE-URL)
+[![Liquified Fibers 0303](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f99a6bf8-c5b7-48b6-ad1d-bbd9283918e7/dejgbm3-2069595c-e91f-4b08-9f69-7a3a33a10477.png/v1/fill/w_1600,h_1134,q_80,strp/liquified_fibers_0303_by_stevenmeehan_dejgbm3-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTEzNCIsInBhdGgiOiJcL2ZcL2Y5OWE2YmY4LWM1YjctNDhiNi1hZDFkLWJiZDkyODM5MThlN1wvZGVqZ2JtMy0yMDY5NTk1Yy1lOTFmLTRiMDgtOWY2OS03YTNhMzNhMTA0NzcucG5nIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.dwb6itaWxeueWXEqWVhmpserRiBvQfBROGPuZd9UQUY "Liquified Fibers 0303")](https://www.deviantart.com/stevenmeehan/art/Liquified-Fibers-0303-879200715)
 
 </div>
 
 <div class="center">
 
-[![Bone Stones](IMAGE-LINK "Bone Stones")](PAGE-URL)
+[![Bone Stones](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f99a6bf8-c5b7-48b6-ad1d-bbd9283918e7/dejgbo6-de15dd68-a0bf-4a8e-920e-1cbd7e5dcce8.png/v1/fill/w_1600,h_1134,q_80,strp/bone_stones_by_stevenmeehan_dejgbo6-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTEzNCIsInBhdGgiOiJcL2ZcL2Y5OWE2YmY4LWM1YjctNDhiNi1hZDFkLWJiZDkyODM5MThlN1wvZGVqZ2JvNi1kZTE1ZGQ2OC1hMGJmLTRhOGUtOTIwZS0xY2JkN2U1ZGNjZTgucG5nIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.YxMbVGbLCxvJXzhmKW39axoA6adhmeKcpvGHHi7QOEY "Bone Stones")](https://www.deviantart.com/stevenmeehan/art/Bone-Stones-879200790)
 
 </div>
 
 <div class="center">
 
-[![Liquified Clouds 0705](IMAGE-LINK "Liquified Clouds 0705")](PAGE-URL)
+[![Liquified Clouds 0705](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f99a6bf8-c5b7-48b6-ad1d-bbd9283918e7/dejgbwf-ace18ada-1a06-4cb1-8009-e9143cf27a90.png/v1/fill/w_1600,h_1134,q_80,strp/liquified_clouds_0705_by_stevenmeehan_dejgbwf-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTEzNCIsInBhdGgiOiJcL2ZcL2Y5OWE2YmY4LWM1YjctNDhiNi1hZDFkLWJiZDkyODM5MThlN1wvZGVqZ2J3Zi1hY2UxOGFkYS0xYTA2LTRjYjEtODAwOS1lOTE0M2NmMjdhOTAucG5nIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.FbH1xYjlmfpdIPfFKv5OhoEStlRcGsFPVcyaMMCeP5w "Liquified Clouds 0705")](https://www.deviantart.com/stevenmeehan/art/Liquified-Clouds-0705-879201087)
 
 </div>
