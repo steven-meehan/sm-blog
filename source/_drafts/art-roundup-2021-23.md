@@ -11,42 +11,42 @@ Sit back and enjoy the artwork below and as always, click on any image below to 
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Twisting Tendril](IMAGE-LINK "Twisting Tendril")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Liquified Fibers 0306](IMAGE-LINK "Liquified Fibers 0306")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Twisted Fibers 02](IMAGE-LINK "Twisted Fibers 02")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Mountain Range 001](IMAGE-LINK "Mountain Range 001")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Liquified Clouds 0609](IMAGE-LINK "Liquified Clouds 0609")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Ambling Creature](IMAGE-LINK "Ambling Creature")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Clenched Fist](IMAGE-LINK "Clenched Fist")](PAGE-URL)
 
 </div>

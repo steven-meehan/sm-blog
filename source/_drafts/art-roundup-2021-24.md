@@ -11,42 +11,42 @@ Sit back and enjoy the artwork below and as always, click on any image below to 
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Forest Sunset 001](IMAGE-LINK "Forest Sunset 001")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Bursting Tendrils](IMAGE-LINK "Bursting Tendrils")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Reaching Out](IMAGE-LINK "Reaching Out")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Liquified Fibers 0207](IMAGE-LINK "Liquified Fibers 0207")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Liquified Fibers 0307](IMAGE-LINK "Liquified Fibers 0307")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Creeping Plant](IMAGE-LINK "Creeping Plant")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Mountain Range 002](IMAGE-LINK "Mountain Range 002")](PAGE-URL)
 
 </div>

@@ -11,42 +11,42 @@ Sit back and enjoy the artwork below and as always, click on any image below to 
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Twisted Fibers 03](IMAGE-LINK "Twisted Fibers 03")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Touching Water](IMAGE-LINK "Touching Water")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Cutting River](IMAGE-LINK "Cutting River")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Liquified Fibers 0403](IMAGE-LINK "Liquified Fibers 0403")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Liquified Fibers 0208](IMAGE-LINK "Liquified Fibers 0208")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Eyed Flame](IMAGE-LINK "Eyed Flame")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Blocked Sun](IMAGE-LINK "Blocked Sun")](PAGE-URL)
 
 </div>
