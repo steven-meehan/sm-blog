@@ -24,7 +24,7 @@ Blurb goes here<!-- more -->
 
 <div class="center">
 
-[![](/images/patreon-flash-fiction/....png "")](https://www.patreon.com/...)
+[![](/images/patreon-flash-fiction/2021/....png "")](https://www.patreon.com/...)
 
 </div>
 
@@ -73,5 +73,29 @@ To continue reading the story, click [here](https://www.wattpad.com/...) to head
 <div class="center">
 
 [![STORY-TITLE](IMAGE-LINK "TITLE by SOURCE")](PAGE-URL)
+
+</div>
+
+---
+
+<div class="center">
+
+[![](/images/ko-fi/2021/....png "")](https://ko-fi.com/...)
+
+</div>
+
+
+
+<div class="center story-ellipses">
+
+.</br>
+.</br>
+.</br>
+
+</div>
+
+<div class="center"d>
+
+To continue reading click [here](https://ko-fi.com/...) and buy me a Croissant &#129360;.
 
 </div>
