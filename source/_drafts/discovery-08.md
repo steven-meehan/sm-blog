@@ -1,5 +1,5 @@
 ---
-title: discovery-08
+title: Repairs
 tags: []
 categories:
   - []
@@ -12,7 +12,7 @@ Confronted with two problems, Jarvis presses his top enginere to stop trying to 
 
 <div class="center">
 
-[![](/images/covers/discovery.png "")](https://www.wattpad.com/...)
+[![Repairs](/images/covers/discovery.png "Repairs")](https://www.wattpad.com/...)
 
 </div>
 
