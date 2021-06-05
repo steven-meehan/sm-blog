@@ -6,7 +6,7 @@ categories:
 prompt: ' => , , '
 showKofiSuport: false
 ---
-From the moment the survivors of the Novan rallied together to find a way off the planet, Talia wanted to have a life with Marcus. This choice soured her relationship with Kethra and kept Talia firmly entrenched in the Eastern Region, caring for her husband, growing family, and her small herd of livestock. However, with Kethra’s march into the unknown, Talia finally marches into the Western Region to assist her husband.<!-- more --> Did Talia follow Nathaniel’s command to help jumpstart the underperforming breeders? Or did she go to help expedite her husband’s return home?
+Ever since the survivors of the Novus rallied to searching for an escape, Talia desired a life with Marcus. That choice ruined her relationship with Kethra. It also ensured that Talia stayed in the Eastern Region to care for her husband, her growing family, and her small herd of livestock. But after Kethra marched off into the horizon, Talia finds herself in the Western Region to assist her husband.<!-- more --> Did Talia follow Nathaniel’s command to help jumpstart the underperforming breeders? Or did she go to help expedite her husband’s return home?
 
 <div class="center">
 
