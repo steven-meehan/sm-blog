@@ -5,7 +5,7 @@ categories:
   - [News]
 showKofiSuport: true
 ---
-What art im up to<!-- more -->
+Typically, people prefer to be comfortable. That's a broad and oversimplification, but it also a mostly true statement. Given the choice between comfort and discomfort, people will normally choose the former. I've found that it takes a consious effort and application of will to force yourself to go through an unplesant situation, something like an awkward conversation, an intense workout, or pushing past the boundries of your skills. To improve as both a writer and an artist, I'm constantly pushing past my comfort zone. It's the only way that I'll get better. And this week's collection of art has a perfect example of the rewards that come with pushing myself, [Cape's View](https://www.deviantart.com/stevenmeehan/art/Cape-s-View-881060253).<!-- more --> At the time I wanted to try something more than what I'd been doing, so I decided to capture an image roaming about the darkened corners of my mind.
 
 Sit back and enjoy the artwork below and as always, click on any image below to get a better look at the picture.
 
