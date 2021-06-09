@@ -1,7 +1,7 @@
 ---
 title: Warning
 tags:
-  - Warnings
+  - Wanderings
   - Fantasy
 categories:
   - - Micro Fiction
