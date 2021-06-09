@@ -78,6 +78,8 @@ To continue reading the story, click [here](https://www.wattpad.com/...) to head
 
 ---
 
+Come, sit down and allow me to give you a mini-escape and kindle your imagination.
+
 <div class="center">
 
 [![](/images/ko-fi/2021/....png "")](https://ko-fi.com/...)
