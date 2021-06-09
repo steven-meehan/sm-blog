@@ -1,10 +1,13 @@
 ---
-title: Art Roundup, week of May 30th
-tags: [Artwork]
+title: 'Art Roundup, week of May 30th'
+tags:
+  - Artwork
 categories:
-  - [News]
+  - - News
 showKofiSuport: true
+date: 2021-06-06 00:06:09
 ---
+
 Typically, people prefer to be comfortable. That’s a broad and oversimplification, but it’s also an accurate statement. Given the choice between comfort and discomfort, people will normally choose the former. I’ve found that it takes a conscious effort and an application of will to force oneself to endure an unpleasant situation. Whether it’s an awkward conversation, an intense workout, or pushing beyond one’s current skill set. To improve as both a writer and an artist, I’m constantly pushing past my comfort zone. It’s the only way that I’ll get better. And this week’s collection of art has a perfect example of the rewards that come with pushing myself, [Cape's View](https://www.deviantart.com/stevenmeehan/art/Cape-s-View-881060253).<!-- more --> A little while ago, I wanted to try somewhat more challenging than my standby. So, I tackled an image roaming about the darkened corners of my mind and transferred it to the digital page.
 
 Sit back and enjoy the artwork below and as always, click on any image below to get a better look at the picture.
