@@ -1,18 +1,15 @@
 ---
-title: mounting-tensions-10
+title: Inspection
 tags: []
 categories:
-  - []
-prompt: ' => , , '
-showKofiSuport: false
+  - [Flash Fiction]
+showKofiSuport: true
 ---
-Blurb goes here<!-- more -->
-
-
+After Darvin left, Rylan sent a message to his father-in-law to start the production of the vessles. Garvin pushed back on some of the leaner aspects of Rylan's initial designs, and after some back and forth, Garvin arranged for the construction of the three vessles. With the production of the ships started, Rylan begins to aquire all the various bits of gear Darvin insisted that his pilots would need for their flights.<!-- more --> With the ships constructed and the equipment purchsed, will Darvin be satisfied? Or will he insist Rylan and Garvin provide more for the selected pilots?
 
 <div class="center">
 
-[![](/images/covers/mounting-tensions.png "")](https://www.wattpad.com/...)
+[![Inspection](/images/covers/mounting-tensions.png "Inspection")](https://www.wattpad.com/...)
 
 </div>
 
