@@ -1,10 +1,13 @@
 ---
-title: Art Roundup, week of June 6th
-tags: [Artwork]
+title: 'Art Roundup, week of June 6th'
+tags:
+  - Artwork
 categories:
-  - [News]
+  - - News
 showKofiSuport: true
+date: 2021-06-13 13:44:40
 ---
+
 As another week draws to a close, I pulled the links for all the artwork I’ve posted at DeviantArt, since the 6th. While most of the past week’s selection made liberal use of the liquify tool, it also contains a pair of that are dear to my heart. The first is [Ambling Creature](https://www.deviantart.com/stevenmeehan/art/Ambling-Creature-881700616). This image began as a collection of lines that I swirled together. It didn’t take long for the original shape to surrender to the unyielding forces of entropy.
 
 However, as I lifted my stylus, that intermediate picture felt empty.<!-- more --> It needed something else to complete it. Thankfully, I saw what was hiding beneath the scribbles. So, I buckled down and coaxed the hidden order from the chaos. The moment my creature crystalized on the screen. I added the landscape around my monster, allowing my giant’s walk through a forest to emerge.
