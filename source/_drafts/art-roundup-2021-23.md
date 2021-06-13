@@ -5,9 +5,15 @@ categories:
   - [News]
 showKofiSuport: true
 ---
-As another week draws to a close, I've pulled the links to all the artwork I posted over at DeviantArt. And this collection contains a fair number of peices that drew heavily upon the liquify tool. There are some of my [Liquified Textures](https://www.deviantart.com/stevenmeehan/gallery/76223939/liquefied-textures), but there are two peices this week that are close to my heart. The first is [Ambling Creature](https://www.deviantart.com/stevenmeehan/art/Ambling-Creature-881700616). It started off as a simple [Liquified Line](https://www.deviantart.com/stevenmeehan/gallery/76913429/liquified-lines) but as I worked the origional shape order emerged from the chaos. It didn't take long for the giant, wading through the forest to emerge.<!-- more -->
+As another week draws to a close, I pulled the links for all the artwork I’ve posted at DeviantArt, since the 6th. While most of the past week’s selection made liberal use of the liquify tool, it also contains a pair of that are dear to my heart. The first is [Ambling Creature](https://www.deviantart.com/stevenmeehan/art/Ambling-Creature-881700616). This image began as a collection of lines that I swirled together. It didn’t take long for the original shape to surrender to the unyielding forces of entropy.
 
-The second peice is the first serious study I've done of a hand, [Clenched Fist](https://www.deviantart.com/stevenmeehan/art/Clenched-Fist-881700804). While I'm still a long way from being able to draw realistic images of the characters stomping about my mind, I'm getting better. Sit back and enjoy the artwork below and as always, click on any image below to get a better look at the picture.
+However, as I lifted my stylus, that intermediate picture felt empty.<!-- more --> It needed something else to complete it. Thankfully, I saw what was hiding beneath the scribbles. So, I buckled down and coaxed the hidden order from the chaos. The moment my creature crystalized on the screen. I added the landscape around my monster, allowing my giant’s walk through a forest to emerge.
+
+The second piece is the first serious study I’ve done of a hand, [Clenched Fist](https://www.deviantart.com/stevenmeehan/art/Clenched-Fist-881700804). While I’m still a long way from being able to draw realistic images of the characters stomping about my mind, I am improving, and I hope pieces like this prove it.
+
+Sit back and enjoy the artwork below and as always, click on any image below to get a better look at the picture.
+
+
 
 <div class="center">
 
