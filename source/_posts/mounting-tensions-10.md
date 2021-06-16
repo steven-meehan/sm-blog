@@ -1,15 +1,23 @@
 ---
 title: Inspection
-tags: []
+tags:
+  - Science Fiction
+  - Wattpad
+  - Tergara
+  - Mounting Tensions
 categories:
-  - [Flash Fiction]
+  - - Flash Fiction
 showKofiSuport: true
+date: 2021-06-15 21:25:38
 ---
+
 After Darvin left, Rylan sent a message to his father-in-law to start the production of the vessles. Garvin pushed back on some of the leaner aspects of Rylan's initial designs, and after some back and forth, Garvin arranged for the construction of the three vessles. With the production of the ships started, Rylan begins to aquire all the various bits of gear Darvin insisted that his pilots would need for their flights.<!-- more --> With the ships constructed and the equipment purchsed, will Darvin be satisfied? Or will he insist Rylan and Garvin provide more for the selected pilots?
+
+After Darvin left, Rylan sent a message to his father-in-law to start the production of the vessels. Garvin pushed back on some of the leaner aspects of Rylan’s initial designs, but eventually the two came to an agreement. Promptly after that, Garvin arranged for the construction of the three vessels. With the production of the ships started, Rylan’s focus shifts to acquiring all the various bits of gear Darvin insisted his pilots would need for their flights. With the ships constructed and the equipment purchased, will Darvin be satisfied? Or will he insist Rylan and Garvin provide more for the selected pilots?
 
 <div class="center">
 
-[![Inspection](/images/covers/mounting-tensions.png "Inspection")](https://www.wattpad.com/...)
+[![Inspection](/images/covers/mounting-tensions.png "Inspection")](https://www.wattpad.com/1081015509-mounting-tensions-inspection)
 
 </div>
 
@@ -35,6 +43,6 @@ With a snort, Rylan strode to Darvin and lifted the pad. “Everything you need 
 
 <div>
 
-To continue reading the story, click [here](https://www.wattpad.com/...) to head over to Wattpad.
+To continue reading the story, click [here](https://www.wattpad.com/1081015509-mounting-tensions-inspection) to head over to Wattpad.
 
 </div>
