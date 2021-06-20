@@ -1,10 +1,13 @@
 ---
 title: Silver Clouds Dirty Sky
-tags: [Urban Fantasy]
+tags:
+  - Urban Fantasy
 categories:
-  - [Review]
+  - - Review
 showKofiSuport: true
+date: 2021-06-18 22:39:19
 ---
+
 While I love reading, being an adult is a giant time sink. Everyday something new sneaks up on me, demanding my attention. As a result, whenever I look up, vast swaths of free time have been gobbled up, and I’m rarely able to curl up somewhere with my kindle and read. To combat this disheartening reality, I turn to the wonderful world of audio books. And the best place to get that variant is [Audible](https://www.audible.com). I’ve been a member of that service for a long time now, and it’s allowed me to read while doing things like mowing the lawn or dealing with any commute. So, I’m always looking to add quality books to my collection. Thankfully, the [Montague & Strong Case Files](https://www.audible.com/series/Montague-Strong-Case-Files-Series-Audiobooks/B07CCMN7ZW) fit the bill.<!-- more -->
 
 So far, each installment has been packed full of interesting characters, it doesn’t matter if they’re the main characters or appearing for a brief cameo. And speaking of the titular characters, the dynamic between Simon and Tristan is priceless. Ever since Peaches the Hellhound became something other than a massive and odd pet, the exchanges between Simon and the creature have been beautiful to behold. When I finished [*Blood is Thicker*](https://www.audible.com/pd/Blood-Is-Thicker-Audiobook/B08629JNZM), the ending stormed into the broad strokes of [*Silver Clouds Dirty Sky*](https://www.amazon.com/Silver-Clouds-Dirty-Sky-Detective/dp/B08BRZL95J), bothered me. The only instance where I’m okay with a dangling storyline is when I’m presented with a clear-cut multi-part novel, i.e., a Part One and Two, or a trilogy.
