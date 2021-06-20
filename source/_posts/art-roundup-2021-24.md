@@ -1,10 +1,13 @@
 ---
-title: Art Roundup, week of June 13th
-tags: [Artwork]
+title: 'Art Roundup, week of June 13th'
+tags:
+  - Artwork
 categories:
-  - [News]
+  - - News
 showKofiSuport: true
+date: 2021-06-20 13:04:23
 ---
+
 When I woke up this morning, I fired up my local copy of my website, browsing through the draft for this page, ensuring each placeholder had been replaced with the correct image. Thankfully, the images were ready to go, and while I love all my work (even the bad ones, they help me grow as an artist) I’m especially proud of three of them, [Forest Sunset 001](https://www.deviantart.com/stevenmeehan/art/Forest-Sunset-001-882454539), [Reaching Out](https://www.deviantart.com/stevenmeehan/art/Reaching-Out-882454864), and [Creeping Plant](https://www.deviantart.com/stevenmeehan/art/Creeping-Plant-882455176).<!-- more -->
 
 Every time I look at [Forest Sunset 001](https://www.deviantart.com/stevenmeehan/art/Forest-Sunset-001-882454539), I get lost in the mingling colors and clouds, dancing atop the horizon. Despite being a self-proclaimed geek, I ***love*** nature. I could sit on a mountaintop and stare into a sunset for years at a time. Thankfully, now whenever I’m longing for a majestic view, I can reach into my digital portfolio and pull up this landscape, instead of chasing about the world searching for one.
