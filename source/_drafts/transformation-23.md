@@ -4,7 +4,7 @@ tags: []
 categories:
   - []
 prompt: ' => , , '
-showKofiSuport: false
+showKofiSuport: true
 ---
 Blurb goes here<!-- more -->
 
