@@ -1,11 +1,16 @@
 ---
 title: Creature
-tags: [Fantasy, Ghost Story, Tattoos]
+tags:
+  - Fantasy
+  - Ghost Story
+  - Tattoos
 categories:
-  - [Micro Fiction]
+  - - Micro Fiction
 prompt: 'NYC Midnight => Horror, Drinking alcohol, perfect'
 showKofiSuport: true
+date: 2021-06-28 21:09:09
 ---
+
 When I sat down to flesh out this piece of Micro Fiction, my mind rushed to a camp out back when I was a young boy scout. While most of the details from that expedition are fuzzy, the bit I vividly remember is how one of the older scouts gave me a lesson in how the imagination worked. Our campsite was running along a creek, and he pulled out a night vision scope and encouraged all the younger scouts to examine a patch of shadows. As we all took turns exploring the area, he pointed out the motion.<!-- more -->
 
 I remembered taking my turn behind the scope to study the area. Despite a serious search, I found nothing at first. It didn’t take long, but I eventually saw motion. As scout after scout recognized the movement, this older scout proclaimed that the thing twitching was a crocodile or an alligator. It doesn’t matter which animal was supposedly on the other side of the water. As a young man, well as a young teen, I was terrified that we were so close to a predator. So I kept studying it, trying to figure out why it hadn’t stormed our campsite.
@@ -17,7 +22,7 @@ With that memory firmly in place, it made perfect sense to pair it with Lucas an
 
 <div class="center">
 
-[![Creature](/images/ko-fi/2021/creature.png "Creature")](https://ko-fi.com/...)
+[![Creature](/images/ko-fi/2021/creature.png "Creature")](https://ko-fi.com/post/Creature-B0B054J1T)
 
 </div>
 
@@ -43,6 +48,6 @@ As the ghost’s body began slipping into its portrait, Ricky pointed toward the
 
 <div class="center"d>
 
-To continue reading click [here](https://ko-fi.com/...) and buy me a Croissant &#129360;.
+To continue reading click [here](https://ko-fi.com/post/Creature-B0B054J1T) and buy me a Croissant &#129360;.
 
 </div>
