@@ -7,7 +7,7 @@ showKofiSuport: true
 ---
 What art im up to<!-- more -->
 
-Sit back and enjoy the artwork below and as always, click on any image below to get a better look at the picture.
+Hunker down in your chair and enjoy the artwork below. As always, if you want a better look click a picture to head over to my DeviantArt [gallery](https://www.deviantart.com/stevenmeehan/gallery/all) and consider buying a print.
 
 <div class="center">
 
