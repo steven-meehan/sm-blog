@@ -11,42 +11,42 @@ Hunker down in your chair and enjoy the artwork below. As always, if you want a 
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Perched Bird](IMAGE-LINK "Perched Bird")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Red Stemmed Blades](IMAGE-LINK "Red Stemmed Blades")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Liquified Fibers 0309](IMAGE-LINK "Liquified Fibers 0309")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Twisted Fibers 05](IMAGE-LINK "Twisted Fibers 05")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Snaking Water](IMAGE-LINK "Snaking Water")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Spectors](IMAGE-LINK "Spectors")](PAGE-URL)
 
 </div>
 
 <div class="center">
 
-[![TITLE](IMAGE-LINK "TITLE")](PAGE-URL)
+[![Liquified Clouds 0709](IMAGE-LINK "Liquified Clouds 0709")](PAGE-URL)
 
 </div>
