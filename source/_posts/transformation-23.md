@@ -1,10 +1,16 @@
 ---
 title: New Policies
-tags: [Science Fiction, Wattpad, Transformation, Aurora]
+tags:
+  - Science Fiction
+  - Wattpad
+  - Transformation
+  - Aurora
 categories:
-  - [Flash Fiction]
+  - - Flash Fiction
 showKofiSuport: true
+date: 2021-06-29 21:59:10
 ---
+
 After the tribunal removed Olyver, Quinn instructed his spies to continue monitoring anything that might harm the fledgling Federation. While most of Quinn’s men kept their focus on the leaders of the Federation, Quinn reserved his most skilled operatives for another task. Olyver’s antics proved that a force was acting against the best interest of the Federation. So Quinn tasked his elite agents to uncover the truth behind the rogue triumvirs. A few days later, Dorian, Quinn’s top agent, walked into Quinn’s office with an update on the recent corruption.<!-- more -->Will Dorian’s report reveal the true mastermind behind Olyver’s foolishness? Or is it Quinn’s first step to seizing complete control?
 
 <div class="center">
