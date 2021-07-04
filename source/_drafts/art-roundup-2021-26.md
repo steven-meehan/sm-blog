@@ -29,24 +29,24 @@ Hunker down in your chair and enjoy the artwork below. As always, if you want a 
 
 <div class="center">
 
-[![Twisted Fibers 04](IMAGE-LINK "Twisted Fibers 04")](PAGE-URL)
+[![Twisted Fibers 04](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f99a6bf8-c5b7-48b6-ad1d-bbd9283918e7/dem9q2s-07c2a65f-bf16-4d20-9c58-d0e48ae67e40.png/v1/fill/w_1024,h_726,q_80,strp/twisted_fibers_04_by_stevenmeehan_dem9q2s-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzI2IiwicGF0aCI6IlwvZlwvZjk5YTZiZjgtYzViNy00OGI2LWFkMWQtYmJkOTI4MzkxOGU3XC9kZW05cTJzLTA3YzJhNjVmLWJmMTYtNGQyMC05YzU4LWQwZTQ4YWU2N2U0MC5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.7TyVzb3HVuyeJMf9MipPFZ2S9RlqkWh9dPtWF4xisp4 "Twisted Fibers 04")](https://www.deviantart.com/stevenmeehan/art/Twisted-Fibers-04-883931716)
 
 </div>
 
 <div class="center">
 
-[![Cradling Fireball](IMAGE-LINK "Cradling Fireball")](PAGE-URL)
+[![Cradling Fireball](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f99a6bf8-c5b7-48b6-ad1d-bbd9283918e7/dem9q9p-c844b67d-db62-4cb8-be70-1756551a1a5c.png/v1/fill/w_1024,h_1446,q_80,strp/cradling_fireball_by_stevenmeehan_dem9q9p-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ0NiIsInBhdGgiOiJcL2ZcL2Y5OWE2YmY4LWM1YjctNDhiNi1hZDFkLWJiZDkyODM5MThlN1wvZGVtOXE5cC1jODQ0YjY3ZC1kYjYyLTRjYjgtYmU3MC0xNzU2NTUxYTFhNWMucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.lYg6NasY7mSCKdM3qT_J7Kj8IJefctK6VhN3urMbPD0 "Cradling Fireball")](https://www.deviantart.com/stevenmeehan/art/Cradling-Fireball-883931965)
 
 </div>
 
 <div class="center">
 
-[![Outreached Plant](IMAGE-LINK "Outreached Plant")](PAGE-URL)
+[![Outreached Plant](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f99a6bf8-c5b7-48b6-ad1d-bbd9283918e7/dem9qfl-e08cd5fe-efc2-4b80-9deb-c21fb169e42a.png/v1/fill/w_1024,h_1446,q_80,strp/outreached_plant_by_stevenmeehan_dem9qfl-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ0NiIsInBhdGgiOiJcL2ZcL2Y5OWE2YmY4LWM1YjctNDhiNi1hZDFkLWJiZDkyODM5MThlN1wvZGVtOXFmbC1lMDhjZDVmZS1lZmMyLTRiODAtOWRlYi1jMjFmYjE2OWU0MmEucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.6TAWTc0tIA-bdL8-OM5FhLPJdVonavYsToNx-Fj5OCM "Outreached Plant")](https://www.deviantart.com/stevenmeehan/art/Outreached-Plant-883932177)
 
 </div>
 
 <div class="center">
 
-[![Liquified Fibers 0209](IMAGE-LINK "Liquified Fibers 0209")](PAGE-URL)
+[![Liquified Fibers 0209](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f99a6bf8-c5b7-48b6-ad1d-bbd9283918e7/dem9qlq-a3f3f050-d590-4c10-8272-3c228ae8b346.png/v1/fill/w_1024,h_726,q_80,strp/liquified_fibers_0209_by_stevenmeehan_dem9qlq-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzI2IiwicGF0aCI6IlwvZlwvZjk5YTZiZjgtYzViNy00OGI2LWFkMWQtYmJkOTI4MzkxOGU3XC9kZW05cWxxLWEzZjNmMDUwLWQ1OTAtNGMxMC04MjcyLTNjMjI4YWU4YjM0Ni5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.RqUQhO_HXRibtRj4z4l2S6RLHbXkWYDLkGZdoE5hp5s "Liquified Fibers 0209")](https://www.deviantart.com/stevenmeehan/art/Liquified-Fibers-0209-883932398)
 
 </div>
