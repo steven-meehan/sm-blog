@@ -1,13 +1,16 @@
 ---
-title: Art Roundup, week of June 27th
-tags: [Artwork]
+title: 'Art Roundup, week of June 27th'
+tags:
+  - Artwork
 categories:
-  - [News]
+  - - News
 showKofiSuport: true
+date: 2021-07-04 02:05:28
 ---
+
 As a software developer, I’m constantly turning to the internet in search of answers. In fact, my ability to delve into the depths of those rough seas is integral to my success in crafting sound code. But with all the time honing my Google-fu, I’m able to flex those muscles for my other interests. And a while back I stumbled onto a YouTube video that introduced me to a Photoshop tutorial that produces some rather pleasing visual effects. While I’ve shared three of my Twisted Fibers pieces already, today I’m announcing my fourth.<!-- more -->
 
-Besides Twisted Fibers 04, my weekly collection contains a couple of character studies. No, that’s not entirely accurate, neither were full characters, rather they were specific pieces of anatomy. Opening Vortex and Cradling Fireball have helped push my skills with various parts of my character work. And while I’m happy with these little snapshots, whenever I try bringing them all together, nothing seems quite right. Fortunately, with enough practice I’m closer to bringing my initial character line art to my Patrons and my DeviantArt Watchers.
+Besides Twisted Fibers 04, my weekly collection contains a couple of character studies. No, that’s not entirely accurate, neither were full characters, rather they were specific pieces of anatomy. [Opening Vortex](https://www.deviantart.com/stevenmeehan/art/Opening-Vortex-883931395) and [Cradling Fireball](https://www.deviantart.com/stevenmeehan/art/Cradling-Fireball-883931965) have helped push my skills with various parts of my character work. And while I’m happy with these little snapshots, whenever I try bringing them all together, nothing seems quite right. Fortunately, with enough practice I’m closer to bringing my initial character line art to my Patrons and my DeviantArt Watchers.
 
 Hunker down in your chair and enjoy the artwork below. As always, if you want a better look click a picture to head over to my DeviantArt [gallery](https://www.deviantart.com/stevenmeehan/gallery/all) and consider buying a print.
 
