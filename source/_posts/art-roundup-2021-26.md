@@ -16,6 +16,12 @@ Hunker down in your chair and enjoy the artwork below. As always, if you want a 
 
 <div class="center">
 
+[![Happy Fourth of July](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f99a6bf8-c5b7-48b6-ad1d-bbd9283918e7/demoe4q-49776e14-1517-44b9-9d8b-27d75e56ab63.png/v1/fill/w_1024,h_1446,q_80,strp/fourth_of_july_by_stevenmeehan_demoe4q-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ0NiIsInBhdGgiOiJcL2ZcL2Y5OWE2YmY4LWM1YjctNDhiNi1hZDFkLWJiZDkyODM5MThlN1wvZGVtb2U0cS00OTc3NmUxNC0xNTE3LTQ0YjktOWQ4Yi0yN2Q3NWU1NmFiNjMucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.CNefQ2Zi0Ywovuzgvi14E-bMdRonolksHtmMRNAr7Ao "Happy Fourth of July")](https://www.deviantart.com/stevenmeehan/art/Fourth-of-July-884616074)
+
+</div>
+
+<div class="center">
+
 [![Liquified Fibers 0308](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f99a6bf8-c5b7-48b6-ad1d-bbd9283918e7/dem9pkk-90d8ac2d-de51-4701-92eb-0a50245b4c66.png/v1/fill/w_1024,h_726,q_80,strp/liquified_fibers_0308_by_stevenmeehan_dem9pkk-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzI2IiwicGF0aCI6IlwvZlwvZjk5YTZiZjgtYzViNy00OGI2LWFkMWQtYmJkOTI4MzkxOGU3XC9kZW05cGtrLTkwZDhhYzJkLWRlNTEtNDcwMS05MmViLTBhNTAyNDViNGM2Ni5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.-YSLB12JV-kKsdaR1Kns4i2TA4vPxuyIIOmcjom1iEs "Liquified Fibers 0308")](https://www.deviantart.com/stevenmeehan/art/Liquified-Fibers-0308-883931060)
 
 </div>
