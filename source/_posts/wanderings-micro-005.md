@@ -1,11 +1,16 @@
 ---
 title: Reputation
-tags: [Fantasy, Political Satire, Wanderings]
+tags:
+  - Fantasy
+  - Political Satire
+  - Wanderings
 categories:
-  - [Micro Fiction]
+  - - Micro Fiction
 prompt: 'NYC Midnight/Me => Fantasy/Political Satire, Waving goodbye, fixed'
 showKofiSuport: true
+date: 2021-07-05 18:56:18
 ---
+
 How often do you think about your reputation? I’d be willing to bet that it’s not something you think about daily. However, as an author, I’m constantly thinking about my characters’ reputations. Thankfully, my main characters are well rounded, and possess explicit ones. However, when it comes to my villains and supporting characters, it’s a little more difficult to create a well-defined reputation.<!-- more -->
 
 As I’ve continued to hone my skills, I have constantly had to think about showing instead of telling. Which means I needed to be careful about how I revealed the reputations of Emilie and those cursed with their abilities. If I leaned on a character bursting into a scene, ranting and raving about the evils committed by Emilie, I’d have a terrible piece of Micro Fiction. [Relentless](/archives/2021/06/21/wanderings-micro-004/) provided a sneak peek to Emilie’s reputation with her military. While an important part of her reputation, I needed to highlight how commoners feel about Emilie. 
