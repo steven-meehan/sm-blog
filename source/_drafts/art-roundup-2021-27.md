@@ -1,15 +1,15 @@
 ---
 title: Art Roundup, week of July 4th
-tags: []
+tags: [Artwork]
 categories:
   - [News]
 showKofiSuport: true
 ---
-Sometimes you don't notice when you fall into a rut. Ruts aren't exactly a bad thing, but they can get monotonous, either for you or for the people who follow you. When I started liquifying lines, my goal was to craft interesting shapes with those initial scratches of my stylus. Unfortunately, that was the rut I stumbled into, and it took me a while to realize it. Thankfully, once I accepted the reality of my situation, I started searching for complete images hidden in the lines.<!-- more -->
-
-Last week, I had two pieces that showcase that search. The first is Perched Bird, and the other is Spectators. When I look at the purple flyer, I see a strange mix of terrestrial avian creatures. The birds I blended together were a predatory bird, like a small hawk, and a Peacock with its plumage pulled tight over its head. Of course, the branch that my creation is clutching is a purple twig sprouting from the tree.
-
-Of course, Spectators is the second major example of my endeavor to find the bigger picture. The collections of shades in the picture has one mostly complete being circled by the rest of the formless ghosts. This crew is meeting in the depths of the woods, conferring about their latest jaunt into the world of the living.
+Sometimes you don’t notice when you fall into a rut. While ruts aren’t exactly a bad, they’re not great. The biggest drawback is they rapidly become monotonous, either for you or for the people who follow you. When I started liquifying lines, my goal was to craft interesting shapes with those initial scratches of my stylus. Unfortunately, instead of pushing past my comfort level I grew complacent, and it took me a while to realize it. Thankfully, once I accepted the reality of my situation, I started searching for complete images hidden in the lines.<!-- more -->
+ 
+Last week, I had two pieces that showcase that search. The first piece to highlight my search is [Perched Bird](https://www.deviantart.com/stevenmeehan/art/Perched-Bird-884607569). After liquifying my original shapes, I studied the collection of blobs and started coaxing a bird out of the rough lines. When I finished crafting my purple flyer, I discovered a strange mix of birds. The image possessed hints of a pair of avian blended together. My flyer’s head and beak remind me of a predatory bird, like a [small hawk](https://www.hawkmountain.org/raptors/sharp-shinned-hawk), while the tail reminds me of a Peacock with its plumage pulled tightly over its head. And yes, my creation is clutching a purple branch sprouting from the tree.
+ 
+The other work I’m pleased to highlight is [Spectors](https://www.deviantart.com/stevenmeehan/art/Spectors-884608223). Again, after liquifying the base shape, and applying a gradient, I searched for a universal theme that tied the entire piece together. The first thing I noticed was the shade of a tiny creature waiting for his fellow ghost to finish forming. The rest of the silvery creatures were still forming, like a group coming together to confer about an important topic. As I continued adding more details to the image, its backstory crystalized in my mind. A handful of shades meet in the middle of a forest to discuss their latest trip amongst the living.
 
 Hunker down in your chair and enjoy the artwork below. As always, if you want a better look click a picture to head over to my DeviantArt [gallery](https://www.deviantart.com/stevenmeehan/gallery/all) and consider buying a print.
 
