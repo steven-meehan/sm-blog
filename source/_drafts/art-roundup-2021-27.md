@@ -5,7 +5,11 @@ categories:
   - [News]
 showKofiSuport: true
 ---
-What art im up to<!-- more -->
+Sometimes you don't notice when you fall into a rut. Ruts aren't exactly a bad thing, but they can get monotonous, either for you or for the people who follow you. When I started liquifying lines, my goal was to craft interesting shapes with those initial scratches of my stylus. Unfortunately, that was the rut I stumbled into, and it took me a while to realize it. Thankfully, once I accepted the reality of my situation, I started searching for complete images hidden in the lines.<!-- more -->
+
+Last week, I had two pieces that showcase that search. The first is Perched Bird, and the other is Spectators. When I look at the purple flyer, I see a strange mix of terrestrial avian creatures. The birds I blended together were a predatory bird, like a small hawk, and a Peacock with its plumage pulled tight over its head. Of course, the branch that my creation is clutching is a purple twig sprouting from the tree.
+
+Of course, Spectators is the second major example of my endeavor to find the bigger picture. The collections of shades in the picture has one mostly complete being circled by the rest of the formless ghosts. This crew is meeting in the depths of the woods, conferring about their latest jaunt into the world of the living.
 
 Hunker down in your chair and enjoy the artwork below. As always, if you want a better look click a picture to head over to my DeviantArt [gallery](https://www.deviantart.com/stevenmeehan/gallery/all) and consider buying a print.
 
