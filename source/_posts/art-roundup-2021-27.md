@@ -1,10 +1,13 @@
 ---
-title: Art Roundup, week of July 4th
-tags: [Artwork]
+title: 'Art Roundup, week of July 4th'
+tags:
+  - Artwork
 categories:
-  - [News]
+  - - News
 showKofiSuport: true
+date: 2021-07-11 20:10:10
 ---
+
 Sometimes you don’t notice when you fall into a rut. While ruts aren’t exactly a bad, they’re not great. The biggest drawback is they rapidly become monotonous, either for you or for the people who follow you. When I started liquifying lines, my goal was to craft interesting shapes with those initial scratches of my stylus. Unfortunately, instead of pushing past my comfort level I grew complacent, and it took me a while to realize it. Thankfully, once I accepted the reality of my situation, I started searching for complete images hidden in the lines.<!-- more -->
  
 Last week, I had two pieces that showcase that search. The first piece to highlight my search is [Perched Bird](https://www.deviantart.com/stevenmeehan/art/Perched-Bird-884607569). After liquifying my original shapes, I studied the collection of blobs and started coaxing a bird out of the rough lines. When I finished crafting my purple flyer, I discovered a strange mix of birds. The image possessed hints of a pair of avian blended together. My flyer’s head and beak remind me of a predatory bird, like a [small hawk](https://www.hawkmountain.org/raptors/sharp-shinned-hawk), while the tail reminds me of a Peacock with its plumage pulled tightly over its head. And yes, my creation is clutching a purple branch sprouting from the tree.
