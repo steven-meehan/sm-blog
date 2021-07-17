@@ -5,7 +5,11 @@ categories:
   - [News]
 showKofiSuport: true
 ---
-What art im up to<!-- more -->
+As this year of drawing continues, I'm constantly seeing my skill develop and increase. Things that I couldn't have done a few months ago are becoming commonplace in my sketches and finished pieces of art. However, I refuse to sit on my laurels and pat myself on the back. That is a surefire way for my skills to plateau. So, I'm constantly examining my finished pieces for all the flaws, both fundamental and perceived, in an effort to achieve my goals.<!-- more -->
+
+Of the pieces that I posted over at DeviantArt, last week, two of them stand out. The first is Traveler. This image is another example of my liquified line art. I don't remember the original shapes that I twirled and blurred, but I do remember duplicating the shape a few times to arrange the character's head. As I positioned the individual pieces, I pulled upon multiple sources to capture my fisherman's headshot.
+
+The other image I'd like to highlight is Tattered Flag, another creation derived from liquifying some broad strokes of my stylus. Once I stretched out the gear shape, I ended up with an even stranger bit on my digital canvas. After applying the color gradient, I etched and shaped the thing until it took on the appearance of a tattered flag. Then I dropped it into a body of water with some air bubbles rushing to the surface to complete the image.
 
 Hunker down in your chair and enjoy the artwork below. As always, if you want a better look click a picture to head over to my DeviantArt [gallery](https://www.deviantart.com/stevenmeehan/gallery/all) and consider buying a print.
 
