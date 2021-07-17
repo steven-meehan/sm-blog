@@ -1,11 +1,15 @@
 ---
 title: Crush
-tags: [Fantasy, The Academy]
+tags:
+  - Fantasy
+  - The Academy
 categories:
-  - [Micro Fiction]
+  - - Micro Fiction
 prompt: 'NYC Midnight => Romantic Comedy, Watering a plant, dedicated'
 showKofiSuport: true
+date: 2021-07-12 18:03:39
 ---
+
 The last I explored the people in the Academy’s past, my attention lingered on a duel between a pair of students. When I finished penning that tale, I didn’t plan on returning to these particular characters. However, as I sat down to plan my Micro Fiction for July, I used Google to generate some random genres, and one of them was a Romantic Comedy. As I looked through my writing journals to match up a storyline to the selected prompts, I stumbled upon [Dueling Students](/archives/2020/06/17/academy-micro-001/).<!-- more -->
 
 After re-reading a story planned as a one-off, I realized it was a perfect starting point for a greater supply of characters to explore. Instantly, my mind churned to work the loser of the previous duel into this Romantic Comedy. As I wondered how to work Aiden into this narrative, my mind crafted what I feel is the prototypical popular girl. After multiple iterations, I ended up with a storyline that emphasized both romantic and comedic traits.

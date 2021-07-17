@@ -1,11 +1,13 @@
 ---
 title: Seeking Justice
-tags: []
+tags: [Mystery, Insight Investigations, NYC Midnight]
 categories:
-  - []
+  - [Flash Fiction]
 prompt: 'NYC Midnight => Mystery, A Motorcade, A Map'
 showKofiSuport: true
+date: 2021-07-16 21:59:29
 ---
+
 As the limousine drew to a stop, Kyle stepped in front of the vehicle, slapping the hood with a file folder. 
 
 The driver’s window lowered, and he popped his head through the opening. “Are you aware of who I’m driving?”
