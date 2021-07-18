@@ -1,10 +1,14 @@
 ---
 title: Understanding
-tags: [Patreon, Ghost Story]
+tags:
+  - Patreon
+  - Ghost Story
 categories:
-  - [Flash Fiction]
+  - - Flash Fiction
 showKofiSuport: false
+date: 2021-07-17 22:35:17
 ---
+
 My creative portion of my mind works wonders at providing me an escape from reality. Unfortunately, some days that escape is easier than others, and ever June 30th ticked away, my escapes haven’t been as effective. While I’m eventually able to fall into my creative headspace, once I’m there I’m too exhausted for some of my more typical sessions. As a result, the vast majority of my writing has been placed aside for the month, specifically all five of my Wattpad [publications](https://www.wattpad.com/user/StevenMeehan). Hopefully, when August rolls around, I’ll be past this funk and able to resume detailing all those storylines.<!-- more -->
  
 But in the meantime, I’m dedicated to bringing my Patrons, their exclusive Flash Fiction content for the month. And the first genre I tackled was a Ghost Story. Halfway through my original draft, I stopped and scrutinized where the story started and where it was heading. The sudden realization forced me to pivot and scrapped the existing narrative. When I finished re-writing my initial draft, I wasn’t completely pleased with the overall tale. Thankfully, the point of every first draft is simply to exist. Ultimately, pieces of that initial pass will stick, but it gets the creative juices flowing. As I edited the document, the harsh storyline softened, and I smiled at the completed narrative. 
